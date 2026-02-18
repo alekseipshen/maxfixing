@@ -176,7 +176,7 @@ export function getCustomerConfirmationHTML(name: string): string {
                       Need immediate assistance?
                     </p>
                     <p style="margin: 0; font-size: 20px; color: #1e293b; font-weight: bold;">
-                      📞 <a href="tel:+18887713235" style="color: #1e40af; text-decoration: none;">(888) 771-3235</a>
+                      📞 <a href="tel:+18886086404" style="color: #1e40af; text-decoration: none;">(888) 608-6404</a>
                     </p>
                   </td>
                 </tr>
@@ -242,7 +242,7 @@ What happens next?
 - Our certified technician will arrive on time and fix it right!
 
 Need immediate assistance?
-Call us: (888) 771-3235
+Call us: (888) 608-6404
 
 Best regards,
 Max Fixing Team

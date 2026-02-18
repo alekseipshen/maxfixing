@@ -43,7 +43,7 @@ function renderContent({ city, appliance, brand, county }: any) {
           <p className="text-base md:text-lg leading-relaxed">
             Our {city}-area technicians have seen it all when it comes to {brand} {appliance.toLowerCase()} repairs.
             Whether it's a minor issue or a major breakdown, we have the expertise to get your appliance working again.
-            Call us today at <strong>(888) 771-3235</strong> for fast, professional {brand} appliance repair in {city} and nearby cities.
+            Call us today at <strong>(888) 608-6404</strong> for fast, professional {brand} appliance repair in {city} and nearby cities.
           </p>
         </div>
       </div>
@@ -70,7 +70,7 @@ function renderContent({ city, appliance, brand, county }: any) {
 
           <p className="text-base md:text-lg leading-relaxed">
             Our {city}-area team works on all major appliance brands - LG, Samsung, Whirlpool, GE, Maytag, Bosch, KitchenAid, and more.
-            Call <strong>(888) 771-3235</strong> for immediate assistance!
+            Call <strong>(888) 608-6404</strong> for immediate assistance!
           </p>
         </div>
       </div>
@@ -96,7 +96,7 @@ function renderContent({ city, appliance, brand, county }: any) {
           </p>
 
           <p className="text-base md:text-lg leading-relaxed">
-            Contact us today for expert {brand} appliance repair in {city} and surrounding cities. Call <strong>(888) 771-3235</strong> for same-day service!
+            Contact us today for expert {brand} appliance repair in {city} and surrounding cities. Call <strong>(888) 608-6404</strong> for same-day service!
           </p>
         </div>
       </div>
@@ -122,7 +122,7 @@ function renderContent({ city, appliance, brand, county }: any) {
           </p>
 
           <p className="text-base md:text-lg leading-relaxed">
-            Call <strong>(888) 771-3235</strong> today to schedule your {brand} {appliance.toLowerCase()} repair!
+            Call <strong>(888) 608-6404</strong> today to schedule your {brand} {appliance.toLowerCase()} repair!
           </p>
         </div>
       </div>
@@ -148,7 +148,7 @@ function renderContent({ city, appliance, brand, county }: any) {
           </p>
 
           <p className="text-base md:text-lg leading-relaxed">
-            Don't let a broken appliance disrupt your life. Call <strong>(888) 771-3235</strong> now for expert appliance
+            Don't let a broken appliance disrupt your life. Call <strong>(888) 608-6404</strong> now for expert appliance
             repair in {city} and surrounding areas!
           </p>
         </div>
@@ -175,7 +175,7 @@ function renderContent({ city, appliance, brand, county }: any) {
           </p>
 
           <p className="text-base md:text-lg leading-relaxed">
-            Trust the {brand} repair specialists. Call <strong>(888) 771-3235</strong> today for expert service!
+            Trust the {brand} repair specialists. Call <strong>(888) 608-6404</strong> today for expert service!
           </p>
         </div>
       </div>
@@ -200,7 +200,7 @@ function renderContent({ city, appliance, brand, county }: any) {
           </p>
 
           <p className="text-base md:text-lg leading-relaxed">
-            Need {appliance.toLowerCase()} repair? Call <strong>(888) 771-3235</strong> for same-day service!
+            Need {appliance.toLowerCase()} repair? Call <strong>(888) 608-6404</strong> for same-day service!
           </p>
         </div>
       </div>

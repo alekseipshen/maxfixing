@@ -7,8 +7,8 @@ interface SchemaParams {
 
 const SITE_URL = 'https://maxfixing.com';
 const BUSINESS_NAME = 'Max Fixing';
-const PHONE = '+18887713235';
-const PHONE_DISPLAY = '(888) 771-3235';
+const PHONE = '+18886086404';
+const PHONE_DISPLAY = '(888) 608-6404';
 const GOOGLE_RATING = 4.8;
 const REVIEW_COUNT = 3400;
 

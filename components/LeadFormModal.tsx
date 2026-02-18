@@ -601,7 +601,7 @@ export default function LeadFormModal({ isOpen, onClose }: LeadFormModalProps) {
           {/* Error State */}
           {submitStatus === 'error' && (
             <div className="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded mt-4">
-              Something went wrong. Please try again or call us directly at (888) 771-3235.
+              Something went wrong. Please try again or call us directly at (888) 608-6404.
             </div>
           )}
         </form>

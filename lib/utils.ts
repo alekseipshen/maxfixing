@@ -16,8 +16,8 @@ export function slugToTitle(slug: string): string {
     .join(' ');
 }
 
-export const PHONE_NUMBER = '+18887713235';
-export const PHONE_DISPLAY = '(888) 771-3235';
+export const PHONE_NUMBER = '+18886086404';
+export const PHONE_DISPLAY = '(888) 608-6404';
 export const BUSINESS_EMAIL = 'info@maxfixing.com';
 export const BUSINESS_NAME = 'Max Fixing';
 export const BUSINESS_ADDRESS = '';

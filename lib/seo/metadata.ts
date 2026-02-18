@@ -9,7 +9,7 @@ interface SEOParams {
 
 const SITE_NAME = 'Max Fixing';
 const SITE_URL = 'https://maxfixing.com';
-const PHONE = '(888) 771-3235';
+const PHONE = '(888) 608-6404';
 
 export function generatePageMetadata(params: SEOParams): Metadata {
   const { city, appliance, brand, county } = params;

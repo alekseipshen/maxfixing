@@ -38,12 +38,12 @@ export default function ServiceAreasPage() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <a
-                href="tel:+18887713235"
+                href="tel:+18886086404"
                 className="inline-flex items-center gap-2 px-8 py-4 rounded-lg font-semibold text-lg shadow-xl transition cursor-pointer"
                 style={{ backgroundColor: '#334e64' }}
               >
                 <Phone className="w-6 h-6" />
-                (888) 771-3235
+                (888) 608-6404
               </a>
             </div>
           </div>
@@ -156,12 +156,12 @@ export default function ServiceAreasPage() {
               We serve all areas within Los Angeles and Orange County regions. Call us to confirm service availability in your area.
             </p>
             <a
-              href="tel:+18887713235"
+              href="tel:+18886086404"
               className="inline-flex items-center gap-2 px-8 py-4 rounded-lg font-semibold text-lg shadow-xl transition cursor-pointer"
               style={{ backgroundColor: '#33ac38' }}
             >
               <Phone className="w-6 h-6" />
-              Call (888) 771-3235
+              Call (888) 608-6404
             </a>
           </div>
         </div>
