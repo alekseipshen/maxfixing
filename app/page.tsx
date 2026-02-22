@@ -15,6 +15,7 @@ export default function HomePage() {
       <Hero
         title="Same-Day Appliance Repair in Texas"
         subtitle="Professional repair services for all major appliance brands"
+        applianceImage={getBestImageForType('refrigerator')?.src}
       />
 
       {/* Review Photos Slider */}
@@ -126,7 +127,7 @@ export default function HomePage() {
                   className="bg-white rounded-lg shadow-md hover:shadow-xl transition overflow-hidden group"
                 >
                   {cardImage && (
-                    <div className="w-full h-48 overflow-hidden bg-gray-100">
+                    <div className="w-full aspect-[4/3] overflow-hidden bg-gray-100">
                       <img
                         src={cardImage}
                         alt={appliance.title}

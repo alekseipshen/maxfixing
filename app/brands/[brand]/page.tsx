@@ -104,7 +104,7 @@ export default async function BrandRepairPage({ params }: PageProps) {
                   className="bg-gray-50 rounded-lg hover:shadow-lg transition text-center border border-gray-200 overflow-hidden group"
                 >
                   {brandImage && (
-                    <div className="w-full h-36 overflow-hidden bg-gray-100">
+                    <div className="w-full aspect-[4/3] overflow-hidden bg-gray-100">
                       <img
                         src={brandImage.src}
                         alt={`${brand.name} ${appliance.name}`}
