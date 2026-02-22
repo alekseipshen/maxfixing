@@ -9,7 +9,7 @@ import SEOContent from '@/components/SEOContent';
 import { brands } from '@/lib/data/brands';
 import { appliances } from '@/lib/data/appliances';
 import { getAppliancesForBrand } from '@/lib/data/serviceBrands';
-import { getBestImageForBrand } from '@/lib/data/applianceImages';
+import { getBestImageForBrand, getApplianceImage } from '@/lib/data/applianceImages';
 import { generatePageMetadata } from '@/lib/seo/metadata';
 import { generateLocalBusinessSchema, generateServiceSchema, generateBreadcrumbSchema } from '@/lib/seo/schema';
 
@@ -77,7 +77,7 @@ export default async function BrandRepairPage({ params }: PageProps) {
       />
       
       <Hero
-        title={`Expert ${brand.name} Appliance Repair in Los Angeles & Orange County`}
+        title={`Expert ${brand.name} Appliance Repair in Texas`}
         subtitle="Factory-trained technicians • Genuine parts • Same-day service"
         brand={brand.name}
         brandLogo={brand.logo}
@@ -94,19 +94,33 @@ export default async function BrandRepairPage({ params }: PageProps) {
             {brand.name} Appliances We Service
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 max-w-6xl mx-auto">
-            {relevantAppliances.map((appliance) => (
-              <Link
-                key={appliance.slug}
-                href={`/brands/${brandSlug}/services/${appliance.slug}-repair`}
-                prefetch={false}
-                className="bg-gray-50 p-6 rounded-lg hover:shadow-lg transition text-center border border-gray-200"
-              >
-                <h3 className="font-semibold text-gray-900 text-lg">{appliance.name}</h3>
-                <p className="text-sm text-gray-600 mt-2">
-                  {brand.name} {appliance.name} Repair
-                </p>
-              </Link>
-            ))}
+            {relevantAppliances.map((appliance) => {
+              const brandImage = getApplianceImage(cleanSlug, appliance.slug);
+              return (
+                <Link
+                  key={appliance.slug}
+                  href={`/brands/${brandSlug}/services/${appliance.slug}-repair`}
+                  prefetch={false}
+                  className="bg-gray-50 rounded-lg hover:shadow-lg transition text-center border border-gray-200 overflow-hidden group"
+                >
+                  {brandImage && (
+                    <div className="w-full h-36 overflow-hidden bg-gray-100">
+                      <img
+                        src={brandImage.src}
+                        alt={`${brand.name} ${appliance.name}`}
+                        className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                      />
+                    </div>
+                  )}
+                  <div className="p-4">
+                    <h3 className="font-semibold text-gray-900 text-lg">{appliance.name}</h3>
+                    <p className="text-sm text-gray-600 mt-1">
+                      {brand.name} {appliance.name} Repair
+                    </p>
+                  </div>
+                </Link>
+              );
+            })}
           </div>
         </div>
       </section>
@@ -136,7 +150,7 @@ export default async function BrandRepairPage({ params }: PageProps) {
                 </div>
               </div>
               <h3 className="text-xl font-bold mb-3 text-gray-900">Same-Day Service</h3>
-              <p className="text-gray-600">Fast appointments throughout Los Angeles & Orange County</p>
+              <p className="text-gray-600">Fast appointments throughout Texas</p>
             </div>
             <div className="bg-white p-6 rounded-lg shadow-md text-center">
               <div className="flex justify-center mb-4">

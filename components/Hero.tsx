@@ -14,37 +14,23 @@ interface HeroProps {
 }
 
 export default function Hero({ title, subtitle = 'Same-day service, certified technicians', brand, brandLogo, applianceImage }: HeroProps) {
-  const backgroundImage = applianceImage || "/hero-appliance.jpg";
-  
   return (
     <section className="relative h-[calc(100vh-5rem)] md:h-auto md:py-20 overflow-hidden" style={{ backgroundColor: '#c5ecf3' }}>
-      {/* Background Image - Mobile only */}
-      <div className="absolute inset-0 z-0 md:hidden">
-        <Image
-          src={backgroundImage}
-          alt="Professional Appliance Repair Service"
-          fill
-          className="object-cover object-center"
-          priority
-          sizes="100vw"
-          quality={85}
-        />
-        {/* Gradient Overlay for text readability */}
-        <div className="absolute inset-0 bg-gradient-to-b from-white/95 via-white/85 to-white/70"></div>
-      </div>
-
-      {/* Background Image - Desktop only (full width background) */}
-      <div className="hidden md:block absolute inset-0 z-0">
-        <Image
-          src={backgroundImage}
-          alt="Professional Appliance Repair Service"
-          fill
-          className="object-cover object-center opacity-20"
-          priority
-          sizes="100vw"
-          quality={90}
-        />
-      </div>
+      {/* Background - Mobile only: product image with overlay */}
+      {applianceImage && (
+        <div className="absolute inset-0 z-0 md:hidden">
+          <Image
+            src={applianceImage}
+            alt="Professional Appliance Repair Service"
+            fill
+            className="object-cover object-center"
+            priority
+            sizes="100vw"
+            quality={85}
+          />
+          <div className="absolute inset-0 bg-gradient-to-b from-white/95 via-white/85 to-white/70"></div>
+        </div>
+      )}
 
       {/* Desktop Layout: Grid 2 columns (Left: content, Right: image) */}
       <div className="container mx-auto px-4 md:px-6 lg:px-8 relative z-10 h-full md:h-auto">
@@ -107,6 +93,23 @@ export default function Hero({ title, subtitle = 'Same-day service, certified te
               <HeroCTAButtons />
             </div>
           </div>
+
+          {/* Right Column - Product Image (Desktop only) */}
+          {applianceImage && (
+            <div className="hidden md:flex items-center justify-center">
+              <div className="relative w-full max-w-md aspect-square">
+                <Image
+                  src={applianceImage}
+                  alt="Professional Appliance Repair Service"
+                  fill
+                  className="object-contain drop-shadow-2xl"
+                  priority
+                  sizes="(min-width: 768px) 50vw, 0px"
+                  quality={90}
+                />
+              </div>
+            </div>
+          )}
 
         </div>
       </div>

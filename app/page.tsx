@@ -3,6 +3,7 @@ import ReviewPhotosSection from '@/components/ReviewPhotosSection';
 import Reviews from '@/components/Reviews';
 import BrandsSection from '@/components/BrandsSection';
 import { appliances, featuredCommercialAppliances } from '@/lib/data/appliances';
+import { getBestImageForType } from '@/lib/data/applianceImages';
 import { cities } from '@/lib/data/cities';
 import { CheckCircle, Clock, Users, Wrench, Building2 } from 'lucide-react';
 import Link from 'next/link';
@@ -12,7 +13,7 @@ export default function HomePage() {
     <>
       {/* Hero Section */}
       <Hero
-        title="Same-Day Appliance Repair in Los Angeles & Orange County"
+        title="Same-Day Appliance Repair in Texas"
         subtitle="Professional repair services for all major appliance brands"
       />
 
@@ -24,7 +25,7 @@ export default function HomePage() {
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Why Choose Max Fixing?
+              Why Choose Max Appliance Repair?
             </h2>
           </div>
 
@@ -37,7 +38,7 @@ export default function HomePage() {
               </div>
               <h3 className="text-xl font-bold mb-3 text-gray-900">20+ Years Experience</h3>
               <p className="text-gray-600">
-                Over two decades repairing Southern California's kitchen and laundry appliances. Factory-trained, certified technicians.
+                Over two decades repairing Texas's kitchen and laundry appliances. Factory-trained, certified technicians.
               </p>
             </div>
             <div className="bg-white p-6 rounded-lg shadow-md text-center">
@@ -82,18 +83,18 @@ export default function HomePage() {
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-6">
-              Same-Day Appliance Repair in Los Angeles & Orange County
+              Same-Day Appliance Repair in Texas
             </h2>
-
+            
             <div className="text-gray-700 space-y-4">
               <p className="text-base md:text-lg leading-relaxed">
-                Your fridge stopped cooling? Washer won't spin? We've got you covered. For over 20 years, Los Angeles and Orange County families
-                have trusted <strong>Max Fixing</strong> for fast, reliable repairs on all major brands - LG, Samsung,
+                Your fridge stopped cooling? Washer won't spin? We've got you covered. For over 20 years, Texas families 
+                have trusted <strong>Max Appliance Repair</strong> for fast, reliable repairs on all major brands - LG, Samsung, 
                 Whirlpool, GE, Maytag, and more.
               </p>
-
+              
               <p className="text-base md:text-lg leading-relaxed">
-                Our factory-trained technicians provide <strong>same-day service</strong> across Los Angeles, Orange County, and surrounding areas.
+                Our factory-trained technicians provide <strong>same-day service</strong> across Houston, Dallas, Austin, and San Antonio areas. 
                 Upfront pricing, solid warranty, and most customers come from referrals. Fully insured and ready to fix it right.
               </p>
             </div>
@@ -114,42 +115,46 @@ export default function HomePage() {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {appliances.map((appliance) => (
-              <Link
-                key={appliance.slug}
-                href={`/services/${appliance.slug}-repair`}
-                prefetch={false}
-                className="bg-white rounded-lg shadow-md hover:shadow-xl transition overflow-hidden group"
-              >
-                {appliance.image && (
-                  <div className="w-full h-48 overflow-hidden">
-                    <img
-                      src={appliance.image}
-                      alt={appliance.title}
-                      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-                    />
+            {appliances.map((appliance) => {
+              const showcaseImage = getBestImageForType(appliance.slug);
+              const cardImage = showcaseImage?.src || appliance.image;
+              return (
+                <Link
+                  key={appliance.slug}
+                  href={`/services/${appliance.slug}-repair`}
+                  prefetch={false}
+                  className="bg-white rounded-lg shadow-md hover:shadow-xl transition overflow-hidden group"
+                >
+                  {cardImage && (
+                    <div className="w-full h-48 overflow-hidden bg-gray-100">
+                      <img
+                        src={cardImage}
+                        alt={appliance.title}
+                        className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                      />
+                    </div>
+                  )}
+                  <div className="p-6">
+                    <h3 className="text-xl font-semibold text-gray-900 mb-2">
+                      {appliance.title}
+                    </h3>
+                    <p className="text-gray-600 mb-4">{appliance.description}</p>
+                    <span className="text-green-600 font-semibold hover:underline">
+                      Learn more →
+                    </span>
                   </div>
-                )}
-                <div className="p-6">
-                  <h3 className="text-xl font-semibold text-gray-900 mb-2">
-                    {appliance.title}
-                  </h3>
-                  <p className="text-gray-600 mb-4">{appliance.description}</p>
-                  <span className="text-green-600 font-semibold hover:underline">
-                    Learn more →
-                  </span>
-                </div>
-              </Link>
-            ))}
+                </Link>
+              );
+            })}
           </div>
         </div>
       </section>
 
       {/* Commercial Appliance Repair */}
-      <section
+      <section 
         className="py-16 text-white"
-        style={{
-          background: 'linear-gradient(to bottom right, #334e64, #2a4054)'
+        style={{ 
+          background: 'linear-gradient(to bottom right, #334e64, #2a4054)' 
         }}
       >
         <div className="container mx-auto px-4">
@@ -163,7 +168,7 @@ export default function HomePage() {
               Commercial Appliance Repair
             </h2>
             <p className="text-xl opacity-90 max-w-3xl mx-auto">
-              Professional repair services for restaurants, hotels, and commercial kitchens across Los Angeles & Orange County
+              Professional repair services for restaurants, hotels, and commercial kitchens across Texas
             </p>
           </div>
 
@@ -210,20 +215,19 @@ export default function HomePage() {
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Service Areas in Los Angeles & Orange County
+              Service Areas in Texas
             </h2>
             <p className="text-xl text-gray-600">
-              We serve 5 regions across Los Angeles and Orange County
+              We serve Houston, Dallas, Austin, and San Antonio metro areas
             </p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-6 max-w-6xl mx-auto">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-6xl mx-auto">
             {[
-              { name: 'San Fernando Valley', slug: 'san-fernando-valley', description: '19 cities including Santa Clarita, Encino, Sherman Oaks' },
-              { name: 'West Los Angeles', slug: 'west-los-angeles', description: '10 cities including Santa Monica, Beverly Hills, Malibu' },
-              { name: 'San Gabriel Valley', slug: 'san-gabriel-valley', description: '18 cities including Pasadena, Glendale, Burbank' },
-              { name: 'South Bay', slug: 'south-bay', description: '14 cities including Torrance, Manhattan Beach, Redondo Beach' },
-              { name: 'Orange County', slug: 'orange-county', description: '26 cities including Anaheim, Irvine, Huntington Beach' }
+              { name: 'Houston', slug: 'houston', description: '46 cities including Katy, Sugar Land, The Woodlands' },
+              { name: 'Dallas-Fort Worth', slug: 'dallas', description: '92 cities including Plano, Frisco, Irving' },
+              { name: 'Austin', slug: 'austin', description: '26 cities including Round Rock, Cedar Park, Georgetown' },
+              { name: 'San Antonio', slug: 'san-antonio', description: '27 cities including Alamo Heights, Helotes' }
             ].map((area) => (
               <Link
                 key={area.slug}
@@ -243,7 +247,7 @@ export default function HomePage() {
               prefetch={false}
               className="inline-block text-green-600 hover:text-green-700 font-semibold text-lg hover:underline"
             >
-              View all {cities.length} cities we serve →
+              View all 227 cities we serve →
             </Link>
           </div>
         </div>
