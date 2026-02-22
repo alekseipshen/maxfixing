@@ -9,6 +9,7 @@ import SEOContent from '@/components/SEOContent';
 import { appliances } from '@/lib/data/appliances';
 import { brands } from '@/lib/data/brands';
 import { getBrandsForAppliance } from '@/lib/data/serviceBrands';
+import { getBestImageForType } from '@/lib/data/applianceImages';
 import { generatePageMetadata } from '@/lib/seo/metadata';
 import { generateLocalBusinessSchema, generateServiceSchema, generateBreadcrumbSchema } from '@/lib/seo/schema';
 
@@ -50,6 +51,10 @@ export default async function ApplianceRepairPage({ params }: PageProps) {
   // Get brands that manufacture this appliance
   const relevantBrandSlugs = getBrandsForAppliance(cleanSlug);
   const relevantBrands = brands.filter(b => relevantBrandSlugs.includes(b.slug));
+
+  // Use best brand-specific showcase image, fallback to generic
+  const showcaseImage = getBestImageForType(cleanSlug);
+  const heroImage = showcaseImage?.src || appliance.image;
   
   const localBusinessSchema = generateLocalBusinessSchema({ appliance: cleanSlug });
   const serviceSchema = generateServiceSchema({ appliance: cleanSlug });
@@ -74,7 +79,7 @@ export default async function ApplianceRepairPage({ params }: PageProps) {
       <Hero 
         title={`Same-Day ${appliance.name} Repair in Los Angeles & Orange County`}
         subtitle="Expert repair service for all major brands • Same-day appointments available"
-        applianceImage={appliance.image}
+        applianceImage={heroImage}
       />
       
       {/* Review Photos Slider */}

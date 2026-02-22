@@ -9,6 +9,7 @@ import SEOContent from '@/components/SEOContent';
 import { brands } from '@/lib/data/brands';
 import { appliances } from '@/lib/data/appliances';
 import { getAppliancesForBrand } from '@/lib/data/serviceBrands';
+import { getBestImageForBrand } from '@/lib/data/applianceImages';
 import { generatePageMetadata } from '@/lib/seo/metadata';
 import { generateLocalBusinessSchema, generateServiceSchema, generateBreadcrumbSchema } from '@/lib/seo/schema';
 
@@ -51,6 +52,9 @@ export default async function BrandRepairPage({ params }: PageProps) {
   // Get appliances that this brand manufactures
   const relevantApplianceSlugs = getAppliancesForBrand(cleanSlug);
   const relevantAppliances = appliances.filter(a => relevantApplianceSlugs.includes(a.slug));
+
+  // Get best brand-specific hero image
+  const brandHeroImage = getBestImageForBrand(cleanSlug);
   
   const localBusinessSchema = generateLocalBusinessSchema({ brand: cleanSlug });
   const serviceSchema = generateServiceSchema({ brand: cleanSlug });
@@ -72,11 +76,12 @@ export default async function BrandRepairPage({ params }: PageProps) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
       
-      <Hero 
+      <Hero
         title={`Expert ${brand.name} Appliance Repair in Los Angeles & Orange County`}
         subtitle="Factory-trained technicians • Genuine parts • Same-day service"
         brand={brand.name}
         brandLogo={brand.logo}
+        applianceImage={brandHeroImage?.src}
       />
       
       {/* Review Photos Slider */}

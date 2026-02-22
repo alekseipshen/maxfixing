@@ -8,6 +8,7 @@ import SEOContent from '@/components/SEOContent';
 import { cities, getCitiesByCounty } from '@/lib/data/cities';
 import { brands } from '@/lib/data/brands';
 import { appliances } from '@/lib/data/appliances';
+import { getApplianceImage } from '@/lib/data/applianceImages';
 import { generatePageMetadata } from '@/lib/seo/metadata';
 import { generateLocalBusinessSchema, generateServiceSchema, generateBreadcrumbSchema } from '@/lib/seo/schema';
 
@@ -51,7 +52,11 @@ export default async function CityBrandApplianceRepairPage({ params }: PageProps
   if (!city || !brand || !appliance) {
     notFound();
   }
-  
+
+  // Use brand-specific image, fallback to generic appliance image
+  const brandApplianceImage = getApplianceImage(cleanBrandSlug, cleanApplianceSlug);
+  const heroImage = brandApplianceImage?.src || appliance.image;
+
   const nearbyCities = getCitiesByCounty(city.county).filter(c => c.slug !== city.slug).slice(0, 6);
   
   const localBusinessSchema = generateLocalBusinessSchema({ 
@@ -90,13 +95,14 @@ export default async function CityBrandApplianceRepairPage({ params }: PageProps
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
       
-      <Hero 
+      <Hero
         title={`Same-Day ${brand.name} ${appliance.name} Repair in ${cityDisplayName}`}
         subtitle="Factory-trained technicians • Genuine parts • Professional service"
         city={city.name}
         brand={brand.name}
         brandLogo={brand.logo}
         appliance={appliance.name}
+        applianceImage={heroImage}
       />
       
       {/* Review Photos Slider */}

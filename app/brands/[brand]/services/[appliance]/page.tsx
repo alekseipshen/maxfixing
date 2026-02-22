@@ -7,6 +7,7 @@ import Reviews from '@/components/Reviews';
 import SEOContent from '@/components/SEOContent';
 import { brands } from '@/lib/data/brands';
 import { appliances } from '@/lib/data/appliances';
+import { getApplianceImage } from '@/lib/data/applianceImages';
 import { generatePageMetadata } from '@/lib/seo/metadata';
 import { generateLocalBusinessSchema, generateServiceSchema, generateBreadcrumbSchema } from '@/lib/seo/schema';
 
@@ -43,7 +44,11 @@ export default async function BrandApplianceRepairPage({ params }: PageProps) {
   if (!brand || !appliance) {
     notFound();
   }
-  
+
+  // Use brand-specific image, fallback to generic appliance image
+  const brandApplianceImage = getApplianceImage(cleanBrandSlug, cleanApplianceSlug);
+  const heroImage = brandApplianceImage?.src || appliance.image;
+
   const localBusinessSchema = generateLocalBusinessSchema({ brand: cleanBrandSlug, appliance: cleanApplianceSlug });
   const serviceSchema = generateServiceSchema({ brand: cleanBrandSlug, appliance: cleanApplianceSlug });
   const breadcrumbSchema = generateBreadcrumbSchema({ brand: cleanBrandSlug, appliance: cleanApplianceSlug });
@@ -70,7 +75,7 @@ export default async function BrandApplianceRepairPage({ params }: PageProps) {
         appliance={appliance.name}
         brand={brand.name}
         brandLogo={brand.logo}
-        applianceImage={appliance.image}
+        applianceImage={heroImage}
       />
 
       {/* Review Photos Slider */}
