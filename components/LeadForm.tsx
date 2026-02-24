@@ -253,7 +253,7 @@ export default function LeadForm() {
                   type="text"
                   id="city"
                   className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-                  placeholder="Newark"
+                  placeholder="Los Angeles"
                 />
                 {errors.city && (
                   <p className="text-red-600 text-sm mt-1">{errors.city.message}</p>
@@ -275,7 +275,7 @@ export default function LeadForm() {
                       {...field}
                       format="#####"
                       mask="_"
-                      placeholder="77001"
+                      placeholder="90001"
                       className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
                     />
                   )}

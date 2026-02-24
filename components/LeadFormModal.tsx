@@ -400,7 +400,7 @@ export default function LeadFormModal({ isOpen, onClose }: LeadFormModalProps) {
                     type="text"
                     id="city"
                     className="w-full px-3 py-1.5 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent text-gray-900 bg-white"
-                    placeholder="Newark"
+                    placeholder="Los Angeles"
                   />
                   {errors.city && (
                     <p className="text-red-600 text-xs mt-1">{errors.city.message}</p>
@@ -422,7 +422,7 @@ export default function LeadFormModal({ isOpen, onClose }: LeadFormModalProps) {
                         {...field}
                         format="#####"
                         mask="_"
-                        placeholder="77001"
+                        placeholder="90001"
                         className="w-full px-3 py-1.5 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent text-gray-900 bg-white"
                       />
                     )}
@@ -575,7 +575,7 @@ export default function LeadFormModal({ isOpen, onClose }: LeadFormModalProps) {
                   </p>
                   <p>
                     <span className="font-semibold">Location:</span> {watchedData.street}
-                    {watchedData.apartment && `, ${watchedData.apartment}`}, {watchedData.city}, TX{' '}
+                    {watchedData.apartment && `, ${watchedData.apartment}`}, {watchedData.city}, {watchedData.state}{' '}
                     {watchedData.zipCode}
                   </p>
                   <p>
