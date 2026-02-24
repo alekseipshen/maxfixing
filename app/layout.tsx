@@ -27,7 +27,7 @@ export const metadata: Metadata = {
 
 import Script from 'next/script';
 
-const GTM_ID = 'GTM-NB5QWM6S'; // Keep same GTM for now (will need new container later)
+const GTM_ID = 'GTM-P9LKL88V'; // MaxFixing LA container
 
 export default function RootLayout({
   children,
