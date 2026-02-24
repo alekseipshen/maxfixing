@@ -575,7 +575,7 @@ export default function LeadFormModal({ isOpen, onClose }: LeadFormModalProps) {
                   </p>
                   <p>
                     <span className="font-semibold">Location:</span> {watchedData.street}
-                    {watchedData.apartment && `, ${watchedData.apartment}`}, {watchedData.city}, {watchedData.state}{' '}
+                    {watchedData.apartment && `, ${watchedData.apartment}`}, {watchedData.city}, CA{' '}
                     {watchedData.zipCode}
                   </p>
                   <p>
