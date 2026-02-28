@@ -68,11 +68,20 @@ export function generatePageMetadata(params: SEOParams): Metadata {
       type: 'website',
       locale: 'en_US',
       siteName: SITE_NAME,
+      images: [
+        {
+          url: `${SITE_URL}/logo.png`,
+          width: 1200,
+          height: 630,
+          alt: fullTitle,
+        },
+      ],
     },
     twitter: {
       card: 'summary_large_image',
       title: fullTitle,
       description,
+      images: [`${SITE_URL}/logo.png`],
     },
     alternates: {
       canonical: buildCanonicalUrl(params),
@@ -135,19 +144,19 @@ function buildCanonicalUrl(params: SEOParams): string {
   let path = '';
 
   if (city && brand && appliance) {
-    path = `/${city}/${brand}/${appliance}-repair`;
+    path = `/cities/${city}/brands/${brand}/services/${appliance}-repair`;
   } else if (city && brand) {
-    path = `/${city}/${brand}-repair`;
+    path = `/cities/${city}/brands/${brand}-repair`;
   } else if (city && appliance) {
-    path = `/${city}/${appliance}-repair`;
+    path = `/cities/${city}/services/${appliance}-repair`;
   } else if (brand && appliance) {
-    path = `/${brand}/${appliance}-repair`;
+    path = `/brands/${brand}/services/${appliance}-repair`;
   } else if (city) {
-    path = `/${city}`;
+    path = `/cities/${city}`;
   } else if (brand) {
-    path = `/${brand}-repair`;
+    path = `/brands/${brand}-repair`;
   } else if (appliance) {
-    path = `/${appliance}-repair`;
+    path = `/services/${appliance}-repair`;
   } else {
     path = '/';
   }

@@ -7,13 +7,55 @@ import { getBestImageForType } from '@/lib/data/applianceImages';
 import { cities } from '@/lib/data/cities';
 import { CheckCircle, Clock, Users, Wrench, Building2 } from 'lucide-react';
 import Link from 'next/link';
+import type { Metadata } from 'next';
+import { generateLocalBusinessSchema, generateOrganizationSchema, generateWebSiteSchema, generateFAQSchema } from '@/lib/seo/schema';
+
+export const metadata: Metadata = {
+  alternates: {
+    canonical: 'https://maxfixing.com/',
+  },
+};
+
+const HOMEPAGE_FAQS = [
+  {
+    question: 'How quickly can you repair my appliance in Los Angeles?',
+    answer: 'We offer same-day and next-day appointments across Los Angeles, Orange County, and surrounding areas. Call (888) 608-6404 to schedule.',
+  },
+  {
+    question: 'What appliances do you repair?',
+    answer: 'We repair refrigerators, washers, dryers, dishwashers, ovens, ranges, cooktops, freezers, range hoods, ice makers, and coffee machines. All major brands including LG, Samsung, Whirlpool, GE, and Maytag.',
+  },
+  {
+    question: 'Do you offer a warranty on repairs?',
+    answer: 'Yes, all our repairs come with a solid warranty on parts and labor. We stand behind our work.',
+  },
+  {
+    question: 'Are your technicians certified?',
+    answer: 'Yes, our technicians are factory-trained and certified to repair all major appliance brands. We have 20+ years of experience.',
+  },
+  {
+    question: 'How much does appliance repair cost?',
+    answer: 'We offer upfront, transparent pricing before we start any work. Prices vary by appliance and issue. Call (888) 608-6404 for a free estimate.',
+  },
+];
 
 export default function HomePage() {
+  const localBusinessSchema = generateLocalBusinessSchema({});
+  const organizationSchema = generateOrganizationSchema();
+  const webSiteSchema = generateWebSiteSchema();
+  const faqSchema = generateFAQSchema(HOMEPAGE_FAQS);
+
   return (
     <>
+      {/* JSON-LD Schema */}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(localBusinessSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webSiteSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+
       {/* Hero Section */}
       <Hero
-        title="Same-Day Appliance Repair in Texas"
+        title="Same-Day Appliance Repair in Los Angeles & Orange County"
         subtitle="Professional repair services for all major appliance brands"
         applianceImage={getBestImageForType('refrigerator')?.src}
       />
@@ -26,7 +68,7 @@ export default function HomePage() {
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Why Choose Max Appliance Repair?
+              Why Choose Max Fixing?
             </h2>
           </div>
 
@@ -39,7 +81,7 @@ export default function HomePage() {
               </div>
               <h3 className="text-xl font-bold mb-3 text-gray-900">20+ Years Experience</h3>
               <p className="text-gray-600">
-                Over two decades repairing Texas's kitchen and laundry appliances. Factory-trained, certified technicians.
+                Over two decades repairing Los Angeles and Orange County appliances. Factory-trained, certified technicians.
               </p>
             </div>
             <div className="bg-white p-6 rounded-lg shadow-md text-center">
@@ -84,18 +126,18 @@ export default function HomePage() {
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-6">
-              Same-Day Appliance Repair in Texas
+              Same-Day Appliance Repair in Los Angeles & Orange County
             </h2>
-            
+
             <div className="text-gray-700 space-y-4">
               <p className="text-base md:text-lg leading-relaxed">
-                Your fridge stopped cooling? Washer won't spin? We've got you covered. For over 20 years, Texas families 
-                have trusted <strong>Max Appliance Repair</strong> for fast, reliable repairs on all major brands - LG, Samsung, 
+                Your fridge stopped cooling? Washer won't spin? We've got you covered. For over 20 years, Los Angeles families
+                have trusted <strong>Max Fixing</strong> for fast, reliable repairs on all major brands - LG, Samsung,
                 Whirlpool, GE, Maytag, and more.
               </p>
-              
+
               <p className="text-base md:text-lg leading-relaxed">
-                Our factory-trained technicians provide <strong>same-day service</strong> across Houston, Dallas, Austin, and San Antonio areas. 
+                Our factory-trained technicians provide <strong>same-day service</strong> across Glendale, Pasadena, Burbank, and Irvine areas.
                 Upfront pricing, solid warranty, and most customers come from referrals. Fully insured and ready to fix it right.
               </p>
             </div>
@@ -152,10 +194,10 @@ export default function HomePage() {
       </section>
 
       {/* Commercial Appliance Repair */}
-      <section 
+      <section
         className="py-16 text-white"
-        style={{ 
-          background: 'linear-gradient(to bottom right, #334e64, #2a4054)' 
+        style={{
+          background: 'linear-gradient(to bottom right, #334e64, #2a4054)'
         }}
       >
         <div className="container mx-auto px-4">
@@ -169,7 +211,7 @@ export default function HomePage() {
               Commercial Appliance Repair
             </h2>
             <p className="text-xl opacity-90 max-w-3xl mx-auto">
-              Professional repair services for restaurants, hotels, and commercial kitchens across Texas
+              Professional repair services for restaurants, hotels, and commercial kitchens across Los Angeles & Orange County
             </p>
           </div>
 
@@ -216,19 +258,19 @@ export default function HomePage() {
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Service Areas in Texas
+              Service Areas in Los Angeles & Orange County
             </h2>
             <p className="text-xl text-gray-600">
-              We serve Houston, Dallas, Austin, and San Antonio metro areas
+              We serve Los Angeles County and Orange County
             </p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-6xl mx-auto">
             {[
-              { name: 'Houston', slug: 'houston', description: '46 cities including Katy, Sugar Land, The Woodlands' },
-              { name: 'Dallas-Fort Worth', slug: 'dallas', description: '92 cities including Plano, Frisco, Irving' },
-              { name: 'Austin', slug: 'austin', description: '26 cities including Round Rock, Cedar Park, Georgetown' },
-              { name: 'San Antonio', slug: 'san-antonio', description: '27 cities including Alamo Heights, Helotes' }
+              { name: 'San Fernando Valley', slug: 'santa-clarita', description: 'Santa Clarita, Northridge, Sherman Oaks, Woodland Hills' },
+              { name: 'Glendale & Pasadena', slug: 'glendale', description: 'Glendale, Pasadena, Burbank, Arcadia, Monrovia' },
+              { name: 'South Bay', slug: 'torrance', description: 'Torrance, Long Beach, Carson, Lakewood' },
+              { name: 'Orange County', slug: 'irvine', description: 'Irvine, Anaheim, Santa Ana, Fullerton, Huntington Beach' }
             ].map((area) => (
               <Link
                 key={area.slug}
@@ -248,8 +290,25 @@ export default function HomePage() {
               prefetch={false}
               className="inline-block text-green-600 hover:text-green-700 font-semibold text-lg hover:underline"
             >
-              View all 227 cities we serve →
+              View all 89 cities we serve →
             </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* FAQ Section */}
+      <section className="py-16 bg-gray-50">
+        <div className="container mx-auto px-4">
+          <h2 className="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-8">
+            Frequently Asked Questions
+          </h2>
+          <div className="max-w-3xl mx-auto divide-y divide-gray-200">
+            {HOMEPAGE_FAQS.map((faq, i) => (
+              <div key={i} className="py-6">
+                <h3 className="text-lg font-semibold text-gray-900 mb-2">{faq.question}</h3>
+                <p className="text-gray-700">{faq.answer}</p>
+              </div>
+            ))}
           </div>
         </div>
       </section>

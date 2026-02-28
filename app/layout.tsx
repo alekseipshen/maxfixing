@@ -22,6 +22,14 @@ export const metadata: Metadata = {
     title: 'Max Fixing | Same-Day Appliance Repair in Los Angeles & Orange County',
     description: 'Expert appliance repair services in Los Angeles and Orange County. Same-day service available.',
     type: 'website',
+    images: [
+      {
+        url: 'https://maxfixing.com/logo.png',
+        width: 1200,
+        height: 630,
+        alt: 'Max Fixing',
+      },
+    ],
   },
 };
 
@@ -97,6 +105,35 @@ export default function RootLayout({
             style={{ display: 'none', visibility: 'hidden' }}
           />
         </noscript>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'Organization',
+              '@id': 'https://maxfixing.com#organization',
+              name: 'Max Fixing',
+              url: 'https://maxfixing.com',
+              logo: { '@type': 'ImageObject', url: 'https://maxfixing.com/logo.png' },
+              telephone: '+18886086404',
+              sameAs: [],
+              contactPoint: { '@type': 'ContactPoint', telephone: '+18886086404', contactType: 'customer service', areaServed: 'US', availableLanguage: 'English' },
+            })
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'WebSite',
+              '@id': 'https://maxfixing.com#website',
+              url: 'https://maxfixing.com',
+              name: 'Max Fixing',
+              publisher: { '@type': 'Organization', '@id': 'https://maxfixing.com#organization' },
+            })
+          }}
+        />
         <ModalProvider>
           <Header />
           <main>{children}</main>

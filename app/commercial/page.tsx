@@ -5,6 +5,7 @@ import { commercialAppliances } from '@/lib/data/appliances';
 import { Building2, Wrench, Clock, CheckCircle } from 'lucide-react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
+import { generateLocalBusinessSchema, generateServiceSchema } from '@/lib/seo/schema';
 
 export const metadata: Metadata = {
   title: 'Commercial Appliance Repair Los Angeles & Orange County | Max Fixing',
@@ -13,8 +14,15 @@ export const metadata: Metadata = {
 };
 
 export default function CommercialPage() {
+  const localBusinessSchema = generateLocalBusinessSchema({});
+  const serviceSchema = generateServiceSchema({});
+
   return (
     <>
+      {/* JSON-LD Schema */}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(localBusinessSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }} />
+
       {/* Hero Section */}
       <Hero
         title="Commercial Appliance Repair in Los Angeles & Orange County"

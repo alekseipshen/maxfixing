@@ -27,10 +27,10 @@ export function generateLocalBusinessSchema(params: SchemaParams) {
     image: `${SITE_URL}/logo.png`,
     aggregateRating: {
       '@type': 'AggregateRating',
-      ratingValue: GOOGLE_RATING.toString(),
-      reviewCount: REVIEW_COUNT.toString(),
-      bestRating: '5',
-      worstRating: '1',
+      ratingValue: GOOGLE_RATING,
+      reviewCount: REVIEW_COUNT,
+      bestRating: 5,
+      worstRating: 1,
     },
     address: {
       '@type': 'PostalAddress',
@@ -99,7 +99,7 @@ export function generateBreadcrumbSchema(params: SchemaParams) {
       '@type': 'ListItem',
       position: position++,
       name: formatCityName(city),
-      item: `${SITE_URL}/${city}`,
+      item: `${SITE_URL}/cities/${city}`,
     });
   }
 
@@ -108,7 +108,7 @@ export function generateBreadcrumbSchema(params: SchemaParams) {
       '@type': 'ListItem',
       position: position++,
       name: `${formatBrandName(brand)} Repair`,
-      item: city ? `${SITE_URL}/${city}/${brand}-repair` : `${SITE_URL}/${brand}-repair`,
+      item: city ? `${SITE_URL}/cities/${city}/brands/${brand}-repair` : `${SITE_URL}/brands/${brand}-repair`,
     });
   }
 
@@ -117,7 +117,7 @@ export function generateBreadcrumbSchema(params: SchemaParams) {
       '@type': 'ListItem',
       position: position++,
       name: `${formatApplianceName(appliance)} Repair`,
-      item: city ? `${SITE_URL}/${city}/${appliance}-repair` : `${SITE_URL}/${appliance}-repair`,
+      item: city ? `${SITE_URL}/cities/${city}/services/${appliance}-repair` : `${SITE_URL}/services/${appliance}-repair`,
     });
   }
 
@@ -127,8 +127,8 @@ export function generateBreadcrumbSchema(params: SchemaParams) {
       position: position++,
       name: `${formatBrandName(brand)} ${formatApplianceName(appliance)} Repair`,
       item: city
-        ? `${SITE_URL}/${city}/${brand}/${appliance}-repair`
-        : `${SITE_URL}/${brand}/${appliance}-repair`,
+        ? `${SITE_URL}/cities/${city}/brands/${brand}/services/${appliance}-repair`
+        : `${SITE_URL}/brands/${brand}/services/${appliance}-repair`,
     });
   }
 
@@ -136,6 +136,63 @@ export function generateBreadcrumbSchema(params: SchemaParams) {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: items,
+  };
+}
+
+export function generateOrganizationSchema() {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    '@id': `${SITE_URL}#organization`,
+    name: BUSINESS_NAME,
+    url: SITE_URL,
+    logo: {
+      '@type': 'ImageObject',
+      url: `${SITE_URL}/logo.png`,
+    },
+    telephone: PHONE,
+    sameAs: [],
+    contactPoint: {
+      '@type': 'ContactPoint',
+      telephone: PHONE,
+      contactType: 'customer service',
+      areaServed: 'US',
+      availableLanguage: 'English',
+    },
+  };
+}
+
+export function generateWebSiteSchema() {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    '@id': `${SITE_URL}#website`,
+    url: SITE_URL,
+    name: BUSINESS_NAME,
+    publisher: {
+      '@type': 'Organization',
+      '@id': `${SITE_URL}#organization`,
+    },
+  };
+}
+
+interface FAQItem {
+  question: string;
+  answer: string;
+}
+
+export function generateFAQSchema(items: FAQItem[]) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: items.map((item) => ({
+      '@type': 'Question',
+      name: item.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: item.answer,
+      },
+    })),
   };
 }
 
