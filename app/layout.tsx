@@ -16,7 +16,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: 'Max Fixing | Professional Appliance Repair in Los Angeles & Orange County',
-  description: 'Expert appliance repair services in Los Angeles and Orange County. Same-day service, certified technicians, 20+ years of experience. Call now for a free estimate!',
+  description: 'Expert appliance repair services in Los Angeles and Orange County. Same-day service, certified technicians, 20+ years of experience. Call now to schedule service!',
   keywords: 'appliance repair, Los Angeles, Orange County, refrigerator repair, washer repair, dryer repair, same-day service',
   openGraph: {
     title: 'Max Fixing | Same-Day Appliance Repair in Los Angeles & Orange County',

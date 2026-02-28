@@ -103,7 +103,7 @@ export default function Footer() {
 
           {/* Contact & Links */}
           <div>
-            <h4 className="text-white font-semibold mb-4">Get Free Quote</h4>
+            <h4 className="text-white font-semibold mb-4">Request Service</h4>
             <p className="text-sm mb-4">Same-day service available</p>
             <a
               href={`tel:${PHONE_NUMBER}`}

@@ -35,7 +35,7 @@ const HOMEPAGE_FAQS = [
   },
   {
     question: 'How much does appliance repair cost?',
-    answer: 'We offer upfront, transparent pricing before we start any work. Prices vary by appliance and issue. Call (888) 608-6404 for a free estimate.',
+    answer: 'We offer upfront, transparent pricing before we start any work. Prices vary by appliance and issue. Call (888) 608-6404 for upfront pricing.',
   },
 ];
 
