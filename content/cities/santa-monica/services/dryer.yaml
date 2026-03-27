@@ -1,0 +1,49 @@
+title: "Santa Monica Dryer Repair — Marine Air, Tight Vents, No Heat"
+
+intro: |
+  The marine layer off the Pacific pushes ambient humidity into laundry rooms that were never
+  designed for it — especially the stacked-unit condos lining 4th and 5th Streets near Ocean
+  Park. A Bosch 300 Series compact dryer running 90-minute cycles when it used to finish in 45
+  is telling you something specific: restricted airflow or a failing moisture sensor, not just
+  age. MaxFixing runs Santa Monica routes daily. Call (323) 870-4790.
+
+localContext: |
+  Buildings in the 90405 zip — Ocean Park, Sunset Park — were mostly built between 1950 and
+  1975. Laundry was an afterthought: closets tucked off hallways, vent runs hitting two or three
+  bends before daylight. That geometry chokes exhaust. North of Wilshire in 90402, the housing
+  shifts to larger homes with proper laundry rooms, but the appliances get more complicated —
+  Thermador, Bosch, KitchenAid — each needing different diagnostic procedures and parts sourcing.
+
+commonProblems:
+  - title: "Thermal Fuse Keeps Blowing in Ocean Park Apartments"
+    description: "A thermal fuse blows when exhaust temps spike — usually because lint has packed
+      the vent run solid. In buildings off Pier Avenue where vent stacks run through shared walls,
+      one clogged section affects every unit above it. Samsung dryers are especially sensitive:
+      they throw a tE3 error and shut down completely rather than run hot."
+  - title: "Drum Stops Spinning Mid-Cycle in Older Units"
+    description: "Drive belt and drum rollers take real abuse in humid coastal laundry rooms where
+      condensation cycles daily. LG units from 2015–2019 had a known drum roller bracket failure
+      mode — the rollers flatten on one side and you hear a rhythmic thump before the drum seizes.
+      Replacing rollers without checking the belt tensioner means a callback in three months."
+  - title: "No Heat Even After Resetting — Gas Dryer Specific"
+    description: "Gas dryers west of Lincoln Boulevard are usually Whirlpool or KitchenAid. If
+      the gas valve igniter glows for two seconds then cuts out before the burner catches, the
+      igniter coils are failing. Most people assume it's a heating element — but gas units don't
+      have one. Completely different diagnosis, completely different part."
+
+faq:
+  - q: "How fast can you get to Santa Monica for a dryer repair?"
+    a: "Typically on-site within 2 hours of your call. Parking near the 90404 zip can be tight
+      — the tech will text before arrival to coordinate. Call (323) 870-4790 or schedule online.
+      Evening slots available most weekdays."
+  - q: "Do you repair Bosch and LG dryers in Santa Monica?"
+    a: "Bosch compact units and LG front-loaders are the two most common dryer calls in this area.
+      Also handle Samsung, KitchenAid, and Whirlpool. Bosch parts sometimes take a few days to
+      source; LG and Samsung most-failed components are stocked in the van."
+  - q: "What does a dryer repair typically cost, and is there a trip fee?"
+    a: "Diagnostic visit is $75, credited toward the repair if you proceed. Most jobs — thermal
+      fuse, drum roller, belt replacement — run $150–$280 parts and labor. Same-day service is
+      standard. Call (323) 870-4790 to confirm availability."
+```
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

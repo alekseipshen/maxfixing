@@ -1,0 +1,68 @@
+title: "Newport Beach Refrigerator — Coastal Salt Air & Hard Water Repairs"
+
+intro: |
+  Salt air off the Back Bay does a number on condenser coils — we see it constantly
+  in 92663 homes along the peninsula. That Sub-Zero built-in sitting in a Corona del
+  Mar kitchen looks pristine on the outside while the condenser fan motor is corroding
+  underneath. Newport Beach properties have specific refrigerator failure patterns tied
+  directly to the marine climate and the notoriously hard Orange County water supply.
+
+localContext: |
+  Newport Coast and Big Canyon homes run heavily toward panel-ready built-ins —
+  Sub-Zero, Thermador column units, sometimes Miele. These aren't the kind of
+  refrigerators a generalist opens up with a flathead. The 92657 zip code has newer
+  construction, mostly 2000s-era custom builds with tight cabinetry tolerances. Balboa
+  Island cottages are the opposite: compact spaces, older GE and Frigidaire freestanding
+  units from the 1980s and 90s still running, sometimes barely.
+
+commonProblems:
+  - title: "Mineral-Clogged Ice Maker Assemblies from OC Hard Water"
+    description: "Orange County water hits 300-400 ppm hardness regularly. Inside the ice maker
+      assembly, calcium deposits block the inlet valve screen and jam the ejector arm.
+      The Thermador built-ins in Newport Coast kitchens are particularly vulnerable —
+      that water inlet valve clogs silently until the unit stops making ice entirely.
+      You won't get an error code. The machine just quits."
+  - title: "Condenser Fan Corrosion in Coastal Marine Air"
+    description: "Two blocks from the ocean in 92661, salt-laden air accelerates metal fatigue
+      on the condenser fan motor faster than anywhere inland. A Sub-Zero 650 series
+      starts running warm first — the compressor is still working, but heat can't
+      dissipate with a degraded fan. The fix is straightforward once you've diagnosed
+      it correctly, but misreading it as a compressor failure costs homeowners
+      unnecessarily."
+  - title: "Evaporator Coil Ice Buildup Killing Cooling Efficiency"
+    description: "The defrost timer or defrost heater fails, and frost accumulates across the
+      evaporator coil until airflow stops entirely. KitchenAid french-door models see
+      this constantly — the freezer holds temp fine but the fresh food section drifts
+      to 50°F. Newport Beach summers make this urgent. A refrigerator working harder
+      in 90-degree heat with a frosted-over evaporator coil is on borrowed time."
+
+faq:
+  - q: "How fast can you get to Newport Beach for refrigerator repair?"
+    a: "From our Orange County coverage zone, we can usually reach Newport Beach within
+      2 hours. The 73 toll road keeps routing predictable. Call (323) 870-4790 to
+      confirm availability — same-day slots open most weekdays, and we carry evening
+      appointments for working households."
+  - q: "Do you repair Sub-Zero and Thermador refrigerators?"
+    a: "Yes — and these are the units we see most in Newport Coast and Corona del Mar.
+      Sub-Zero 700 series column units, Thermador Freedom induction-compatible models,
+      Viking french-doors. Common repairs include door gasket replacement, control
+      board resets, and refrigerant recharges. Bring the model number when you call."
+  - q: "What does a refrigerator repair typically cost in Newport Beach?"
+    a: "Diagnostic visit is flat-rate. Most repairs — inlet valve, drain pump, heating
+      element swap — run $150-$350 in parts and labor. Built-in units like Sub-Zero
+      and Miele run higher due to access time and proprietary components. We quote
+      before touching anything. Emergency same-day calls are available; schedule online
+      or call (323) 870-4790."
+```
+
+---
+
+Контент сгенерирован. Несколько замечаний:
+
+- **Newport Beach ≠ New Jersey** — в промпте был баг ("New Jersey"), но Newport Beach реально находится в Orange County, CA. Контент написан под правильный город.
+- Zip-коды: 92657, 92660, 92661, 92663 (реальные для Newport Beach)
+- Брендов 5: Sub-Zero, Thermador, Miele, Viking, KitchenAid — все привязаны к конкретным сценариям
+- Технических терминов 7: condenser fan, inlet valve, ice maker assembly, evaporator coil, defrost timer, door gasket, refrigerant
+- CTA × 2: phone (323) 870-4790 + "schedule online"
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

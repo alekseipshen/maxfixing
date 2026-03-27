@@ -1,0 +1,68 @@
+title: "Santa Clarita Dryer Repair — Valley Heat Wears Machines Down Fast"
+
+intro: |
+  Summer afternoons in Valencia push indoor temps past 90°F — and upstairs laundry rooms
+  in those 91354 tract homes get even hotter. A Samsung DV25BB dryer running in that
+  heat cycles its thermal fuse hard, and most homeowners don't notice until clothes
+  come out cold and damp. MaxFixing runs this route out of the Valley daily — call
+  (323) 870-4790 and we can usually be there same day.
+
+localContext: |
+  Santa Clarita's housing stock is mostly late-1980s through early-2000s construction —
+  two-story floor plans in Valencia, Saugus, and Canyon Country with laundry rooms
+  tucked off the master hallway upstairs. In 91350 and 91387, those exhaust ducts
+  often run 15–20 feet horizontally before hitting the exterior vent. Long horizontal
+  runs are lint traps. Combine that with the valley's dry summer heat and you get
+  restricted airflow, overheating, and premature part failure — faster than you'd
+  see in coastal LA.
+
+commonProblems:
+  - title: "Thermal Fuse Failure From Overheating in Upstairs Laundry Rooms"
+    description: "Second-floor laundry rooms in Saugus and Valencia homes trap heat in summer.
+      The thermal fuse — a one-shot safety cutoff on the heating element circuit — blows
+      when exhaust temperatures spike from restricted airflow. We see this constantly on
+      Samsung and LG dryers in these homes. Once the fuse goes, the drum still spins but
+      there's zero heat. It's a $15 part, but diagnosing whether it's the fuse, the
+      heating element, or the control board is where most DIY attempts go wrong."
+
+  - title: "Lint Buildup Blocking the Blower Wheel in Long-Run Duct Setups"
+    description: "That 15-foot exhaust run through the wall in 91355 homes doesn't vent
+      efficiently without regular cleaning. Lint bypasses the lint trap and coats the
+      blower wheel inside the dryer cabinet. The machine runs hot, takes two cycles to
+      dry a single load, and eventually trips the high-limit thermostat. A Bosch
+      condenser dryer handles this differently — it recirculates air — but most Santa
+      Clarita homes have vented units that need the duct cleared at least annually."
+
+  - title: "Drum Rollers Grinding Out on KitchenAid and LG Machines"
+    description: "Canyon Country homes with big households run dryers hard. Drum rollers
+      are the small wheels that support the drum's rotation — on KitchenAid and LG
+      front-loaders, they wear flat after a few years of heavy use. You'll hear a low
+      rumbling or squealing on every rotation, especially when the drum is loaded.
+      Left alone, the flat spot wears through the drum roller shaft and starts damaging
+      the drum itself. Better to catch it at the roller stage."
+
+faq:
+  - q: "How fast can you get to Santa Clarita for dryer repair?"
+    a: "We're typically out of the Valley and up the 5 or 14 within 30–45 minutes.
+      Same-day slots are available most days — call (323) 870-4790 before noon and
+      we'll almost always make it out the same day. Evening appointments available
+      for Stevenson Ranch and Valencia if daytime doesn't work."
+
+  - q: "Do you work on LG, Samsung, and Bosch dryers specifically?"
+    a: "Yes — those three are the bulk of what we see in Santa Clarita. On LG, we
+      commonly replace drum rollers and control boards. Samsung DV-series units have
+      known moisture sensor issues. Bosch heat-pump dryers need condenser cleaning
+      more than parts replacement. We stock common components for all three."
+
+  - q: "What does dryer repair typically cost, and do you do same-day fixes?"
+    a: "Most single-part repairs run $120–$250 including labor. Thermal fuse and
+      heating element swaps are on the lower end; control board replacements sit higher.
+      We diagnose on-site and quote before touching anything. If parts are in the van —
+      which they usually are for common failures — the repair is done the same visit."
+```
+
+---
+
+**Примечание по данным:** Промпт содержал ошибку — указан «New Jersey», но Santa Clarita реально находится в LA County (San Fernando Valley). Контент написан корректно для Santa Clarita, CA. Zip-коды 91350, 91354, 91355, 91387 — реальные для этого города. Бренды и технические детали привязаны к местной специфике (долинная жара, длинные воздуховоды, дома 1980–2000-х).
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

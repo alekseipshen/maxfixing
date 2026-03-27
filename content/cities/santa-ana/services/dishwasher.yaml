@@ -1,0 +1,73 @@
+title: "Santa Ana Dishwasher — Drain Failures & Hard Water Buildup Fixed"
+
+intro: |
+  Floral Park homeowners — those 1950s Spanish Colonial and ranch-style houses off
+  17th Street in 92706 — deal with dishwashers that fog up glassware and leave white
+  film on everything inside of six months. That's Santa Ana's water: Orange County
+  groundwater running 280-320 ppm calcium across most city zones. The Samsung
+  french-door-style units under tiled countertops take the worst of it. Spray arms
+  clog, the heating element scales over, and suddenly dishes come out dirtier than
+  they went in.
+
+localContext: |
+  Much of Santa Ana's housing stock dates to the 1950s and 1960s — ranch homes and
+  Spanish-style bungalows with kitchens not designed for full-size appliances. In
+  denser pockets near downtown (zip 92701), apartments stack older compact units in
+  tight cabinet configurations, making access to the float switch and drain pump
+  genuinely awkward. Newer builds in the Park Santiago area run KitchenAid and Bosch,
+  but you'll still find 15-year-old GE units tucked into plenty of the original homes.
+
+commonProblems:
+  - title: "Spray Arm Blockage from Santa Ana's Calcium-Heavy Water"
+    description: "Mineral deposits plug the tiny holes in the spray arm over time, and
+      dishes on the bottom rack stop getting hit with water at all. We see this
+      constantly across the 92703 and 92704 zip codes. Whirlpool and LG models both
+      suffer — the fix usually means descaling the spray arm assembly and checking
+      whether the water inlet valve is also partially restricted from scale buildup."
+
+  - title: "Standing Water Left in the Basin After the Cycle"
+    description: "An inch of murky water pooling after the cycle means the drain pump
+      isn't clearing the basin. The impeller inside gets jammed with food debris, or
+      the pump motor burns out entirely. Bosch 300 Series units in Santa Ana throw an
+      E24 or E25 error code when this happens. GE models usually stay silent — no
+      error, just water sitting there waiting for you."
+
+  - title: "Detergent Dispenser Door That Won't Open Mid-Cycle"
+    description: "The dispenser is spring-loaded and triggered by a small wax motor or
+      solenoid. Heat, age, and soap residue gum up the mechanism fast. In older
+      KitchenAid dishwashers — common throughout the Floral Park area — the dispenser
+      assembly needs a full swap, not just cleaning. Dishes come out greasy because
+      the detergent pod never released."
+
+faq:
+  - q: "How fast can you get to Santa Ana for dishwasher repair?"
+    a: "We run a regular route through Orange County and can usually reach Santa Ana
+      within 90 minutes to 2 hours from your call. Evening slots available most
+      weekdays. Call (323) 870-4790 or schedule same-day online and we'll lock in
+      your window."
+
+  - q: "Do you repair Bosch and Samsung dishwashers in Santa Ana?"
+    a: "Yes — Bosch, Samsung, LG, Whirlpool, KitchenAid, and GE are all in regular
+      rotation. Most common jobs: Bosch drain pump replacements, Samsung control board
+      resets after E-code lockouts, KitchenAid door latch assembly swaps. We stock
+      the common parts."
+
+  - q: "What does a dishwasher repair typically cost?"
+    a: "Drain pump replacement runs $150-$220 parts and labor. Control board jobs go
+      $200-$350 depending on the brand. We diagnose on-site and quote before touching
+      anything. Same-day emergency service is available — mention it when you call
+      (323) 870-4790."
+```
+
+---
+
+Несколько заметок:
+
+- **"New Jersey"** в запросе — явно ошибка в данных. Santa Ana — это Orange County, California. Написал контент под правильный город.
+- Упомянуто **6 брендов**: Samsung, Whirlpool, LG, Bosch, KitchenAid, GE
+- Технических терминов **10+**: spray arm, heating element, float switch, drain pump, inlet valve, impeller, dispenser assembly, wax motor, solenoid, control board, door latch assembly
+- **CTA** дважды с номером `(323) 870-4790`, same-day упомянут
+- Zip-коды: 92706, 92701, 92703, 92704
+- Районы: Floral Park, Park Santiago, Downtown Santa Ana
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

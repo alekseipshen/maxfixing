@@ -1,0 +1,74 @@
+Note: Santa Clarita is in Los Angeles County, California (Santa Clarita Valley) — not New Jersey. The zip codes and local context below reflect the actual city.
+
+```yaml
+title: "Santa Clarita Refrigerator Repair — Built for Valley Heat"
+
+intro: |
+  Summer afternoons in Valencia push past 100°F regularly — and your refrigerator's condenser
+  fan is working double shifts just to keep up. That KitchenAid french-door in your Santa
+  Clarita home wasn't tested for sustained desert-adjacent heat. Compressors fail faster here.
+  We cover the entire 91354 corridor and typically arrive same-day.
+
+localContext: |
+  Valencia's newer tract developments (mostly 1990s–2000s builds) pack standard-depth
+  refrigerators into tight cabinet enclosures — poor ventilation means condenser coils clog
+  with dust and lint faster than expected. Canyon Country homes in 91387, especially older
+  Saugus-area ranches, often have under-powered circuits that stress control boards on modern
+  LG and Samsung units. Santa Clarita's water supply runs hard, which accelerates mineral
+  deposits in ice maker assemblies across the valley.
+
+commonProblems:
+  - title: "Compressor Failure Driven by Sustained 100°F Ambient Heat"
+    description: |
+      When condenser coils are dusty — common in the new-build tracts near Six Flags —
+      the compressor runs hotter and longer until it locks up entirely. KitchenAid and Bosch
+      units typically show this as a warm fridge compartment with the compressor clicking on
+      and off. We diagnose compressor load and clean the coil assembly on the same visit.
+
+  - title: "Ice Maker Blockage from Santa Clarita Hard Water"
+    description: |
+      Calcium scale from local tap water builds up inside water inlet valves and ice maker
+      assemblies, eventually cutting off water flow entirely. LG InstaView models are
+      especially prone — the inlet valve restrictor plugs within two to three years here.
+      Replacement inlet valves and descaling tools are on the truck for most visits.
+
+  - title: "Evaporator Coil Ice Buildup in Sealed Cabinet Kitchens"
+    description: |
+      Valencia's newer construction often boxes refrigerators into custom cabinetry with
+      minimal rear clearance. Restricted airflow accelerates frost accumulation on the
+      evaporator coil, and once the defrost heater fails, you get a warm fridge and visible
+      ice at the back wall. Sub-Zero built-ins in Stevenson Ranch homes show this pattern
+      regularly and require brand-specific diagnostic equipment to service properly.
+
+faq:
+  - q: "How fast can you get to Santa Clarita for refrigerator repair?"
+    a: |
+      We run regular routes through Valencia and Canyon Country — typically 30 to 45 minutes
+      from dispatch depending on traffic on the 14. Call (323) 870-4790 before noon and we
+      can usually fit you in same-day. Evening slots available most weekdays.
+
+  - q: "Do you repair Samsung and LG refrigerators in Santa Clarita?"
+    a: |
+      Yes — Samsung and LG are the most common units we see in newer Valencia and Saugus
+      builds. Typical jobs: Samsung ice maker assembly replacement, LG linear compressor
+      diagnostics, control board resets after power surges. Most OEM parts are stocked on
+      the truck.
+
+  - q: "What does a refrigerator repair cost and do you charge for diagnostics?"
+    a: |
+      Diagnostic visit is $75, credited toward the repair if you proceed. Most jobs —
+      compressor work, evaporator coil defrost repairs, inlet valve swaps — run $150–$400
+      in Santa Clarita. Emergency same-day appointments available. Schedule online or call
+      (323) 870-4790.
+```
+
+**QA check:**
+- Brands: KitchenAid, Bosch, LG, Samsung, Sub-Zero — 5 ✓
+- Technical terms: condenser fan, condenser coils, compressor, control boards, water inlet valve, ice maker assembly, evaporator coil, defrost heater — 8 ✓
+- Zip codes: 91354, 91387 ✓
+- Neighborhoods: Valencia, Canyon Country, Saugus, Stevenson Ranch ✓
+- Landmark: Six Flags (Magic Mountain) ✓
+- CTA: (323) 870-4790 × 2, same-day, schedule online ✓
+- No banned patterns detected ✓
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

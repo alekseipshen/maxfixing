@@ -1,0 +1,67 @@
+title: "Westminster Washer Repair — Hard Water, Old Lines, Fast Fix"
+
+intro: |
+  Little Saigon's older duplexes and ranch homes along Bolsa Avenue run on
+  some of the most mineral-heavy tap water in Orange County — and that hard
+  water is relentless on washers. The water inlet valve gets scaled up within
+  a couple of years. That LG front-loader you bought at Costco three years
+  ago? If it's showing E6 or LE error codes and barely spinning, the drum
+  bearing or rotor position sensor is usually the culprit. Call us at
+  (323) 870-4790 — we cover Westminster and can usually be there same-day.
+
+localContext: |
+  The 92683 zip is mostly 1960s and 70s construction — single-family ranches
+  off Hazard Avenue and Goldenwest, plus older apartment complexes along
+  Westminster Boulevard where washers get crammed into hallway closets or
+  stacked in converted garages. Tight access is common. Laundry hookups in
+  these older builds sometimes run smaller-diameter drain lines, which means
+  any partial drain pump failure shows up fast as a standing-water problem.
+  Westminster's hard tap water compounds every mechanical issue.
+
+commonProblems:
+  - title: "Mineral Scale Killing the Water Inlet Valve — 92683's #1 Washer Problem"
+    description: "Orange County's hard water deposits calcium and magnesium inside
+      the water inlet valve screens within 18-24 months of normal use. The machine
+      fills slowly, then stops filling mid-cycle. Whirlpool and GE top-loaders from
+      the 2010s are especially prone — the dual solenoid valve design traps scale
+      fast. Replacement runs $80-$140 in parts, and it's a same-day fix."
+
+  - title: "Drum Bearing Failure in Front-Loaders — Loud, Gets Worse Fast"
+    description: "A grinding roar during the spin cycle isn't just annoying — it
+      means the drum bearing is going. Samsung and LG front-loaders (the 27-inch
+      models common in Westminster's mid-range homes) both suffer this after 5-7
+      years. Ignore it and the spider bracket cracks, turning a $150 bearing job
+      into a $400+ repair. Catching it early matters."
+
+  - title: "Drain Pump Clogs and Failures — Standing Water After Every Cycle"
+    description: "Westminster's older apartment laundry hookups have 1.5-inch drain
+      lines instead of modern 2-inch — any debris makes the drain pump work harder.
+      KitchenAid and Bosch front-loaders show F21 or E18 error codes when the pump
+      strainer is blocked or the impeller is cracked. Sometimes it's just lint and
+      a sock. Other times the pump motor is burned and needs replacement."
+
+faq:
+  - q: "How fast can you get to Westminster for washer repair?"
+    a: "From our Orange County route we can reach Westminster — 92683 specifically
+      — in under an hour most mornings. Bolsa Avenue and the 405 are our usual
+      approach. Call (323) 870-4790 before noon and same-day service is very likely.
+      Evening slots available Tuesday through Saturday."
+
+  - q: "Do you repair Samsung and LG front-loaders common in Westminster homes?"
+    a: "Yes, both are the bulk of what we see in this area. Samsung front-loaders
+      with UE spin errors and LG units throwing LE or OE codes are weekly jobs for
+      us. Also handle Whirlpool Duet, GE Profile, and Bosch 500-series. Parts
+      stocked for the most common failures."
+
+  - q: "What does washer repair usually cost, and is same-day service available?"
+    a: "Diagnostic visit is $75, applied to the repair if you proceed. Most drain
+      pump, lid switch, or water inlet valve jobs land between $150-$280 total.
+      Drum bearings run higher. Same-day emergency slots exist — call
+      (323) 870-4790 and we'll tell you exactly what's open today."
+```
+
+---
+
+**Заметка по контенту:** В запросе указан "Westminster, New Jersey" — но Westminster с population 90k и Orange County — это Westminster, CA. Написал для Westminster, CA (Little Saigon area, 92683), так как это соответствует зоне обслуживания MaxFixing и реальным данным города. Если в пайплайне баг с маппингом штата — стоит проверить источник данных.
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

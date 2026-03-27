@@ -1,0 +1,53 @@
+title: "Mar Vista Washer Repair — Tight Spaces, Real Fixes"
+
+intro: |
+  That stretch of Beethoven Street between Venice Boulevard and National — the 1950s duplexes with
+  stackables crammed into converted hall closets — is practically its own appliance category. One of
+  the more common calls we get from 90066 is a Samsung front-loader throwing an ND error because
+  the drain pump is clogged with lint and dog hair. Mar Vista houses aren't huge, but the washers
+  inside them work hard.
+
+localContext: |
+  Most of Mar Vista's residential stock was built between 1945 and 1970 — small-lot single-family
+  homes and low-rise apartment buildings where laundry setups weren't really planned, just wedged in
+  later. Zip 90066 is packed with narrow side-yard utility rooms and kitchen-adjacent laundry
+  alcoves. A Bosch or LG front-loader in one of these spots is tough to access — and when something
+  breaks, you can't just drag it out to the driveway.
+
+commonProblems:
+  - title: "Mineral scale from LA tap water killing drain pumps and inlet valves"
+    description: "Santa Monica Municipal Water District and LADWP both deliver hard water to Mar Vista —
+      typically 200–260 mg/L, which crusts up the water inlet valve and clogs the pump filter over
+      time. An LG ThinQ or Whirlpool front-loader starts draining slowly, then stops draining
+      completely. Replacing the drain pump and cleaning the inlet valve screen usually fixes it, but
+      ignoring it long enough can trash the control board too."
+  - title: "Drum bearing failure in older units pushed past their service life"
+    description: "A lot of 90066 rentals still have GE or Kenmore top-loaders from the early 2000s that
+      have never been serviced. When the drum bearing goes, you hear a grinding howl during the spin
+      cycle — loud enough to annoy the neighbors in a duplex. The spin basket starts wobbling, the
+      shock absorbers can't compensate, and the machine walks across the floor."
+  - title: "Door latch assembly failures locking Samsung front-loaders mid-cycle"
+    description: "Samsung front-loaders in the mid-range (WF45 series especially) have a door latch
+      assembly that wears out faster than it should. The washer locks the door, starts filling, then
+      throws an LE or dE error and won't unlock. It's not a control board issue — it's almost always
+      the latch mechanism or the door switch wiring. Parts are usually in stock; same-day turnaround
+      is typical."
+
+faq:
+  - q: "How fast can you get to Mar Vista for washer repair?"
+    a: "Mar Vista is a quick run from our service routes along the 405 and Lincoln Boulevard corridor.
+      Most calls in 90066 get a same-day slot, usually within 2–3 hours of booking. Street parking
+      on residential blocks is fine for the van. Call (323) 870-4790 to check availability."
+  - q: "Do you repair Bosch and LG washers, or only the big-box brands?"
+    a: "Both, regularly. Bosch front-loaders are common in the newer Mar Vista renovations —
+      drain pump issues and door seal replacements come up a lot. LG ThinQ units throw UE and OE
+      codes that usually trace back to drum bearing wear or a clogged pump filter. Whirlpool and
+      Samsung are handled just as often."
+  - q: "What does a washer repair typically cost, and is there a diagnostic fee?"
+    a: "Diagnostic is $75 and applies toward the repair if you proceed. Most fixes — drain pump,
+      lid switch, drive belt, inlet valve — run $150–$280 parts and labor. Evening slots are
+      available if daytime doesn't work. Same-day emergency service is available; just call
+      (323) 870-4790 and ask."
+```
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

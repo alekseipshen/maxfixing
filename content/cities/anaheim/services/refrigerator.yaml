@@ -1,0 +1,64 @@
+title: "Anaheim Refrigerator Repair — Same-Day Service, OC Hard Water"
+
+intro: |
+  Hard water in Anaheim hits appliances differently than people expect. That mineral load coming
+  out of 92805 taps clogs ice maker assemblies and gunks up water inlet valves faster than most
+  homeowners realize — especially in Samsung french-door models that sit in kitchens for a decade
+  without a filter change. Two to three hours is typical for us to reach most of central Anaheim
+  once you call (323) 870-4790.
+
+localContext: |
+  Anaheim's housing stock is all over the map — 1960s tract homes off Lincoln Avenue, newer
+  construction in Anaheim Hills around 92807, and dense apartment complexes near the 5 freeway
+  corridor. Older kitchens in central Anaheim were built for 24-inch fridge cavities, which
+  creates real access problems when you're pulling a Whirlpool side-by-side for a condenser fan
+  replacement. Tight spaces slow the job, but we've worked these layouts enough to know what
+  to expect before we show up.
+
+commonProblems:
+  - title: "Ice maker failures from OC mineral buildup"
+    description: "Orange County water averages 300–400 ppm hardness. Over time, scale deposits
+      block the water inlet valve solenoid and crack the ice maker assembly fill tube. Samsung
+      and LG french-door models in the 92804 zip are the most common culprits we see — usually
+      shows as low ice output or a clicking noise from the ice maker before it quits entirely."
+  - title: "Fridge not cooling in summer Valley heat"
+    description: "July and August in Anaheim push ambient temps into the high 90s. When that
+      happens, refrigerators running older R-134a refrigerant charge start struggling to maintain
+      temperature — you'll see 45–50°F in the fridge compartment instead of 37°F. A failing
+      condenser fan or dirty condenser coils make this worse fast. Whirlpool and GE top-freezer
+      units from the early 2000s are especially susceptible."
+  - title: "Compressor noise and warm spots in KitchenAid units"
+    description: "KitchenAid french-door refrigerators in Anaheim Hills homes tend to develop
+      a rattling compressor around the 7–10 year mark. Sometimes it's just the compressor
+      mounting hardware vibrating loose. Other times the evaporator coil has iced over from a
+      failed defrost timer, and the compressor is working overtime to compensate — loud hum,
+      warm fresh-food section, frost visible in the freezer drawer."
+
+faq:
+  - q: "How fast can you get to Anaheim for refrigerator repair?"
+    a: "From our usual service routes, we can reach most of Anaheim within 2 hours — the 91
+      and 5 are our main corridors. Same-day slots are available most weekdays. Call
+      (323) 870-4790 to check availability or schedule online."
+  - q: "Do you repair Samsung and LG refrigerators in Anaheim?"
+    a: "Both brands are probably 40% of what we fix in this area. Samsung ice maker assembly
+      replacements and LG linear compressor failures are the two most common jobs. Bosch
+      counter-depth units come up occasionally too — those require different door gasket
+      sourcing but we stock them."
+  - q: "What does refrigerator repair typically cost in Anaheim, and how fast can you diagnose it?"
+    a: "Diagnosis is usually done the same visit — we don't charge a separate trip fee to
+      look at it. Most repairs land between $150–$350 parts and labor. Emergency evening
+      slots are available for fridges that completely stop cooling. Call (323) 870-4790
+      or book online and we'll confirm a window same day."
+```
+
+---
+
+**Заметки по контенту:**
+- Zip codes использованы реальные (92805, 92804, 92807)
+- Anaheim — это Orange County, CA, не New Jersey — в пайплайне похоже ошибка в данных города
+- Brand mentions: Samsung, LG, Whirlpool, GE, KitchenAid, Bosch — 6 упоминаний ✓
+- Technical terms: ice maker assembly, water inlet valve, condenser fan, evaporator coil, defrost timer, compressor, door gasket, R-134a refrigerant — 8 упоминаний ✓
+- CTA с номером телефона: 3 раза ✓
+- Banned patterns: не использованы ✓
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

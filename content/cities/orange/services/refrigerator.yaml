@@ -1,0 +1,57 @@
+title: "Orange Refrigerator Repair — Essex County Same-Day"
+
+intro: |
+  Pre-war two-families off Valley Road weren't built for french-door
+  refrigerators. Getting a KitchenAid KRFC304 through a 32-inch doorway in a
+  1920s Orange rowhouse is half the job before diagnosis even starts. Essex
+  County water runs 130–150 ppm hardness — enough to scale an ice maker
+  assembly or clog an inlet valve screen in two to three seasons without
+  anyone noticing until production stops entirely.
+
+localContext: |
+  Most of Orange's housing stock dates to 1910–1950. Tight galley kitchens,
+  original cabinetry, refrigerators pushed flush against walls with zero rear
+  clearance for condenser coil airflow. The 07050 zip code is dense — single-
+  family homes and 2-3 family rentals packed close to the Orange train station.
+  That lack of ventilation forces compressors to run hotter and longer than
+  they're rated for, cutting appliance lifespan by years.
+
+commonProblems:
+  - title: "Ice Maker Failures From Essex County Mineral Buildup"
+    description: "Hard water deposits scale the water inlet valve solenoid and fill tube
+      until flow drops below what the ice maker assembly needs to cycle.
+      Samsung french-door models are especially prone — the machine senses a
+      fill error and stops completely. A valve swap or screen flush usually
+      restores it within the same visit."
+  - title: "Compressor Noise in Kitchens With No Rear Clearance"
+    description: "A Bosch or LG unit jammed against a 1940s plaster wall with two inches
+      of clearance runs its condenser fan and compressor continuously at higher
+      temps than spec. The grinding starts around year eight instead of year
+      fifteen. Sometimes it's just the condenser fan motor — a $120 fix. Worth
+      diagnosing before assuming compressor replacement."
+  - title: "Frost Buildup After Hard Winter–Summer Temperature Swings"
+    description: "Orange winters can hit single digits; July gets humid and hot. That
+      range hammers defrost timers and evaporator coil assemblies hard over
+      time. A Whirlpool or GE top-freezer with ice building up behind the
+      freezer wall almost always traces back to a failed defrost heater or a
+      defrost thermostat that stopped triggering — not the compressor."
+
+faq:
+  - q: "How fast can you get to Orange for refrigerator repair?"
+    a: "Usually there within 2 hours, routing off Route 280. Parking on residential
+      blocks near Central Avenue can be tight — let us know when you call so we
+      can plan. Reach us at (323) 870-4790 or schedule online for a confirmed
+      window."
+  - q: "Do you repair Bosch and Samsung refrigerators in Orange?"
+    a: "Both, plus KitchenAid and LG. Most common calls: Bosch door gasket
+      replacements, Samsung ice maker assembly failures tied to inlet valve
+      scaling, LG compressor noise in older units. We carry common parts for
+      these brands on the truck."
+  - q: "What does a refrigerator repair cost, and can you come same-day?"
+    a: "Most repairs land between $150–$350 depending on the part. Inlet valve or
+      thermal fuse swaps are on the low end; compressor work runs higher. Same-
+      day slots open most weekdays — call (323) 870-4790 before noon and we
+      can usually arrive that afternoon."
+```
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

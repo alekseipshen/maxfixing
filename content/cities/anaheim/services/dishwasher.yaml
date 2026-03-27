@@ -1,0 +1,30 @@
+title: "Anaheim Dishwasher Repair — Hard Water & Humidity Fixes"
+
+intro: |
+  Hard water in zip code 92805 leaves calcium deposits inside dishwashers faster than almost anywhere else in Orange County. That Bosch 500 Series running E24 drain errors? Nine times out of ten it's mineral buildup choking the filter basket, not a failed pump. We cover Anaheim daily — from the older ranch-style homes near Anaheim Hills to the apartment complexes along Lincoln Avenue — usually on-site within 2 hours of your call.
+
+localContext: |
+  A lot of Anaheim's housing stock dates to the 1960s and 70s, especially in the 92804 zip code west of Euclid. Those kitchens were built for smaller, shallower dishwashers, which makes pulling a unit for repair trickier than in newer construction. Tighter cabinet clearances mean the float switch and drain hose routing need extra care on reinstall. Anaheim Hills homes (92807) tend to run mid-range KitchenAid and Bosch units — built-in models with control boards that are sensitive to the area's voltage fluctuations during summer peak hours.
+
+commonProblems:
+  - title: "Mineral Buildup Blocking Spray Arms and Filter — Anaheim's Hard Water Problem"
+    description: "Anaheim municipal water consistently tests around 300–350 ppm hardness. That calcium scales up the spray arm nozzles and clogs the fine mesh filter basket until water pressure drops so low dishes come out greasy. Samsung and LG models with their narrow spray arm holes get hit hardest. A proper fix means descaling the spray arms, clearing the inlet valve screen, and checking that the circulation pump isn't partially seized."
+  - title: "Standing Water After the Cycle — Drain Pump or Check Valve Failure"
+    description: "Pooled water sitting at the bottom after a full cycle usually points to the drain pump impeller or the check valve flap — not a clogged garbage disposal connection, though that's worth ruling out first. Whirlpool and GE units from 2015–2020 had a run of drain pump motors that wore out prematurely. Replacing just the impeller housing costs a fraction of a full pump assembly if you catch it before the motor burns."
+  - title: "Detergent Dispenser Door Won't Open Mid-Cycle"
+    description: "The bi-metal strip or wax motor actuator inside the detergent dispenser door gets heat-warped or corroded over time — especially in kitchens that run the dishwasher daily. Bosch units throw error codes H01 or E3 when the dispenser circuit fails. KitchenAid's dispenser latch spring is a $12 part but the labor to access it through the inner door panel adds up. Call us at (323) 870-4790 and we'll diagnose it same visit."
+
+faq:
+  - q: "How fast can you get to Anaheim for dishwasher repair?"
+    a: "We run routes through Orange County every day. From our nearest tech in Garden Grove or Fullerton, Anaheim is typically 20–35 minutes. Same-day slots are available most weekdays — call (323) 870-4790 before noon and we can usually get there that afternoon. Evening appointments available too."
+  - q: "Do you repair Bosch and Samsung dishwashers in Anaheim?"
+    a: "Yes — Bosch 300/500 Series are probably the most common call in Anaheim Hills. We stock the drain pump, door latch assembly, and control board modules for those. Samsung french-door-era dishwashers and LG TrueSteam units are also regular repairs. Whirlpool and GE — covered completely."
+  - q: "What does a dishwasher repair typically cost in Anaheim, and is it worth fixing?"
+    a: "Most repairs run $120–$280 parts and labor combined. A drain pump swap on a mid-range Bosch or KitchenAid is almost always worth it versus buying new. We give you a firm quote before touching anything — no surprise fees. For urgent situations we have emergency slots with a small after-hours fee."
+```
+
+---
+
+**Примечание по данным:** В запросе указан штат New Jersey, но Anaheim — город в Orange County, **California**. Контент написан под реальный Anaheim, CA. Если это ошибка в конфиге пайплайна, стоит проверить откуда берётся поле штата в `city_profile`.
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

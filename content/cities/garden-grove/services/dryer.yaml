@@ -1,0 +1,27 @@
+title: "Garden Grove Dryer — Ranch Vents, Hard Water, Heat Failures"
+
+intro: |
+  That stretch of 1960s ranch homes near Chapman Avenue in 92841 was built when laundry rooms were afterthoughts — narrow closets venting through original 4-inch galvanized duct that nobody has touched since. A GE or Whirlpool dryer pushing hot air through 50-year-old restricted exhaust doesn't just run slowly; it blows thermal fuses. Garden Grove tap water is notoriously hard even by Orange County standards, and mineral scale on moisture sensors quietly wrecks drying accuracy long before anything looks wrong.
+
+localContext: |
+  Most of 92840 and 92843 developed between 1955 and 1975 — single-story ranches and small apartment blocks where the dryer hookup is either a converted garage corner or a closet barely wide enough to slide the unit out for service. The neighborhoods south of the 22 Freeway tend to have older stackable units from LG and Samsung jammed into spaces with no room to maneuver. Older buildings near Brookhurst Street sometimes still run 3-prong dryer outlets — a wiring detail that affects which models we can service on the first visit.
+
+commonProblems:
+  - title: "Thermal Fuse Keeps Blowing in Older Ranch Homes"
+    description: "Garden Grove's long, single-story duct runs — sometimes 15 feet or more through a garage wall — trap lint fast. When airflow drops below threshold, the thermal fuse on a Whirlpool or GE dryer cuts power to the heating element as a safety measure. Replacing just the fuse without clearing the exhaust vent means it blows again within weeks. We clear the duct first, every time."
+  - title: "Drum Won't Spin — Worn Drum Rollers After Years of Use"
+    description: "The thudding, grinding noise before a drum stops turning almost always comes from worn drum rollers or a failed belt tensioner. Samsung front-load dryers in the 10-12 year range are especially prone to this in Garden Grove because of the heat and the long run cycles typical here. A new roller kit and belt runs about an hour of labor — straightforward fix."
+  - title: "Takes Forever to Dry — Blower Wheel Packed with Lint"
+    description: "Two full cycles to dry one load usually isn't a heating element problem — it's a restricted blower wheel. On LG dryers, lint bypasses the screen and packs the wheel housing solid. The motor still runs, air barely moves, and the moisture sensor reads the load as wet indefinitely. Pull the drum, clean the blower, reset the sensor — the dryer dries normally again."
+
+faq:
+  - q: "How fast can you get to Garden Grove for a dryer repair?"
+    a: "From our Orange County route we can reach most of Garden Grove — including the 92840 and 92841 zip codes — same day, usually within 2 hours of your call. Evening slots are available. Call us at (323) 870-4790 to confirm a window."
+  - q: "Do you repair Samsung and LG dryers in Garden Grove?"
+    a: "Yes — Samsung and LG are probably half our dryer calls in this area. Common fixes include drum roller replacements on Samsung DV-series machines and blower wheel cleanouts on LG front-loaders. Whirlpool Cabrio and GE Profile models come up frequently too."
+  - q: "What does a dryer repair in Garden Grove typically cost, and is same-day service available?"
+    a: "Most repairs land between $120–$250 depending on the part — thermal fuse and belt jobs are on the lower end, control boards higher. Same-day service is standard for us in Garden Grove; we carry common parts for Samsung, LG, GE, and Whirlpool on the van. Schedule online or call (323) 870-4790."
+
+---
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

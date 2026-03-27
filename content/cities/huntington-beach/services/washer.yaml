@@ -1,0 +1,78 @@
+title: "Huntington Beach Washer Repair — Hard Water & Beach-Life Fixes"
+
+intro: |
+  Salt air off the Pacific hits appliances harder than most homeowners expect.
+  The 1960s and '70s ranch homes along Newland Street and near Bolsa Chica tend
+  to run older LG front-loaders or mid-range Samsung units — and the combination
+  of beach sand in clothing, mineral-heavy MWDOC water, and high laundry frequency
+  means drain pumps and water inlet valves take a beating year-round. A call to
+  (323) 870-4790 gets a technician out the same day in most cases.
+
+localContext: |
+  The 92648 and 92646 zip codes cover most of residential Huntington Beach —
+  beach cottages from the 1960s near Main Street, and larger tract homes pushing
+  inland toward 92647. Older properties near the pier corridor often have tighter
+  utility closets with stacked units, which makes drum bearing work genuinely
+  awkward to access. Newer builds off Edwards Street and in the Seacliff area
+  run Bosch or KitchenAid front-loaders, sometimes on pedestals that raise the
+  machine just enough to complicate a spin basket pull.
+
+commonProblems:
+  - title: "Hard Water Scale Killing the Drain Pump Prematurely"
+    description: "MWDOC water in Huntington Beach runs around 300–350 ppm hardness.
+      That calcium deposits inside the drain pump housing, gradually restricting flow
+      until the motor seizes mid-cycle. LG TurboWash units in 92646 show this pattern
+      constantly — the OE6 or OE error code appears, the drum stops, water sits at
+      the bottom. A pump replacement fixes it, but descaling the inlet valve and hose
+      assembly at the same time prevents the next failure."
+
+  - title: "Excessive Vibration from Worn Shock Absorbers"
+    description: "Bosch 500 Series front-loaders in the Seacliff tract homes vibrate
+      hard enough to walk across the floor — usually a sign the shock absorbers have
+      given out. Concrete slab foundations here don't flex, so every imbalance
+      transfers directly into the machine frame. Replacing all four absorbers at
+      once (not just the cracked one) stops the problem properly. Samsung units in
+      the same age bracket often have a drum spider failure driving similar symptoms."
+
+  - title: "Door Lock Failure Stranding a Full Load"
+    description: "Front-loader door latch assemblies fail more often than the
+      manufacturers admit. The dE or dL error on an LG, or the door lock indicator
+      blinking on a KitchenAid, usually means the latch actuator has burned out or
+      the wiring harness to the control board has corroded — salt-air proximity
+      accelerates that corrosion noticeably in the beach-adjacent blocks of 92648.
+      The fix is a direct part swap; the board itself rarely needs replacement."
+
+faq:
+  - q: "How fast can you get to Huntington Beach for washer repair?"
+    a: "From our nearest route along PCH or the 405, most addresses in 92646–92649
+      are reachable within 90 minutes to 2 hours. Parking near the downtown beach
+      cottages can slow us down, so we call ahead. Call (323) 870-4790 to confirm
+      same-day availability — evening slots fill up fast on weekends."
+
+  - q: "Do you repair Bosch and KitchenAid washers in Huntington Beach?"
+    a: "Both brands, yes. Bosch 300 and 500 Series front-loaders are common in the
+      Seacliff and Pacific Ranch areas. KitchenAid top-loaders show up frequently
+      in the older 92647 tract homes. Typical fixes include control board resets,
+      water inlet valve replacements, and drain pump rebuilds on the Bosch units."
+
+  - q: "What does a washer repair visit typically cost, and do you carry parts?"
+    a: "Diagnostic is a flat fee, applied to the repair if you proceed. Common parts
+      — drain pumps, door latch assemblies, drive belts — travel in the van. For
+      Bosch or LG control boards we usually source overnight. Same-day repair
+      is realistic for the most common failures. Schedule online or call
+      (323) 870-4790 for an honest estimate before we show up."
+```
+
+---
+
+**Статистика:**
+- Брендов: LG, Samsung, Bosch, KitchenAid — **4 бренда** ✓
+- Технических терминов: drain pump, drum bearing, water inlet valve, shock absorbers, door latch assembly, control board, spin basket, drive belt — **8 терминов** ✓
+- Коды ошибок: OE6/OE (LG), dE/dL (LG/KitchenAid) ✓
+- Zip коды: 92646, 92647, 92648, 92649 ✓
+- Локация: Bolsa Chica, Main Street, Seacliff, PCH, Edwards Street ✓
+- CTA с номером: (323) 870-4790 — упомянут **3 раза** ✓
+- Same-day urgency signal ✓
+- Открывающий паттерн отличается от всех трёх запрещённых ✓
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

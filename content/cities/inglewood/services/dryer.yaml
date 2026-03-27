@@ -1,0 +1,83 @@
+Inglewood is in **Los Angeles County** (not New Jersey) — treating as LA South Bay, zip codes 90301–90305.
+
+---
+
+```yaml
+title: "Inglewood Dryer Repair — Same-Day South Bay Calls"
+
+intro: |
+  The post-war stucco homes packed along Centinela Avenue and off Prairie
+  Avenue in 90302 were built before dedicated laundry rooms existed. Vents
+  got routed wherever they'd fit — sharp bends, short runs, ducts dumping
+  into wall cavities. That Whirlpool gas dryer running two full cycles on
+  one load of jeans isn't broken; it's suffocating. Most of these calls
+  get sorted same day once we can get in and check the exhaust path.
+
+localContext: |
+  Zip codes 90301 through 90305 run heavy with 1950s and early-60s
+  single-family homes and dingbat apartment buildings — laundry hookups
+  wedged into converted garages or utility closets barely wide enough to
+  open the dryer door. The newer construction near SoFi Stadium introduced
+  stacked units in tighter spaces, which creates completely different
+  ventilation constraints than the older detached setups a few blocks away.
+
+commonProblems:
+  - title: "Lint Restriction Killing Drying Performance"
+    description: |
+      Short, kinked vent runs in Inglewood's older converted-garage laundry
+      setups trap lint faster than anything. The blower wheel pushes warm
+      air but has nowhere to send it. A Samsung front-loader or Whirlpool
+      top-load taking 90-plus minutes on a normal cycle is almost always a
+      duct problem first — not a heating element failure. We inspect the
+      full exhaust path before touching any internal components.
+
+  - title: "Thermal Fuse Blown on Gas Units"
+    description: |
+      Gas dryers are standard throughout this part of the South Bay. Once
+      airflow gets restricted enough, the thermal fuse sacrifices itself to
+      prevent overheating. LG and GE models from the early 2010s are
+      especially prone — the fuse sits right in the exhaust path and blows
+      clean. Replace it without clearing the underlying blockage and it goes
+      again within a few months. We fix both the symptom and the cause.
+
+  - title: "Worn Drum Rollers in High-Use Rentals"
+    description: |
+      Grinding or squealing as the drum turns usually means the drum rollers
+      have worn through their bearing surface. Maytag and older Kenmore units
+      in Inglewood's long-term rental properties take daily beatings from
+      large households. The rollers support the drum's weight; once they go,
+      the drum wobbles and starts shredding the drive belt too. Catching it
+      at the roller stage saves the belt — and $80 in additional parts.
+
+faq:
+  - q: "How fast can you get to Inglewood for dryer repair?"
+    a: |
+      South Bay routing puts us through Hawthorne, El Segundo, and Inglewood
+      regularly — most 90301 and 90303 calls get a same-day window. Evening
+      slots are available on weekdays. Call (323) 870-4790 and we'll give
+      you a two-hour arrival window the same morning.
+
+  - q: "Do you repair Samsung and LG dryers here in Inglewood?"
+    a: |
+      Both brands, yes. Samsung front-loaders in this area commonly throw
+      a DC error tied to the motor control board or an unbalanced drum
+      roller. LG sensor-dry models tend to fail at the moisture sensor,
+      causing the unit to quit mid-cycle even when the load is still wet.
+      Stock parts for both.
+
+  - q: "What does dryer repair cost, and can I get same-day service?"
+    a: |
+      Diagnostic fee is $65, applied toward the repair if you move forward.
+      Most fixes — thermal fuse, drum roller swap, belt tensioner — land
+      between $120 and $220 parts and labor combined. Schedule online or
+      call (323) 870-4790; emergency same-day slots fill by noon most days.
+```
+
+---
+
+**Brand mentions:** Whirlpool, Samsung, LG, GE, Maytag, Kenmore (6)
+**Technical terms:** blower wheel, heating element, thermal fuse, drum rollers, drive belt, belt tensioner, moisture sensor, motor control board (8)
+**CTAs:** (323) 870-4790 ×2, same-day, emergency same-day, schedule online
+**Local anchors:** Centinela Ave, Prairie Ave, SoFi Stadium, zip 90301/90302/90303/90305
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

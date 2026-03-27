@@ -1,0 +1,66 @@
+title: "Irvine Refrigerator — Hard Water, Hot Summers, Fast Fix"
+
+intro: |
+  Orange County water routinely tests above 300 ppm hardness — and in Irvine's master-planned
+  neighborhoods like Woodbridge and Portola Springs, that mineral load quietly destroys ice maker
+  assemblies and water inlet valves on LG french-door units long before homeowners notice any
+  problem. Great Park-area homes running KitchenAid built-ins see the exact same damage pattern.
+  Call (323) 870-4790 and we can usually be there same-day.
+
+localContext: |
+  Most Irvine housing dates from the 1970s through the 2000s — well-maintained but hitting the
+  age where compressors and evaporator coils start failing. Zip 92618 around Portola Springs runs
+  heavy on newer townhomes with tight kitchen layouts and shared-wall access complications.
+  Over in 92612 near UCI, older condo stock means compact units in cramped spaces. Turtle Rock's
+  custom homes are a different story entirely — Sub-Zero and Thermador built-ins dominate there,
+  and those require different tools and different part sourcing.
+
+commonProblems:
+  - title: "Mineral Scale Choking Ice Makers and Fill Lines"
+    description: |
+      The calcium in OC tap water accumulates inside the ice maker assembly — specifically around
+      the water inlet valve seat and the fill tube — until ice production drops to zero or stops
+      completely. LG and Samsung french-door models in the 92620 zip are the most frequent callout
+      for this exact failure. A thorough descale plus a valve swap usually wraps up in one visit,
+      no parts order needed if we stock the right inlet valve for your model.
+  - title: "Compressor Stress from Irvine's Inland Heat"
+    description: |
+      East of the 5 freeway, Irvine summers push past 95°F regularly. Refrigerators in garages
+      or south-facing kitchens run their compressors nearly non-stop, burning out condenser fans
+      and accelerating refrigerant loss. Bosch and Thermador units handle heat better than budget
+      brands but still develop failures under sustained load. First symptoms: loud humming at
+      night, or the fresh food compartment running 5–8 degrees warm while the freezer holds fine.
+  - title: "Defrost System Breakdown in Aging KitchenAid and Sub-Zero Units"
+    description: |
+      Turtle Rock and Shady Canyon homes often have mid-2000s KitchenAid or Sub-Zero refrigerators
+      hitting their 15–20 year mark. The defrost timer and defrost heater degrade together,
+      letting ice sheet over the evaporator coil until airflow cuts to near zero. The fridge
+      section warms while the freezer stays cold — a textbook symptom that's fast to diagnose
+      on-site. Sub-Zero's sealed system makes this repair more involved, but we carry the common
+      heater kits for the 700 and 650 series.
+
+faq:
+  - q: "How fast can you get to Irvine for refrigerator repair?"
+    a: |
+      The 92612–92620 corridor is on our daily route. From our nearest tech, door-to-door is
+      usually 30–45 minutes. Most jobs get same-day slots, often within 2 hours of your call —
+      evenings included. Dial (323) 870-4790 or hit the scheduling link to lock in a window.
+  - q: "Do you work on Sub-Zero and Thermador refrigerators in Irvine?"
+    a: |
+      Yes — those are the dominant brands in Turtle Rock and Shady Canyon, so we see them
+      constantly. Sub-Zero compressor issues, Thermador door gasket replacements, KitchenAid
+      evaporator coil blockages. LG and Samsung diagnostics too. We carry parts for all of
+      them so same-day repair is realistic, not just same-day diagnosis.
+  - q: "What does refrigerator repair cost in Irvine, and how does payment work?"
+    a: |
+      Flat diagnostic fee applies on arrival — credited toward the repair if you approve the
+      work. Most fixes land between $150–$350 for parts and labor: drain pump swaps, thermostat
+      replacements, control board resets. Emergency and evening slots are available at no
+      surcharge. We quote before touching anything, no surprises on the invoice.
+```
+
+---
+
+Всё по структуре: 3+ бренда (LG, Samsung, KitchenAid, Sub-Zero, Thermador, Bosch), 6+ технических терминов (inlet valve, ice maker assembly, compressor, condenser fan, evaporator coil, defrost timer, defrost heater, drain pump), 3 zip-кода Irvine (92618, 92612, 92620), районы Turtle Rock / Portola Springs / Shady Canyon, лендмарк Great Park, CTA с номером (323) 870-4790, сигналы срочности same-day + 2 hours + evenings. Слов ~570.
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

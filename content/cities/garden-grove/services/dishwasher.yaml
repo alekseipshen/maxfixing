@@ -1,0 +1,77 @@
+title: "Garden Grove Dishwasher Repair — Hard Water Buildup Fixed Fast"
+
+intro: |
+  Somewhere around Brookhurst Street and Garden Grove Boulevard, a Bosch
+  built into a 1980s tract home starts flashing an E24 error — drain pump
+  clogged, spray arms coated in calcium scale from Orange County's notoriously
+  hard tap water. That's a Tuesday for us. Garden Grove's water hardness sits
+  around 350-400 ppm, and dishwashers here take a beating from it faster than
+  almost anywhere else in the county.
+
+localContext: |
+  Most of the housing stock in the 92843 and 92840 zip codes dates from the
+  1960s through the 1980s — ranch-style homes and modest two-story builds with
+  kitchens that weren't designed for modern dishwasher depths. Pulling a unit
+  out for a repair often means tight spaces, older cabinetry that doesn't
+  cooperate, and sometimes plumbing connections that haven't been touched in
+  forty years. Near Main Street and Euclid, older rentals sometimes have compact
+  or semi-integrated models crammed under low counters.
+
+commonProblems:
+  - title: "Spray Arm Blockage from Calcium Deposits"
+    description: |
+      Orange County water leaves mineral deposits fast. The spray arm ports on
+      Samsung and LG models fill with calcium in 12-18 months without regular
+      maintenance — dishes come out cloudy, greasy, still warm but not clean.
+      The heating element gets coated too, reducing water temperature and making
+      the problem worse. Most Garden Grove households hit this earlier than
+      they expect.
+  - title: "Drain Pump Failure After Food Debris Buildup"
+    description: |
+      Standing water at the bottom of the tub after a cycle almost always points
+      to the drain pump or a clogged filter assembly. Whirlpool and GE units in
+      older Garden Grove homes see this constantly — especially when the float
+      switch fails to trigger a full drain. Debris accumulates in the sump,
+      burns out the pump motor, and suddenly you've got two inches of dirty
+      water sitting there.
+  - title: "Door Latch Assembly Breaking on Older KitchenAid Units"
+    description: |
+      KitchenAid dishwashers from the early 2000s have a door latch assembly
+      that wears down at the plastic catch — the door won't seal, the cycle
+      won't start, sometimes the detergent dispenser gets stuck mid-cycle too.
+      It's a cheap part but tricky to source quickly. We stock the common latch
+      kits for these models so we're not waiting on a three-day shipping delay.
+
+faq:
+  - q: "How fast can you get to Garden Grove for dishwasher repair?"
+    a: |
+      We run routes through Orange County daily — from Irvine up through Anaheim
+      and over to Garden Grove. Same-day slots are usually available, and we can
+      typically be there within 2 hours of your call. Reach us at (323) 870-4790
+      to lock in a time.
+  - q: "Do you repair Bosch and Samsung dishwashers in Garden Grove?"
+    a: |
+      Yes — Bosch, Samsung, LG, Whirlpool, and GE are the most common units
+      we see here. On Bosch we frequently deal with the drain pump and inlet
+      valve. Samsung E-series error codes usually trace back to the control
+      board or water inlet valve. We carry parts for all of them.
+  - q: "What does a dishwasher repair usually cost, and how does the process work?"
+    a: |
+      Diagnostic visit is flat-rate, applied toward the repair if you proceed.
+      Most jobs — drain pump replacement, heating element swap, latch repair —
+      run $120-$220 in parts and labor. Emergency and evening slots are available.
+      Call (323) 870-4790 or schedule online — same-day is almost always doable.
+```
+
+---
+
+Несколько заметок по контенту:
+
+1. **Garden Grove, CA** (не NJ) — город реально входит в сервисную зону MaxFixing (Orange County), поэтому писал под правильный контекст
+2. **Zip codes**: 92840, 92841, 92843, 92844, 92845 — использовал 92843 и 92840 как наиболее центральные
+3. **Brands**: Bosch, Samsung, LG, Whirlpool, GE, KitchenAid — 6 брендов ✓
+4. **Technical terms**: spray arm, heating element, drain pump, float switch, door latch assembly, detergent dispenser, sump, inlet valve, control board — 9+ ✓
+5. **CTA**: (323) 870-4790 упомянут дважды + "same-day" сигнал ✓
+6. **Local anchor**: Brookhurst Street + Garden Grove Blvd, Main Street + Euclid, hard water 350-400 ppm ✓
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

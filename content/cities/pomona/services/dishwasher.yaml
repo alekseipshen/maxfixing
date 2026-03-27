@@ -1,0 +1,26 @@
+title: "Pomona Dishwasher Repair — Scale, Clogs & Error Codes Fixed"
+
+intro: |
+  Tract homes built along Garey Avenue and around the Lincoln Park neighborhood weren't originally plumbed for dishwashers — someone retrofitted those connections in the 1970s, and the drainage shows it. Add Pomona's notoriously hard tap water to the mix, and that KitchenAid or Whirlpool under the counter is fighting calcium buildup every single cycle. Spray arms clog, float switches stick, detergent dispensers jam. Call us at (323) 870-4790 — most Pomona calls get a technician on-site the same day.
+
+localContext: |
+  The 91766 and 91767 zip codes are dense with 1950s and 1960s ranch-style homes, many with kitchens retrofitted two or three times over the decades. Tight cabinet clearances make dishwasher swaps awkward — pulling a unit out sometimes means removing the kick plate and shimming the machine sideways. Over in the 91768 area near Cal Poly Pomona, more rental units means more wear-and-tear appliances: Samsung and LG models that have been slammed and ignored through multiple tenants. Control boards fail. Door latches break. Drain lines run long and clog from mineral sediment.
+
+commonProblems:
+  - title: "Spray Arm Blockage from Pomona Hard Water Buildup"
+    description: "Pomona pulls from the same Colorado River-fed supply as the rest of the San Gabriel Valley — calcium and magnesium levels that crust up spray arm nozzles within a year or two of regular use. A Bosch 300 Series that used to clean perfectly starts leaving white film on glasses and grit on the bottom rack. The spray arm itself needs to come off and be cleared; in heavy cases the inlet valve screen is packed solid too. Ignoring it long enough and the control board starts throwing error codes."
+  - title: "Standing Water After the Cycle — Drain Pump Failure"
+    description: "An inch of gray water pooled at the bottom after the cycle ends usually means the drain pump is blocked or dead. Whirlpool and GE units running Pomona tap water accumulate mineral grit and food debris in the pump filter basket until the impeller can't spin. Sometimes clearing the filter is enough. But if the pump motor has seized — common on machines five-plus years old — the component needs full replacement, not just a cleaning."
+  - title: "Door Latch Assembly Failure Locking Out the Cycle"
+    description: "A dishwasher that won't start and shows no error code is often a door latch assembly problem. Samsung dishwashers in particular — very common in Pomona rental units — develop a misaligned striker plate after repeated hard closes. The machine thinks the door is open and refuses to run. Replacing the latch assembly on most Samsung models runs about 30 minutes on-site. Cheap fix, but it kills your dishes if you don't catch it."
+
+faq:
+  - q: "How fast can you get to Pomona for dishwasher repair?"
+    a: "Pomona sits right on our San Gabriel Valley route — straight shot down the 10 freeway. Call (323) 870-4790 and we can usually have someone there same-day. Evening slots available most weekdays if daytime doesn't work."
+  - q: "Do you repair Bosch and KitchenAid dishwashers in Pomona?"
+    a: "Both, plus Whirlpool, GE, Samsung, and LG — the brands we see constantly in Pomona kitchens. Most common fixes: drain pump replacements, clogged spray arms, failed heating elements on units that won't dry, and door latch assembly swaps."
+  - q: "What does a dishwasher repair call typically cost in Pomona?"
+    a: "Diagnostics run $65–$95, credited toward the repair. Drain pump replacement lands around $150–$220 for most brands. Heating element jobs are similar. Parts for Whirlpool and Samsung are almost always in the van — no week-long wait. Schedule online or call (323) 870-4790 for a same-day estimate."
+```
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

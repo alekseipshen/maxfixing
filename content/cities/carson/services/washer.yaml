@@ -1,0 +1,61 @@
+title: "Carson Washer Repair — South Bay Hard Water Kills Machines Fast"
+
+intro: |
+  Hard water in the 90745 zip hits washers especially hard — the mineral
+  deposits that clog the water inlet valve and coat the drum seal are some
+  of the worst we see anywhere in the South Bay. The 1970s tract homes off
+  Avalon Boulevard mostly have dedicated laundry rooms with standard hookups,
+  but LA's water quality doesn't care about your setup. That Samsung
+  front-loader throwing an E3 error in your garage utility room? Mineral
+  buildup is the first thing to check.
+
+localContext: |
+  Carson's housing stock is mostly 1970s and early-1980s single-family homes
+  and condos — solid construction, but the laundry setups vary. In the 90746
+  area near Cal State Dominguez Hills, stacked units squeezed into garages
+  are common, with barely enough clearance to reach the back panel. Some of
+  the older townhome clusters on Main Street have utility closets tight
+  enough that replacing a drum bearing means disconnecting and repositioning
+  the entire machine before you can even open the rear drum assembly.
+
+commonProblems:
+  - title: "Drain Pump Clogged by Scale Buildup"
+    description: "Carson's municipal water runs high on calcium — that scale
+      accumulates inside the drain pump housing over 18-24 months and
+      eventually seizes the impeller. LG front-loaders throw an OE code when
+      this happens. Clearing the pump filter buys a few weeks, but a full
+      pump replacement is usually what it takes. We stock the LG drain pump
+      assemblies in the van."
+  - title: "Drum Bearing Failure from Concrete Floor Vibration"
+    description: "A failing drum bearing starts as a low metallic groan
+      during spin — gets louder fast. Bosch and KitchenAid machines bury the
+      bearing behind the rear drum assembly, so it's a full teardown to reach
+      it. Common in Carson homes where washers sit on concrete garage slabs
+      with nowhere to dampen the vibration transfer."
+  - title: "Water Inlet Valve Cracking in Samsung Front-Loaders"
+    description: "The WF45 series Samsung units — popular in Carson
+      households — develop hairline cracks in the water inlet valve after
+      years of hard water cycling through the solenoid body. The machine fills
+      slowly or not at all, sometimes logging a 4E error. Direct valve
+      replacement fixes it; the OEM part runs $45-60 and the job takes under
+      an hour."
+
+faq:
+  - q: "How fast can you get to Carson for washer repair?"
+    a: "From our South Bay routes, usually 2 hours or less. The 110 and 405
+      interchange near Sepulveda is our main approach — street parking on
+      residential blocks is generally fine. Call (323) 870-4790 to check
+      same-day availability; slots go fast in the afternoon."
+  - q: "Do you repair Bosch and LG washers in Carson?"
+    a: "Yes — LG, Bosch, and Samsung are the three we see most in Carson.
+      Typical jobs: drain pump on LG front-loaders, drum bearing on Bosch,
+      control board resets or replacements on Samsung. We carry parts for
+      all three on the van."
+  - q: "What does washer repair cost in Carson, and can you come today?"
+    a: "Most repairs run $120-280 — drain pumps and inlet valves are on the
+      lower end, drum bearings higher. Same-day appointments are available
+      most weekdays; evening slots open Thursday and Friday. Schedule online
+      or call (323) 870-4790."
+```
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

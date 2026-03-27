@@ -1,0 +1,57 @@
+title: "Torrance Washer — South Bay Hard Water Kills Machines Early"
+
+intro: |
+  Hard water from West Basin Municipal Water District runs through virtually every home
+  near Del Amo Fashion Center — mineral scale quietly destroys drum bearings and water
+  inlet valves in front-loaders before most owners notice anything wrong. The 1960s ranch
+  homes packed along Anza Avenue and off Sepulveda tend to have tight laundry closets,
+  which stacks heat and lint buildup on top of sediment damage. That Bosch front-loader
+  isn't failing randomly — your water is working against it.
+
+localContext: |
+  Zip codes 90503 and 90505 cover West and South Torrance — mostly 1960s to 1980s
+  single-family homes with original laundry hookups, hoses that haven't been swapped in
+  a decade, drain connections running slower than they should. Old Torrance (90501) is
+  tighter: smaller lots, older plumbing, compact laundry setups shoehorned under stairs
+  or beside the water heater. Neither layout was designed for the vibration that modern
+  high-speed spin cycles produce, and it shows in the repair calls we get.
+
+commonProblems:
+  - title: "Mineral Scale Chokes Water Inlet Valves — LG's IE Error Is the Tell"
+    description: "West Basin water leaves calcium deposits inside the inlet valve solenoid screens
+      within 3-4 years. Filling slows, then stops. LG front-loaders throw an IE error code
+      at that point — most people assume it's the control board and panic. It's almost always
+      the valve. Replacing the water inlet valve takes 45 minutes; leaving it causes the board
+      to cycle incorrectly and fail next, which is a much larger bill."
+  - title: "Worn Shock Absorbers Turning Spin Cycles Into a Problem in 90501 Homes"
+    description: "Older concrete and vinyl floors in the 90501 zip code are rarely perfectly level,
+      and once the shock absorber bushings wear out, a Samsung front-loader will walk across
+      the room on a full spin. The machine isn't broken — the shock absorbers are. It's a
+      straightforward swap, but ignored long enough, the vibration cracks the drum spider and
+      turns a $180 repair into something much worse."
+  - title: "Door Latch Assembly Failures on Bosch and KitchenAid Front-Loaders"
+    description: "The door lock interlock on Bosch Serie 800 and KitchenAid front-loaders uses
+      plastic latch components that crack after years of repeated cycling. Machine won't start,
+      clothes are trapped inside, and the error light blinks without much useful information.
+      It's a 30-minute fix with the right part on hand. Call us at (323) 870-4790 and we
+      can usually get to Torrance the same day."
+
+faq:
+  - q: "How fast can you get to Torrance for a washer repair?"
+    a: "We run the South Bay daily. Off the 405 corridor, we typically reach 90503 or 90505
+      within 90 minutes to 2 hours of your call. Evening slots are available most weekdays.
+      Call (323) 870-4790 to check same-day availability — morning calls almost always land
+      a same-day appointment."
+  - q: "Do you repair Bosch and LG washers, or just the basic brands?"
+    a: "Both are the majority of what we see in Torrance. On LG front-loaders, drain pump
+      replacements and door lock failures are the most common jobs. Bosch Serie machines
+      usually come in for control board issues or latch assembly cracks. Samsung is the
+      third brand we stock parts for regularly."
+  - q: "What does a washer repair cost, and is there a diagnostic fee?"
+    a: "Diagnostic visit is $85, credited toward any repair. Most jobs — inlet valve, drain
+      pump, drum bearing replacement — run between $160 and $290 parts and labor. Same-day
+      service is available in Torrance; schedule online or call (323) 870-4790 before noon
+      for best availability."
+```
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

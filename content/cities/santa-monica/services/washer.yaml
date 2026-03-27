@@ -1,0 +1,73 @@
+Вот сгенерированный YAML для страницы Santa Monica / Washer:
+
+```yaml
+title: "Santa Monica Washer Repair — Hard Water, Compact Units, Fast Call"
+
+intro: |
+  Ocean Park's 1960s walk-ups off Lincoln Boulevard have laundry closets
+  squeezed into parking-level corners — barely room to crouch beside a
+  machine, let alone pull it out for service. LA water runs 300+ ppm
+  hardness, and in 90405, that calcium goes straight into water inlet
+  valves and causes mid-cycle stops with E17 codes on Bosch front-loaders.
+  Compact stacked setups in these buildings also mean our service van needs
+  a parking plan before the call even starts.
+
+localContext: |
+  Buildings in zip 90403 and 90404 span a wide range — 1940s courtyard
+  apartments near Wilshire Boulevard, 1970s condos off Montana Avenue, and
+  newer mixed-use along Santa Monica Boulevard. Laundry access goes from
+  dedicated rooms in newer construction to single-stack hookups behind
+  closet doors. Older units often have 110V outlets where a modern LG
+  washer expects 220V, or aging 2-inch drain standpipes that can't keep up
+  with high-efficiency spin speeds.
+
+commonProblems:
+  - title: "Hard Water Destroying the Water Inlet Valve"
+    description: "LA's calcium-heavy supply packs inlet valve screens with
+      sediment until water flow drops to a trickle — then the machine
+      errors out mid-fill. Samsung front-loaders throw 4C or 4E codes when
+      this happens. Replacing the inlet valve takes about 45 minutes;
+      descaling the drum while we're in there prevents the next call
+      entirely."
+  - title: "Drum Bearing Failure in Stacked Condo Units"
+    description: "Stacked Bosch and LG units in 90402 condos run drum
+      bearings hard — especially when renters overload them. Grinding noise
+      during spin usually means the drum bearing is done. Left too long,
+      bearing seizure takes out the rear drum seal and shaft too, turning a
+      $150 fix into a $400 one."
+  - title: "Drain Pump Burnout from Old Standpipes"
+    description: "Pre-1980 plumbing in some Santa Monica apartments has
+      narrow standpipes — hair, lint, and soap residue compound fast. The
+      drain pump works overtime against partial blockages and eventually
+      burns out. KitchenAid front-loaders show F21 or Sud codes before
+      failure. Clearing the pump filter buys time, but if the motor is
+      already straining, it needs to come out."
+
+faq:
+  - q: "How fast can you get to Santa Monica for a washer repair?"
+    a: "Most calls in 90401–90405 get same-day service — usually there
+      within 2 hours from dispatch. Parking near the Pier or on Main Street
+      adds a few minutes, but we plan for it. Call (323) 870-4790 to book."
+  - q: "Do you repair Bosch and LG front-load washers in Santa Monica?"
+    a: "Yes — Bosch and LG are probably half our Santa Monica calls. Bosch
+      usually needs door latch assemblies or control board work. LG
+      front-loaders tend toward drain pump failures and tub bearing wear.
+      Samsung we see a lot too, mainly inlet valve and spin basket issues."
+  - q: "What does a washer repair cost and can I get a same-day slot?"
+    a: "Most repairs run $150–$350 depending on the part. Common parts for
+      Bosch, LG, Samsung, and KitchenAid are on the van, so same-day
+      fixes are typical. Evening slots available — call (323) 870-4790 or
+      schedule online. Diagnostic fee applies toward the repair."
+```
+
+**Проверка требований:**
+- **Бренды (3+):** Bosch, LG, Samsung, KitchenAid — 4 бренда, каждый в реальном сценарии ✓
+- **Технические термины (4+):** water inlet valve, drum bearing, drain pump, door latch assembly, control board, spin basket — 6 терминов ✓
+- **CTA с номером:** (323) 870-4790 — дважды + "schedule online" ✓
+- **Zip коды:** 90405, 90403, 90404, 90402, 90401–90405 ✓
+- **Районы/ориентиры:** Ocean Park, Lincoln Boulevard, Montana Avenue, Wilshire Boulevard, Santa Monica Pier, Main Street ✓
+- **LA hard water:** 300+ ppm, конкретные последствия ✓
+- **Нет запрещённых паттернов:** проверено ✓
+- **Уникальное начало:** не начинается с названия города, не повторяет паттерны других страниц ✓
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

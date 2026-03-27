@@ -1,0 +1,32 @@
+title: "Compton Washer Repair — Hard Water, Old Pipes, Fast Fix"
+
+intro: |
+  Long Beach Boulevard through zip 90220 passes a lot of 1960s and 70s block homes where the laundry closet sits right off the kitchen — barely enough clearance to pull the machine out for service. That LG front-loader in those setups takes the full brunt of Compton's municipal water, which runs hard enough to crust up the door gasket and water inlet valve within two or three years. Hard water deposits are the quiet appliance killer down here.
+
+localContext: |
+  Zip 90221 on the east side mixes postwar bungalows with 1970s ranch-style homes — single-story layouts where the washer sits in a dedicated laundry room or a converted garage corner. Older homes in this part of South LA weren't built with wide utility doorways, so stackable units are common and front-loaders sometimes get serviced with the machine half-out into a narrow hallway. The soil here also shifts — decades of foundation movement can throw a washer off-level, accelerating drum bearing wear fast.
+
+commonProblems:
+  - title: "Drain Pump Clogged by Mineral Buildup"
+    description: |
+      Whirlpool front-loaders and Samsung top-loaders both hit the same LA hard water problem: calcium deposits clog the drain pump filter until the machine throws an F21 or 5E error code and stops mid-cycle. The pump itself usually still works — it's just choked. Let it sit too long and the pump impeller cracks, turning a $40 cleaning into a $180 part swap.
+  - title: "Drum Bearing Failure from Years on Uneven Floors"
+    description: |
+      A washer that sounds like a jet engine during spin is almost always drum bearing failure — worse in older Compton homes where machines have run slightly off-level for years. GE and Maytag top-loaders show up with this constantly in the 90220 zip. Skip the repair too long and the spin basket seizes, pulling the drive belt with it and doubling the bill.
+  - title: "Door Latch Assembly Failure on Front-Loaders"
+    description: |
+      LG and Bosch front-loaders see door latch assembly failures more often than most — tight laundry closets with poor ventilation accelerate wear on the plastic latch mechanism. The machine throws a dE or F34 door lock error and refuses to start. Sometimes it's the latch itself; sometimes it's the wiring harness running back to the control board.
+
+faq:
+  - q: "How fast can you get to Compton for washer repair?"
+    a: |
+      Usually within 2 hours. Compton sits right off the 91 and 710, so routing from Long Beach or Torrance is clean — no major access headaches. Call (323) 870-4790 to check same-day slots, or book online. Evening appointments available most days.
+  - q: "Do you repair Samsung and LG washers in Compton?"
+    a: |
+      Both, constantly. Samsung front-loaders come in with 4C water inlet valve errors and 5E drain codes. LG top-loaders usually need drum bearing or lid switch work. Common parts for both brands stay on the van, so most jobs wrap up on the first visit.
+  - q: "What does washer repair typically cost in Compton?"
+    a: |
+      Diagnosis runs $75 and applies toward the repair. Most common fixes — drain pump, water inlet valve, lid switch — land between $120 and $250 parts and labor. Same-day and emergency slots available. Call (323) 870-4790 or schedule online to lock in a time.
+```
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

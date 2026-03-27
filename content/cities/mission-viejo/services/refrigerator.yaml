@@ -1,0 +1,64 @@
+title: "Mission Viejo Refrigerator — Sub-Zero & Built-In Specialists"
+
+intro: |
+  Saddleback Valley homes in the 92691 and 92692 zip codes were built during
+  a master-planned construction wave that ran from the late 1960s through the
+  1990s — and many kitchens have been remodeled since, leaving built-in
+  Sub-Zero and KitchenAid units now hitting the 12-20 year mark. That's when
+  compressor noise starts and ice maker assembly failures become common. Orange
+  County's moderately hard water only accelerates the problem, coating water
+  inlet valves with mineral scale that cuts flow before most homeowners
+  realize anything's wrong.
+
+localContext: |
+  Homes in the 92692 zip — especially the communities off Oso Parkway and
+  around Casta del Sol — were built in the 1970s and 80s and have been
+  updated multiple times since. That update cycle means wildly mixed
+  refrigerator vintages: original Whirlpool side-by-sides sitting alongside
+  panel-ready Thermador and Sub-Zero built-ins installed during recent
+  remodels. Panel-ready units need the front panel removed before diagnostics
+  can even begin, which rules out technicians who only carry standard tools.
+
+commonProblems:
+  - title: "Mineral scale blocking ice maker water lines"
+    description: "Orange County tap water runs 300-400 ppm hardness in many
+      areas. That calcium load builds up inside the water inlet valve and the
+      ice maker supply tube over time, eventually blocking flow entirely.
+      Sub-Zero and KitchenAid built-in ice makers are especially vulnerable —
+      the smaller tubing diameter clogs faster than in freestanding units, and
+      the fix is more than just flushing the line."
+  - title: "Compressor cycling constantly during summer"
+    description: "South OC summers hit 90-95°F regularly, putting refrigerators
+      under sustained load. A condenser fan partially blocked by lint or debris
+      forces the compressor to run longer cycles until it starts failing. Bosch
+      and Thermador column refrigerators — common in Mission Viejo kitchen
+      remodels — have condenser access points that aren't obvious without
+      model-specific documentation."
+  - title: "Built-in unit not holding temperature"
+    description: "Iced-over evaporator coils and defrost timer failures are the
+      usual cause when a built-in stops cooling properly. On Sub-Zero units, a
+      worn door gasket lets warm air seep in continuously, running the
+      evaporator coil into failure faster than normal. These aren't off-the-
+      shelf parts — they need to be ordered, and repair timelines depend on
+      what's in stock."
+
+faq:
+  - q: "How fast can you get to Mission Viejo for a refrigerator repair?"
+    a: "South OC is on our regular route — usually within 2 hours of your call.
+      The I-5 corridor and Oso Parkway make the drive predictable. Call us at
+      (323) 870-4790 to get on the schedule. Same-day and evening slots are
+      available most days."
+  - q: "Do you repair Sub-Zero and Thermador refrigerators?"
+    a: "Yes, and those are two of the most common premium brands in Mission
+      Viejo kitchens. Sub-Zero built-ins frequently need evaporator coil
+      service or ice maker assembly replacement. Thermador column units tend
+      to develop condenser fan and control board issues. Common parts for both
+      are stocked in the van."
+  - q: "What happens during the first service visit?"
+    a: "Diagnostics first — compressor pressure, thermostat function, defrost
+      system check, any error codes the unit is throwing. Quote comes after
+      that, on-site. Many repairs finish same-day if the part is on the truck.
+      Schedule online or call (323) 870-4790 to book."
+```
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

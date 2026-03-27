@@ -1,0 +1,27 @@
+title: "Mission Viejo Washer — Hard Water, Aging Valves, Fast Fix"
+
+intro: |
+  The planned neighborhoods off Marguerite Parkway — those 1970s and early-80s tract homes in 92691 — were built with actual dedicated laundry rooms, which is a luxury compared to much of LA. Homeowners who've upgraded to Bosch or Miele front-loaders often don't realize how hard Orange County water runs: parts of South OC regularly test above 300 mg/L dissolved minerals. That calcium load quietly destroys water inlet valves and drum bearings long before anything looks obviously wrong.
+
+localContext: |
+  Mission Viejo's housing stock is predominantly single-family homes built between 1968 and 1990, mostly slab-on-grade. Zip code 92692 — the western side near Oso Creek Trail — skews slightly newer, late-80s to mid-90s construction, with laundry alcoves sized for older top-loaders. Retrofitting a modern front-load machine into those original cutouts sometimes means accessing the drain pump or hoses from awkward angles. Technicians need to work around that original cabinetry without damaging the finished interiors these homes typically have.
+
+commonProblems:
+  - title: "Mineral Scale Destroying Water Inlet Valves"
+    description: "OC tap water above 300 mg/L deposits calcium scale inside inlet valve screens and solenoid ports — the machine fills slowly, then stops filling entirely. Bosch and Miele washers are especially sensitive; their precision-toleranced inlet assemblies clog faster than domestic brands. A valve replacement caught early runs about $80 in parts. Left alone, the control board overheats trying to compensate and fails next."
+  - title: "Drum Bearing Failure in Aging Top-Loaders"
+    description: "Maytag and Kenmore top-loaders installed in Mission Viejo homes before 2000 are hitting the end of their drum bearing lifespan. The symptom is a grinding rumble that worsens at high spin cycles — the spin basket develops wobble, and if the bearing seizes, it takes the drive belt with it. Worth repairing if the tub is clean and rust-free, which most are in this climate."
+  - title: "Door Lock Failures on Front-Load Machines"
+    description: "Samsung front-loaders throw the dE or dL error code and refuse to start when the door latch assembly wears out — common after 5–7 years of daily use. South OC's warm temperatures accelerate thermal fatigue on the lock actuator. The latch swap itself is straightforward, but the wiring harness behind the front panel needs careful handling to avoid cracking the door boot seal on reassembly."
+
+faq:
+  - q: "How fast can you get to Mission Viejo for a washer repair?"
+    a: "From our South OC service loop, Mission Viejo is usually a 90-minute response window. We cover 92691 and 92692 with same-day availability most weekdays. Call (323) 870-4790 by noon and we can usually be there that afternoon."
+  - q: "Do you repair Bosch and Miele washers in Mission Viejo?"
+    a: "Both are standard jobs for us. Bosch condenser pump failures, Miele water inlet valve clogs, KitchenAid control board resets — all common in this area. Samsung front-loaders also show up constantly. We stock parts for these brands or source same-day."
+  - q: "What does washer repair cost, and do you offer emergency service?"
+    a: "Diagnostic fee is $75, applied toward the repair. Most jobs — drain pump swap, door latch assembly, drum bearing — land between $160 and $380 all-in. Evening slots available through 7 PM. Same-day emergency visits: call (323) 870-4790 early."
+
+---
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

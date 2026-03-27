@@ -1,0 +1,60 @@
+title: "Santa Ana Refrigerator — Built for OC Heat, Not Against It"
+
+intro: |
+  Summer ambient temps in Santa Ana kitchens routinely hit 85°F — and that's before you open
+  the oven. The Samsung french-door units in Logan neighborhood homes run their compressors
+  harder here than the same model would in San Diego. Floral Park bungalows from the 1940s
+  weren't built with modern refrigerator heat loads in mind. MaxFixing covers Santa Ana
+  daily — call (323) 870-4790 and we're usually there within 2 hours.
+
+localContext: |
+  Most of the housing stock in 92703 and 92704 is 1950s-70s — tract homes with tight
+  kitchen layouts, galley-style spaces where a full-depth fridge barely fits. Older
+  construction means less ventilation around the condenser coils, which accelerates
+  wear on fans and compressors. The Floral Park historic district has larger kitchens,
+  but owners there tend to run KitchenAid and Bosch counter-depth models that require
+  specific tools to service properly.
+
+commonProblems:
+  - title: "Compressor Overload from OC Summer Heat"
+    description: "Santa Ana doesn't cool down much at night in July and August. A refrigerator
+      compressor cycling nonstop in a warm kitchen wears out faster — you'll hear it running
+      constantly, then the cabinet temp drifts to 50°F or higher. On older LG bottom-freezer
+      units, the linear compressor is the first thing to go. That's a major repair, not a
+      tune-up."
+  - title: "Ice Maker Failure from Hard Water Mineral Buildup"
+    description: "Orange County tap water carries significant calcium and magnesium load. Over
+      time, mineral deposits clog the water inlet valve and coat the ice maker assembly —
+      ice production slows, then stops entirely. GE and Whirlpool side-by-side models in
+      92701 show this pattern constantly. The inlet valve screen blocks before most homeowners
+      notice anything's wrong."
+  - title: "Evaporator Coil Ice Buildup Causing Warm Freezer"
+    description: "Freezer feels cold but fridge section climbs to 45°F or warmer? Likely a
+      failed defrost timer or a defrost heater that stopped firing. Ice accumulates on the
+      evaporator coil until airflow is blocked completely. Samsung four-door models see
+      this more than most — the defrost cycle runs on a board-controlled interval that
+      glitches after a few years in high-ambient environments like Santa Ana summers."
+
+faq:
+  - q: "How fast can you get to Santa Ana for refrigerator repair?"
+    a: "We run routes through Orange County daily — from the 5 freeway corridor through 92701
+      and 92703 to the 55 side of town. Parking a service van in most Santa Ana neighborhoods
+      is straightforward. Call (323) 870-4790 before noon and same-day is almost always
+      possible. Evening slots available too."
+  - q: "Do you repair Samsung and LG refrigerators in Santa Ana?"
+    a: "Yes — both brands are extremely common in this zip and we see them constantly. On
+      Samsung, it's usually the ice maker assembly or defrost sensor. LG linear compressor
+      failures are their own category. We also service Whirlpool and GE units, which show
+      up in every older Santa Ana home we visit."
+  - q: "What does a refrigerator repair typically cost, and do you charge for the diagnostic?"
+    a: "Diagnostic is $75 and goes toward the repair if you proceed. Most fixes — a water
+      inlet valve swap, a defrost timer replacement, a door gasket — run $150-$280 parts and
+      labor. Compressor jobs cost more. Schedule online or call (323) 870-4790 — we'll give
+      you a firm quote before touching anything."
+```
+
+---
+
+**Примечание:** В промпте указан "New Jersey" — это явно ошибка шаблона. Santa Ana находится в Orange County, **California**, и контент написан под реальный город (OC, CA). Если нужно сгенерировать для другого города — уточни.
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

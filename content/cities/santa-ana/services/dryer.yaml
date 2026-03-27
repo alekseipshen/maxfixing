@@ -1,0 +1,28 @@
+title: "Santa Ana Dryer Repair — Fast Fix for OC's Hardest-Working Laundry"
+
+intro: |
+  Bristol Street corridor, 92703 — these blocks run laundry constantly. Big families, small square footage, dryers that never fully cool down between loads. That LG DLE7300 stacked unit in a Flower Park apartment running six cycles a day? The heating element doesn't last forever under that kind of schedule. We cover Santa Ana daily and can usually be there the same afternoon you call.
+
+localContext: |
+  Most of Santa Ana's housing stock was built between 1955 and 1975 — compact laundry closets, side-by-side stackable setups, and older gas hookups that haven't been touched since the Carter administration. Zip 92704, near South Coast Metro, has a mix of 1960s ranch homes with tight utility rooms where you need to pull the dryer fully out just to reach the exhaust vent. That access problem adds time — and it's part of why we always quote before we start.
+
+commonProblems:
+  - title: "Thermal Fuse Burnout From Continuous Use"
+    description: "Run a dryer hard enough — back-to-back loads, poor ventilation, lint screen ignored — and the thermal fuse blows to prevent a fire. On Whirlpool WED5000DW units, this is the number one call we get in Santa Ana. The drum still spins, but there's zero heat. Replacing the fuse is cheap; ignoring the underlying vent blockage means it blows again in three months."
+  - title: "Lint Buildup Choking the Exhaust Vent"
+    description: "Santa Ana's older homes often have 90-degree vent runs through the wall — sometimes 12 feet of flex duct before air hits outside. Lint accumulates fast in those bends. The blower wheel pushes air, but restricted flow causes the moisture sensor to misread dryness levels, so clothes come out damp after a full cycle. Samsung and LG both log error codes (dE, dF) when airflow drops below threshold."
+  - title: "Drum Roller Wear on Gas Dryers"
+    description: "That grinding, squealing noise mid-cycle is almost always drum rollers or a worn belt tensioner, not something catastrophic. GE gas dryers from the early 2010s — common in 92701 rentals — show this pattern around the 8-10 year mark. The drum roller bearings flatten, the drum wobbles, and the noise starts quiet then gets worse every week. Parts are under $40; labor takes about an hour."
+
+faq:
+  - q: "How fast can you get to Santa Ana for dryer repair?"
+    a: "We run service routes through Orange County every day. From our nearest tech's location, Santa Ana is typically 20-35 minutes. Call (323) 870-4790 before noon and we can usually confirm a same-day window. Evening slots available Tuesday through Saturday."
+  - q: "Do you work on Samsung and LG dryers? Those seem to be everywhere here."
+    a: "Both brands make up a big chunk of our calls. On Samsung — heating element failures, moisture sensor cleaning, control board resets. LG — drive belt replacements, door switch issues, the dE error from faulty door latches. We carry parts for both on the van."
+  - q: "What does dryer repair usually cost, and is there a diagnosis fee?"
+    a: "Diagnostic visit is $75, waived if you approve the repair. Most common fixes — thermal fuse, drum roller, belt tensioner — run $120-$220 parts and labor. Gas valve igniter replacements sit around $180. Schedule online or call (323) 870-4790; same-day emergency slots exist for no-heat calls."
+```
+
+**Note:** The prompt says "New Jersey" but Santa Ana with Orange County is in **California** — content was written for Santa Ana, CA. If you actually need a New Jersey city, let me know and I'll regenerate.
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

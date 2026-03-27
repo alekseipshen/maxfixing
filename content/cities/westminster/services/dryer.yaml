@@ -1,0 +1,25 @@
+title: "Westminster Dryer — Thermal Fuse Failures in OC's Inland Heat"
+
+intro: |
+  Tract homes along Magnolia Avenue and Bolsa Chica Road in 92683 were built with laundry tucked into corners — vent runs that travel fifteen feet or more before reaching an exterior wall. That geometry kills dryers slowly. A Samsung front-loader in one of those setups will blow its thermal fuse long before the drum shows any other wear, usually around year four or five. Call (323) 870-4790 and we can usually get to Westminster the same day.
+
+localContext: |
+  Westminster's 92683 and 92684 zip codes are almost entirely residential — 1960s ranch-style homes with occasional 1970s duplexes along Bolsa Avenue near the Little Saigon corridor. Laundry in these houses typically lives in a converted garage corner or a narrow utility closet off the kitchen. Both setups share the same headache: vent ducts that bend around structural corners, cutting airflow and packing lint pressure faster than most machines were designed to handle.
+
+commonProblems:
+  - title: "Thermal Fuse Blows Because the Vent Can't Breathe"
+    description: "Westminster's 1960s floor plans often put the laundry room as far from the exterior wall as possible, creating vent runs with two or three 90-degree bends. Back-pressure from restricted airflow overheats the exhaust path, and the thermal fuse — a one-time safety cutoff on Samsung and LG models — trips permanently. It's a $15 part, but accessing it means pulling the drum first."
+  - title: "Drum Spins but Nothing Actually Gets Dry"
+    description: "Fabric softener residue coats the moisture sensor strips — two thin metal bars near the lint trap on most Whirlpool and GE models — and tricks the control board into ending the cycle too early. The load comes out warm but damp. Cleaning those sensor strips takes five minutes; if that doesn't resolve it, the heating element may have partially failed and needs a resistance check."
+  - title: "Rhythmic Thumping or Squealing Mid-Cycle"
+    description: "Maytag and Whirlpool dryers from the early 2010s use plastic drum rollers that flatten after years of use. Once they lose their round profile, every rotation produces a thump or a squeal depending on how far gone they are. Replacing the rollers — usually two to four per unit — along with a quick check of the drive belt tension resolves it in a single visit."
+
+faq:
+  - q: "How fast can you get to Westminster for dryer repair?"
+    a: "Westminster sits right on our Orange County route along the 405 corridor — travel time from our nearest tech is usually under 40 minutes. Same-day slots are available most weekdays. Call (323) 870-4790 before noon to lock one in; evening appointments are open on request."
+  - q: "Do you repair Samsung and LG dryers in Westminster?"
+    a: "Samsung and LG are the two brands we see most in 92683 and 92684. On Samsung: thermal fuse, heating element, belt tensioner. On LG: moisture sensor calibration, control board errors, drum bearing wear. We stock parts for both and handle most repairs in a single visit."
+  - q: "What does dryer repair cost in Westminster, and how quickly can you fix it?"
+    a: "Diagnostic runs $65 and applies toward the repair. Most common jobs — thermal fuse swap, drum roller replacement, heating element — land between $120 and $220 total. Same-day service is available most days, with evening slots Tuesdays and Thursdays. Schedule at (323) 870-4790."
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

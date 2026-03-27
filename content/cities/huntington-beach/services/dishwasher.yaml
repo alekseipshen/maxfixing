@@ -1,0 +1,26 @@
+title: "Huntington Beach Dishwasher — Salt Air, Hard Water, Real Repairs"
+
+intro: |
+  Salt air rolling in off the Pacific doesn't stay at the beach — it gets into everything, including the dishwashers in homes between PCH and Garfield Avenue. Layer that on top of Orange County's Colorado River water supply, which runs notoriously hard, and a Bosch 500 Series starts showing white film deposits and spray arm blockages within a couple years of install. The float switch and heating element take the hit quietly until the machine just stops cleaning.
+
+localContext: |
+  Most of the housing stock in 92648 — the blocks closest to downtown Huntington Beach and the pier area — dates from the 1960s and '70s. Kitchens were built narrow. Getting a dishwasher in and out for service means working around tight cabinet runs and occasionally dealing with tile floors that have been there since the original build. Over in 92646, near Newland Street and the newer tracts, it's more likely to be a KitchenAid or built-in Samsung — newer appliances, but the local hard water still catches up to them.
+
+commonProblems:
+  - title: "Mineral Scale Killing Spray Arms and Clouding Glassware"
+    description: "Orange County tap water averages over 300 ppm hardness. That calcium builds up inside the spray arm jets and around the detergent dispenser nozzle until water pressure drops and dishes come out streaky or gritty. On LG and Bosch models, the heating element gets coated too, which drags up cycle times and eventually trips the thermal fuse."
+  - title: "Standing Water After the Cycle — Drain Pump Not Clearing"
+    description: "A pool of dirty water sitting at the bottom after a full cycle usually means the drain pump impeller is jammed with debris, or the pump motor has seized. Samsung french-door owners who also have Samsung dishwashers see this pattern — the fine mesh filter gets bypassed when the drain pump seal degrades. Full pump replacement runs faster than most people expect if the control board hasn't thrown additional faults."
+  - title: "Door Latch Failure and Detergent Dispenser Getting Stuck Mid-Cycle"
+    description: "KitchenAid dishwashers in the 92648 area, especially units from the 2015-2019 range, develop door latch assembly wear that triggers mid-cycle shutdowns. The door latch microswitch loses contact and the machine reads it as an open door. A stuck detergent dispenser spring is usually a separate issue — soap residue hardens the actuator pin when the heating element isn't reaching full temp."
+
+faq:
+  - q: "How fast can you get to Huntington Beach for dishwasher repair?"
+    a: "We run routes through Orange County daily. From our nearest staging point, Huntington Beach is usually 30-45 minutes out. Call (323) 870-4790 and we can often get a technician out same day, sometimes within 2 hours depending on where we're finishing up."
+  - q: "Do you service Bosch and KitchenAid dishwashers specifically?"
+    a: "Yes — those are the two we see most often in HB homes. On Bosch, it's usually spray arm clogs, drain pump failures, or E24/E25 error codes. KitchenAid repairs tend to involve the door latch assembly, control board faults, or water inlet valve failures. We also handle Samsung and LG models regularly."
+  - q: "What does dishwasher repair typically cost in this area, and do you offer same-day service?"
+    a: "Most repairs run $120-$280 depending on the part. Drain pump and door latch jobs are on the lower end; control board replacements cost more. Evening slots are available for residents who can't take time off work. Schedule online or call (323) 870-4790 — same-day is available most weekdays."
+```
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

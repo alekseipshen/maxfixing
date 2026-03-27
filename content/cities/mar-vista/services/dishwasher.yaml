@@ -1,0 +1,65 @@
+title: "Mar Vista Dishwasher Repair — Hard Water & Drain Issues Fixed"
+
+intro: |
+  Homes along Inglewood Boulevard and the 90066 grid have been running LA
+  municipal water through their kitchens for decades — and that water is
+  hard. Real hard. Bosch 300 Series units in mid-century Mar Vista kitchens
+  show spray arm jets clogged with calcium scale within two or three years
+  of install. That's not a broken machine — that's the water. Call us at
+  (323) 870-4790 and we'll usually be there the same day.
+
+localContext: |
+  Most of Mar Vista's housing stock dates from the 1950s and 60s — compact
+  ranch-style homes with kitchens that weren't designed around 24-inch
+  built-in dishwashers. The 90066 zip has a high density of these retrofitted
+  setups, which means tight under-counter clearances and tricky drain hose
+  routing. Older flex drain lines in these homes collapse over time, which
+  looks like a pump failure but isn't. We know the difference before we
+  pull a single part.
+
+commonProblems:
+  - title: "Spray Arm Scale Buildup From 90066 Tap Water"
+    description: "LA's water hardness routinely measures above 300 ppm — and Mar Vista
+      gets the same supply. That mineral load packs the spray arm jets on Samsung
+      and GE units until water pressure drops below the threshold needed to reach
+      the upper rack. The float switch reads normal, the cycle runs, the dishes
+      come out cloudy and greasy. Full spray arm replacement plus inlet valve flush
+      usually solves it in one visit."
+  - title: "Drain Not Clearing After Cycle Ends"
+    description: "Standing water at the bottom of the tub is almost always the drain
+      pump or a collapsed drain hose — not the control board. In Mar Vista's older
+      homes, the corrugated drain lines under the sink kink or compress against
+      cabinet walls after years of shifting. Whirlpool and KitchenAid units throw
+      an F8 E1 or F9 code when the drain pump is blocked. We test both before
+      ordering anything."
+  - title: "Detergent Dispenser Stuck or Misfiring"
+    description: "The detergent dispenser door on Bosch and LG dishwashers relies on
+      a small wax motor actuator that fails in two ways: it stops opening mid-cycle,
+      or it opens too early during the pre-wash. Hard water residue builds up around
+      the latch mechanism and locks it in place. Replacing the dispenser assembly
+      is a 45-minute job — parts are usually stocked for common Bosch 500 Series
+      and LG LDF models."
+
+faq:
+  - q: "How fast can you get to Mar Vista for dishwasher repair?"
+    a: "We run the Westside daily — Venice, Culver City, Mar Vista are all on the
+      same route. From the time you call (323) 870-4790, we're typically at your
+      door within 2 hours. Evening slots are available if you can't do daytime.
+      Street parking on most Mar Vista residential blocks is fine for the van."
+  - q: "Do you repair Bosch and Samsung dishwashers specifically?"
+    a: "Those are actually our two most common calls in the 90066 area. On Bosch,
+      we see a lot of drain pump failures and dispenser actuator issues. Samsung
+      DW80 series comes in with spray arm clogs and door latch assembly problems.
+      We also work on LG, GE, and KitchenAid — whatever's under the counter."
+  - q: "What does a dishwasher repair visit typically cost in Mar Vista?"
+    a: "Diagnosis is $75, applied toward the repair if you move forward. Most
+      single-part fixes — drain pump, heating element, door latch assembly — run
+      $150–$280 total including labor. Same-day service is standard, not an
+      upcharge. If we can't fix it that visit, no trip fee for the return."
+```
+
+---
+
+**Заметка по данным**: В запросе указан штат "New Jersey", но Mar Vista — это район в Западном Лос-Анджелесе (90066). Контент написан для правильного гео-контекста (West LA). Если в пайплайне есть баг с определением штата — стоит проверить откуда берётся поле `county` в source данных.
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

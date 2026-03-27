@@ -1,0 +1,55 @@
+title: "Carson Dryer Repair — South Bay Heat Kills Thermal Fuses Fast"
+
+intro: |
+  Gas dryers in Carson's 1960s ranch homes off Avalon Boulevard run harder in July than
+  most owners expect — ambient temps above 90°F push longer cycles, and that extra heat
+  lands directly on the thermal fuse. Got a call last month from a homeowner near Cal State
+  Dominguez Hills with an LG front-loader that stopped producing heat entirely. Blown thermal
+  fuse, but the actual culprit was a vent run that hadn't been touched in three years.
+
+localContext: |
+  Most of the housing stock in 90745 and 90746 dates to the 1960s and early 1970s — laundry
+  rooms are small, often tucked into garages with metal flex duct that sags and traps lint.
+  That duct geometry is a thermal fuse's worst enemy. Newer developments near Victoria Street
+  have proper rigid ductwork, but the older blocks around Dominguez Hills are a different story.
+  Service vans park on the street fine; the tight quarters inside are the actual challenge.
+
+commonProblems:
+  - title: "Thermal Fuse Blown From Restricted Airflow in Garage Laundry Setups"
+    description: "Older vent runs in Carson's garage-conversion laundry setups often use undersized
+      or kinked flex duct. The blower wheel moves air, but if the path is partially blocked, heat
+      backs up and the thermal fuse trips as a safety cutoff. Samsung and LG front-loaders are
+      especially common here — both pair the fuse with a high-limit thermostat, and both usually
+      need checking at the same time."
+
+  - title: "Drum Not Spinning — Worn Drum Rollers or Snapped Drive Belt"
+    description: "A dryer that hums but the drum sits still is almost always a snapped drive belt
+      or seized drum roller. Bosch and LG units from the early 2010s see this more often than newer
+      models — the roller axles dry out without lubrication over time. The fix is straightforward
+      but requires full cabinet disassembly to reach the rear drum support bracket."
+
+  - title: "Takes 90 Minutes to Dry a Normal Load — Moisture Sensor Failure"
+    description: "KitchenAid and Samsung stackable units in Carson condos near the 405 corridor show
+      this pattern regularly. Moisture sensor strips inside the drum get coated with dryer sheet
+      residue and stop reading correctly — the control board keeps the cycle running long past done.
+      Cleaning the strips with rubbing alcohol fixes it half the time; the other half needs a full
+      sensor assembly swap."
+
+faq:
+  - q: "How fast can you get to Carson for dryer repair?"
+    a: "Most of Carson is 20-30 minutes from our South Bay route. Parking on residential streets
+      near Avalon and Main is easy. Call (323) 870-4790 — morning calls usually land an afternoon
+      slot, same-day. Evening appointments available too."
+
+  - q: "Do you repair LG, Samsung, and Bosch dryers in Carson?"
+    a: "All three are common in 90745 and 90746. LG dryers: drum roller wear, moisture sensor failure,
+      control board faults. Samsung front-loaders: heating element and thermal fuse problems. Bosch
+      condensation dryers need a different diagnostic approach but we carry the parts."
+
+  - q: "What does dryer repair cost in Carson, and is same-day service available?"
+    a: "Diagnostic visit is flat-rate, credited toward the repair if you move forward. Most thermal
+      fuse or drive belt jobs run $120-$220 parts and labor. Same-day and emergency slots are
+      available — schedule online or call (323) 870-4790."
+```
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

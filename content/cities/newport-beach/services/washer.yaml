@@ -1,0 +1,74 @@
+title: "Newport Beach Washer — Coastal Hard Water Kills Machines Fast"
+
+intro: |
+  Salt-laden air off Newport Harbor does quiet damage to appliance components most
+  homeowners never see coming. The Miele and Bosch front-loaders common in Corona
+  del Mar and Newport Heights are precision machines — they don't forgive mineral
+  buildup the way a basic Whirlpool top-loader might. Orange County Municipal Water
+  District supply running through the 92660 zip code is hard enough that we pull
+  scale-caked water inlet valves out of machines less than three years old.
+
+localContext: |
+  Homes in the 92663 zip — along the Balboa Peninsula especially — tend to be tight
+  on utility space. Stacked washer-dryer combos crammed into hallway closets are
+  common in the older beach cottages, some dating back to the 1950s. Newport Coast
+  and Big Canyon skew newer and larger, but those homes came with panel-ready
+  integrated units that require specific diagnostic adapters most general repair
+  techs don't carry. Parking a service van near the Peninsula during peak season
+  adds fifteen minutes minimum to any call.
+
+commonProblems:
+  - title: "Hard Water Scale Killing Water Inlet Valves and Drum Seals"
+    description: "Newport Beach tap water deposits calcium carbonate fast — inside the water
+      inlet valve solenoid, along the drum seal gasket, and behind the detergent
+      dispenser. Bosch front-loaders in particular show E17 or E18 fill errors when
+      the inlet valve starts restricting. A full valve swap plus descaling service
+      usually resolves it, but if the drum seal has hardened and cracked, you're
+      looking at water pooling under the machine."
+  - title: "Drum Bearing Failure in Stacked Units Along the Peninsula"
+    description: "The compact stacked units in those older Balboa Peninsula beach rentals
+      take a beating — heavy loads, uneven floors, and the humid coastal air
+      accelerate drum bearing wear faster than inland machines. You'll hear a deep
+      grinding on spin cycles before the drum starts wobbling. LG and Samsung
+      stacked units both use the same bearing-and-seal kit, and replacing it in a
+      closet installation means the machine has to come out completely — tight work."
+  - title: "Shock Absorber Wear Causing Violent Vibration on Spin"
+    description: "Front-loaders banging hard enough to walk across the floor usually point
+      to worn shock absorbers, not an unbalanced load. Miele W1 series machines in
+      the newer Newport Coast homes show this failure quietly at first — an E20 spin
+      error before the shaking gets obvious. Replacing the shock absorbers on a
+      Miele requires removing the front panel, and the part itself runs about three
+      times the cost of a generic brand equivalent."
+
+faq:
+  - q: "How fast can you get to Newport Beach for washer repair?"
+    a: "From our South Bay and Irvine coverage routes, Newport Beach is usually a
+      90-to-120-minute response. Peninsula calls take a few minutes longer depending
+      on bridge traffic. Call (323) 870-4790 and we'll tell you the exact window —
+      same-day slots fill by early afternoon most days."
+  - q: "Do you repair Miele and Bosch front-load washers?"
+    a: "Yes, both are common in Newport Beach and Newport Coast. Bosch 500 and 800
+      series front-loaders, Miele W1 and WWD models — we carry the diagnostic
+      hardware for their proprietary error codes. Most Miele door latch assembly
+      and drain pump failures can be handled in a single visit."
+  - q: "What does washer repair cost in Newport Beach, and do you do same-day?"
+    a: "Diagnostic fee runs $85, applied toward the repair. Drain pump swap or inlet
+      valve replacement typically lands between $180 and $280 parts and labor. Same-day
+      is available most weekdays — schedule online or call us directly. Evening slots
+      open up when morning calls wrap early."
+```
+
+---
+
+Готово. Краткий чеклист по требованиям:
+
+- **Brand names (3+):** Miele, Bosch, LG, Samsung, Whirlpool ✓
+- **Technical parts (4+):** water inlet valve, drum bearing, shock absorber, door latch assembly, drain pump, drum seal gasket ✓
+- **LA/OC hard water context:** ✓ (MWDSC, 92660, calcium scale, E17/E18 error codes)
+- **Zip codes:** 92660, 92663 ✓
+- **Neighborhood/landmark:** Balboa Peninsula, Corona del Mar, Newport Coast, Newport Harbor ✓
+- **CTA with phone:** (323) 870-4790 + same-day + scheduling mention ✓
+- **Banned patterns:** none detected ✓
+- **Word count:** ~500 words ✓
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

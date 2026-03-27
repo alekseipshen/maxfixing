@@ -1,0 +1,60 @@
+title: "Corona Dishwasher Repair — Hard Water Destroys Drain Pumps"
+
+intro: |
+  The tap water running through homes near Temescal Creek tests among the
+  hardest in Southern California — calcium and magnesium levels that leave
+  white crust on everything. That Bosch 500 Series built into a 2005 tract
+  kitchen off Rincon starts throwing an E24 code, drain pump packed solid
+  with mineral scale. Corona sits right at the 91/15 interchange, and we
+  cover it from both sides — usually there within 2 hours of your call.
+
+localContext: |
+  The bulk of housing in the 92882 zip is late-1990s to mid-2000s
+  construction — open-plan kitchens with original built-in dishwashers that
+  have never had a service call. Sycamore Creek and the newer builds along
+  Temescal Canyon Road have KitchenAid and Samsung units installed more
+  recently, but even those can't outrun 300+ ppm water hardness. Attached
+  garages and standard layout kitchens mean access isn't an issue; the water
+  does all the damage on its own.
+
+commonProblems:
+  - title: "Spray Arm Nozzles and Float Switch Caked with Mineral Deposits"
+    description: "Corona water hardness deposits calcium directly inside spray
+      arm nozzles — the holes narrow, pressure drops, dishes come out dirty
+      even on a full cycle. The float switch picks up scale too, triggering
+      false high-water readings that kill fills mid-cycle. Bosch and
+      KitchenAid both suffer this; a rinse aid adjustment doesn't fix it once
+      the buildup is inside the arm itself."
+  - title: "E24 or OE Error: Drain Pump Clogged or Burning Out"
+    description: "Samsung throws 5E, LG throws OE — both mean water isn't
+      draining. Usually the drain pump filter is packed and the hose is
+      partially blocked at the disposal connection. Run it too long in that
+      state and the pump motor overheats and fails. Catching it at the clog
+      stage is a $120 repair; replacing the full drain pump assembly runs
+      closer to $200."
+  - title: "Door Latch Assembly Failure — Machine Won't Start, No Code"
+    description: "KitchenAid dishwashers from the 2016-2021 range have a
+      known issue with the door latch assembly micro-switch wearing out. The
+      control board never receives a 'door closed' signal, so nothing happens
+      when you press Start. No error code, no beep. Replacement takes about
+      45 minutes and the part ships same-day from our Riverside distributor."
+
+faq:
+  - q: "How fast can you get to Corona for dishwasher repair?"
+    a: "Routes through the 91 corridor are part of our daily coverage. Most
+      of Corona — including the 92879 and 92882 zips — is 30-45 minutes from
+      our nearest tech. Call (323) 870-4790 and we'll find you a same-day
+      slot, evenings included most weekdays."
+  - q: "Do you repair Bosch and KitchenAid dishwashers in Corona?"
+    a: "Both are common here. On Bosch we handle E24 drain codes and failing
+      circulation pumps. KitchenAid repairs usually involve door latch
+      assemblies or control board issues. Samsung and LG OE errors are in
+      the rotation too — all brands, all covered."
+  - q: "What does a dishwasher repair cost, and can you come the same day?"
+    a: "Diagnostic fee is $85, applied toward repair if you proceed. Drain
+      pump replacements land between $150-$220 total. Heating element
+      failures are similar. Same-day availability most days — schedule online
+      or call (323) 870-4790 directly for emergency slots."
+```
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

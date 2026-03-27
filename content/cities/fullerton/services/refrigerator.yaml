@@ -1,0 +1,27 @@
+title: "Fullerton Refrigerator Repair — Hard Water, Hot Summers, Real Fixes"
+
+intro: |
+  Orange County Municipal Water District water running through Fullerton taps tests consistently hard — often above 280 ppm. That mineral load quietly chokes ice maker assemblies over 18-24 months. A Samsung french-door in the 92832 zip near Heritage Square will show the same white calcium crust on the water inlet valve as one up in Sunny Hills, just faster if the filter's overdue. We've opened dozens of them this year alone.
+
+localContext: |
+  Fullerton's housing stock covers a lot of ground. The blocks east of downtown — around 92831, close to Cal State Fullerton — are heavy with 1960s tract homes and smaller kitchens where appliances sit tight against the wall. North Fullerton in 92835 trends toward newer construction, Sub-Zero built-ins, and KitchenAid french-doors. Those ranch houses off Brookhurst Road often have refrigerators with almost zero rear clearance — poor condenser airflow is the first thing we check on any cooling complaint.
+
+commonProblems:
+  - title: "Ice Maker Failure From Mineral Buildup — Most Common Call in 92832 and 92833"
+    description: "The water inlet valve and ice maker assembly are the first casualties of Fullerton's hard water. Calcium deposits block the valve solenoid and restrict flow until ice production stops entirely. That LG french-door that was making ice fine last summer likely has a caked fill tube and a partially seized valve — not a control board issue, despite what the error code suggests."
+  - title: "Refrigerator Can't Hold Temp During the 95°F Summer Stretch"
+    description: "Fullerton summers regularly push well into the 90s, forcing refrigerators into extended cooling cycles. When the condenser fan motor weakens or the condenser coils haven't been cleaned in two years, the compressor overworks and the box can't hold 37°F. Whirlpool and Maytag side-by-sides from the early 2010s are especially prone to this failure pattern once they hit the 10-12 year mark."
+  - title: "Compressor Rattling in KitchenAid and Sub-Zero Built-Ins in North Fullerton"
+    description: "KitchenAid and Sub-Zero built-ins — common in the newer construction north of Yorba Linda Boulevard — develop a rattling hum when the compressor start relay fails. Many homeowners think it's a loose panel or vibration from nearby appliances. Pull the relay and shake it. Rattles in your hand? That's a $15 part that, ignored, leads to a dead compressor and a $700 fix."
+
+faq:
+  - q: "How fast can you get to Fullerton for refrigerator repair?"
+    a: "Fullerton is typically 25-35 minutes from our coverage hub. Same-day slots are available most weekdays — call (323) 870-4790 before noon and we can usually be there that afternoon. We run in via Harbor Boulevard or the 91 Freeway depending on traffic."
+  - q: "Do you repair LG and Samsung refrigerators in Fullerton?"
+    a: "LG and Samsung are probably half our Fullerton calls. French-door ice maker failures, linear compressor issues on LG units, Samsung's notorious ice room fan freezing — all of it. We also handle Bosch and KitchenAid regularly and stock parts for the most common repairs across all four brands."
+  - q: "What does a refrigerator repair visit cost, and is same-day service available?"
+    a: "Flat diagnostic fee, applied toward the repair if you book it. Most jobs — a defrost timer swap, door gasket replacement, or drain pump fix — run $150-$300 parts and labor. Evening slots available. Fridge completely warm? Call (323) 870-4790 and we treat it as urgent."
+
+---
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

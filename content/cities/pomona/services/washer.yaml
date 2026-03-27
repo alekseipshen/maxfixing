@@ -1,0 +1,62 @@
+title: "Pomona Washer Repair — Hard Water Kills Machines Fast"
+
+intro: |
+  Pomona's tap water is some of the hardest in the San Gabriel Valley — mineral
+  deposits clog water inlet valves and destroy drum bearings faster than most
+  owners expect. That LG front-loader sitting in a house off Garey Avenue in
+  91767 sees scale buildup inside the drum, behind the door gasket, everywhere.
+  Older Whirlpool top-loaders in the same neighborhood last longer mechanically,
+  but the lid switches fail constantly by year ten.
+
+localContext: |
+  The 1950s and '60s ranch-style homes throughout 91766 and 91768 — especially
+  along White Avenue and near Cal Poly Pomona — were built with standard laundry
+  hookups that haven't been updated since. Tight utility closets are common.
+  Getting to the back of a stacked Samsung unit in one of these older layouts
+  sometimes means pulling the whole machine out into a narrow hallway. Parking
+  for a service van on residential blocks near the Fairplex is usually fine,
+  but the driveways are short.
+
+commonProblems:
+  - title: "Water Inlet Valve Blocked by Mineral Scale"
+    description: "Pomona's hard water leaves calcium deposits inside the water inlet valve
+      screens — the machine starts a cycle, fills halfway, then stops cold.
+      Samsung and LG front-loaders show this as an IE or 4E error code.
+      The valve itself usually costs $35-60; the bigger job is flushing scale
+      out of the drum and hoses so it doesn't clog the new part immediately."
+
+  - title: "Drum Bearing Failure Causing Grinding and Vibration"
+    description: "A loud grinding noise during the spin cycle almost always points to a
+      worn drum bearing. LG and Whirlpool front-loaders in the 8-12 year range
+      hit this failure regularly, especially in homes where the machine runs
+      daily. The bearing sits deep inside the machine — it's a 2-3 hour job,
+      not a quick fix — but replacing it saves the whole unit."
+
+  - title: "Door Lock Assembly Failure Trapping Laundry Inside"
+    description: "GE and Samsung front-loaders develop door latch assembly failures where
+      the machine won't start or won't unlock mid-cycle. You see an LE or dE
+      error code on the display. The lock mechanism itself is a $25-40 part,
+      but diagnosing whether it's the latch, the strike, or the control board
+      reading the signal wrong takes actual testing — not guessing."
+
+faq:
+  - q: "How fast can you get to Pomona for washer repair?"
+    a: "Usually within 2 hours for calls placed before noon. We run routes through
+      the San Gabriel Valley regularly — Pomona, Ontario, and Claremont are all
+      on the same corridor. Call (323) 870-4790 and we'll tell you the exact
+      window. Evening slots available most weekdays."
+
+  - q: "Do you repair Samsung and LG front-loaders specifically?"
+    a: "Yes — Samsung and LG are the two most common brands we see in Pomona.
+      Also Whirlpool, GE, and Bosch. Front-loader drum bearings, drain pumps,
+      control boards, door latch assemblies — all standard repairs we carry
+      parts for on the truck."
+
+  - q: "How does pricing work for washer repair in Pomona?"
+    a: "Diagnostic visit is a flat fee, applied toward the repair if you proceed.
+      Most washer jobs run $150-300 parts and labor depending on what failed.
+      Same-day service is available — schedule online or call (323) 870-4790.
+      We don't charge extra for Pomona, Ontario, or the east SGV generally."
+```
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

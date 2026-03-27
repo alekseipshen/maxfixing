@@ -1,0 +1,58 @@
+title: "West Covina Washer — Hard Water & Same-Day Repairs"
+
+intro: |
+  San Gabriel Valley tap water tests consistently hard — West Covina municipal supply regularly
+  runs above 280 mg/L dissolved minerals, and that calcium buildup quietly destroys washers from
+  the inside out. That LG front-loader sitting in your utility room off Citrus Ave is probably
+  accumulating scale in the water inlet valve right now. Drum bearings, drain pumps, detergent
+  dispensers — hard water accelerates failure across every moving part.
+
+localContext: |
+  The 91790 and 91791 zip codes hold a lot of 1950s and early-60s ranch-style homes where the
+  laundry area was an afterthought — a narrow closet off the hallway, or a converted corner of
+  the garage near the water heater. Getting a full-size Samsung or Bosch front-loader into those
+  spaces was already a squeeze. Add decades-old plumbing and inconsistent water pressure, and
+  you've got a machine working harder than it was designed to.
+
+commonProblems:
+  - title: "Water Not Draining — Mineral-Clogged Drain Pump"
+    description: "West Covina's hard water leaves calcium deposits that gradually choke the drain
+      pump impeller. The washer fills, agitates, then just sits — water doesn't move. LG ThinQ
+      models throw an OE error code when this happens. Replacing the drain pump usually fixes it,
+      but we also flush the filter and check the drain hose for secondary buildup that causes the
+      problem to come right back."
+
+  - title: "Excessive Vibration During Spin Cycle"
+    description: "Uneven loads cause vibration in any machine, but when the shock absorbers or
+      drum bearings start going, you get violent shaking even with a balanced load. Samsung
+      front-loaders in the 91792 area show this pattern a lot — the UE or DC error codes appear
+      mid-cycle. Worn shock absorbers are typically the first failure; if left alone, the drum
+      bearing follows, and that's a much bigger repair."
+
+  - title: "Door Lock Failure Stopping Mid-Cycle"
+    description: "Bosch and KitchenAid front-loaders use a wax motor door latch assembly that
+      wears out around the 6-8 year mark. The washer locks, starts filling, then throws a door
+      error and won't continue. It's not a software glitch — the physical lid switch or latch
+      mechanism has failed. Common in West Covina homes where the machine runs 8-10 loads a week
+      for a full household."
+
+faq:
+  - q: "How fast can you get to West Covina for washer repair?"
+    a: "We're typically in West Covina within 2 hours of your call. The 91790 and 91791 areas we
+      reach from the 10 freeway via Citrus or Azusa Ave — no major routing issues. Call us at
+      (323) 870-4790 and we'll confirm an arrival window same day, including evening slots."
+
+  - q: "Do you work on Bosch and LG washers specifically?"
+    a: "Yes — Bosch front-loaders and LG ThinQ machines are two of the most common brands we
+      service in West Covina. Samsung front-loaders are right behind them. On LG, we see drain
+      pump failures and control board issues most often. Bosch tends to be door latch assemblies
+      and water inlet valves."
+
+  - q: "What does washer repair cost in West Covina, and can I get same-day service?"
+    a: "Most washer repairs run $150-$350 for parts and labor — drain pumps, drum bearings, and
+      inlet valves are the usual jobs. Same-day service is available; call (323) 870-4790 before
+      noon and we can usually get there the same afternoon. Emergency slots exist for machines
+      actively leaking."
+```
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

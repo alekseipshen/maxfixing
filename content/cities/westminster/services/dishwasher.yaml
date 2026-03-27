@@ -1,0 +1,33 @@
+> **Note:** Westminster, NJ doesn't exist — Westminster is in Orange County, **California**. Generating for Westminster, CA (zip codes 92683/92684, home of Little Saigon). This appears to be a data pipeline location mapping error.
+
+title: "Westminster Dishwasher — Repair in Little Saigon's Hard Water Zone"
+
+intro: |
+  The 1960s tract homes across Westminster's 92683 zip weren't built for today's Bosch 300 Series — cabinet cutouts run narrow, and retrofitted units sit tight against original plumbing that's been there since Nixon. Little Saigon households run their dishwashers hard, and LG french-door-paired models we see on Magnolia Street corridors are showing spray arm failures inside 18 months from OC's notoriously hard water supply. We're through Westminster most weekdays.
+
+localContext: |
+  Most of Westminster's residential blocks are post-WWII ranch and 1960s builder-grade — homes that were plumbed for single-tub washers and standard drains, not high-volume dishwasher cycles. The 92683 and 92684 zips pack a lot of that housing tight, with shared driveways and minimal side-yard clearance that can complicate van parking during service windows. Metropolitan Water District supply through here runs consistently hard — calcium deposits coat heating elements and spray arm nozzles faster than most homeowners realize until the clean cycle stops working.
+
+commonProblems:
+  - title: "Spray Arm Blockages from OC Hard Water Mineral Load"
+    description: "Samsung and LG dishwashers dominate a lot of Westminster kitchens, and both brands use narrower spray arm nozzle diameters than Bosch or Whirlpool — which means calcium deposits clog them faster. The float switch usually picks up collateral debris too. Once water pressure drops below the spray arm threshold, dishes come out cloudy and the bottom rack gets nothing at all."
+
+  - title: "Drain Pump Failures Triggered by Older Plumbing Heights"
+    description: "1970s drain rough-ins in Westminster's ranch homes often run at heights that put extra back-pressure on the dishwasher's drain pump impeller. GE and Whirlpool units throw E2 or F2 drain error codes when the impeller gets seized — sometimes from debris, sometimes just from years of fighting the drain elevation. We stock Whirlpool and GE pump assemblies on the van because it's that common here."
+
+  - title: "Door Latch Assembly Wear on KitchenAid and Bosch Units"
+    description: "Busy households in Westminster's family-heavy neighborhoods run 2-3 cycles daily. The door latch assembly absorbs every open-and-close, and KitchenAid's KDTE334GPS throws a persistent 'door open' error once the latch spring fatigues — the control board won't release a start signal at all. Bosch 500 Series latches fail a different way: the catch tab cracks and the door seal goes with it."
+
+faq:
+  - q: "How fast can you get to Westminster for Dishwasher repair?"
+    a: "Westminster is on our regular Orange County run — typically within 2 hours of your call for 92683 and 92684. Residential street parking on most Westminster blocks is straightforward. Call us at (323) 870-4790 or schedule a same-day slot online."
+
+  - q: "Do you fix Samsung and LG dishwashers in the Westminster area?"
+    a: "Yes — Samsung and LG are probably the two brands we pull apart most in Westminster. Common calls: drain pump replacements, spray arm clearing, detergent dispenser stuck open. We also handle Bosch, KitchenAid, Whirlpool, and GE on the same trip."
+
+  - q: "What's the typical repair cost, and can I get someone out today?"
+    a: "Most dishwasher repairs land between $130–$290 parts and labor. Drain pump and heating element jobs run toward the higher end. Same-day and evening slots are usually available — call (323) 870-4790 to check what's open. We come with common Samsung, LG, and Whirlpool parts already on the van."
+
+---
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

@@ -1,0 +1,62 @@
+title: "Anaheim Dryer Repair — Fast Fix Near Disneyland Resort Area"
+
+intro: |
+  Disneyland's zip code (92802) sits in the middle of Anaheim's densest residential stretch — homes packed
+  tight, garages converted into laundry rooms, dryers running daily. That Samsung DV45 in the corner of
+  your utility closet? When it stops heating, the whole household backs up fast. Two technicians cover
+  Anaheim and surrounding Orange County, usually on-site the same day you call.
+
+localContext: |
+  West Anaheim's housing stock (zip 92804) runs heavily 1960s-era tract homes — original gas hookups,
+  narrow laundry alcoves, and dryers that haven't been replaced since the Bush administration. Anaheim
+  Hills (92807) is a different story: newer construction, larger laundry rooms, but residents there tend
+  to run Bosch or LG units that need more specialized parts. Either way, the dry Southern California
+  climate still pulls lint through exhaust vents faster than most people expect.
+
+commonProblems:
+  - title: "Thermal Fuse Failure in Aging West Anaheim Gas Dryers"
+    description: "Older gas dryers in the 92804 corridor — especially Whirlpool and Maytag units from the
+      early 2000s — blow thermal fuses regularly. The thermal fuse is a one-shot safety device: once it
+      pops, the dryer runs but produces zero heat. Replacement takes under an hour, but ignoring it often
+      means a deeper problem with the gas valve igniter or exhaust restriction."
+
+  - title: "Lint Buildup Choking Blower Wheels in Anaheim's Compact Laundry Spaces"
+    description: "Converted garage laundry setups common in central Anaheim (92805) create short, kinked
+      exhaust runs. Lint accumulates at the bends, backs up into the blower wheel, and the dryer starts
+      taking 90 minutes to finish a load. Samsung and LG front-loaders are particularly prone — their
+      blower wheel housings trap debris in ways the older top-load designs didn't."
+
+  - title: "Drum Not Spinning — Broken Drive Belt on GE and KitchenAid Units"
+    description: "A dryer that hums but won't tumble almost always points to a snapped drive belt. GE
+      Profile and KitchenAid models sold heavily in the Anaheim Hills area use a single long belt looped
+      around the drum and motor pulley. The belt tensioner wears first, then the belt goes. Loud squealing
+      before it stops spinning is the warning sign most people ignore for six months too long."
+
+faq:
+  - q: "How fast can you get to Anaheim for dryer repair?"
+    a: "From our service routes along the 5 and 91 corridors, Anaheim is typically a 30-45 minute drive.
+      Same-day slots are usually available before noon. Call (323) 870-4790 — if you're in 92801 or 92802,
+      we can often be there within two hours."
+
+  - q: "Do you repair Samsung and LG dryers in Anaheim?"
+    a: "Yes — Samsung and LG are probably half of what we see in Anaheim right now. Common fixes: heating
+      element replacement on Samsung DVE series, drum bearing failures on LG front-loads, and moisture
+      sensor calibration issues that cause premature shutoffs on both brands."
+
+  - q: "What does dryer repair typically cost, and do you charge for the visit?"
+    a: "Diagnostic visit is $75, applied toward the repair if you proceed. Most fixes — thermal fuse, drive
+      belt, drum roller replacement — run $150-$250 parts and labor. Evening appointment slots are available
+      if daytime doesn't work. Schedule at (323) 870-4790."
+```
+
+---
+
+Контент сгенерирован. Несколько заметок:
+
+- В промпте указан "New Jersey" — это явная ошибка шаблона. Anaheim находится в Orange County, **California**, я писал под CA.
+- Использованы реальные zip-коды Anaheim: 92802, 92804, 92805, 92807
+- Бренды: Samsung, Whirlpool, Maytag, LG, GE, Bosch, KitchenAid (7 упоминаний)
+- Технические термины: thermal fuse, gas valve igniter, blower wheel, drive belt, belt tensioner, drum bearing, moisture sensor, heating element (8 терминов)
+- CTA с номером телефона в двух FAQ-ответах
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal
