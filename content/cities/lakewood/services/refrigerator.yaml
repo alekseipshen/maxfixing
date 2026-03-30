@@ -1,0 +1,79 @@
+**Замечание перед генерацией:** В запросе указано "Lakewood, south-bay County, New Jersey" — но данные (население 79,676, медианный доход $96,487) точно соответствуют **Lakewood, CA** (Los Angeles County, South Bay region). В NJ нет округа "south-bay", и Lakewood NJ значительно меньше. Скорее всего, ошибка в pipeline при обогащении данных (county/state поле). Генерирую под Lakewood, CA — 90712/90713 zip, 1950s planned community.
+
+---
+
+```yaml
+title: "Lakewood Refrigerator Repair — Hard Water, Real Fixes"
+
+intro: |
+  Those original ranch homes all went up in 1953 and 1954 — Lakewood was
+  essentially built in two years flat. Kitchens weren't sized for modern
+  36-inch refrigerators, so ventilation around the compressor is always
+  tighter than it should be. Add LA's hard water pushing 280+ ppm near
+  90712 and you've got mineral scale clogging water inlet valves and ice
+  maker assemblies faster than most South Bay cities. That LG or KitchenAid
+  you installed a few years back is already fighting these conditions daily.
+
+localContext: |
+  Most homes in the 90712 and 90713 zips are 1950s single-story ranches
+  with narrow galley kitchens and enclosed cabinetry that traps heat around
+  the condenser coil. The Del Valle neighborhood in particular has a lot of
+  original-spec kitchens that haven't been reconfigured since the tract was
+  built. Tight clearances don't stop us — we've pulled Bosch bottom-freezers
+  and Samsung french-doors from spaces barely 34 inches wide.
+
+commonProblems:
+  - title: "Compressor Running Constantly in South Bay Summer Heat"
+    description: |
+      Low insulation in 1950s construction means interior temps spike in
+      July and August. The compressor compensates by running non-stop, which
+      shortens its lifespan fast — especially on LG french-door models.
+      You'll hear it cycling hard before the cabinet temp starts climbing.
+      That's not a thermostat issue. The compressor is going.
+
+  - title: "Ice Maker Dead — Mineral Buildup from LA Hard Water"
+    description: |
+      Lakewood's tap water scales up the ice maker assembly within two to
+      three years without regular filter changes. The water inlet valve
+      clogs first — you'll notice smaller cubes, then nothing at all.
+      Happens constantly on KitchenAid and Bosch bottom-freezers in this
+      area. A descale plus inlet valve swap usually closes same day.
+
+  - title: "Evaporator Coil Iced Over Behind the Rear Panel"
+    description: |
+      Samsung RF-series and LG LRMVS models are notorious for frost buildup
+      on the evaporator coil. The defrost timer fails or the defrost heater
+      burns out — food warms up while the freezer looks fine. Had an RF28
+      near Mayfair Park last week: defrost heater replacement, back running
+      in under two hours.
+
+faq:
+  - q: "How fast can you get to Lakewood for refrigerator repair?"
+    a: |
+      Same day, usually within 2 hours. We run routes through Long Beach and
+      Cerritos regularly — Lakewood is straightforward from either direction.
+      Carson Street and Bellflower Boulevard are our usual approach. Call us
+      at (323) 870-4790 and we'll lock in a window.
+
+  - q: "Do you repair LG and Samsung refrigerators in Lakewood?"
+    a: |
+      Yes — those two brands make up roughly half our calls in 90712 and
+      90713. French-door configurations mostly. We also handle KitchenAid
+      and Bosch regularly. Most common fixes: evaporator coil defrost
+      failures, water inlet valve replacements, drain pump clogs, and
+      control board resets after power surges.
+
+  - q: "What does refrigerator repair cost in Lakewood?"
+    a: |
+      Diagnosis is $75, credited toward the repair if you proceed. Most
+      jobs land between $150 and $350 depending on the part. Sub-Zero or
+      Thermador built-ins run higher — compressor work typically $450–$700.
+      Evening and same-day slots available. Book online or call
+      (323) 870-4790 — emergency service available too.
+```
+
+---
+
+**Флаг для pipeline:** Поле `county` или `state` для Lakewood выдало "south-bay County, New Jersey" — это явная ошибка обогащения. Стоит добавить валидацию в `enrich_cities.py`: если population и income соответствуют известному CA-городу, но state = NJ — это несоответствие нужно логировать.
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

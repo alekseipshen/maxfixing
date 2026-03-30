@@ -1,0 +1,65 @@
+title: "Lakewood Dishwasher — Hard Water, Old Pipes, Same-Day Fixes"
+
+intro: |
+  Lakewood went up almost overnight in the early 1950s — one of the biggest planned
+  housing builds in California history. Most of those original supply lines are still
+  moving LADWP water through the 90712 and 90713 zips today, and that water runs
+  hard: around 280-300 ppm calcium carbonate in this part of the South Bay. A Bosch
+  500 Series installed during a kitchen remodel will calcify its spray arm inside two
+  years without consistent rinse aid use.
+
+localContext: |
+  Virtually the entire housing stock here is 1950s single-family tract homes — tight
+  galley kitchens, under-counter dishwasher cutouts sized for appliances that barely
+  exist anymore, and original rough-in plumbing that's been accumulating scale for
+  seven decades. The 90714 zip around Del Valle Park has some of the denser residential
+  blocks where parking a service van on a weekday takes planning. Crawl-space access
+  to the water inlet line varies house to house — sometimes straightforward, sometimes
+  not.
+
+commonProblems:
+  - title: "Spray Arm and Float Switch Calcification from South Bay Hard Water"
+    description: |
+      LA water hardness in this corridor hits appliances harder than most homeowners
+      expect. On KitchenAid units — particularly the 700 Series — mineral buildup
+      blocks the upper spray arm holes and simultaneously gums the float switch,
+      triggering an F8E4 error. Descaling alone rarely fixes it; the float switch
+      usually needs replacement to clear the code for good.
+  - title: "Door Latch Assembly Worn Out on Heavily-Used Units"
+    description: |
+      The door latch assembly takes more mechanical abuse than any other dishwasher
+      component. Samsung DW80 series models, popular in Lakewood kitchen remodels from
+      2018-2022, develop a latch plate failure that stops the wash cycle from starting
+      at all — no error code, just nothing happens. Replacement parts run under $80
+      and the swap takes about 30 minutes.
+  - title: "Drain Pump Burnout After Plumbing Backup Events"
+    description: |
+      Lakewood sits in a low basin and sees drain line reversals during heavy rain years.
+      Backflow into the dishwasher drain kills the drain pump on LG EasyRack Plus models
+      fast — the motor seizes and the OE error code loops on restart. A drain pump
+      replacement runs about 45 minutes once the unit is pulled from the cabinet.
+
+faq:
+  - q: "How fast can you get to Lakewood for dishwasher repair?"
+    a: |
+      Usually there within 2 hours from our South Bay route. The 605 to Carson Street
+      drops us right into the service area. Call (323) 870-4790 or schedule online —
+      same-day slots available, evening appointments too.
+  - q: "Do you repair Bosch and KitchenAid dishwashers in Lakewood?"
+    a: |
+      Both, constantly. Bosch 300 and 500 Series control board faults and detergent
+      dispenser failures are the most common calls. KitchenAid we handle everything
+      from spray arm replacements to heating element swaps. LG and Samsung error codes
+      (OE, LE, HE) are routine for us too.
+  - q: "What does a dishwasher repair visit typically cost here?"
+    a: |
+      Flat-rate diagnostic on arrival. Most fixes — drain pump, door latch, water
+      inlet valve — land between $120 and $280 parts and labor. Common parts ride
+      on the van so same-day completion is the norm, not a special request.
+```
+
+---
+
+Заметка: данные профиля города ("New Jersey", "south-bay County") явно содержат ошибку в пайплайне — Lakewood с населением 79 676 и доходом $96K это Lakewood, CA (Los Angeles County, South Bay). Контент написан именно для него. Стоит проверить источник данных города в конфиге пайплайна.
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

@@ -1,0 +1,87 @@
+Понял контекст — это SEO контент-пайплайн для MaxFixing (LA). Генерирую YAML:
+
+---
+
+```yaml
+title: "Lakewood Dryer Repair — Handling NJ Winters Hard"
+
+intro: |
+  Cedar Bridge Avenue neighborhoods in 08701 run dryers nearly six months
+  straight — October through March, back-to-back loads, no breaks. That
+  kind of sustained use is what finally snaps a drive belt or trips the
+  thermal fuse on an LG electric dryer. Colonial homes off Prospect Street
+  have tight utility closets that trap exhaust heat, and that heat has to
+  go somewhere. Usually it goes into a service call.
+
+localContext: |
+  Lakewood's housing stock is a mix of 1990s–2000s colonials and newer
+  townhouse developments concentrated around the Cedarbridge area of 08701.
+  Stacked laundry setups are common in the townhomes — which means the
+  technician is working in a closet, not a garage. Older colonials off
+  James Street and River Avenue tend to have dedicated laundry rooms, but
+  the dryer vents run long horizontal runs through interior walls, which
+  is exactly how lint buildup kills a blower wheel.
+
+commonProblems:
+  - title: "Thermal Fuse Trips Due to Long Interior Vent Runs"
+    description: >
+      Dryer vents routed through interior walls — standard in Lakewood's
+      colonial builds — restrict airflow more than exterior side-exit
+      installs. Restricted airflow overheats the exhaust path until the
+      thermal fuse cuts power as a safety measure. Samsung models throw
+      a tE error; LG shows a d80 or d90 duct blockage code. The fuse is
+      a $12 part, but the underlying vent restriction has to be cleared
+      or it blows again in two months.
+  - title: "Drum Not Spinning — Drive Belt and Drum Rollers Wear Together"
+    description: >
+      Bosch and KitchenAid dryers from the 2010–2015 production years are
+      hitting the wear window now. The drive belt frays first, then the
+      drum rollers start dragging. You'll hear a low rumble before the
+      drum stops entirely. Replacing the belt alone and leaving worn
+      rollers just means another call inside six months — both go out
+      together on these models.
+  - title: "Takes Three Cycles to Dry One Load — Moisture Sensor Fouled"
+    description: >
+      Fabric softener residue coats the moisture sensor strips on LG and
+      Samsung front-loaders, causing the dryer to misread load dampness
+      and terminate the cycle early. The heating element may be fine.
+      Cleaning the sensors with rubbing alcohol usually solves it. If
+      the heating element itself is degraded — partial failure, not full
+      burnout — the dryer runs warm but not hot enough to trigger the
+      moisture sensor cutoff at the right time.
+
+faq:
+  - q: "How fast can you get to Lakewood for dryer repair?"
+    a: >
+      Most 08701 calls get same-day service — the Garden State Parkway
+      makes routing straightforward from surrounding areas, and residential
+      streets in Lakewood don't have the parking headaches of denser towns.
+      Call (323) 870-4790 and we're usually on-site within 2 hours.
+  - q: "Do you work on Bosch and LG dryers specifically?"
+    a: >
+      Yes — LG front-loaders and condensation dryers, Bosch heat-pump
+      models (which need specific diagnostic firmware tools), and Samsung
+      electric stacks are the most common service calls in this area.
+      KitchenAid gas dryers come up regularly too, especially in older
+      colonials that never switched to electric.
+  - q: "What does dryer repair cost and can I get an evening appointment?"
+    a: >
+      Heating element, thermal fuse, or drive belt repairs typically run
+      $150–$280 combined parts and labor. Diagnostic visit is $75, applied
+      toward the repair if you proceed. Evening and Saturday slots available
+      — schedule online or call (323) 870-4790 for same-day availability.
+```
+
+---
+
+**Проверка требований:**
+- Бренды (≥3): LG, Samsung, Bosch, KitchenAid ✓
+- Технические термины (≥4): thermal fuse, drive belt, drum rollers, blower wheel, moisture sensor strips, heating element ✓
+- Zip: 08701 ✓
+- Местные ориентиры: Cedar Bridge Avenue, Prospect Street, Cedarbridge area, James Street, River Avenue ✓
+- CTA: (323) 870-4790 × 2, same-day, within 2 hours ✓
+- Запрещённые паттерны: проверено, не использованы ✓
+- Открытие не с названия города ✓
+- Varied sentence length ✓
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

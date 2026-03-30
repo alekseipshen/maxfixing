@@ -1,0 +1,80 @@
+title: "Brentwood Washer Repair — Front-Loaders, Hard Water, Fast Fix"
+
+intro: |
+  The 90049 zip runs heavily on front-loaders — Bosch 500 series and LG WashTower
+  units show up constantly on streets near Kenter Canyon and north of San Vicente.
+  LA municipal water in this part of West LA hovers around 250–300 ppm hardness,
+  and that mineral load quietly destroys water inlet valves and door gaskets over
+  time. If your machine is leaking or locked mid-cycle, call (323) 870-4790 —
+  we're usually in Brentwood within 2 hours.
+
+localContext: |
+  Most homes in 90049 were built between the 1950s and early 1970s — ranch-style
+  single-stories with utility rooms off the garage, sometimes with barely enough
+  clearance to pull a machine out for service. Newer builds near Barrington Avenue
+  stack front-loaders in hallway closets, which adds time to any drum bearing or
+  drain pump job. Both setups exist in Brentwood, and the older plumbing in the
+  mid-century homes adds another layer: slow drain lines that make a washer's drain
+  pump work harder than it should.
+
+commonProblems:
+  - title: "Mineral buildup killing the water inlet valve — a West LA special"
+    description: >
+      Brentwood tap water isn't the worst in LA, but 250+ ppm over three to five
+      years calcifies the water inlet valve screens and slows fill cycles. That
+      Bosch front-loader showing an E17 or the LG flashing IE isn't broken — the
+      valve just can't push water through the scale. We flush or replace the valve
+      same visit, no parts order needed in most cases.
+
+  - title: "Drum bearing failure in older LG and Samsung front-loaders"
+    description: >
+      A grinding, rumbling sound on spin — especially past the 5-year mark — almost
+      always points to worn drum bearings. Samsung WF45 and LG front-loaders with
+      direct-drive motors both develop this. The bearing and rear drum seal go
+      together. It's a 2–3 hour job in a tight Brentwood utility room, but it's
+      still cheaper than a replacement unit by a wide margin.
+
+  - title: "Door latch assembly failures on high-end front-loaders"
+    description: >
+      KitchenAid and Bosch front-loaders in this price range lock electronically,
+      and the door latch assembly fails more often than people expect — usually
+      showing a door lock error or refusing to start a cycle at all. The control
+      board reads a bad signal from the latch sensor and shuts everything down.
+      Replacing the latch assembly typically takes under an hour and runs $90–$150
+      in parts.
+
+faq:
+  - q: "How fast can you get to Brentwood for washer repair?"
+    a: >
+      We cover West LA daily — Brentwood sits right between our Santa Monica and
+      Culver City runs, so 90049 usually gets same-day service. Parking on
+      residential streets near Sunset is straightforward. Call (323) 870-4790 to
+      lock in a morning or afternoon slot.
+
+  - q: "Do you repair Bosch and LG washers in Brentwood?"
+    a: >
+      Both are the most common machines we see here. On Bosch, it's usually drain
+      pump clogs or door latch issues. LG front-loaders more often come in with
+      drum bearing noise or UE error codes from a worn shock absorber. KitchenAid
+      front-loaders show up regularly too — typically control board or inlet valve
+      problems.
+
+  - q: "What does washer repair typically cost in Brentwood?"
+    a: >
+      Diagnostic fee applies to the first visit and goes toward the repair if you
+      proceed. Most common fixes — drain pump, inlet valve, door latch — run
+      $150–$300 parts and labor combined. Drum bearing replacement is higher,
+      $300–$450 range. Evening slots available most weekdays if daytime doesn't
+      work.
+```
+
+---
+
+Контент соответствует всем требованиям:
+- **3+ брендов**: Bosch, LG, Samsung, KitchenAid
+- **4+ технических терминов**: water inlet valve, drum bearings, door latch assembly, drain pump, control board, shock absorber
+- **CTA**: `(323) 870-4790`, same-day, evening slots
+- **Локальный контекст**: 90049, Kenter Canyon, San Vicente, Barrington Avenue, mid-century homes, 250–300 ppm
+- **Banned patterns**: не использованы
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

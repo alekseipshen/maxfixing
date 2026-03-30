@@ -1,0 +1,71 @@
+title: "Placentia Dryer Repair — Inland Heat, Hard Water & 70s Homes"
+
+intro: |
+  Summers in inland Orange County push laundry rooms hard — Placentia's 92870 zip
+  regularly hits 95°F stretches that make garage-installed dryers work overtime just
+  to maintain cycle temperatures. That Samsung electric unit in a 1978 split-level
+  off Kraemer Boulevard doesn't fail in January; it fails in August, when the thermal
+  fuse gives out under ambient heat it was never rated for. We cover Placentia daily
+  and usually arrive the same day you call.
+
+localContext: |
+  Most of the housing stock here was built between 1968 and 1985 — subdivisions
+  off Chapman Avenue and the tracts near Craig Regional Park typically run laundry
+  closets with original duct work still in place. Zip codes 92870 and 92871 both
+  skew heavily toward gas hookups. Forty-year-old exhaust vent runs accumulate lint
+  faster than homeowners expect, and Placentia's notoriously hard tap water leaves
+  mineral deposits on moisture sensors that throw off drying logic in LG and Bosch
+  models alike.
+
+commonProblems:
+  - title: "Thermal Fuse Failure During Summer Heat Spikes"
+    description: "Placentia's inland heat pushes dryer exhaust temps past safe thresholds,
+      especially in garages with poor ventilation. The thermal fuse — a one-shot safety
+      cutoff on the exhaust duct — blows and the dryer runs but produces zero heat.
+      Samsung and LG both use non-resettable fuses; replacement is straightforward, but
+      the root cause is usually restricted airflow that has to be cleared at the same time."
+
+  - title: "Noisy Tumbling From Worn Drum Rollers in Older Units"
+    description: "A thumping or squealing drum almost always points to worn drum rollers
+      or a failing belt tensioner — common in Bosch and KitchenAid units that are 8+
+      years old. The noise is loud and gets worse fast. Ignoring it long enough usually
+      means a cracked drum shell, which turns a $150 roller swap into a much larger
+      repair bill."
+
+  - title: "Long Dry Times Caused by Hard-Water Scale on Moisture Sensors"
+    description: "Placentia's tap water is high in calcium and magnesium. Over months,
+      mineral film coats the moisture sensor strips inside the drum — the dryer thinks
+      clothes are dry when they're not, or keeps running indefinitely. LG front-loaders
+      are especially prone to this. A sensor clean-out and a fresh calibration cycle
+      usually restores normal 45-minute dry times."
+
+faq:
+  - q: "How fast can you get to Placentia for dryer repair?"
+    a: "We run service routes through Orange County daily. From the 91 or 57, Placentia
+      is a straightforward pull — most addresses off Kraemer or Orangethorpe Avenue get
+      a same-day arrival, usually within 2 hours of your call. Reach us at (323) 870-4790
+      or book a slot online."
+
+  - q: "Do you repair LG and Bosch dryers specifically?"
+    a: "Yes — LG, Samsung, Bosch, and KitchenAid make up the bulk of what we see in
+      upper-middle-income OC zip codes. On LG gas units we commonly replace gas valve
+      igniters and drum rollers; on Bosch electrics it's usually the heating element
+      or control board. Both brands stock parts locally, so repairs rarely drag past one visit."
+
+  - q: "What does a dryer repair cost in Placentia, and do you do same-day service?"
+    a: "Diagnostic is a flat fee, applied to the repair if you proceed. Most common fixes
+      — thermal fuse, drum roller, blower wheel — run $120–$250 parts and labor combined.
+      Same-day and evening slots are available. Call (323) 870-4790 if a morning appointment
+      doesn't work; we keep slots open for urgent calls."
+```
+
+---
+
+Контент сгенерирован. Что использовано:
+- **Brands**: Samsung, LG, Bosch, KitchenAid (4 бренда, естественно вписанные в сценарии)
+- **Technical parts**: thermal fuse, drum rollers, belt tensioner, moisture sensor, gas valve igniter, heating element, blower wheel (7 терминов)
+- **Local specifics**: zip 92870/92871, Kraemer Boulevard, Chapman Avenue, Craig Regional Park, Orangethorpe Avenue, inland OC heat, hard water
+- **CTAs**: (323) 870-4790 упоминается дважды, same-day + evening slots
+- Открытие — через климатический угол (inland heat), без упоминания города в первом слове
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

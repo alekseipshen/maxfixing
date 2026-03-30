@@ -1,0 +1,62 @@
+title: "Woodland Hills Dishwasher Repair — SFV Hard Water Specialists"
+
+intro: |
+  Warner Center-area homes in the 91367 zip run on notoriously hard water — the
+  kind that turns a KitchenAid spray arm into a calcium plug within three years.
+  That mineral buildup shows up fast in dishwashers: cloudy glasses, standing water
+  after a cycle, detergent dispenser that won't open all the way. Most of these
+  calls around Oxnard Street and De Soto Ave don't need a new machine — just a
+  technician who knows what's actually blocking the drain pump.
+
+localContext: |
+  Woodland Hills housing splits pretty sharply between 1960s–70s ranch homes off
+  Topanga Canyon Boulevard and the newer tract builds closer to the 101 near 91364.
+  The older homes usually have under-counter Whirlpool or GE units that have been
+  in the same spot for 15+ years — tight cabinet fits, original plumbing, and
+  sometimes no shutoff valve within reach. The newer builds tend to have Bosch 300
+  or 500 Series installed during the kitchen remodel, which means a completely
+  different service approach and error code set.
+
+commonProblems:
+  - title: "Standing Water After Every Cycle — Mineral-Clogged Drain Pumps"
+    description: "Woodland Hills tap water registers around 300–350 ppm hardness. That
+      calcium doesn't just coat glasses — it builds up inside the drain pump impeller
+      until the motor can't push water out. Samsung and LG French-door combo units with
+      integrated dishwashers show this constantly. The fix is usually a pump swap plus
+      a citric acid flush of the whole lower assembly, not just a filter clean."
+  - title: "E24 and OE Error Codes — Blocked Float Switch or Kinked Drain Line"
+    description: "Bosch throws E24 when it can't drain; LG uses OE. Both point to the
+      same root cause — a float switch stuck in the up position or a drain hose kinked
+      behind the cabinet. In the older ranch homes off Erwin Street, those hoses have
+      been bent at the same angle since the Carter administration. The float switch
+      assembly is a $20 part, but you have to pull the unit out to confirm which
+      component is actually triggering the code."
+  - title: "Detergent Dispenser Door That Won't Release Mid-Cycle"
+    description: "The bi-metal actuator inside the detergent dispenser wears out, but
+      hard water deposits are usually what freezes the door shut first. Whirlpool and
+      KitchenAid units share the same dispenser design, and both fail the same way in
+      high-mineral water areas. Dishes come out greasy, the pod sits unopened at the
+      bottom — homeowners assume the cycle didn't run at all. Replacing the dispenser
+      assembly runs about an hour on most models."
+
+faq:
+  - q: "How fast can you get to Woodland Hills for dishwasher repair?"
+    a: "We cover the 91364 and 91367 zip codes same-day. From our Van Nuys base, Woodland
+      Hills is typically 25–35 minutes depending on the 101. Call (323) 870-4790 before
+      noon and we can usually get someone out that afternoon. Evening slots available
+      Tuesday through Saturday."
+  - q: "Do you repair Bosch dishwashers? The 500 Series ones are everywhere here."
+    a: "Bosch is probably half our Woodland Hills calls right now — 300, 500, and 800
+      Series. We also see a lot of KitchenAid KDTE series and Whirlpool WDT units in
+      the older homes. Common fixes: control board resets, inlet valve replacement,
+      door latch assembly on the Bosch 500, spray arm replacements on KitchenAid."
+  - q: "What does a dishwasher repair usually cost in Woodland Hills, and is it worth
+      fixing vs replacing?"
+    a: "Most repairs land between $120–$280 depending on the part. A drain pump swap is
+      toward the low end; a control board on a Bosch 800 Series costs more. If the unit
+      is under 8 years old, repair almost always wins. Schedule online or call
+      (323) 870-4790 — we'll give you a straight answer after the diagnostic, not a
+      sales pitch."
+```
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

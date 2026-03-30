@@ -1,0 +1,70 @@
+title: "Laguna Niguel Dishwasher — Hard Water Scale & Drain Repair"
+
+intro: |
+  Orange County MWD supply runs notably hard — closer to 400 ppm TDS in the
+  92677 zip — and that mineral load goes straight into spray arm jets and inlet
+  valves every single cycle. The Bosch panel-ready units popular in Bear Brand
+  Ranch kitchens show it first: jets clog quietly until dishes come out gritty
+  and cloudy. By the time most homeowners notice, the heating element already
+  has a visible calcium crust.
+
+localContext: |
+  Most of Laguna Niguel went up between 1978 and 1995 — master-planned
+  communities along Crown Valley Parkway, down through Rancho Niguel Road,
+  and into the hillside tracts off Alicia Parkway. That puts a lot of the
+  original under-counter drain stubs well past 30 years. In 92677, we
+  regularly find drain hoses from late-1980s installs still looped directly
+  into a disposal knockout that was never properly secured — a slow leak
+  waiting to happen.
+
+commonProblems:
+  - title: "Spray Arm Clog from OC Mineral Deposits"
+    description: "Orange County tap water deposits calcium carbonate inside
+      spray arm jets faster than most people expect. The upper spray arm on a
+      KitchenAid KDTM354 can lose nearly half its flow in two years without a
+      descale cycle. We also see heavy scale on the float switch housing and
+      around the heating element base — both degrade wash performance long
+      before they trigger a hard failure."
+
+  - title: "Standing Water After Every Cycle"
+    description: "A Bosch 500 Series leaving gray water pooled in the tub
+      almost always traces back to the drain pump impeller — it gets choked
+      with broken glass shards, label adhesive, and mineral debris. Look for
+      an E24 or E25 error code on the display panel. If the code isn't showing,
+      pull the filter basket and check the pump housing manually before
+      assuming the pump itself is gone."
+
+  - title: "Detergent Dispenser Door Won't Open Mid-Cycle"
+    description: "Samsung dishwashers — the DW80R series that showed up in a
+      lot of Laguna Niguel builds after 2018 — have a recurring issue with the
+      wax motor actuator inside the detergent dispenser assembly. When the
+      actuator fails, the dispenser door stays latched through the entire wash
+      cycle and nothing gets clean. The part is usually stocked at OC
+      suppliers, so same-day turnaround is typical."
+
+faq:
+  - q: "How fast can you get to Laguna Niguel for dishwasher repair?"
+    a: "Usually within 2-3 hours of your call — we run the south county corridor
+      regularly, and Crown Valley Parkway to the 5/73 interchange keeps the
+      drive predictable. Call us at (323) 870-4790 to check same-day
+      availability, or schedule online. Evening slots open a few days a week."
+
+  - q: "Do you service Bosch and KitchenAid dishwashers specifically?"
+    a: "Both are the bread and butter of calls in this zip. On Bosch, we carry
+      E24/E25 drain pump kits and the 12-hole spray arm assembly in the van.
+      KitchenAid from the last decade usually needs a control board or inlet
+      valve. We also handle Samsung, LG, and the occasional Miele or Thermador
+      built-in for the larger homes off Niguel Road."
+
+  - q: "Is it worth repairing a dishwasher, or should I just replace it?"
+    a: "For a Bosch or KitchenAid under ten years old, repair almost always
+      makes financial sense. Most jobs in Laguna Niguel run $150-$350 depending
+      on the part. We quote before anything gets touched. Same-day slots are
+      open most mornings — call (323) 870-4790 to lock one in before noon."
+```
+
+---
+
+**Примечание:** В системном промпте указано "New Jersey" — это явная ошибка в пайплайне (Laguna Niguel находится в Orange County, California). Контент написан корректно для CA локации.
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

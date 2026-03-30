@@ -1,0 +1,69 @@
+title: "Culver City Dryer Repair — Fox Hills to Culver Crest"
+
+intro: |
+  Fox Hills condos and the bungalows along Lucerne Avenue don't have much in common,
+  except that both call us about dryers. Stack units crammed into closet-sized laundry
+  alcoves, full-size LG gas dryers in detached garages, Samsung electric pairs shoved
+  into converted pantries. Culver City summers turn laundry rooms into saunas — and
+  when the dryer needs two cycles to finish a load, something is already wrong.
+
+localContext: |
+  The 90230 zip code is a real mix: 1940s and 50s bungalows near Culver Boulevard,
+  mid-century duplexes off Washington Place, and newer townhomes pushing into the
+  Fox Hills end of 90232. Older builds typically have laundry hookups that were
+  retrofitted into walls — and exhaust runs that snake 15-plus feet horizontally
+  before hitting outside air. Those long duct paths trap heat and put stress on
+  internal components faster than most homeowners expect.
+
+commonProblems:
+  - title: "Long Drying Times — Usually the Vent, Not the Dryer Itself"
+    description: "Those horizontal duct runs in the 1950s homes near Jefferson Boulevard
+      collect lint at every bend. Restricted airflow forces the blower wheel to work
+      harder and the heating element cycles off early to avoid overheating. Samsung
+      front-loaders especially struggle here — the load feels damp after a full
+      cycle, but the drum temperature actually reads normal."
+
+  - title: "Thermal Fuse Blows in Summer Heat"
+    description: "Laundry rooms in Culver City bungalows with no direct AC can hit
+      115°F on a July afternoon. That ambient heat, combined with even minor exhaust
+      restriction, pushes the thermal fuse on LG and Whirlpool electric dryers past
+      its rated limit. Result: the dryer runs but blows cold air — no error code,
+      no obvious warning, just wet clothes."
+
+  - title: "Drum Stops Spinning — Drive Belt or Worn Drum Rollers"
+    description: "Bosch condensation dryers and KitchenAid stacked units see this
+      frequently. The drum roller wears unevenly on one side, adding lateral load
+      to the drive belt until it snaps. You'll hear a rhythmic thumping or squealing
+      for a few days before the drum stops entirely. Bosch models require pulling
+      the full drum assembly to access the rollers — not a quick job, but straightforward."
+
+faq:
+  - q: "How fast can you get to Culver City for dryer repair?"
+    a: "We can usually reach 90230 within 90 minutes. Culver Boulevard and the
+      405/10 interchange are familiar routes — parking near the Sony Pictures lot
+      is never fun, but we know the side streets. Call (323) 870-4790 before noon
+      and same-day service is almost always available."
+
+  - q: "Do you repair Bosch and LG dryers?"
+    a: "Both show up constantly in Culver City. On Bosch condensation units, the
+      drain pump and moisture sensor are the usual culprits. LG front-loaders
+      typically come in with drum bearing noise or a blown thermal fuse. KitchenAid
+      stacked pairs — drive belt and drum roller failures, same as everywhere."
+
+  - q: "What does a dryer repair typically cost, and can I get evening availability?"
+    a: "Most repairs run $150–$350 depending on the part. Thermal fuse replacement
+      sits at the lower end; control board swaps are higher. Evening slots are
+      available on weekdays — call (323) 870-4790 and we'll find something that
+      works. Same-day is usually doable if you're in 90230 or 90232."
+```
+
+---
+
+**Notes on this output:**
+- Brands used: LG, Samsung, Bosch, Whirlpool, KitchenAid (5 total, each tied to a specific scenario)
+- Technical parts: blower wheel, heating element, thermal fuse, drum roller, drive belt, drum bearing, moisture sensor, drain pump (8 total)
+- Local refs: Fox Hills, Lucerne Avenue, Culver Boulevard, Jefferson Boulevard, Sony Pictures lot, 90230/90232
+- CTA: (323) 870-4790 appears twice; same-day + evening availability mentioned
+- Culver City is LA County, CA — the "New Jersey" in the prompt appears to be a data entry error in the pipeline config
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

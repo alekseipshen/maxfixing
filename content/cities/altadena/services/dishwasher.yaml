@@ -1,0 +1,75 @@
+title: "Altadena Dishwasher Repair — Hard Water + Craftsman Kitchen Fixes"
+
+intro: |
+  Christmas Tree Lane on Santa Rosa Ave is one thing Altadena is famous for.
+  The 1920s and 1930s craftsman bungalows lining those blocks? They've had more
+  kitchen renovations than you can count — and those remodels almost always landed
+  a Bosch 500 Series or KitchenAid built-in where the old harvest-gold machine
+  used to sit. San Gabriel Valley tap water is brutal on dishwasher internals.
+  That new Bosch starts showing spray arm clogs and float switch errors within
+  two years of install if nobody's running a monthly descale cycle.
+
+localContext: |
+  Most of 91001 is housing stock from the 1920s through the 1950s — small
+  galley kitchens, sometimes tight under-counter clearances that make pulling
+  a dishwasher out a two-person job. The craftsman homes near Loma Alta Park
+  tend to have original cabinet framing that wasn't built for 24-inch European
+  appliances. That matters for KitchenAid and Bosch installs — door alignment
+  shifts over time, stressing the door latch assembly and hinge springs in ways
+  you don't see in newer tract construction.
+
+commonProblems:
+  - title: "Mineral Scale Killing Spray Arms and Float Switches in 91001"
+    description: "San Gabriel Valley water runs 300–400 ppm hardness through most of
+      Altadena. That calcium deposits inside the spray arm jets until water pressure
+      drops and the top rack starts coming out grimy. The float switch gets sticky
+      from scale buildup too — which triggers false drain errors on Samsung models
+      even when there's no actual water level issue. A descale and spray arm swap
+      usually fixes it same day."
+  - title: "Door Latch Failures in Older Craftsman Kitchen Installs"
+    description: "Dishwashers fitted into 1940s cabinet frames often sit slightly
+      out of plumb — the floor has settled and nobody re-leveled the unit during the
+      remodel. That constant misalignment wears the door latch assembly unevenly.
+      Bosch latches in particular develop play in the strike plate, which trips the
+      door switch and stops mid-cycle. Replacement latch assemblies are stocked for
+      most Bosch 300 and 500 series units."
+  - title: "Detergent Dispenser Stuck Shut on LG and KitchenAid Models"
+    description: "The wax motor inside the detergent dispenser degrades faster when
+      the dishwasher sits near an exterior wall that heats up in Altadena summers —
+      temperatures up there in the 90s push cabinet interiors past the motor's rated
+      range. LG's dispenser assembly is one piece and needs full replacement when
+      the actuator fails. KitchenAid uses a slightly more serviceable design but the
+      same thermal stress applies. Dishes come out cloudy with detergent residue
+      still caked in the cup."
+
+faq:
+  - q: "How fast can you get to Altadena for dishwasher repair?"
+    a: "We run routes through the 91001 and 91103 zip codes regularly — coming
+      up Lake Avenue or Lincoln from our Pasadena-side dispatch. Same-day slots
+      are usually open before noon. Call (323) 870-4790 to confirm availability
+      or book at maxfixing.com — evening appointments are available Tuesday
+      through Saturday."
+  - q: "Do you repair Bosch and KitchenAid dishwashers? Those are everywhere up here."
+    a: "Both are bread-and-butter for us. Bosch control board resets, drain pump
+      replacements, and door latch swaps on the 300/500/800 series. KitchenAid
+      heating element failures, control board errors, and inlet valve clogs.
+      Also handle LG, Samsung, and the occasional Thermador built-in for the
+      newer builds near Mount Lowe Road."
+  - q: "What does a dishwasher repair visit usually cost in Altadena?"
+    a: "Diagnostic fee is $75, applied toward any repair. Most common fixes —
+      drain pump replacement, spray arm swap, door latch — run $150–$280 parts
+      and labor. Control board replacements on Bosch or LG run higher. We quote
+      exact before touching anything. Emergency same-day callouts are available;
+      call (323) 870-4790 and we can usually be there within 2 hours."
+```
+
+Контент готов. Несколько ключевых решений:
+
+- **Открытие**: привязка к Christmas Tree Lane + конкретная улица (Santa Rosa Ave) — не повторяет ни одну из banned openings
+- **Zip код**: 91001 (Altadena) + 91103 (Pasadena, для логистики)
+- **Техничность**: spray arm, float switch, door latch assembly, wax motor (detergent dispenser), drain pump, control board, heating element, inlet valve — 8 терминов
+- **Бренды**: Bosch (300/500/800 series), KitchenAid, LG, Samsung, Thermador — 5 брендов, каждый в конкретном сценарии
+- **Местный контекст**: LA hard water 300-400 ppm, craftsman homes 1920s-1940s, Loma Alta Park, Mount Lowe Road, летняя жара в долине
+- **CTA**: телефон (323) 870-4790 дважды + ссылка на сайт + same-day + "within 2 hours"
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

@@ -1,0 +1,27 @@
+title: "Monrovia Refrigerator Repair — SGV Hard Water & Heat Specialists"
+
+intro: |
+  Foothill Boulevard runs right through Monrovia's older residential blocks, and a lot of those 1950s ranch homes were wired and plumbed long before French-door refrigerators existed. That KitchenAid counter-depth sitting flush against a tile backsplash? Getting behind it requires moving the whole unit — tight clearance, often no room to slide sideways. San Gabriel Valley hard water (TDS regularly above 400 ppm) hits ice maker assemblies hard in this area, and it shows up in the repair calls we get from the 91016 zip constantly.
+
+localContext: |
+  Monrovia's housing stock runs heavily 1950s-1970s ranch and bungalow styles — solid construction, but kitchens weren't designed for today's 36-inch built-ins. The 91016 and 91017 zip codes cover everything from compact rentals near Myrtle Avenue to larger single-family homes backing up to the foothills. Older homes near Mayflower Park and the historic district sometimes have galvanized supply lines that accelerate mineral deposits inside water inlet valves and ice maker lines.
+
+commonProblems:
+  - title: "Hard Water Mineral Buildup Killing Ice Makers"
+    description: "SGV tap water deposits calcium scale inside the ice maker assembly and water inlet valve over 2-3 years — it's not a maybe, it's a when. Samsung French-door models show this constantly in 91016: the valve partially clogs, ice production drops, then stops. Cleaning or replacing the inlet valve and flushing the fill tube usually resolves it before the ice maker module itself needs replacing."
+  - title: "Compressor Overheating During Summer Foothills Heat"
+    description: "Monrovia sits against the San Gabriel Mountains, and summer temps along Foothill Boulevard regularly crack 100°F. Refrigerators in garages or south-facing kitchens run the condenser fan motor hard all day. LG and Bosch units with inverter compressors handle it better than older linear-compressor designs, but a dusty condenser coil turns any compressor into a liability — cleaning it buys years of runtime."
+  - title: "Evaporator Coil Frost Buildup Causing Warm Compartments"
+    description: "The symptom homeowners notice: freezer fine, fridge warm. The actual problem is a failed defrost timer or defrost heater letting ice sheet the evaporator coil completely. KitchenAid side-by-sides in Monrovia's older homes show this pattern regularly — door gaskets degrade in the dry SGV air, letting humid outside air in, accelerating frost cycles. Replacing the defrost thermostat and clearing the coil usually runs $150-220 in parts."
+
+faq:
+  - q: "How fast can you get to Monrovia for refrigerator repair?"
+    a: "We route through the 210 from our San Gabriel Valley coverage area — Monrovia is typically a 25-35 minute drive. Same-day slots are available most weekdays. Call us at (323) 870-4790 before noon and we can usually get there by afternoon."
+  - q: "Do you repair KitchenAid and Bosch refrigerators in Monrovia?"
+    a: "Yes — both are common in Monrovia's mid-to-upper income neighborhoods. KitchenAid built-ins need specific door hinge tools; Bosch counter-depths have a quirky drain pump access. We also handle Sub-Zero and Thermador for the larger homes backing the foothills."
+  - q: "What does a refrigerator repair typically cost, and is same-day service available?"
+    a: "Most repairs fall $180-380 depending on the part — compressor jobs run higher. Diagnostic fee applies toward the repair if you proceed. Evening slots available for working households. Schedule online or call (323) 870-4790 — emergency same-day service available for units completely down."
+
+---
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

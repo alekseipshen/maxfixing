@@ -1,0 +1,56 @@
+title: "Gardena Dryer Repair — South Bay Homes, Fast Same-Day Service"
+
+intro: |
+  South of Rosecrans Avenue, Gardena's blocks of 1950s and 1960s tract homes still run
+  plenty of garage-mounted laundry setups — gas lines stubbed through drywall, vents
+  running 15 feet before they hit exterior stucco. That Whirlpool gas dryer in a 90247
+  ranch taking 90 minutes to dry a single load? Nine times out of ten it's a clogged
+  exhaust vent choked with lint or a failed gas valve igniter, not the heating element
+  everyone assumes it is.
+
+localContext: |
+  Most of the housing stock between Vermont Avenue and Western in the 90249 zip runs
+  1950s-era construction — low ceilings in utility rooms, narrow doorways, and dryer
+  stacks tucked into corners that require half the machine disassembled before you can
+  reach the drum rollers. Zip 90248 skews more commercial-industrial along the edges,
+  but the residential streets off Figueroa still have those original tract-home laundry
+  alcoves where a standard-depth LG or Samsung barely fits, let alone leaves room to work.
+
+commonProblems:
+  - title: "Gas dryers that tumble but never heat — common in Gardena's older gas setups"
+    description: "Gardena has a high concentration of gas dryers, and the gas valve igniter
+      assembly is the first thing to go on units over 8 years old. The igniter glows orange
+      but the valve coils don't open — drum spins, no heat. Seen it constantly on Whirlpool
+      and Maytag units in homes off Marine Avenue. Replacing the igniter and coil set
+      together usually runs under $120 in parts."
+  - title: "Drum stops mid-cycle — belt tensioner failure in older Samsung and LG pairs"
+    description: "Samsung front-loaders in the 90247 area take a beating during summer —
+      back-to-back loads in a hot garage stretch the drive belt and wear the belt tensioner
+      pulley faster than normal. The drum just stops, or you hear a slapping noise before
+      it does. The motor is usually fine. Swapping the tensioner and belt together is a
+      two-hour job, not a reason to replace the machine."
+  - title: "Thermal fuse blown — no heat, no error code, just dead silence"
+    description: "A blown thermal fuse is the most misdiagnosed dryer problem in South Bay.
+      Homeowners assume the control board failed because nothing lights up. On GE and
+      Frigidaire electric models common in Gardena apartments near Alondra Park, the thermal
+      fuse sits inline with the heating element circuit and reads as a complete dead unit
+      when it fails. Costs about $15 to replace — but finding WHY it blew (usually a
+      blocked blower wheel) matters more than the fuse itself."
+
+faq:
+  - q: "How fast can you get to Gardena for dryer repair?"
+    a: "We run South Bay routes daily — Gardena is typically 20-35 minutes from our nearest
+      tech depending on traffic on the 110. Same-day slots available most days. Call us at
+      (323) 870-4790 and we'll tell you the exact window before you commit."
+  - q: "Do you repair Samsung and LG dryers in Gardena?"
+    a: "Yes, and they're probably half our South Bay calls. Samsung moisture sensor failures
+      and LG drum bearing replacements are the two most common. We also handle Whirlpool,
+      GE, and KitchenAid regularly — both electric and gas configurations."
+  - q: "What does a dryer repair usually cost, and can you come the same day?"
+    a: "Most repairs land between $150-$280 parts and labor. We diagnose on the first visit
+      and quote before touching anything. Evening slots available for Gardena customers who
+      can't take time off — schedule online or call (323) 870-4790. Emergency same-day
+      service is available for households with no backup laundry access."
+```
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

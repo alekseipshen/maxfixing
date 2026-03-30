@@ -1,0 +1,60 @@
+Note: The prompt lists Tustin as being in "New Jersey" — that's incorrect. Tustin is in Orange County, California. Generating content for Tustin, CA (92780 / 92782).
+
+```yaml
+title: "Tustin Dishwasher — Hard Water & Brand-Specific Repair Fast"
+
+intro: |
+  Hard water in the 92782 zip hits dishwashers faster than most homeowners expect —
+  Metropolitan Water District supply running through Tustin Ranch homes carries calcium
+  levels that calcify spray arm nozzles and coat heating elements within a few years.
+  That Bosch 500 series installed when the house was finished in 2001 is now showing
+  cloudy glassware and a drain pump that groans at cycle end. MaxFixing covers Orange
+  County routes daily — call (323) 870-4790 to book same-day service.
+
+localContext: |
+  Tustin has two distinct housing pockets. Old Town (92780) holds 1950s and 60s homes
+  with undersized plumbing, shallow drain lines, and kitchens not originally designed
+  for full-size dishwashers — tight installs are common. Tustin Ranch and Tustin Legacy
+  (92782) are master-planned builds from the 1990s through early 2000s with standard
+  24-inch cutouts, but appliances in those homes are now hitting the 20-to-25 year mark.
+  That age is where real failures start showing up.
+
+commonProblems:
+  - title: "Mineral scale blocking spray arms and jamming the float switch"
+    description: "Orange County hard water deposits calcium inside spray arm nozzles until
+      water pressure drops so much the bottom rack barely gets rinsed. The float switch
+      gets caked too, tricking the control board into reading a full tub. Bosch and
+      KitchenAid units in Tustin Ranch show this pattern constantly — usually starts
+      around year 15, sometimes earlier if the homeowner skips rinse aid."
+  - title: "Drain pump seizing after years of mineral grit accumulation"
+    description: "Fine mineral grit from hard water gradually works into the drain pump
+      impeller until it seizes mid-cycle. You hear a low hum after the wash cycle and
+      find standing water in the tub — on LG and Samsung units the E24 or OE error code
+      shows up first. Drain pump replacement is straightforward, and we stock impeller
+      assemblies for both brands to handle it same-day."
+  - title: "Door latch assembly cracking on mid-2000s KitchenAid dishwashers"
+    description: "The door latch assembly on KitchenAid dishwashers built between 2002 and
+      2009 uses a plastic strike plate that gets brittle in Southern California's dry heat.
+      Once it cracks, the door won't seal, the float switch never activates, and the unit
+      won't start a cycle at all. There are three different latch versions for that era —
+      ordering the wrong one means the door misaligns and the problem repeats."
+
+faq:
+  - q: "How fast can you get to Tustin for a dishwasher repair?"
+    a: "From our regular Orange County routes, Tustin is a 25-40 minute drive depending
+      on 5 Freeway traffic. Call (323) 870-4790 before noon on a weekday and we can
+      usually have someone there the same afternoon. Evening slots available on request."
+  - q: "Do you work on Bosch and Thermador dishwashers in Tustin?"
+    a: "Yes — Bosch 300 and 500 series are probably half of what we see in Tustin Ranch.
+      Also handle KitchenAid, LG, Samsung, and the Thermador built-ins that show up in
+      some of the Tustin Legacy custom homes. Common parts for all of these are on the
+      truck."
+  - q: "Is it worth repairing a dishwasher or just replacing it?"
+    a: "Drain pump, heating element, inlet valve, detergent dispenser — most repairs run
+      $150 to $280 parts and labor. On a Bosch 500 series at 14 years old, that math
+      almost always favors repair. On a base-model Samsung past 10 years, replacement
+      gets closer. We give you the straight answer on-site, no pressure either way.
+      Schedule online or call (323) 870-4790."
+```
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

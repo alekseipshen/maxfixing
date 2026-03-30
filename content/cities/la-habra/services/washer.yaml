@@ -1,0 +1,63 @@
+title: "La Habra Washer — Mineral Scale & Drain Issues in 90631"
+
+intro: |
+  Lambert Road and Imperial Highway area homes in 90631 run a lot of LG front-loaders
+  and Samsung WashTower units — and the moderately hard water coming through La Habra's
+  municipal supply starts showing up as scale inside door gaskets and detergent dispensers
+  within two or three years. The city sits right on the LA/OC county line, and the water
+  profile here is closer to Fullerton than to Irvine — not extreme, but enough to cause
+  real problems. Bosch 500 series machines in the newer builds near Portola Park are
+  especially prone to clogged spray arms and drain pump restrictions.
+
+localContext: |
+  Most of the housing stock in 90631 is 1960s and 1970s ranch-style single-family homes —
+  laundry rooms tucked into garages or narrow hallways, often with older plumbing that
+  doesn't drain as fast as modern front-loaders expect. Near Westridge and the areas
+  north of Whittier Boulevard, you'll find some newer 2000s-era builds with proper
+  dedicated laundry closets. The older homes around La Habra Community Park sometimes
+  have original 1970s hookups — the standpipe height and drain diameter can cause
+  slow-drain symptoms that look like a broken pump but aren't.
+
+commonProblems:
+  - title: "Drain Pump Clog from Hard Water Debris and Lint Buildup"
+    description: "La Habra water averages around 250-300 ppm hardness — not the worst in SoCal, but
+      enough to leave calcium deposits inside the drain pump housing over time. That LG TurboWash
+      or Samsung front-loader starts throwing an OE or 5E error code, and the drum just stops
+      mid-cycle with water sitting in it. Usually the pump impeller is either partially blocked
+      or the pump motor itself has seized from repeated strain."
+
+  - title: "Drum Bearing Failure in Older Whirlpool and Maytag Top-Loaders"
+    description: "The 1970s-era homes around Central Avenue and Euclid Street often still have original
+      top-load washers — or second-hand Whirlpool and Maytag replacements bought at discount.
+      Heavy loads and uneven garage floors accelerate drum bearing wear. You hear it as a loud
+      grinding or rumbling during the spin cycle. Left too long, a worn bearing chews through
+      the rear drum seal and starts leaking water onto the floor."
+
+  - title: "Door Lock Assembly Failure on Bosch and KitchenAid Front-Loaders"
+    description: "Newer construction near the 90631/90632 border — places off Lambert Road toward Brea —
+      tends to run Bosch 500 series and KitchenAid front-load pairs. The door latch assembly
+      on these machines takes a beating from repeated daily loads, and eventually the door lock
+      solenoid stops engaging. The machine throws a door error and won't start. It's a
+      straightforward part swap, but Bosch uses proprietary latch components that require
+      sourcing the right part number."
+
+faq:
+  - q: "How fast can you get to La Habra for a washer repair?"
+    a: "We cover the 90631 zip from the Fullerton and Whittier corridors — usually 45 minutes to
+      two hours depending on traffic on the 57 and Imperial Highway. Same-day slots open most
+      mornings. Call (323) 870-4790 to check availability, or schedule online if it's not urgent."
+
+  - q: "Do you work on LG and Samsung front-loaders specifically?"
+    a: "Yes — LG TurboWash and WashTower units are probably the most common call we get in La Habra.
+      Samsung AddWash models too. Typical issues: drain pump clogs, door latch failures, water
+      inlet valve problems, and control board errors. Bosch 500 series is the other frequent one,
+      mostly door lock and drain pump work."
+
+  - q: "What does washer repair usually cost in this area, and can you come the same day?"
+    a: "Diagnostic visit is a flat fee applied toward the repair if you go ahead. Most drain pump
+      replacements or bearing jobs run $150-$280 in parts and labor for standard brands. Same-day
+      service is available — evening slots open Tuesday through Saturday. For standing water or
+      flooding situations, call (323) 870-4790 directly for emergency dispatch."
+```
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

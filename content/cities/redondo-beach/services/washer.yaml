@@ -1,0 +1,65 @@
+Note: The city profile says "south-bay County, New Jersey" — Redondo Beach is actually in LA County, California (South Bay). Writing for the real Redondo Beach, CA since the system context is LA metro.
+
+```yaml
+title: "Redondo Beach Washer — Coastal Water Destroys Machines Fast"
+
+intro: |
+  Salt air off King Harbor does things to appliances that inland technicians don't see often —
+  but the bigger machine killer in 90277 is the tap water, not the ocean. Bosch front-loaders
+  and LG top-loaders both start showing water inlet valve deposits within 18 months on this
+  supply. Mineral buildup here runs aggressive enough that we tell clients to flush descaling
+  cycles every 6 months, not the manufacturer's standard 12.
+
+localContext: |
+  Redondo Beach housing splits pretty sharply: dense condo stacks near the Esplanade and along
+  Catalina Avenue, then older single-family bungalows pushing inland toward the Aviation
+  neighborhood in 90278. Most of those bungalows date to the 1960s and early 1970s — standard
+  hookups, but laundry closets are tight and van parking logistics on residential streets need
+  planning. Stacked units near the water create a different problem: a leaking drain pump at
+  11 PM stops being just your machine issue and starts being your downstairs neighbor's ceiling.
+
+commonProblems:
+  - title: "Mineral Buildup Killing Water Inlet Valves"
+    description: "LA's hard water supply hits harder in beach-adjacent zips than most homeowners
+      expect. The water inlet valve — the solenoid assembly that controls hot and cold fill —
+      gets calcified shut within 2-3 years on Samsung and LG machines running 8+ loads a week.
+      You'll typically see E2 or IE error codes flash before the valve fully seizes and the drum
+      stops filling at all. Replacement runs $120-$160 parts and labor, and usually same-day
+      if we have the part on the truck."
+
+  - title: "Drum Bearing Failure in Stacked Condo Units"
+    description: "Stacked washer-dryer combos in Redondo Beach condo buildings near the Pier
+      put unusual torque stress on drum bearings — the machine can't flex the way a freestanding
+      unit does on a proper laundry room floor. Grinding noise during spin, especially on
+      KitchenAid stackables, usually means the bearing race has worn through. Sometimes you'll
+      also notice visible wobble in the spin basket itself, or the outer drum rattling against
+      the cabinet."
+
+  - title: "Drain Pump Clogs from Beach Sand and Grit"
+    description: "People living a few blocks from the beach track in more fine sand than they
+      realize — it ends up in pockets, towels, kids' clothes, and eventually your wash drum.
+      A Bosch Series 500 front-loader's drain pump accumulates enough grit to trigger slow-drain
+      errors (E17 code) within a couple years. The pump impeller wears down or the filter
+      housing cracks. Both are worth fixing, not a reason to replace a $900 machine."
+
+faq:
+  - q: "How fast can you get to Redondo Beach for washer repair?"
+    a: "Usually within 2 hours of your call. We run South Bay routes daily — Torrance, Redondo,
+      Hermosa Beach, Manhattan Beach. Street parking on the residential blocks in 90277 and
+      90278 is normally fine. Call (323) 870-4790 and we'll tell you exactly when we can be
+      there — same-day slots fill fast after 10 AM."
+
+  - q: "Do you repair Bosch and LG front-loaders specifically?"
+    a: "Bosch and LG are probably 60% of what we see in Redondo Beach. Also work on KitchenAid
+      and Samsung washers regularly. Most common fixes on these: door latch assembly failures
+      on Bosch 500-series units, control board replacements on LG machines throwing LE or OE
+      codes, and drive belt replacements on older Samsung top-loaders."
+
+  - q: "What does a typical washer repair cost and can you do it the same day?"
+    a: "Diagnosis is $75, credited toward the repair if you proceed. Most jobs — drain pump swap,
+      water inlet valve, drive belt — land between $150 and $290 total. Same-day is usually
+      available if you call before noon. Evening appointments open most weekdays too. Call
+      (323) 870-4790 or schedule online to lock in a slot."
+```
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

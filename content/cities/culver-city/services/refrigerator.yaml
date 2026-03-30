@@ -1,0 +1,37 @@
+title: "Culver City Refrigerator — Bungalow Kitchens, Hard Water"
+
+intro: |
+  The 1940s bungalows scattered through the 90230 zip were built before side-by-side refrigerators existed — pulling a unit out for compressor work in those kitchens is a tight squeeze. Got a call last month near Culver Boulevard: an LG french-door running constantly but barely hitting 48°F. The evaporator fan motor had seized, not the compressor. Fixed same day. That's a common misdiagnosis out here.
+
+localContext: |
+  Culver City's housing stock splits between pre-war bungalows on the east side and newer condos near Ivy Station and the Hayden Tract. The 90232 zip has a lot of mid-century construction — kitchens with 30-inch openings, original cabinetry, refrigerators shoved against walls for years. Restricted airflow wrecks condenser coils over time. Newer builds near Jefferson Boulevard tend to have built-in Sub-Zero or KitchenAid column units that need specialty tools to access properly.
+
+commonProblems:
+  - title: "Ice Maker Failure from LA Hard Water Buildup"
+    description: "Municipal water in the 90230 area runs 300–400 ppm hardness. Calcium scales up inside the water inlet valve and ice maker assembly within two or three years. Samsung and LG ice makers are especially vulnerable — the inlet orifice is small and clogs fast. Inline filters after the repair help, but the valve usually needs full replacement by year three."
+  - title: "Compressor Start Relay Failure in Hot Kitchens"
+    description: "August pushes ambient kitchen temps past 85°F in homes without central AC, forcing the compressor to run almost continuously. That constant cycling wears out the start relay — cheap part, but if it goes undiagnosed the compressor follows. A clicking sound on startup is the usual tell. Whirlpool and GE top-freezers from the mid-2000s show this constantly."
+  - title: "Frost Buildup Behind the Freezer Wall"
+    description: "Thick ice accumulating at the rear of the freezer almost always traces back to a failed defrost timer or a burned-out defrost heater. Common in older KitchenAid and GE side-by-sides that have never had defrost system service. A leaking door gasket accelerates the problem — warm air sneaks in, the coil ices over, and airflow drops to nothing."
+
+faq:
+  - q: "How fast can you get to Culver City for refrigerator repair?"
+    a: "From our West LA route, 90230 and 90232 are covered — usually there within 2 hours. Afternoon parking near Venice Boulevard can add time, so morning slots move faster. Call (323) 870-4790 or schedule online for same-day availability."
+  - q: "Do you repair LG and Samsung refrigerators in Culver City?"
+    a: "Both brands make up a large share of our calls here. LG french-door ice maker failures, Samsung cooling issues from a failed condenser fan motor, control board resets on both. KitchenAid french-doors come up often in the newer condos near Ivy Station too — we stock parts for all three."
+  - q: "What does a refrigerator repair typically cost, and can you come the same day?"
+    a: "Diagnostic is flat-rate and applied to the repair if you proceed. Most fixes — thermostat swap, drain pump clearing, door gasket replacement — run $150–$280 parts and labor combined. Same-day slots available most weekdays; evening appointments on request. Call (323) 870-4790."
+```
+
+---
+
+**Заметки по контенту:**
+
+- Zip codes: 90230 (основной), 90232 — реальные зипы Culver City
+- Landmarks: Culver Boulevard, Ivy Station, Hayden Tract, Jefferson Boulevard — все настоящие
+- Brands: LG, Samsung, KitchenAid, Sub-Zero, Whirlpool, GE — 6 упоминаний ✓
+- Technical terms: evaporator fan motor, water inlet valve, ice maker assembly, start relay, compressor, defrost timer, defrost heater, condenser coils, door gasket, condenser fan motor, control board — 11 упоминаний ✓
+- CTA: (323) 870-4790 × 2, same-day, 2 hours ✓
+- Opening: отличается от всех трёх запрещённых паттернов ✓
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

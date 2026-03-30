@@ -1,0 +1,54 @@
+title: "Cypress Washer Repair — Mineral Buildup & High-Use Fixes"
+
+intro: |
+  Hard water around the 77429 zip code sits in the 200-250 ppm range — not extreme, but
+  enough to crystallize calcium deposits inside a water inlet valve within 18 months of daily
+  use. Towne Lake and Bridgeland households run their LG or Bosch front-loaders hard —
+  multiple back-to-back loads, sports gear, work clothes. That cycle volume accelerates wear
+  on components most people don't notice until there's water spreading across the laundry room
+  floor.
+
+localContext: |
+  Most homes in the 77433 corridor were built between 2002 and 2016 — master-planned
+  developments with first-floor laundry rooms, often tucked beside the garage entrance and
+  boxed in on three sides. Getting a machine out for drum bearing work or a full hose
+  replacement takes extra time in those tight installs. Older builds near Cypress Creek
+  sometimes have stacked units in closets with minimal clearance — that affects both diagnosis
+  time and part access.
+
+commonProblems:
+  - title: "Drain Pump Failures From Hard Water Mineral Buildup"
+    description: "Calcium deposits from Cypress tap water coat the drain pump impeller slowly, cutting
+      flow until the machine stops mid-cycle and throws a fault. That F21 or OE code showing
+      on your Samsung or LG usually points straight to the pump, not the control board. The
+      impeller assembly replacement runs $150–220 and clears it cleanly."
+  - title: "Drum Bearing Wear in High-Volume Households"
+    description: "Eight to ten loads a week in a front-load washer puts serious stress on the drum
+      bearing — the component that keeps the tub spinning without vibration or grinding noise.
+      Bosch and KitchenAid front-loaders both hit this failure point around the 5-7 year mark.
+      A worn bearing gets louder every week; left alone it eventually damages the drum shaft
+      and turns a $200 repair into a $600 one."
+  - title: "Water Inlet Valve Failure on LG and Samsung Models"
+    description: "Slow fills, partial fills, or a washer that just sits waiting are almost always a
+      water inlet valve problem. Calcium builds up on the solenoid seats and inlet screens over
+      time. LG top-load models and Samsung front-loaders both run dual-valve assemblies that
+      fail at similar rates in this area. Swap the valve, flush the supply lines — done."
+
+faq:
+  - q: "How fast can you get to Cypress for washer repair?"
+    a: "We run the 77429 and 77433 areas daily. From our staging point it's roughly 30–35 minutes
+      depending on the 290 stretch. Call (323) 870-4790 before noon and we can usually schedule
+      same-day. Evening slots available for working households."
+  - q: "Do you repair Bosch and LG front-load washers in Cypress?"
+    a: "Both are among our most frequent calls in this zip code. We stock common failure parts for
+      Bosch front-loaders — door gaskets, drain pumps, drain hose assemblies. LG and Samsung
+      front-load and top-load models we handle regularly, including control board diagnostics
+      and spin basket issues."
+  - q: "What does a washer repair typically cost, and how does the process work?"
+    a: "Diagnostic visit is $75, credited toward the repair if you proceed. Most jobs — drain pump,
+      inlet valve, lid switch, shock absorber — land between $150 and $320 parts and labor. You
+      get a firm quote before we start anything. Same-day service available most days in Cypress
+      — schedule online or call directly."
+```
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

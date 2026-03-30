@@ -1,0 +1,31 @@
+> **Note:** The system prompt says "New Jersey" — Buena Park is in Orange County, **California**. Writing for the correct location.
+
+---
+
+title: "Buena Park Dryer Repair — Beach Blvd Heat Kills Dryers Fast"
+
+intro: |
+  Summers along Beach Boulevard push garage temps past 90°F, and a gas dryer already working overtime is the first thing to quit. Tract homes off La Palma Avenue in 90620 were mostly built in the early 1960s — tight laundry alcoves, original gas lines, and an LG or Samsung stacked unit crammed in where a single washer used to sit. Call (323) 870-4790 and we're usually out same-day.
+
+localContext: |
+  Most of Buena Park's residential stock dates from 1958 to 1975 — ranch-style single-family homes with narrow laundry alcoves that weren't designed for today's larger drum machines. Zip codes 90620 and 90621 run a mix of gas and electric hookups, but gas dryers dominate south of Orangethorpe Avenue. Getting a service van parked and tools into an attached-garage laundry setup takes some planning — compact kits, tight maneuvering, the usual Orange County access puzzle.
+
+commonProblems:
+  - title: "No Heat in Gas Dryers — Older Gas Lines Are the Culprit"
+    description: "Orange County's aging residential gas infrastructure can deliver inconsistent pressure, which accelerates wear on the gas valve igniter and flame sensor. A Samsung DV series running cold — or showing an HE error — usually points to a failed igniter or a tripped thermal fuse. Both parts we stock on the van. Catching it early keeps you off a full control board replacement."
+  - title: "Drum Stops Spinning — LG Front-Loaders in Tight Closets"
+    description: "LG front-loaders in Buena Park's newer construction near Grand Avenue show a predictable failure pattern: the drum bearing wears out around years 6–8, especially when the machine runs in a poorly ventilated closet all summer. That grinding metal noise before the drum freezes? The belt tensioner and drum roller assembly usually go together once you're hearing it."
+  - title: "Runs Too Long, Never Fully Dries — Blocked Exhaust Vents"
+    description: "Exhaust vents in Buena Park's older homes cut through exterior walls with tight 90-degree bends — and those corners trap lint fast. A clogged blower wheel or restricted duct causes the moisture sensor to misread the load, so your Bosch or KitchenAid runs 20 extra minutes every cycle and eventually trips the high-limit thermostat. Full duct inspection included in every visit."
+
+faq:
+  - q: "How fast can you get to Buena Park for dryer repair?"
+    a: "Routes from Irvine run north through Buena Park daily. From the 91/Beach Boulevard area we're typically at your door within 2 hours. Call (323) 870-4790 or schedule online — same-day slots tend to fill by noon."
+  - q: "Do you repair LG and Samsung dryers in Buena Park?"
+    a: "Both are the most common brands we see here. On LG, drum bearings and moisture sensors go most often. Samsung tends to need heating element and thermal fuse work. Parts for both stay stocked on the van — no waiting on orders."
+  - q: "What does dryer repair cost, and is there a diagnostic fee?"
+    a: "Diagnosis is rolled into the repair cost — no charge if you approve the fix. Most common repairs (thermal fuse, heating element, drum roller) run $120–$220 parts and labor combined. Evening and emergency slots are available. Quote comes before any work starts."
+
+---
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

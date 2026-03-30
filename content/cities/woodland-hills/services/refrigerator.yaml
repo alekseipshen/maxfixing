@@ -1,0 +1,25 @@
+title: "Woodland Hills Refrigerator Repair — Valley Heat Takes a Toll"
+
+intro: |
+  Pierce Street and Oxnard intersect in a neighborhood where 1970s ranch houses still have their original kitchen layouts — and a surprising number still run GE side-by-sides from the early 2000s. Valley heat in 91367 is no joke: July afternoons regularly hit 105°F, pushing compressors past their rated duty cycle. That thermal load is usually the first thing I ask about when a customer calls saying their fridge "just stopped getting cold."
+
+localContext: |
+  Most of the housing stock west of Topanga Canyon Boulevard runs from late 1960s through the 1980s — single-story ranch homes with kitchens that weren't designed around today's 36-inch french-door units. Retrofitting a larger refrigerator into a 91364 kitchen often means the condenser coils are pinched against cabinetry with almost no airflow clearance. That's a compressor killer. Newer townhome developments near Warner Center (91367) tend toward Samsung and LG counter-depths where the ice maker assembly is the first thing that fails after 4–5 years.
+
+commonProblems:
+  - title: "Valley Summer Heat Overloads the Compressor"
+    description: "Sustained 100°F+ days in Woodland Hills force the compressor to run near-continuously, which accelerates wear on the start relay and overload protector. A GE or Whirlpool unit that's been running 12-hour cycles all August will often throw a warm-fridge symptom in September when the relay finally gives out. Replacing just the start relay is a $90–$120 fix if caught early — ignoring it means a $600+ compressor swap."
+  - title: "Ice Buildup on the Evaporator Coil"
+    description: "This one shows up constantly in the older homes on Mulholland Drive side streets. The defrost timer or defrost heater fails, frost accumulates on the evaporator coil, and airflow drops until the fridge section creeps up to 50°F. Samsung french-door owners recognize this as the ERR code or ice in the back wall of the freezer. A manual defrost cycle will confirm the diagnosis before any parts get ordered."
+  - title: "Water Pooling Under the Crisper Drawers"
+    description: "LA's notoriously hard water leaves calcium deposits in the defrost drain tube, which then backs up and puddles under the produce drawers. KitchenAid and Bosch counter-depths are especially prone because the drain path is longer than on a standard top-freezer unit. Clearing the blockage takes about 20 minutes, but if it's been leaking for weeks the drain pan underneath may need replacement too."
+
+faq:
+  - q: "How fast can you get to Woodland Hills for a refrigerator repair?"
+    a: "From our Van Nuys dispatch we can usually reach Woodland Hills in 30–45 minutes. Parking near the Warner Center townhomes can eat 10 minutes, so we factor that in. Call (323) 870-4790 — same-day slots are usually open before noon."
+  - q: "Do you repair Samsung and LG refrigerators in Woodland Hills?"
+    a: "Yes — Samsung french-doors and LG InstaView models are probably our most common calls in 91367. On Samsung we frequently replace the ice maker assembly and water inlet valve. LG jobs usually involve the linear compressor or a failed control board. We stock common parts for both."
+  - q: "What does a refrigerator repair typically cost, and how quickly can you diagnose it?"
+    a: "Diagnosis is done on the first visit — we don't leave and come back with a quote. Most repairs in Woodland Hills run $150–$350 depending on the part. Compressor jobs are higher. Evening slots are available if you can't be home during the day. Call (323) 870-4790 or schedule online."
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

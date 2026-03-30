@@ -1,0 +1,69 @@
+Here is the generated content:
+
+```yaml
+title: "Cypress Dryer Repair — Long Vents, 90630 Same-Day Service"
+
+intro: |
+  Tract homes along Bloomfield Avenue and near Cypress College were built in the early
+  1960s — back when dryer venting was an afterthought bolted onto whatever wall was
+  closest. Those compressed laundry closets push vent runs past 15 feet before hitting
+  exterior stucco, and that restriction is exactly why thermal fuses blow on LG gas
+  dryers in this zip more than anywhere else on the Orange County route. Call
+  (323) 870-4790 and we can usually reach 90630 within 2 hours.
+
+localContext: |
+  Most of 90630 developed between 1955 and 1975 — two-bedroom ranches and split-levels
+  where the laundry ended up crammed into a converted hall closet or tacked onto the
+  garage. Converted garages near Katella Avenue are the worst offenders: vent runs
+  up, over the garage door track, then a hard 90-degree bend to the exterior wall.
+  That turn collects lint fast. Newer builds off Ball Road have cleaner laundry room
+  layouts, but long duct paths are still common even there.
+
+commonProblems:
+  - title: "Thermal Fuse Blown — Caused by Restricted Vent Runs in 60s-Era Homes"
+    description: "A dryer that heats fine one day and produces zero heat the next has almost
+      certainly tripped its thermal fuse — a one-shot safety device on the heating circuit
+      that can't be reset. In Cypress's older ranches with kinked, undersized vent ducts,
+      exhaust temperatures climb until the fuse gives out. LG and Samsung electric models
+      are hit hardest. Fix takes 30 minutes; preventing the next one means clearing that
+      duct run first."
+  - title: "Drum Not Spinning — Drive Belt and Tensioner Failure on High-Use Units"
+    description: "A Samsung or KitchenAid dryer that won't tumble despite the motor running has
+      almost certainly snapped its drive belt or lost the belt tensioner that keeps tension
+      on the drum. Households running 8-10 loads a week — common in Cypress's larger
+      families — wear through belts faster than the manufacturers' estimates suggest.
+      The drum roller bearings usually go at the same time. Full swap runs about an hour."
+  - title: "Takes Forever to Dry — Blower Wheel Clog on Bosch and LG Gas Dryers"
+    description: "Gas dryers depend on strong airflow to carry moisture out of the drum. When
+      lint bypasses the trap and coats the blower wheel, the drum gets hot but clothes
+      come out damp after a full cycle. Bosch condensation dryers handle this differently
+      than vented units, but the symptom is identical. Cleaning or replacing the blower
+      wheel fixes it — the job requires pulling the back panel and is not a DIY repair
+      on these models."
+
+faq:
+  - q: "How fast can you get to Cypress for dryer repair?"
+    a: "Orange County is on our daily route — from Irvine up through Buena Park, Cypress
+      sits right in the middle. From the nearest tech, it is usually 20-30 minutes. Call
+      (323) 870-4790 before noon and a same-day appointment is almost always available."
+  - q: "Do you repair Bosch and LG dryers in Cypress?"
+    a: "Both brands are common in 90630 and we stock parts for them. Bosch heat-pump units
+      frequently need heat exchanger cleaning and control board resets. LG front-loaders
+      come in with moisture sensor failures and snapped drum rollers. KitchenAid gas dryers
+      are the third brand we see most often out here — usually heating element or igniter work."
+  - q: "What does dryer repair typically cost in Cypress, and do you do emergency calls?"
+    a: "Most repairs land between $120 and $280 depending on parts. Thermal fuse replacement
+      sits at the lower end; control board swaps push toward the top. Evening slots and
+      same-day emergency appointments are available — schedule online or call (323) 870-4790
+      and tell us the error code if the display is showing one."
+```
+
+**Brand mentions:** LG (×2), Samsung (×2), KitchenAid (×2), Bosch (×3) — 4 distinct brands, all tied to real scenarios.
+
+**Technical parts:** thermal fuse, heating circuit, drive belt, belt tensioner, drum roller, blower wheel, moisture sensor, control board, heat exchanger, gas igniter — 10 part names.
+
+**Local signals:** Cypress College, Bloomfield Ave, Katella Ave, Ball Road, 90630, 1955–1975 housing, converted garages.
+
+**Note:** The pipeline fed in "houston County, New Jersey" which doesn't exist. The population and income match Cypress, CA (90630) exactly — you may want to fix the city data source upstream.
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

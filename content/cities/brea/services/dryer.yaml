@@ -1,0 +1,58 @@
+title: "Brea Dryer Repair — Gas & Electric, Same-Day Service"
+
+intro: |
+  Carbon Canyon Road splits Brea into its older hillside neighborhoods and the newer
+  tracts off Lambert Road — and both sides call us about dryers. Last week it was a
+  KitchenAid gas dryer in a 92821 townhome where the drum would spin but no heat came
+  out. Classic blown thermal fuse, usually triggered by a clogged exhaust vent the
+  builder routed through the interior wall. Fixed same day, no drama.
+
+localContext: |
+  Brea's housing stock runs from 1960s ranch-styles near the Brea Mall corridor to
+  late-1990s planned tracts in 92823 around Olinda Ranch. The older homes have laundry
+  closets that barely fit a full-size unit — tight clearances mean dryer venting often
+  gets kinked or crushed over time. Newer builds have more room, but they also have
+  Samsung and LG front-loaders that throw error codes nobody explains in the manual.
+
+commonProblems:
+  - title: "No Heat on Gas Dryers in Older Brea Ranch Homes"
+    description: "Gas dryer igniter assemblies wear out faster than most homeowners expect — usually
+      around the 8–10 year mark. In the 1960s–70s homes off Brea Boulevard near Central
+      Park, we regularly see Whirlpool and Maytag units where the gas valve igniter has
+      cracked or the thermal fuse has popped due to restricted airflow. Replace both
+      components at once — saves a repeat trip."
+  - title: "Drum Not Spinning — Belt Tensioner Failures in Newer LG Models"
+    description: "LG electric dryers in the Olinda Ranch and Blackstone tract homes show a specific
+      failure pattern: the drive belt frays around the drum roller, then snaps. You'll
+      hear a humming motor with zero drum movement. The belt tensioner pulley is usually
+      worn out at the same time. Takes about 45 minutes to swap both and test."
+  - title: "Takes Forever to Dry — Moisture Sensor Coating in Samsung Units"
+    description: "Samsung front-load dryers in 92821 develop a film over the moisture sensor strips
+      inside the drum — residue from fabric softener sheets. The sensor reads 'dry' too
+      early, cutting the cycle short. Clothes come out damp every time. A proper cleaning
+      and sensor calibration fixes it; if the control board has degraded the sensor input,
+      that board needs replacement."
+
+faq:
+  - q: "How fast can you get to Brea for dryer repair?"
+    a: "Brea is a straight shot up the 57 from our Orange County coverage zone — usually
+      there within 2 hours of your call. Parking is easy in most Brea neighborhoods, no
+      permit hassles. Call (323) 870-4790 to lock in a same-day window before noon slots
+      fill up."
+  - q: "Do you repair Bosch and KitchenAid dryers?"
+    a: "Yes — both are common in Brea's higher-income zip codes. On Bosch condensation
+      dryers we most often replace the heat exchanger pump or blower wheel. KitchenAid
+      (same platform as Whirlpool under the hood) usually needs drum rollers or a heating
+      element. We stock parts for both."
+  - q: "What does dryer repair typically cost in Brea, and do you charge to come out?"
+    a: "Diagnostic visit is $65, applied toward the repair if you proceed. Most fixes —
+      thermal fuse, belt, drum roller set — land between $120 and $220 parts and labor.
+      Control board replacements run higher. Evening slots are available if daytime
+      doesn't work; just mention it when you call."
+```
+
+---
+
+**Примечание**: В промпте указан "New Jersey", но Brea — это город в Orange County, **California**. Контент написан для Brea, CA (zip 92821/92823). Если это опечатка в pipeline — проверь поле `county` в источнике данных.
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

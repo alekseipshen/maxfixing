@@ -1,0 +1,49 @@
+title: "Arcadia Dryer Repair — SGV Heat & Hard Water Specialists"
+
+intro: |
+  Baldwin Avenue runs through the heart of Arcadia, lined with 1960s ranch homes and newer
+  construction where LG and Samsung laundry pairs are practically standard issue. Mineral
+  deposits from the San Gabriel Valley's notoriously hard water choke up drum bearings and
+  moisture sensors faster than most homeowners expect. Call (323) 870-4790 — we're usually
+  on-site within 2 hours.
+
+localContext: |
+  Zip codes 91006 and 91007 cover a mix of post-war ranches and 1980s two-story homes with
+  laundry rooms tucked into hallways or garages — both layouts create vent runs that back up
+  with lint faster than average. Newer builds near Santa Anita Avenue lean toward Bosch and
+  KitchenAid stacked units in tight utility closets. Clearance for diagnostics is sometimes
+  under 12 inches, so not every tech will take the job.
+
+commonProblems:
+  - title: "Thermal Fuse Failures from Valley Summer Heat"
+    description: "Arcadia summers push ambient garage temperatures past 95°F for weeks straight. That
+      extra heat load causes the thermal fuse on LG electric dryers to blow more frequently —
+      sometimes twice in a single season. Replacing the fuse fixes the symptom; cleaning the
+      exhaust vent and checking the heating element resistance fixes the cause."
+  - title: "Drum Not Spinning — Drive Belt and Idler Pulley Wear"
+    description: "Bosch and KitchenAid units in this area often hit the 8-10 year mark with the
+      original drive belt still in place. The belt tensioner and idler pulley wear together, so
+      when the drum stops, both usually need to go. Skipping the pulley replacement means the new
+      belt fails within months."
+  - title: "Takes Too Long to Dry — Mineral Buildup in Moisture Sensor"
+    description: "Hard water in the San Gabriel Valley leaves calcium deposits on the moisture sensor
+      bars inside Samsung front-load dryers. The machine reads 'dry' before the load actually is,
+      triggering early shutoff. A quick descale of the sensor strips and a full exhaust vent
+      cleanout usually cuts drying time in half."
+
+faq:
+  - q: "How fast can you get to Arcadia for dryer repair?"
+    a: "From our nearest route along the 210, Arcadia is a straightforward run — typically 45 minutes
+      or less. Street parking on most residential blocks is no issue. Call (323) 870-4790 and we
+      can usually confirm a same-day window within the hour."
+  - q: "Do you repair Bosch and KitchenAid dryers?"
+    a: "Yes — both brands are common in 91006 and 91007, especially in the newer builds. Bosch
+      condensation dryers have specific heat exchanger cleaning needs. KitchenAid units often share
+      Whirlpool-platform parts, so we stock them. Samsung and LG are handled just as often."
+  - q: "What does a dryer repair typically cost, and do you offer same-day service?"
+    a: "Most repairs — heating element swap, drum roller replacement, thermal fuse — run $120–$280
+      depending on parts. Same-day slots are available most weekdays; evening appointments fill
+      fast, so earlier in the day is better. Schedule online or call to lock in a time."
+```
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

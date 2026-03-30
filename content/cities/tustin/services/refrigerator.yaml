@@ -1,0 +1,57 @@
+title: "Tustin Refrigerator Repair — Old Town to Tustin Ranch"
+
+intro: |
+  The Tustin Hangars shadow some of the older blocks near Red Hill Avenue, where
+  1970s tract homes still run KitchenAid side-by-sides that haven't been touched in
+  years. Orange County's hard water hits these units hard — mineral deposits clog the
+  water inlet valve and ice maker assembly until you're mopping up the kitchen floor.
+  We cover 92780 and 92782, usually on-site the same day you call.
+
+localContext: |
+  Old Town Tustin (92780) has bungalows and ranch houses built between the 1940s and
+  1960s — tight kitchen layouts, original cabinetry, sometimes no wiggle room around
+  a built-in. Tustin Ranch (92782) runs newer, with larger homes where Sub-Zero and
+  Thermador built-ins are common. Both areas sit inland, away from the coast, which
+  means summer temperatures regularly climb past 90°F and compressors work harder than
+  manufacturers ever intended.
+
+commonProblems:
+  - title: "Ice Maker Failure from Hard Water Mineral Buildup"
+    description: "Orange County water routinely tests above 300 ppm calcium hardness. That
+      scale deposits directly inside the ice maker assembly — the fill tube narrows,
+      the water inlet valve gets sluggish, and eventually the whole module stops cycling.
+      Samsung french-door models are especially prone to this in the 92780 zip. Descaling
+      alone won't always fix it; the valve usually needs replacement too."
+  - title: "Compressor Overheating During Inland Summer Heat"
+    description: "Refrigerators in Tustin Ranch run without marine layer relief — when
+      ambient temps hit 95°F in July and August, the condenser fan and compressor are
+      working at maximum load for hours straight. LG and Bosch units sometimes throw
+      error codes (Er FF or d5) when the evaporator coil ices over as a secondary
+      effect. Cleaning condenser coils is step one; if the compressor is already loud
+      or cycling short, that's a different call."
+  - title: "Refrigerant Leak in Older Built-In Units"
+    description: "Sub-Zero built-ins in the bigger Tustin Ranch homes from the early 2000s
+      sometimes develop slow refrigerant leaks at the evaporator coil joints — you'll
+      notice warm spots in the back of the fridge before the cooling fails entirely.
+      These require EPA-certified handling and specific tooling. Not every shop has
+      the equipment or certifications for Sub-Zero refrigerant work. We do."
+
+faq:
+  - q: "How fast can you get to Tustin for refrigerator repair?"
+    a: "Most calls in Tustin get same-day service — we route through the 55 and 5
+      regularly. Parking is straightforward in both Old Town and Tustin Ranch
+      neighborhoods. Call us at (323) 870-4790 and we'll give you a two-hour arrival
+      window."
+  - q: "Do you repair KitchenAid and Sub-Zero refrigerators in Tustin?"
+    a: "Yes to both. KitchenAid french-door units are common here — we regularly
+      replace door gaskets and defrost timers on them. Sub-Zero built-ins need
+      brand-specific parts and refrigerant certification. Bosch and LG are also
+      frequent calls in this area."
+  - q: "What does a refrigerator repair visit typically cost and how urgent can you respond?"
+    a: "Diagnostics start at $85, applied toward the repair. Common fixes — replacing
+      a thermal fuse, drain pump, or inlet valve — usually run $150–$280 parts and
+      labor. Evening slots are available for emergencies. Same-day response is standard
+      for most Tustin zip codes."
+```
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

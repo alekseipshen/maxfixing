@@ -1,0 +1,26 @@
+title: "Lake Forest Washer — OC Hard Water Wears Machines Down Fast"
+
+intro: |
+  Orange County's municipal water supply runs through 92630 with calcium hardness levels that quietly wreck water inlet valves and detergent dispensers over a few years. That LG front-loader you installed when you moved into the Wagon Wheel tract is probably already showing slower fill times. Mineral deposits don't announce themselves — they just keep narrowing the flow until you get an IE error mid-cycle and a drum full of soapy water going nowhere.
+
+localContext: |
+  Lake Forest was mostly built between 1985 and 2005 — master-planned tracts that dominate the 92630 and 92610 zip codes. Those homes typically have laundry closets or side-by-side utility rooms with tight clearance on both sides. Pulling a Bosch 500 series front-loader off a pedestal to reach a seized drum bearing or swap a drain pump in one of those spaces takes patience and the right tools — it's not a job with room to improvise.
+
+commonProblems:
+  - title: "Water Inlet Valve Blockage from OC Mineral Buildup"
+    description: "Dissolved calcium in South County tap water slowly coats the mesh screens inside the water inlet valve until flow drops to almost nothing. Samsung WF models throw a 4E or IE error code when this happens — the machine stalls waiting for water that barely trickles in. Cleaning the screens buys a few months; replacing the valve assembly fixes it for good."
+  - title: "Drain Pump Failure After Years of Sediment Accumulation"
+    description: "Lint and mineral paste build up in the drain pump impeller over time, especially in homes on well-used wash cycles. Bosch 500 series front-loaders in Lake Forest typically hit this around year four or five — the E18 drain error appears, the drum sits full, and the door locks tight. Replacing the pump usually takes under an hour once we have access."
+  - title: "Drum Bearing Wear in Heavily Loaded Top-Loaders"
+    description: "A grinding or rumbling noise during the spin cycle usually points to a worn drum bearing, not the motor. KitchenAid top-loaders are prone to this when the spin basket regularly runs at capacity without the shock absorbers keeping the load balanced. Catching it early is a bearing replacement — ignoring it long enough means dealing with the drum shaft too."
+
+faq:
+  - q: "How fast can you get to Lake Forest for washer repair?"
+    a: "South OC runs are daily — Irvine, Mission Viejo, Lake Forest. Off the 5 or the 241 Toll Road, we're usually at the door within 2 hours. Call (323) 870-4790 or schedule online and we'll confirm a same-day slot."
+  - q: "Do you work on Bosch and LG front-loaders specifically?"
+    a: "Those two plus Samsung are the three we see most in Lake Forest. Common jobs: drain pump replacements, door latch assembly failures, water inlet valve swaps, and control board resets on LG and Samsung models throwing persistent error codes."
+  - q: "What does same-day washer repair typically cost here?"
+    a: "Diagnostic fee is $75 and applies toward the repair. Most drain pump or inlet valve jobs land between $150 and $280 all in. Evening slots available — if the machine is down and laundry is backing up, call (323) 870-4790 and we'll get someone out same day."
+```
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

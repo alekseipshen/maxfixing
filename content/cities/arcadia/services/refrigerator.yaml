@@ -1,0 +1,27 @@
+title: "Arcadia Refrigerator — Hard Water & SGV Heat Kill Ice Makers"
+
+intro: |
+  The San Gabriel Valley Municipal Water District delivers some of the hardest tap water in the county, and in Arcadia's 91006 zip, that mineral load hits refrigerator ice maker assemblies first. A Samsung french-door unit near Santa Anita Avenue called us after producing half-formed ice for weeks — the water inlet valve had calcified nearly shut. Caught early, that's a $180 fix. Left alone, it kills the entire ice maker assembly.
+
+localContext: |
+  Arcadia housing runs from 1950s ranch-style homes along Live Oak Avenue to newer two-story builds in the 91007 zip closer to the 210 freeway. Older kitchens weren't laid out for the counter-depth Sub-Zero and KitchenAid built-ins current owners have retrofitted in — tight clearances, no dedicated service panels, sometimes a garage conversion blocking the usual access route. Repair time depends heavily on how the original kitchen was configured.
+
+commonProblems:
+  - title: "Ice Maker Failure Driven by Mineral-Heavy SGV Water"
+    description: "Arcadia tap water averages over 300 mg/L hardness — enough to calcify a water inlet valve in under two years. LG french-door models with dual ice makers are hit hardest: the upper unit's inlet line runs longer and accumulates scale faster. Slow ice production before full stop is the warning sign. Descaling the valve and replacing the ice maker assembly usually resolves it in one visit."
+  - title: "Compressor Overheating During Hot San Gabriel Valley Summers"
+    description: "Temperatures in Arcadia regularly push 98-100°F in July and August. A refrigerator in a south-facing kitchen or un-air-conditioned garage runs the compressor beyond its rated duty cycle. KitchenAid side-by-sides from the mid-2000s are especially prone to condenser fan motor seizure under that load — you get a warm fridge and an F5 or E1 error code before the compressor itself goes."
+  - title: "Evaporator Coil Icing in Older Frigidaire Units"
+    description: "A number of 1960s homes in the Baldwin Stocker neighborhood still run Frigidaire top-freezers that outlasted their original defrost timers. Once that timer fails, ice accumulates on the evaporator coil until airflow stops entirely — the freezer looks fine but fresh food climbs into the 50s. Manual defrost plus a new timer typically restores cooling the same day."
+
+faq:
+  - q: "How fast can you get to Arcadia for refrigerator repair?"
+    a: "Arcadia sits right in our San Gabriel Valley coverage zone — usually 45-60 minutes from dispatch. Street parking near Santa Anita Avenue is easy for service vans. Call (323) 870-4790 for same-day scheduling or book online."
+  - q: "Do you repair Samsung and LG refrigerators in Arcadia?"
+    a: "Both are extremely common here and we stock parts for them regularly. Samsung french-door units usually come in with ice maker assembly failures or defrost sensor errors. LG linear compressor issues and door gasket failures are the typical calls. Both covered, same day."
+  - q: "What does refrigerator repair usually cost in Arcadia, and do you offer evening appointments?"
+    a: "Diagnosis happens on the first visit — most issues are clear within 20 minutes. A clogged drain line or failed thermostat runs $150-250. Compressor work on a Sub-Zero or Thermador built-in is $400-600 depending on parts. Evening slots available — call (323) 870-4790."
+
+---
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

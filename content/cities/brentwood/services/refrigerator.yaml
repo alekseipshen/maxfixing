@@ -1,0 +1,61 @@
+title: "Brentwood Refrigerator — Sub-Zero & Built-In Repair, 90049"
+
+intro: |
+  Hard water from LADWP hits Brentwood kitchens the same way it hits everywhere else in
+  West LA — except here the appliance it's destroying costs three times as much. Sub-Zero
+  built-ins on Saltair Ave, Gorham, up near the Brentwood Country Mart stretch — the ice
+  maker assembly in those units scales up fast. Mineral deposits block the water line,
+  then the whole ice system quits. MaxFixing covers 90049 with same-day slots most days.
+
+localContext: |
+  Brentwood's housing stock is a mix of 1950s-60s ranch-style homes and newer spec builds
+  that went up after tear-downs. The ranch-era kitchens often have tight cabinet clearances
+  around the fridge — pulling a Sub-Zero or KitchenAid counter-depth for service means
+  knowing exactly how the panel trim comes off without cracking it. Zip 90049 also includes
+  some older condos along Barrington Ave where compact 24-inch units are the only thing
+  that fits. Different problem set from the single-family homes a few blocks away.
+
+commonProblems:
+  - title: "Ice Maker Clogs from LA's Hard Water Supply"
+    description: "LADWP water in 90049 tests around 300 ppm — that's hard. Calcium deposits
+      accumulate in the water inlet valve and along the ice maker assembly fill tube over
+      12-18 months. Sub-Zero and KitchenAid models are especially vulnerable because their
+      ice systems sit in freezer-door configurations that make flushing the line a real
+      procedure, not a quick fix. Left alone, the valve seizes and the whole ice system
+      stops producing."
+
+  - title: "Compressor Noise on Older Built-Ins Running Through Summer"
+    description: "August in Brentwood doesn't hit San Fernando Valley temps, but it's still
+      90°F for weeks. Refrigerators that are 10+ years old start showing compressor fatigue
+      — you'll hear a loud clicking or humming on startup, sometimes a brief warm cycle
+      inside. On Thermador column fridges, that clicking is often the overload relay failing
+      before the compressor itself goes. Catching it at the relay stage saves a lot of money."
+
+  - title: "Evaporator Coil Ice Buildup Blocking Airflow"
+    description: "Samsung french-door models — the RF series especially — have a well-known
+      defrost timer issue that lets the evaporator coil freeze solid. Food in the fridge
+      section starts warming while the freezer stays cold. That temperature split is the
+      tell-tale sign. The fix is defrosting the coil and replacing the defrost heater assembly,
+      but if the thermostat sensor is also gone, it'll refreeze within weeks."
+
+faq:
+  - q: "How fast can you get to Brentwood for refrigerator repair?"
+    a: "Usually 2-3 hours from call to arrival for 90049. Technicians come in from West LA
+      so there's no long cross-valley drive. Parking near San Vicente or Barrington can be
+      tight — we bring compact vans. Call (323) 870-4790 and we'll give you an honest ETA."
+
+  - q: "Do you work on Sub-Zero and Thermador refrigerators?"
+    a: "Yes — Sub-Zero and Thermador are probably half the calls we get in Brentwood and the
+      surrounding streets. Common issues: Sub-Zero door gasket seal failure, Thermador
+      condenser fan motor burnout, and ice maker control board errors on both brands. We
+      carry parts for both."
+
+  - q: "What does refrigerator repair usually cost, and can you come the same day?"
+    a: "Diagnostic is flat-rate. Most repairs land between $180-$420 depending on the part —
+      compressor replacements run higher. Same-day slots are available most weekdays; evening
+      appointments too if you can't do daytime. Schedule online or call (323) 870-4790."
+```
+
+Заметка: в запросе был указан «New Jersey» — это явная ошибка в пайплайне (Brentwood — это район West LA, не NJ). Контент написан под Brentwood, Los Angeles, 90049. Стоит проверить, откуда берётся поле `county` в данных о городах — возможно, там подтягивается неверное значение.
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

@@ -1,0 +1,32 @@
+title: "Alhambra Washer Repair — Hard Water Breaks Machines Fast Here"
+
+intro: |
+  San Gabriel Valley tap water runs hard — calcium and magnesium levels high enough that mineral scale starts building inside washer components within a couple of years. That Samsung front-loader in a Valley Blvd apartment isn't just aging; it's fighting the water supply every single cycle. Most Alhambra calls we get aren't random failures — they're predictable damage from a water supply that nobody warns renters about.
+
+localContext: |
+  Alhambra's housing stock is a mix of 1930s–1950s bungalows and postwar apartments that were built before front-loading washers existed. Tight laundry closets in 91803 near Almansor Park mean stacked units with almost zero clearance — access for repairs requires moving the machine, which adds time. Older copper supply lines in the Garfield Ave corridor corrode and restrict flow to the water inlet valve faster than PEX or PVC lines would.
+
+commonProblems:
+  - title: "Drum Won't Spin — Drive Belt and Bearings Wear Out Early"
+    description: |
+      Hard water mineral deposits accelerate bearing wear inside the spin basket assembly. LG top-loaders throwing a UE error code (unbalanced load warning that won't reset) often have degraded shock absorbers — not actually a load distribution problem. Replacing the drive belt and inspecting the drum bearing usually fixes it in one visit.
+  - title: "Water Sitting in the Drum After the Cycle Finishes"
+    description: |
+      A Whirlpool front-loader leaving standing water almost always points to the drain pump. Lint, loose change, and mineral sediment from Alhambra's tap water combine into a paste that jams the pump impeller and triggers an F21 or F9 error code. Clearing the pump filter and checking the drain hose takes about 45 minutes on the bench.
+  - title: "Washer Leaking — Door Gasket and Inlet Valve Are Both Suspects"
+    description: |
+      Bosch and Samsung front-loaders in older Alhambra buildings develop cracked door gaskets after a few years — hard water makes the rubber brittle and it starts weeping during spin cycles. Sometimes it's the water inlet valve itself; calcium scale causes hairline cracks that produce a slow drip that pools under the machine. Both are straightforward part replacements.
+
+faq:
+  - q: "How fast can you get to Alhambra for washer repair?"
+    a: |
+      The San Gabriel Valley is our regular territory — Alhambra is a frequent stop. Running the 10 freeway corridor, most addresses in 91801 and 91803 are reachable in under 2 hours. Call (323) 870-4790 to lock in a same-day slot before noon if possible.
+  - q: "Do you repair Samsung and LG washers in Alhambra?"
+    a: |
+      Samsung and LG front-loaders account for a big share of calls in this zip code range. Common fixes: water inlet valve replacements on Samsung units, control board resets, drum bearing jobs on LG models. Bosch, Whirlpool, and GE are handled regularly too.
+  - q: "What does a washer repair visit cost in Alhambra?"
+    a: |
+      Diagnostic is $65, applied toward the repair if you move forward. Standard fixes — drain pump swap, lid switch replacement, drive belt — typically run $150–$280 parts and labor combined. Common Samsung, LG, and Whirlpool parts ride in the van, so most repairs close same-day. Evening slots available; call (323) 870-4790.
+```
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

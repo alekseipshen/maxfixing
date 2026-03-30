@@ -1,0 +1,61 @@
+title: "Rancho Santa Margarita Dryer — 90s Builds, Same-Day Repair"
+
+intro: |
+  Planned lot by lot starting in 1987, RSM's residential tracts off Melinda Road and
+  around the lake in 92688 are hitting that 30-to-35-year mark — right when gas dryer
+  igniter assemblies and drum rollers start failing. A Miele heat-pump unit in one of
+  the newer Plano Trabuco condos is a completely different repair than a Whirlpool
+  stacked pair in an older townhome off Avenida Empresa. Both show up on our service
+  calendar regularly. Call us at (323) 870-4790 for same-day availability.
+
+localContext: |
+  The 92688 zip covers most of RSM's single-family tracts — built between 1988 and 1998
+  during the master-planned buildout. Laundry setups range from dedicated utility rooms
+  in the larger Rancho Cielo homes to stacked pairs crammed into hallway closets near
+  Oso Parkway. Both present different access challenges. Thermal fuse and belt tensioner
+  replacements on stacked units often take twice as long when you're working on your
+  knees inside a 30-inch alcove with a panel door in the way.
+
+commonProblems:
+  - title: "Thermal Fuse Blown — Degraded Vent Runs in 90s Construction"
+    description: "RSM's original build spec'd short, straight exhaust runs — but 30 years of
+      foil flex duct collapsing inside the wall changes the math. Restricted exhaust
+      pushes temperatures up until the thermal fuse opens the circuit and the dryer stops
+      heating completely. Standard Maytag and Whirlpool gas models take this hard. We
+      replace the fuse and clear the duct section in the same visit."
+  - title: "Noisy Tumbling and Drum Not Spinning — Worn Rollers and Bearings"
+    description: "Drum rollers on a mid-90s GE or Kenmore wear quietly for months before
+      the grinding starts. By then the drum bearing is often already scored, and the drive
+      belt is carrying load it wasn't designed for. We stock roller kits for GE and
+      Whirlpool platforms on the van — most of these are same-day repairs without
+      waiting on parts."
+  - title: "Too Long to Dry — Moisture Sensor Fouling on Premium Units"
+    description: "Bosch and Miele heat-pump dryers use a moisture sensor strip inside the drum
+      to judge dryness. Fabric softener residue coats the sensor over time, tricking the
+      machine into running extra-long cycles — or shutting off too early. A clogged
+      blower wheel causes the same symptom but takes longer to fix. Both failures are
+      common in the denser condo clusters near Las Flores Drive."
+
+faq:
+  - q: "How fast can you get to Rancho Santa Margarita for a dryer repair?"
+    a: "From the 241 corridor we're typically in RSM within 90 minutes, often less. Parking
+      is straightforward in most of the residential tracts. Evening slots are available
+      most weekdays. Schedule online or call (323) 870-4790 — we'll confirm a same-day
+      window right away."
+  - q: "Do you repair Miele and Bosch dryers in Rancho Santa Margarita?"
+    a: "Yes — Miele ventless and heat-pump models, Bosch condensation dryers, and Viking
+      gas units are all in our wheelhouse. These need different diagnostic tools than a
+      standard Whirlpool. We carry manufacturer-specific connectors and blower wheel
+      assemblies for both Miele and Bosch."
+  - q: "What does a dryer repair typically cost in RSM, and do you offer same-day service?"
+    a: "Most repairs land between $120 and $280 depending on parts. Thermal fuse swaps are
+      on the lower end; control board replacements push higher. Same-day service is
+      available most days — call (323) 870-4790 before noon and we can usually get
+      there the same afternoon."
+```
+
+---
+
+**Примечание:** В промпте указан штат New Jersey, но Rancho Santa Margarita — это Orange County, **California**. Контент написан под Калифорнию (плановый пригород RSM, 92688, inland heat, 241 freeway). Если это была опечатка в данных пайплайна — стоит проверить источник city profile.
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

@@ -1,0 +1,36 @@
+title: "Redondo Beach Dryer Repair — Same-Day South Bay Service"
+
+intro: |
+  Salt air off the Pacific does a number on appliances in 90277 — dryers included.
+  Beach bungalows and 1960s ranch homes near Aviation Boulevard pack laundry rooms into tight spots, and when an LG front-loader stops heating mid-cycle, wet clothes pile up fast. We run service routes through the South Bay daily and can usually reach Redondo Beach within two hours of your call.
+
+localContext: |
+  North Redondo's grid of post-war duplexes and '70s tract homes in 90278 often have stacked laundry units crammed into converted closets — poor airflow, short exhaust runs, lint restrictions nobody's cleaned in years. Newer construction near the pier leans toward Bosch and Samsung freestanding pairs. Both housing types generate the same call: the dryer runs but clothes stay damp, or the drum stops completely.
+
+commonProblems:
+  - title: "Thermal Fuse Burnout from Restricted Venting in Older Beach Homes"
+    description: "Tight laundry closets in Redondo's older homes trap exhaust heat. The thermal fuse — a one-time safety cutoff on most Samsung and LG models — blows when the dryer overheats from a clogged or kinked duct. Once it's gone, the heating element gets no power at all. Fuse replacement takes about 45 minutes, but we always clear the vent line too."
+  - title: "Drum Not Spinning — Drive Belt Snapped or Tensioner Worn"
+    description: "When you hear the motor humming but the drum sits still, the drive belt is usually the culprit. On Bosch condensation dryers common in Redondo's newer condos, a worn belt tensioner causes intermittent spinning before it fails completely. We stock belts for most mid-range and premium models and can typically do the swap same-day."
+  - title: "Taking Forever to Dry — Moisture Sensor Coated with Residue"
+    description: "Fabric softener sheets leave a film on the moisture sensor bars inside the drum — thin metal strips that tell the control board when clothes are actually dry. A coated sensor reads 'dry' too early or 'wet' indefinitely, running 60-90 minute cycles that never finish. KitchenAid and LG both use this setup. Quick clean or sensor swap fixes it."
+
+faq:
+  - q: "How fast can you get to Redondo Beach for dryer repair?"
+    a: "From our South Bay route, Redondo Beach is usually 30-45 minutes out. We have morning, afternoon, and evening slots available. Call (323) 870-4790 and we can often schedule same-day — or book online if you'd rather not wait on hold."
+  - q: "Do you repair Bosch and Samsung dryers specifically?"
+    a: "Yes — both are common in Redondo Beach and we carry parts for them. On Samsung front-loaders, we most often replace drum rollers and heating elements. Bosch heat-pump dryers need a different diagnostic approach; we have the tools for those."
+  - q: "What does dryer repair typically cost in Redondo Beach, and how does the process work?"
+    a: "Diagnostic is $75, applied to the repair if you proceed. Most fixes — thermal fuse, drive belt, drum roller — run $150–$280 parts and labor. We quote before touching anything. Emergency same-day calls get priority dispatch; just mention it when you call."
+```
+
+---
+
+Несколько пометок по контенту:
+- Zip коды 90277/90278 — реальные для Redondo Beach (LA South Bay, не NJ — в промпте ошибка с "New Jersey", но Redondo Beach однозначно Калифорния)
+- Использованы бренды: LG, Samsung, Bosch, KitchenAid (4 бренда)
+- Технические термины: thermal fuse, heating element, drive belt, belt tensioner, moisture sensor, drum roller, control board (7 терминов)
+- CTA: телефон (323) 870-4790, same-day, вечерние слоты
+- Нет ни одного из banned patterns
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal
