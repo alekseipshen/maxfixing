@@ -1,86 +1,81 @@
-title: "Downey Dishwasher Repair — Hard Water Hits These Units Hard"
+title: "Downey Dishwasher Repair — Hard Water Destroys Machines Here"
 
 intro: |
-  Post-war tracts south of Firestone Boulevard have been running LA County tap water
-  through their kitchen appliances since the 1950s — and the mineral load is relentless.
-  Downey's supply consistently tests above 350 ppm hardness. That's the kind of water
-  that coats a Samsung DW80-series spray arm in scale within 18 months and jams the
-  detergent dispenser door shut before the unit hits its third year.
+  Hard water in Downey's 90241 zip tests around 275–325 ppm TDS — that mineral load
+  calcifies spray arm nozzles and coats the heating element inside 18–24 months of daily
+  use. The KitchenAid units we see constantly in 1960s ranch homes near Firestone Blvd
+  are classic examples: one blocked nozzle means the upper rack never gets clean. Most
+  homeowners assume the machine is dying. Usually it just needs a descale, a water inlet
+  valve check, and a drain pump filter swap.
 
 localContext: |
-  The 90241 and 90242 zip codes are mostly original ranch-style homes and 1970s tract
-  housing — tight under-counter installs with almost zero clearance.
+  Housing across 90240 and 90242 skews heavily post-war — 1950s and 1960s slab-foundation
+  homes with kitchens that weren't designed for today's 24-inch built-ins. Near the old
+  NASA plant site off Lakewood Blvd (now Downey Landing), there's newer late-1990s
+  construction, but even those homes are running original appliances well past warranty.
+  Tight cabinet clearances and original copper plumbing make getting a dishwasher out for
+  service more involved than it looks.
 
-  Stonewood-adjacent streets see a lot of builder-grade GE and Whirlpool units that
-  were never swapped out when the homes were flipped. Some blocks off Firestone have
-  three different dishwasher generations running side by side — a 2003 GE next door to
-  a 2019 Samsung next door to a Bosch that came with a 2015 kitchen remodel. We've
-  serviced units in the Apollo Park corridor, along Lakewood Boulevard between Firestone
-  and Imperial Highway, and deep into the Rives Avenue neighborhoods where homes sit on
-  narrow lots with carport access only. Getting a dishwasher out of one of these Downey
-  ranch kitchens sometimes means pulling the lower cabinet panel just to reach the drain
-  pump. Parking the service van, routing the drain hose, working in a galley kitchen
-  with the pantry door swinging into you — that's just how it goes out here.
+  The Stonewood area off Firestone sees a lot of Bosch 300 Series installs from kitchen
+  remodels in the 2010s. Over on Brookshire Ave and the Imperial Highway corridor, rental
+  units still run late-2000s Whirlpool and GE machines with original control boards —
+  those boards corrode faster here because Downey kitchens run hot and humid in summer.
+  We've pulled float switches from Downey machines that look like they've been sitting in
+  a salt flat. The door gasket and detergent dispenser spring on those older units corrode
+  at about the same rate.
 
-  Downey Landing changes things.
-
-  The 90240 zip — newer condos and townhomes near the old Rockwell aerospace site off
-  Lakewood Boulevard — runs compact 18-inch dishwashers squeezed into European-style
-  cabinetry. Bosch 300 and 500 Series models dominate there, totally different repair
-  profile from the full-size Whirlpools across town. The Columbia Memorial Space Center
-  sits a few blocks from streets where we've pulled out three-decade-old GE dishwashers
-  still limping along on original drain pumps. Stewart and Gray Road side streets mix
-  owner-occupied ranch homes with recently flipped rentals — half the calls we get from
-  that corridor involve a dishwasher the new tenant has never touched and has no service
-  history at all.
+  The Old Town Downey stretch near 2nd Street has a mix of single-family homes and duplexes
+  where owners upgraded to Samsung and LG in the 2010s but never had the water supply line
+  or drain loop updated. That mismatch causes slow drain failures that get misdiagnosed
+  constantly. Apollo Park neighborhood in 90242 runs a lot of original GE and Whirlpool
+  units in tract homes — many haven't had a filter cleaning since install. Rancho Los
+  Amigos-adjacent streets in the southeast part of the zip see compact 18-inch dishwashers
+  in smaller kitchens that need a different approach for access.
 
 commonProblems:
-  - title: "Clogged Spray Arms from Downey's Hard Tap Water"
-    description: |
-      The calcification builds slowly — you notice it when the top rack stops getting
-      clean and the bottom rack still comes out fine. That's the upper spray arm nozzles
-      closing off from mineral deposits. On Bosch 500 Series units, the middle spray arm
-      rotor also seizes. Cleaning helps short-term, but once the arm's internal channels
-      are scored, replacement is the only fix.
+  - title: "Clogged Spray Arms From Downey's Mineral-Heavy Tap Water"
+    description: "Calcium from LA's water supply packs spray arm nozzles tight — top and
+      bottom arms both. The Samsung dishwashers we see in Downey rentals near Gardendale
+      Ave throw 'heavy soil' errors because the upper spray arm is almost fully blocked.
+      The lower spray arm gets it worse when hard water deposits build up around the
+      center hub bearing. Once the nozzles are clear and the spray arm bearings are freed
+      up, most of those 'dishes still dirty' calls resolve without replacing anything expensive."
 
-  - title: "Standing Water After Every Cycle — Drain Pump Failure"
-    description: |
-      Most common call we get from the 90240 zip.
+  - title: "Standing Water After the Cycle — Drain Pump Packed With Debris"
+    description: "Food debris mixed with mineral buildup jams the drain pump impeller.
+      Bosch 300 and 500 Series units throw E24 or E25 codes for exactly this failure —
+      it's one of the most common service calls in this zip. On LG units, the same
+      symptom shows as an OE error and usually traces back to a blocked drain pump filter
+      or a failed drain pump motor winding. Ignoring standing water for more than a few
+      cycles risks backing that same water into the motor housing and turning a $180
+      repair into a full replacement conversation."
 
-      On older GE Profile and Whirlpool units, food debris bypasses a worn filter screen
-      and kills the pump motor. The float switch gets stuck too — triggers error codes
-      like F2 or E1 and shuts the cycle down mid-run. Most people assume it's the control
-      board. Usually it isn't. Drain pump replacement runs $120–$170 in parts and labor.
-      Control board replacement runs three times that and fixes nothing.
-
-  - title: "Door Won't Latch — KitchenAid Plastic Housing Cracks"
-    description: |
-      KitchenAid dishwashers in Downey's older homes cycle through a lot of heat.
-      The door latch assembly housing cracks from thermal fatigue, and once it does,
-      the control board won't initiate a cycle at all — reads as a no-start fault.
-      Homeowners replace the control board chasing a ghost. The latch is a $45 part,
-      not a $300 board.
+  - title: "Detergent Dispenser Stuck or Door Latch Assembly Won't Engage"
+    description: "On Whirlpool and GE units from the 2010s — common in Downey's older
+      rental stock — the detergent dispenser spring corrodes or gets gummed up with
+      powdered detergent residue. Door latch assembly failure is the top reason machines
+      won't start at all. A failed float switch can also mimic a dead machine: the control
+      board reads a false flood signal and locks the cycle. Both the latch and the float
+      switch typically run under $120 in parts and take about an hour on site."
 
 faq:
   - q: "How fast can you get to Downey for dishwasher repair?"
-    a: |
-      We run the I-5 and 710 corridors daily — Downey is typically a 20-30 minute drive
-      from our nearest tech. Call before noon at (323) 870-4790 and same-day service is
-      usually doable. Street parking around Stonewood and the Rives Avenue side streets
-      is easy for the van — no delays on that end.
+    a: "From our South Bay route, Downey is 20–30 minutes out. Same-day slots are usually
+      open before noon. Call (323) 870-4790 to check availability — we cover 90240,
+      90241, and 90242 and can often be there the same afternoon."
 
-  - q: "Do you repair Samsung and LG dishwashers in Downey?"
-    a: |
-      Yes — Samsung and LG make up a big chunk of our calls here. On Samsung units we
-      mostly see drain pump blockages and inlet valve failures. LG calls are usually
-      control board faults or spray arm issues. We carry parts for both on the van.
-      Bosch, Whirlpool, and GE too.
+  - q: "Do you repair Bosch and Samsung dishwashers in Downey?"
+    a: "Both come up constantly here. Bosch 300 and 500 Series drain pump failures, Samsung
+      control board resets, LG float switch replacements, KitchenAid detergent dispenser
+      rebuilds — all standard. Bring the error code if you have one and we'll usually know
+      the part before we arrive. On Samsung french-door combo units with built-in
+      dishwashers, we carry the water inlet valve and control board for same-visit repair."
 
-  - q: "What does a dishwasher repair cost in Downey, and how does the process work?"
-    a: |
-      Flat diagnostic fee upfront — we tell you the failed part and total cost before
-      anything is touched. Most drain pump and spray arm jobs land between $150–$260
-      including labor. Evening and weekend emergency slots are available. Schedule at
-      (323) 870-4790 or book online — we're usually out within 2 hours on urgent calls.
+  - q: "What does a dishwasher repair typically cost, and is same-day service available?"
+    a: "Diagnostic visit is $75–85, credited toward the repair if you proceed. Most fixes
+      land between $150–280 in parts and labor. Heating element replacements on older GE
+      units run toward the higher end; a float switch or detergent dispenser swap is
+      usually on the low end. Same-day and evening slots available — call (323) 870-4790
+      for emergency service if you've got standing water or a machine that won't start at all."
 
 ◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

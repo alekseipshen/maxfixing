@@ -1,0 +1,29 @@
+title: "Cypress Refrigerator Repair — Houston Heat Kills Compressors Fast"
+
+intro: |
+  Cypress summers are brutal on refrigerators — garage temps off Fry Road can push 105°F by August, and that Samsung French-door in a closed attached garage runs its compressor almost nonstop. The 77429 and 77433 zip codes cover some of the newest housing stock in Harris County, with high-end appliances under 15 years old that owners expect to last. Bridgeland homes especially tend to have builder-installed KitchenAid and Bosch units that need someone who knows the hardware.
+
+localContext: |
+  Most Cypress homes were built between 1995 and 2015 — large suburban floor plans with dedicated appliance nooks sized for standard 36-inch units, until a deeper Sub-Zero or Thermador replacement shows up. The 77433 zip around Bridgeland and Towne Lake skews newer construction with premium appliances baked in; the older 77429 sections near Grant Road still have plenty of original builder-grade Whirlpool side-by-sides pushing 20 years of Texas summers.
+
+commonProblems:
+  - title: "Compressor Burnout from Constant Summer Cycling"
+    description: "When garage ambient temps push past 100°F, the compressor in your LG or Samsung refrigerator runs almost continuously. That non-stop cycling burns out compressor windings or trips the thermal overload protector. Every July and August we pull units out of Cypress garages where the motor is hot to the touch and the compressor has seized entirely."
+  - title: "Mineral Scale Clogging Ice Maker Assemblies"
+    description: "Houston water has real mineral content, and in Cypress it builds up fast inside ice maker assemblies and water inlet valves. That KitchenAid ice maker that stopped producing — nine times out of ten it's calcium scale blocking the fill tube or locking up the inlet valve solenoid, not an electronics failure. Flushing and replacing the valve usually fixes it same visit."
+  - title: "Evaporator Coil Freezing from Humidity Infiltration"
+    description: "Cypress humidity runs high from May through October. A failing door gasket lets warm air seep into the freezer compartment, and that moisture freezes solid on the evaporator coil until airflow stops completely. Bosch and Samsung counter-depth models get hit hard by this — the defrost heater can't keep pace once the coil is encased in a solid ice block."
+
+faq:
+  - q: "How fast can you get to Cypress for refrigerator repair?"
+    a: "We run Harris County routes daily. From our nearest dispatch point, Cypress is typically 25-35 minutes out. Same-day slots open most days — call (323) 870-4790 to check availability. Evening appointments work too if you need something after work hours."
+  - q: "Do you repair LG and Samsung refrigerators in Cypress?"
+    a: "LG and Samsung French-door models are the most common calls we get in Cypress. Also handle KitchenAid and Bosch regularly. Typical jobs: ice maker assembly failures, water inlet valve clogs, and Samsung control board errors — that 'code 88' display freeze shows up constantly."
+  - q: "What does refrigerator repair cost in Cypress, and can you come the same day?"
+    a: "Diagnostic runs $75-$95. Most repairs land $150-$350 depending on the part. Sub-Zero or Thermador work costs more — those compressor and sealed-system parts aren't cheap. Emergency same-day slots available; usually on-site within 2 hours for urgent calls. Schedule at (323) 870-4790."
+
+---
+
+**Note:** The city profile references "houston County, New Jersey" but the population (49,137), income ($102K), and name match Cypress, TX (Harris County). Content above is written for Cypress, TX. If the intended city is different, the pipeline data should be corrected upstream — the zip codes (77429, 77433) and local references (Bridgeland, Fry Road, Houston humidity) are Texas-specific.
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal
