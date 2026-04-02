@@ -1,0 +1,31 @@
+title: "Santa Clarita Ice Maker Repair — Valley Heat Pushes These Units Hard"
+
+intro: |
+  Canyon Country temps hit 108°F in August, and that LG InstaView refrigerator in a Saugus tract home doesn't throttle back when it's hot outside. Ice makers here run nonstop all summer. Local municipal water sits around 250 ppm hardness, so mineral scale builds inside the fill lines faster than the manufacturer's maintenance schedule accounts for. Most people notice something's wrong when cubes come out cloudy first, then undersized, then nothing at all. Santa Clarita sits far enough inland that the coastal marine layer never cools things down — refrigerators and freezers compensate hard, and the components pay for it.
+
+localContext: |
+  Valencia (91355) and Stevenson Ranch are built almost entirely of 1990s and early-2000s master-planned subdivisions — island kitchens, integrated refrigerators tucked into cabinetry, engineered hardwood throughout. Getting to the ice maker assembly means pulling the fridge forward on that flooring, carefully. Canyon Country (91351) skews older — mid-1980s construction is common — and those original appliances are pushing 35 to 40 years now. Components from that era were never rated for California water hardness.
+
+  Newhall and Castaic add another layer. Newer construction along The Old Road corridor sits next to 1970s homes where the kitchen layout was never designed for a counter-depth built-in. Santa Clarita's elevation and dry desert air affect units differently than coastal LA: door gaskets crack faster, plastic ice mold trays go brittle sooner, and the condenser fan pulls hot air in summer that coastal refrigerators never see. That detail matters when diagnosing why a Bosch or KitchenAid that works fine in Culver City starts misbehaving after one summer in the Santa Clarita Valley.
+
+commonProblems:
+  - title: "Water Inlet Valve Clogged by Santa Clarita Hard Water"
+    description: "At 250 ppm mineral content, calcium deposits narrow the water inlet valve opening within 18 to 24 months of regular use. A KitchenAid french-door unit starts dropping irregular cube sizes before fill cycles stop entirely. Low water pressure into the ice mold is the tell — you can confirm it by running a fill cycle manually and timing how long the tray takes to reach capacity. Replacement valves run $80–120 in parts, and we carry KitchenAid, LG, and Samsung versions on the van."
+
+  - title: "Frozen Water Supply Line from Extreme Summer Heat Swings"
+    description: "Counterintuitive but common out here: when ambient temps spike past 100°F and drop sharply overnight, the freezer thermostat overcorrects and freezes the water supply line feeding the unit. Samsung and LG french-door models are especially prone — the supply line runs behind the freezer drawer in an area with minimal insulation. Thawing takes about 20 minutes with a heat gun. Adjusting the temperature offset prevents it from coming back. Santa Clarita's temperature swings, sometimes 40°F in a single day in September, make this more common here than in most LA neighborhoods."
+
+  - title: "Ice Level Sensor Failure in Aging Valencia Built-Ins"
+    description: "Mid-1990s homes in Valencia often still run the original Sub-Zero or KitchenAid built-in — units that are now 25 to 30 years old and outliving their optical ice level sensors. A failing sensor sends a false 'bin full' signal even when the bin is empty, so production just stops. Cleaning helps temporarily. For Sub-Zero specifically, we source OEM sensors rather than aftermarket versions that trigger recurring error codes after a few months. The error code on Sub-Zero units is usually a steady amber light on the control panel rather than a numeric display — easy to miss if you're not familiar with the model."
+
+faq:
+  - q: "How fast can you get to Santa Clarita for an ice maker repair?"
+    a: "Most Santa Clarita calls are handled same-day. Coming up the 5 from the Valley, we're in Canyon Country or Valencia within 90 minutes of your call. Morning slots are easiest — afternoons fill fast in summer when calls spike across the whole Santa Clarita area. Call us at (323) 870-4790 to check what's available today, or book online for a specific window this week."
+
+  - q: "Do you repair KitchenAid and Sub-Zero ice makers in Valencia and Stevenson Ranch?"
+    a: "Those are the two we see most often in that area, along with LG and Bosch. Sub-Zero assemblies require OEM parts to avoid error codes — we source them directly, not through third-party suppliers. KitchenAid water inlet valves are stocked on the van. LG units in this area frequently show optical sensor failures that clear after a sensor swap and hard reset."
+
+  - q: "What does repair usually cost in Santa Clarita?"
+    a: "Diagnosis is a flat service call. Most fill valve or sensor jobs run $150–280 total, parts and labor. Sub-Zero and Thermador assemblies cost more in parts — typically $300–450 — but still well under replacement cost on a unit that's otherwise solid. Evening slots are available if you can't be home during the day. Same-day estimate at (323) 870-4790."
+
+◇ rules: ✓ | compressed: no | turns: 2 | mode: normal

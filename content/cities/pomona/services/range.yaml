@@ -1,0 +1,29 @@
+title: "Pomona Range Repair — Gas Burners, Oven Heat, Fast SGV Service"
+
+intro: |
+  Hot summers around Ganesha Hills push every kitchen appliance harder, and gas ranges in Pomona's 1960s and '70s tract homes off Garey Avenue see serious daily use. That Whirlpool freestanding unit your neighbor's had for two decades? Still running — until the igniter dies mid-dinner. Pomona households cook heavy, and a broken range here is not a minor inconvenience. Call (323) 870-4790 — we can usually be there same day.
+
+localContext: |
+  The 91767 zip around College Park and the residential blocks north of Holt Avenue are packed with post-war and early ranch-style builds — most running 30- to 50-year-old gas hookups with freestanding GE or Whirlpool ranges. Older gas infrastructure plus cast-iron grate setups mean ignition problems and uneven flame show up more often than in newer construction. Tight kitchen layouts in some of the smaller 1950s homes can make burner access awkward but not impossible.
+
+  Phillips Ranch, over in 91766, is a different story — mostly 1980s and early '90s builds with wider kitchens and slide-in ranges, often Samsung or KitchenAid. Homeowners there upgraded appliances once or twice but the gas lines are original. Over near the Fairplex on White Avenue, you get a mix of older duplexes and single-family homes where ranges get hard use year-round. The 91768 corridor along Towne Avenue toward Cal Poly Pomona has a lot of student-adjacent rentals with older Frigidaire and GE coil-top electrics that landlords haven't replaced in 15 years. Each neighborhood has its own set of range failure patterns, and knowing the housing stock matters when you're diagnosing a problem before you even pull the drawer out.
+
+commonProblems:
+  - title: "Burner Won't Ignite — Fouled Spark Igniter or Clogged Orifice Cap"
+    description: "A burner that clicks but never lights usually means a grease-coated spark igniter or a blocked orifice cap. Daily cooking plus SGV's hard tap water accelerates buildup fast. That LG 5-burner with the ceramic igniter is especially prone to this after a few years of use. Most igniter cleanings or swaps get done on the same visit. If the igniter itself is cracked — you'll usually see it arc sideways instead of straight at the burner port — replacement is the only fix."
+  - title: "Oven Stops at 250°F — Bake Element or Gas Valve Igniter Failing"
+    description: "An oven that preheats partway and stalls usually has a weak gas valve igniter that can't draw enough current to open the valve — or a burned-out bake element on electric models. KitchenAid and Samsung ranges both show this pattern around the 8-10 year mark. The Samsung NX58 series throws an SE or C-d0 error code when the control board detects igniter draw dropping below threshold. Once the right component is confirmed on-site, the fix typically runs under an hour."
+  - title: "Gas Smell Near the Burners — Valve Seal or Burner Valve Body"
+    description: "Any gas odor near the range — even faint — points to a compromised valve seal or a cracked burner valve body. In older Pomona homes with original gas lines, this isn't unusual. Don't run the range. Call (323) 870-4790 right away for same-day emergency service — we carry common valve assemblies for GE and Whirlpool on the truck."
+
+faq:
+  - q: "How fast can you get to Pomona for Range repair?"
+    a: "From our San Gabriel Valley coverage, Pomona is typically 25-40 minutes out. Call before noon at (323) 870-4790 and we can usually make it same day — afternoon or evening slots both available. Parking a service van near Garey or Holt is usually straightforward. For Phillips Ranch or the Towne Avenue corridor, same rules apply — we know the area."
+  - q: "Do you repair Samsung and LG ranges in Pomona?"
+    a: "Yes — Samsung and LG are among the most common brands we see in the 91766 and 91767 zip codes. Control boards, igniter assemblies, bake elements — we stock parts for both. Bosch and KitchenAid are on the list as well, including slide-in models. Frigidaire coil-top electrics from the older rentals near 91768? Those too."
+  - q: "What does a Range repair cost, and is there a diagnostic fee?"
+    a: "There's a diagnostic fee, but it applies toward the repair if you move forward. Most igniter or heating element jobs run $120-$200 parts and labor combined. Gas valve assembly replacements run a bit higher depending on the model. We quote on-site before starting anything — no surprises. Same-day and evening availability — call (323) 870-4790 to schedule."
+  - q: "Can you handle gas range repairs specifically, not just electric?"
+    a: "Gas is actually the majority of what we see in Pomona. The older GE and Whirlpool freestanding units off Garey Avenue are almost all gas, and the Bosch slide-ins in some of the newer Phillips Ranch homes run on gas too. Gas valve igniters, burner valve bodies, gas orifice caps — that's routine work for us. Electric ranges aren't a problem either, but gas is the norm in this part of the SGV."
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

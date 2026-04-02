@@ -1,0 +1,86 @@
+title: "Irvine Range Repair — Gas, Electric & Dual-Fuel Service"
+
+intro: |
+  Woodbridge's tract homes along Alton Parkway — most of them built between
+  1977 and 1985 — still run on original gas lines, and the KitchenAid
+  freestanding ranges in those kitchens see daily use. A faulty gas valve
+  igniter or cracked burner cap isn't always obvious until one burner stops
+  lighting entirely. Same-day service is available across Irvine — call
+  (323) 870-4790 to check current slots.
+
+localContext: |
+  Irvine's housing spans four decades of construction. The older Northwood
+  and University Park neighborhoods (92604, 92612) have original gas hookups
+  and aging range connections that need attention periodically. Quail Hill
+  and Shady Canyon (92603) sit at the western edge of the city — homes there
+  run Sub-Zero and Thermador almost exclusively, and the kitchens are built
+  around those appliances. Newer Great Park and Portola Springs builds often
+  feature slide-in Thermador or Bosch ranges with electronic controls —
+  those fail differently than mechanical components, usually a control board
+  issue rather than something physical.
+
+  The Irvine Spectrum area (92618) brings a different situation: a mix of
+  newer townhomes and large planned-community houses near Portola Pkwy where
+  LG and Samsung ranges are common. Condos along Alton Pkwy near the Irvine
+  Transportation Center tend toward electric slide-ins due to building
+  infrastructure. Access at most Irvine addresses is straightforward; parking
+  for a service van is rarely a problem, even in denser neighborhoods like
+  Central Park West.
+
+commonProblems:
+  - title: "Burner won't ignite — corroded igniter or clogged burner cap"
+    description: |
+      Orange County's municipal water supply is notoriously hard. Mineral
+      deposits collect around burner caps and pack the igniter port solid.
+      On KitchenAid and GE gas ranges, this shows up as clicking without
+      flame, or a weak yellow flame instead of blue. Cleaning the burner
+      cap buys time, but a failed igniter module needs full replacement.
+      In Woodbridge homes especially, this is a recurring issue — hard water
+      residue from the Irvine Ranch Water District supply accelerates
+      corrosion on the igniter electrode tip faster than most homeowners expect.
+  - title: "Oven not reaching temperature — bake element or gas valve failure"
+    description: |
+      Electric ranges common in Irvine condos and newer builds plateau
+      50-75°F below the set temperature when the bake element starts to
+      fail. Gas ovens work differently — the gas valve igniter draws too
+      little current to open the valve fully, so the burner never catches.
+      Bosch and Thermador dual-fuel units usually throw an F3 or E1 error
+      code when this happens. In Shady Canyon homes with Thermador Pro
+      Grand ranges, the dual gas valve assembly is the more common culprit —
+      parts run longer lead times, so calling early matters.
+  - title: "Control panel locked up after a power event"
+    description: |
+      Summer voltage spikes hit Irvine regularly when grid demand peaks near
+      the Irvine Spectrum shopping corridor. Samsung and LG slide-in ranges
+      are especially sensitive — the control board locks or displays SE and
+      CLR codes after an unstable event. A hard reset occasionally clears it.
+      Most of the time the control board itself needs to come out and be
+      replaced. This happens most often in the 92620 zip code during July
+      and August heat waves, when SCE load-shedding events cause brief
+      undervoltage conditions across the Northwood grid.
+
+faq:
+  - q: "How fast can you get to Irvine for range repair?"
+    a: |
+      Same-day coverage for 92618 and 92620 is standard — routes through
+      the Irvine Spectrum corridor run daily, and we're usually on-site
+      within 2 hours of your call. Zip codes 92603 and 92604 (Shady Canyon,
+      Northwood) get afternoon slots most weekdays. Dial (323) 870-4790 or
+      schedule online to confirm availability.
+  - q: "Do you repair Thermador and Bosch ranges?"
+    a: |
+      Both, regularly. Thermador dual-fuel units in the newer Great Park
+      homes typically need control board or gas valve work. Bosch slide-ins
+      most often come in with igniter failures or a broken convection fan
+      motor. Common parts for both brands stay on the van. For Thermador
+      Pro Harmony models with the StarBurner assembly, we carry the igniter
+      electrode kits specifically — no waiting on special orders for most jobs.
+  - q: "What does range repair usually cost in Irvine?"
+    a: |
+      Diagnosis is $85, applied toward the repair. Igniter replacements
+      typically run $150–$220 parts and labor. Control board swaps on
+      premium brands like Thermador or Viking run higher — you get a firm
+      quote before any work starts. Evening slots available if daytime
+      doesn't work.
+
+◇ rules: ✓ | compressed: no | turns: 2 | mode: normal

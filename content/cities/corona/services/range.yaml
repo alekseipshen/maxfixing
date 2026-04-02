@@ -1,0 +1,29 @@
+title: "Corona Range Repair — IE Heat, Hard Water, Same Day"
+
+intro: |
+  The 92882 zip runs hot — literally. Summer afternoons near the Green River corridor push ambient temps past 105°F, and every KitchenAid or LG range in those tract homes along Skyline Drive is competing with a kitchen that's already sweltering. That heat accelerates wear on gas valve igniters and control boards faster than coastal areas. MaxFixing covers all of Corona, usually on-site the same day you call.
+
+localContext: |
+  Most of Corona's housing stock in 92880 and 92883 went up between 1995 and 2010 — standard California tract construction with gas freestanding ranges and matching hood vents. Eagle Glen and Sycamore Creek neighborhoods run heavy on Samsung and Bosch models. Older blocks near Downtown Corona off West 6th Street have kitchens that haven't been updated since the late 1980s, which means original gas lines and wiring that complicate any range diagnosis.
+
+  The newer builds out near the 15 freeway corridor — Terramor and some of the Eastvale-adjacent streets just inside the 92880 boundary — lean toward slide-in KitchenAid and Thermador ranges. These kitchens have granite countertops cut tight around the range cutout, which means pulling the unit for access takes an extra 20 minutes compared to a freestanding model in an older tract home. Parking a service van on those cul-de-sacs is its own puzzle. We've learned the streets.
+
+  Hard water is a real problem here. Corona's municipal supply regularly reads above 300 ppm total dissolved solids — some of the hardest tap water in Southern California. That mineral load shortens the life of anything with a water connection, but it also deposits calcium on gas burner ports and igniter tips in ways most technicians don't think to check first.
+
+commonProblems:
+  - title: "Igniter Clicks But Gas Won't Light — Corona's Hard Water Is Often the Cause"
+    description: "The water hardness in this part of Riverside County deposits calcium on igniter electrodes faster than most homeowners expect. On a Samsung or LG gas range, that buildup insulates the electrode tip enough to cause weak spark or no spark at all. Cleaning the ceramic electrode and resetting the igniter module usually solves it — but cracked ceramics need full replacement. On Samsung models specifically, the igniter wiring harness runs close to a burner bracket that corrodes from steam; we check that connection every time before calling it an igniter failure."
+  - title: "Oven Runs 50°F Low — Calibration Won't Fix a Failing Bake Igniter"
+    description: "When a Bosch or KitchenAid oven consistently undershoots temperature, the instinct is to recalibrate the thermostat. More often, the gas valve's bake igniter has weakened and can't open the valve fully — the oven lights but runs lean. You'll see longer preheat times first, then uneven browning, then flat-out failure to hold temperature. Bosch 800 series ovens in particular show this pattern around the 6–8 year mark. The igniter glows orange but never reaches the amperage draw needed to pull the valve open — a clamp meter confirms it in under two minutes. Replacement igniters for Bosch are stocked on the van; most of these calls close same day."
+  - title: "Control Panel Error Codes After a Power Surge"
+    description: "The Inland Empire sees some sharp voltage swings during peak summer draw on the SCE grid. Thermador and KitchenAid slide-in models with glass-touch control panels are sensitive to those surges — the control board logs fault codes (F1, F3, or E0 depending on model year) and locks out burner function. A board reset clears it sometimes; a failed board needs replacement. On Thermador pro-style ranges, the control board sits behind the front fascia and takes about 45 minutes to swap. LG ranges hit with an F9 or E1 code after surge events are usually a failed igniter switch rather than the board itself — misdiagnosed as a board fault pretty regularly by techs who don't pull the burner box first."
+
+faq:
+  - q: "How fast can you get to Corona for Range repair?"
+    a: "From our nearest technician location, Corona is typically a 25–35 minute drive via the 91 or 15. Same-day slots are available most weekdays. Call (323) 870-4790 before noon and we can usually be there that afternoon — evening appointments available too."
+  - q: "Do you work on Bosch and KitchenAid ranges specifically?"
+    a: "Both are common calls in Eagle Glen and South Corona. On Bosch, we see a lot of gas valve igniter failures and faulty door latch sensors on the oven door switch assembly. KitchenAid slide-ins come in with control board faults and failing bake elements — the dual-ring burner on some KitchenAid pro models also develops a gas flow issue at the valve seat around year five. Parts for both brands are stocked on the van for most common failures, which means we're not ordering and waiting — one visit usually does it."
+  - q: "What does a range diagnostic visit cost, and do you charge if you can't fix it?"
+    a: "Diagnostic fee is flat-rate and applied toward the repair if you proceed. For gas range calls — especially anything involving a gas smell or burner lockout — we treat those as priority same-day. A gas odor with a burner that won't shut off is never a wait-and-see situation. Call (323) 870-4790 or schedule online; we'll confirm your slot within the hour."
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

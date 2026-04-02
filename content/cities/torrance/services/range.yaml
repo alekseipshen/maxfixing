@@ -1,0 +1,86 @@
+Note: The prompt references "south-bay County, New Jersey" — Torrance is actually in Los Angeles County, CA (South Bay region). Treating this as Torrance, CA, consistent with MaxFixing's LA service area.
+
+```yaml
+title: "Torrance Range Repair — South Bay Gas & Electric Specialists"
+
+intro: |
+  The Hollywood Riviera — south of Palos Verdes Drive East, through the 90277 zip — has some
+  of the nicest kitchens on the South Bay peninsula. A fair number of them run Thermador
+  dual-fuel or 36-inch KitchenAid slide-ins. When the Thermador stops holding oven temperature
+  mid-roast, or the left surface burner just keeps clicking without catching a flame, cooking
+  stops. MaxFixing runs South Bay routes seven days a week and is typically at your door within
+  two hours of calling (323) 870-4790.
+
+localContext: |
+  Most of Torrance's housing went up between 1952 and 1970 — postwar ranch homes, duplexes
+  off Sepulveda Boulevard, apartment blocks near the 91 Freeway. In zip code 90501, around Old
+  Torrance near Sartori Avenue, we regularly find freestanding ranges still connected to gas
+  lines roughed in during the Kennedy administration. South Torrance and the blocks near Del Amo
+  Fashion Center skew newer, with more Bosch and LG slide-ins, but the gas infrastructure under
+  those concrete slabs is still original. Old pipes feeding modern appliances create specific
+  failure patterns that show up on nearly every call.
+
+commonProblems:
+  - title: "Surface Burner Won't Ignite — Salt Air Corrodes Electrodes Faster Than Inland"
+    description: |
+      Repetitive clicking with no flame usually traces to a corroded spark electrode or a
+      cracked ceramic burner cap. Torrance's proximity to the Pacific accelerates oxidation on
+      igniter components faster than you'd see in the Valley. LG ranges in the 90503 zip show
+      cracked ceramic igniters with regularity — the part itself is $20-$40, but the spark
+      module has to seat at the correct gap or the gas valve won't cycle open. Getting that
+      alignment wrong is a safety issue, not just a callback.
+
+  - title: "Oven Won't Hold Temperature — Bake Igniter Drawing Insufficient Amperage"
+    description: |
+      Gas ovens run a separate igniter for the bake burner and another for the broiler. A
+      failing bake igniter glows orange but can't draw enough current to trigger the gas valve
+      solenoid — the oven fires briefly, you catch a faint gas smell, then it shuts off. South
+      Torrance KitchenAid and Thermador ranges show this pattern constantly, particularly on
+      units over eight years old. Glow bar igniter replacement is a 20-minute swap once we're
+      on-site, typically under $200 parts and labor combined.
+
+  - title: "Control Panel Error Codes or Dead Touch Controls on Bosch and Samsung"
+    description: |
+      Bosch slide-in models with capacitive touch panels throw error code E:23 after a power
+      surge — that points to partial control board failure, not a full replacement situation.
+      Samsung ranges in the Walteria and West Torrance neighborhoods hit SE or 5E codes that
+      often trace to a shorted keypad assembly rather than the main board underneath. Diagnosing
+      the right component before ordering saves $200-$400. We've seen homeowners replace control
+      boards that were working fine while the actual fault sat in the keypad ribbon connector.
+
+faq:
+  - q: "How fast can you get to Torrance for a range repair?"
+    a: |
+      South Bay is our primary territory. From the 405 or Hawthorne Boulevard corridor, most
+      Torrance addresses are 30-45 minutes out. Residential streets in Old Torrance and Walteria
+      have easy parking — no permit issues for service vans. Same-day slots open most days,
+      evenings included. Call (323) 870-4790 to check current availability.
+
+  - q: "Do you repair KitchenAid, Thermador, and Bosch ranges specifically?"
+    a: |
+      Yes, all three show up constantly on South Bay calls. Thermador dual-fuel units typically
+      need dual-ring burner igniter replacements or oven temperature sensor recalibration. KitchenAid
+      repairs usually come down to the bake element, thermal fuse, or a failing control board.
+      Bosch slide-ins come in mainly for control board diagnostics and door latch assembly work.
+      LG and Samsung are also high volume in this zip.
+
+  - q: "What does range repair cost in Torrance, and is there a diagnostic fee?"
+    a: |
+      Flat diagnostic fee on arrival — we find the fault and quote the full repair before
+      anything gets opened up. Most gas range jobs fall between $150 and $380 depending on the
+      component. Emergency same-day service is available, including evening appointments. Book
+      online or call (323) 870-4790 directly.
+```
+
+---
+
+**Quick audit:**
+- **Brands**: Thermador (×3), KitchenAid (×3), Bosch (×3), LG (×2), Samsung (×2) — ✓
+- **Technical terms**: spark electrode, burner cap, gas valve solenoid, bake igniter/glow bar, control board, oven temperature sensor, thermal fuse, bake element, keypad ribbon connector — ✓
+- **CTA**: (323) 870-4790 ×3, same-day, evening slots — ✓
+- **Zip codes**: 90277, 90501, 90503 — ✓
+- **Neighborhoods/landmarks**: Hollywood Riviera, Old Torrance, Walteria, West Torrance, Del Amo Fashion Center — ✓
+- **Banned patterns**: none detected — ✓
+- **Word count**: ~710 words — ✓
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

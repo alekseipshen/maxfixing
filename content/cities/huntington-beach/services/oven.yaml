@@ -1,0 +1,30 @@
+title: "Huntington Beach Oven — Pier District to Inland Tracts"
+
+intro: |
+  Salt air off the Pacific does quiet damage — mostly to door gaskets and control boards on ranges sitting in west-facing kitchens. The beach-close blocks in 92648, down toward the Huntington Beach Pier, run a lot of KitchenAid and Bosch slide-ins installed during the 2010s renovation wave. Those are hitting 10-plus years now. Thermal fuses fail. Bake elements burn through. Usually right when someone actually needs the oven.
+
+localContext: |
+  The 1960s ranch homes between Goldenwest Street and Edwards off Ellis Avenue account for the bulk of our Huntington Beach oven calls — original cabinetry that turns a wall oven pull into a two-person job with half the kitchen moved. Inland in 92647 toward Beach Boulevard, 1980s tract construction came stock with Whirlpool and GE freestanding ranges; many are still in service and showing wear. Newer builds near the Bolsa Chica Wetlands lean Samsung and LG.
+
+  Closer to the water — the condos stacked along PCH between Newland Street and Beach Boulevard — range ventilation is worse than average. Coastal humidity and salt particulate work their way into burner igniters and convection fan motors faster than you'd expect five miles inland. Units above the second floor sometimes have undersized exhaust runs that trap heat, accelerating control board failures. The newer townhome developments near Bella Terra mall in 92648 typically have KitchenAid or Bosch wall ovens installed as builder upgrades; those units are old enough now that bake elements and thermal fuses are cycling through their first failures. Rental properties off Main Street near the pier often have older Frigidaire or GE slide-ins that landlords defer on — those tend to arrive with multiple symptoms stacked.
+
+commonProblems:
+  - title: "Bake Element Burnout in 2010s KitchenAid and Bosch Ranges"
+    description: |
+      KitchenAid slide-ins from the 2010–2015 renovation wave are hitting 10-plus years across Huntington Beach, and bake elements are failing in sequence. Food browns unevenly or not at all on the bottom rack. Before swapping the element, we verify control board output — a board sending erratic voltage will burn through the replacement in a few months, costing double what one repair should.
+  - title: "Oven Shows Target Temp but Stays Cold"
+    description: |
+      A Bosch wall oven that displays the set temperature but refuses to actually heat has almost always blown the thermal fuse — a one-shot safety cutoff that doesn't reset. On gas Samsung ranges, a dying igniter is the more likely culprit — clicks constantly, lights weakly, or doesn't light at all. Both are same-day fixes if we're carrying the part, which we usually are. The F9 or E1 error codes on Bosch models point directly to thermal cutoff failures; Samsung's blinking preheat indicator with no ignition is the gas igniter telling you it's done.
+  - title: "Self-Clean Cycle Locks the Door and Won't Release"
+    description: |
+      The door latch assembly on KitchenAid ovens locks during self-clean and should release once the cavity drops below 550°F. Sometimes the latch motor seizes mid-cycle. Other times the control board loses the temperature sensor signal and holds the lock even after the oven cools completely. Either situation means no oven access until the latch motor or sensor is replaced — usually a same-day repair.
+
+faq:
+  - q: "How fast can you get to Huntington Beach for oven repair?"
+    a: "Running the PCH and 405 corridors daily puts us 20–35 minutes from Huntington Beach most of the time. Parking near the pier blocks can be tight — we call ahead. Ring (323) 870-4790 and same-day service is available most days, often within 2 hours."
+  - q: "Do you repair Bosch and KitchenAid ovens specifically?"
+    a: "Both are our highest-volume calls in HB. Bosch comes in most often with thermal fuse failures or control board errors. KitchenAid wall ovens usually need bake elements or door latch motor repairs. Samsung and LG slide-ins too — parts for all four brands are typically stocked on the van."
+  - q: "What does oven repair cost, and is same-day service actually available?"
+    a: "Flat-rate diagnostic, applied toward the repair if you proceed. Most fixes — bake element, thermal fuse, igniter — run $150–$300 combined. Same-day slots open most weekdays; evening and weekend emergency appointments available. Call (323) 870-4790 or schedule online to lock in a time."
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

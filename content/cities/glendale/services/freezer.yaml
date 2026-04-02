@@ -1,0 +1,29 @@
+title: "Glendale Freezer Repair — SGV Hard Water & Summer Heat"
+
+intro: |
+  Around 40% of Glendale's housing stock dates from the 1940s through 1970s — kitchens in those Adams Hill craftsmans and Tropico-area duplexes weren't built for today's larger appliances. Samsung french-door freezers and older Whirlpool uprights are the units we see most often here, pushed hard through summers that regularly hit 95°F. Glendale's municipal water runs around 290–320 ppm hardness in parts of 91205, which accelerates ice maker assembly failures faster than most residents expect. Hard water scale isn't just a dishwasher problem — freezers with built-in ice makers take the same hit, and in Glendale, that timeline is compressed.
+
+localContext: |
+  Zip codes 91202 and 91205 cover a lot of Glendale's older residential blocks — pre-war bungalows, 1950s ranch homes, postwar apartment buildings off Pacific Avenue where service van parking requires some planning. Many of these buildings carry original 240V wiring from the 1950s or 1960s, which matters when diagnosing a compressor that trips breakers on startup. Tight kitchen layouts in the older stock also mean we sometimes have to pull the unit out through a narrow doorway before anything else.
+
+  The 91206 side — around the Chevy Chase Canyon corridor — runs newer construction, but we still field calls on KitchenAid and Bosch units that are 8–12 years old and hitting the natural failure window for door gaskets and evaporator fans. Glendale's elevation variation also plays a role: homes up toward the Verdugo Mountains sit in hotter microclimates where a refrigerator or chest freezer runs its compressor harder just to hold 0°F overnight. We know these streets.
+
+commonProblems:
+  - title: "Ice Maker Stopped Working — Hard Water Clogging the Inlet Valve"
+    description: "Glendale tap water deposits calcium scale inside the ice maker assembly at a rate that surprises people. The water inlet valve gets partially blocked first — you'll notice smaller, misshapen cubes before output stops entirely. Samsung ice maker assemblies are particularly sensitive to inlet valve restriction, and we see this repair constantly in the 91201 and 91205 zips. Left untreated, scale bridges into the fill tube and freezes solid, turning a $90 valve swap into a longer disassembly job. Catching the error code or the cube-shape change early saves money."
+  - title: "Frost Buildup on Back Wall and Warm Spots from a Failed Defrost Timer"
+    description: "Thick frost accumulating on the back wall usually means the defrost timer or defrost heater has stopped cycling. GE and Whirlpool units from the late 2000s onward are frequent offenders — the evaporator coil ices over completely, blocking airflow and causing temperature to drift 15–20°F above the set point. Not a difficult fix once diagnosed correctly. The trickier part is that some LG models throw an Er IF or Er FF code before the frost buildup becomes visible, and homeowners assume the control board is shot when the defrost heater is actually the culprit."
+  - title: "Loud Compressor at Night in LG and KitchenAid Units"
+    description: "A compressor running louder than usual — especially at night when the house is quiet — often signals a failing start relay or a condenser fan motor that's dragging. LG french-door freezers and KitchenAid bottom-freezer units both have condenser fans that collect pet hair and dust near the back bottom panel. Glendale summers push these components harder; compressor-related calls spike every July and August. Replacing a start relay is a 20-minute job. Ignoring it long enough for the compressor itself to seize is a much larger conversation."
+
+faq:
+  - q: "How fast can you get to Glendale for freezer repair?"
+    a: "From our nearest technician, Glendale is usually 20–35 minutes depending on the 134/2 interchange. Same-day slots are available most days. Call (323) 870-4790 in the morning and we can often have someone at your door by early afternoon. Evening slots are available for urgent situations — a freezer full of meat doesn't wait for a convenient schedule."
+  - q: "Do you repair Samsung and LG freezers in Glendale?"
+    a: "Yes — Samsung and LG are two of the most common brands we see here. Samsung french-door ice maker assemblies and LG linear compressors are both units we stock parts for. Whirlpool and GE side-by-sides in Glendale's older homes are also in our regular rotation. KitchenAid bottom-freezers in the 91206 area round out the call list most weeks."
+  - q: "What does a freezer repair visit in Glendale typically involve?"
+    a: "Diagnosis is flat-rate. Most repairs — inlet valve swap, defrost heater replacement, condenser fan motor — are done same-day if parts are already in the van. Emergency evening slots are available. We quote the repair price before touching anything; you decide whether to proceed. If a part needs to be ordered, we'll give you a realistic timeline and a temporary workaround where possible."
+  - q: "Is the hard water in Glendale actually causing my freezer problems?"
+    a: "Often, yes. At 290–320 ppm, Glendale water sits in the range where scale accumulates noticeably inside ice maker fill tubes and inlet valves within 2–4 years of installation. If your freezer is making ice poorly and it's been more than three years since installation, the inlet valve is the first thing we check. A basic inline filter on the supply line can extend the interval between these repairs significantly."
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

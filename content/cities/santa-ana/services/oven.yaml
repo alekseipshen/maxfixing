@@ -1,0 +1,27 @@
+title: "Santa Ana Oven Repair — Floral Park to South Bristol"
+
+intro: |
+  The 1930s craftsman bungalows in Floral Park hold some of the oldest GE freestanding ranges in Orange County — and a lot of them finally give out around the holidays, right when someone's trying to roast a chicken for a family of twelve. Thanksgiving, Christmas, Quinceañera prep — Santa Ana kitchens get a serious workout. The 92706 zip skews older, but even the newer builds south of MacArthur in 92704 have Samsung and Whirlpool ranges that accumulate enough cooking hours to start failing by year five or six. A broken oven here isn't just inconvenient. For plenty of households in this city, the kitchen is the center of the house.
+
+localContext: |
+  Floral Park and the French Park historic districts pack a lot of pre-war construction into a compact footprint — narrow kitchen layouts, old gas lines, tight access behind the range. The 92703 zip, running through central and west Santa Ana, has mid-century apartment buildings where compact slide-in models are the norm. These 1950s–1970s builds have gas connections and exhaust setups that affect repair logistics. Gas valve igniter work requires proper ventilation access, and in some older kitchens there's barely enough clearance to pull a range out from the wall without unhooking the gas line first.
+
+  South of the 55 freeway, down toward South Bristol Street in 92707, the housing stock shifts — townhomes and 1990s tract builds with Whirlpool and LG freestanding ranges that see heavy daily use. That stretch near Santiago Park tends to have homes where the original appliances are still running, sometimes 20-plus years in. Range igniter modules and bake elements on those older Whirlpool units wear predictably; we stock the common part numbers for that era.
+
+commonProblems:
+  - title: "Bake Element Failures in Pre-1980 Homes"
+    description: "Electric ranges in Floral Park and French Park homes — especially decade-old GE and Whirlpool models — cycle bake elements thousands of times before anything visibly cracks. Then one day the element scorches down the middle or simply stops glowing. The oven hits 100°F and stops climbing. Replacing the element is quick, but matching the correct part number to the specific range series means you can't just grab a universal piece off the shelf."
+  - title: "Self-Clean Door Lock Stuck — Oven Won't Open"
+    description: "Samsung slide-in and freestanding ranges run the cavity to around 900°F during a self-clean cycle. The door latch assembly motor locks automatically and should release once the interior drops below 400°F. In practice, the thermal fuse trips mid-cycle from accumulated heat, or the latch motor stalls. Door stays locked. You're looking at either a fuse replacement or a full latch assembly swap — neither is expensive, but that door isn't opening without the right tools."
+  - title: "Oven Reads 375°F but Bakes Like 300°F"
+    description: "A KitchenAid or Bosch range displaying the right temperature while the actual cavity runs cold usually points to a drifting oven temperature sensor — the probe mounted to the back wall. When that sensor fails, the control board gets bad data and compensates wrong. You get uneven heating, undercooked centers, a broiler that cuts off too early. Diagnosis takes about 20 minutes with a multimeter and a calibrated oven thermometer."
+
+faq:
+  - q: "How fast can you get to Santa Ana for oven repair?"
+    a: "Santa Ana falls on our regular OC route — we run the 5 and 55 corridors daily. Call (323) 870-4790 in the morning and we can usually lock in a same-day slot with a 2-hour arrival window. Evening appointments are available later in the week if you can't be home during the day."
+  - q: "Do you repair Samsung and KitchenAid ovens in Santa Ana?"
+    a: "Both are common calls in this area. For Samsung, we typically stock door latch assemblies and bake elements for the popular slide-in and freestanding models. KitchenAid repairs usually come down to temperature sensors and control boards — especially on their wall oven and dual-fuel range series. In the 92706 and 92707 zips specifically, we see a lot of older KitchenAid units still running on original control boards from the early 2000s. Those boards are repairable more often than people expect."
+  - q: "What does an oven repair cost, and how quickly can you diagnose it?"
+    a: "Diagnostic visit is $75, credited toward repair if you proceed. Most fixes — bake element, thermal fuse, temperature sensor — run $150–$280 parts and labor. Control board replacements push to $300–$450 depending on model. Same-day service is available; call (323) 870-4790 or schedule online to lock in a slot."
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

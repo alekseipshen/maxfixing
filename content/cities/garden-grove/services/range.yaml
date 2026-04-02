@@ -1,0 +1,93 @@
+The fix is straightforward: expand `localContext` from 1/4 local signals (only housing stock) to 4/4 by adding zip codes, named streets/landmarks, and behavioral context. Everything else passes — keeping it intact.
+
+title: "Garden Grove Range Repair — Gas Igniter & Oven Service"
+
+intro: |
+  Bolsa Avenue and the residential blocks stretching toward Magnolia Street see some
+  of the most intensive daily cooking in Orange County — large households, back-to-back
+  use, gas ranges that rarely cool down completely. That Samsung slide-in that's clicking
+  but not lighting? More often than not it's a cracked igniter electrode or a surface
+  burner module that's been soaked one too many times. Hard water deposits from the local
+  supply lines don't help either — mineral buildup clogs burner ports and throws off the
+  flame pattern well before the range needs any other work.
+
+localContext: |
+  Much of Garden Grove's housing stock dates to the 1960s and early 1970s — stucco
+  tract homes in the 92843 and 92841 zip codes with original kitchen cutouts sized for
+  smaller freestanding ranges. The blocks north of Westminster Avenue toward 92844 have
+  nearly identical layouts: 30-inch cutouts, original tile counters, and gas lines that
+  were sized for ranges half the BTU output of what's sitting there now.
+
+  The neighborhoods around Harbor Boulevard — from the Brookhurst Street intersection
+  down toward the Civic Center area in 92840 — tend to have slightly larger kitchens,
+  but the gas shutoff valves are just as old. A faint smell near the range isn't always
+  the appliance. Sometimes it's the flex connector or the shutoff valve seat behind it,
+  and homes on those blocks haven't had those touched since the Carter administration.
+
+  Swapping or repairing a unit here often means working around tight cabinet clearances
+  and anti-tip brackets that haven't moved in decades. Large households in this part of
+  Garden Grove cook seriously — multiple burners running for extended periods daily,
+  which accelerates igniter wear and gas valve cycling far beyond what the manufacturers
+  spec for. We account for that when diagnosing a range that looks fine on paper but
+  keeps acting up.
+
+commonProblems:
+  - title: "Igniter clicks constantly but the burner won't light"
+    description: >
+      The spark igniter electrode develops hairline cracks from heat cycling, and once
+      the ceramic tip is gone, the electrode arcs to the burner base instead of the gas
+      port. On LG and Samsung ranges, the igniter module is wired in series — one failed
+      electrode can kill all four burners at once. Replacing the electrode set and module
+      together is the right fix; cleaning alone won't hold after the ceramic is compromised.
+
+  - title: "Oven takes forever to preheat, then shuts off early"
+    description: >
+      The bake igniter — sometimes called a hot surface igniter or glow bar — draws
+      current to heat up and trigger the gas valve. As it ages, resistance creeps up
+      and it can no longer pull enough amperage to open the valve fully. Whirlpool and
+      GE ovens in these Garden Grove homes are notorious for this after 8-10 years of
+      daily use. The fix is straightforward: swap the igniter and test gas valve draw
+      current before closing the oven floor back up.
+
+  - title: "Uneven flame on one or two burners"
+    description: >
+      Clogged burner ports are the usual cause — calcium and food debris pack into the
+      small holes around the burner cap and disrupt the flame pattern. KitchenAid and
+      Bosch sealed-burner designs trap buildup underneath the cap, where it's invisible
+      until the flame starts rolling to one side. A full burner cap and head cleaning
+      usually fixes it, but if the cap itself is warped from heat, it needs to be replaced.
+
+faq:
+  - q: "How fast can you get to Garden Grove for Range repair?"
+    a: >
+      Coming down from our Orange County service route, we can typically reach Garden
+      Grove in under 2 hours — sometimes same-day depending on the schedule. The 22
+      Freeway makes the run straightforward. Call us at (323) 870-4790 to check
+      availability, or schedule online if you want an evening slot.
+
+  - q: "Do you service Samsung and LG ranges in this area?"
+    a: >
+      Both are extremely common in Garden Grove and we stock igniter modules, control
+      boards, and gas valve components for both brands. Also handle Whirlpool, GE,
+      KitchenAid, and Bosch. Samsung ranges specifically tend to develop control panel
+      relay failures around year 5-7 — the range responds slowly or buttons stop
+      registering entirely.
+
+  - q: "Is there an emergency option if I smell gas near my range?"
+    a: >
+      Yes — shut the gas supply valve behind the range and call (323) 870-4790
+      immediately. A worn gas valve seat or a failed pressure regulator can leak even
+      with the range off. We prioritize gas smell calls and can usually get someone out
+      the same day. Don't run the range or the range hood fan until it's been checked.
+
+---
+
+**Что изменилось:**
+- `localContext` расширен с ~87 до ~220 слов
+- Добавлены zip коды: 92840, 92841, 92843, 92844 (было только 92841/92843)
+- Добавлены landmarks: Harbor Boulevard, Brookhurst Street intersection, Civic Center area
+- Добавлен поведенческий контекст: интенсивность готовки → ускоренный износ
+- Westminster Avenue упомянут как ориентир района
+- Итого local signals: housing ✓ | zip codes (4) ✓ | landmarks/streets ✓ | behavioral context ✓ = 4/4
+
+◇ rules: ✓ | compressed: no | turns: 2 | mode: normal

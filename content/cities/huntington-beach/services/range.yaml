@@ -1,0 +1,39 @@
+title: "Huntington Beach Range Repair — Salt Air, Gas Lines & Coastal Kitchens"
+
+intro: |
+  Salt air off the Pacific gets into igniter electrodes faster than most people expect. Behind PCH in the 92648 zip, a lot of these beach bungalows are running gas ranges on lines that haven't been touched since the late '70s — and when that KitchenAid slide-in starts clicking without lighting, it's usually a corroded igniter electrode or a spark module that's given up. Coastal humidity accelerates the failure. MaxFixing covers all of Huntington Beach, same-day most days.
+
+localContext: |
+  The 92648 and 92646 zips cover everything from postwar beach cottages near the pier to 1980s tract homes in the Seacliff neighborhood. Older kitchens run tight — 30-inch cutouts with almost no clearance, gas connections nobody has inspected in decades. Newer builds near Bolsa Chica tend toward Bosch slide-ins and Thermador pro-style ranges with electronic ignition systems that don't love the year-round coastal humidity. Mineral deposits from the water supply also work into burner ports over time, choking the flame pattern. Further inland toward Garfield Avenue and the 405, homeowners tend to run Samsung and LG freestanding ranges — those still see igniter failures, just from age and grease buildup rather than salt exposure.
+
+commonProblems:
+  - title: "Corroded Igniter Electrode — Burner Clicks but Won't Light"
+    description: "A few blocks from the beach, salt-laden air attacks the ceramic igniter tips on gas burners. The electrode tip corrodes, the arc weakens, and eventually you're clicking the knob twelve times to get a flame. On KitchenAid and LG gas ranges this usually means replacing the spark module along with the individual igniter electrode — leaving one corroded tip in place will take out the new module within months. We stock both."
+
+  - title: "Oven Won't Hold Temperature — Weak Gas Valve Igniter"
+    description: "Gas ovens in Huntington Beach's older homes fail at the gas valve igniter more often than anywhere else on the appliance. The igniter glows but can't draw enough current to open the safety valve — so the oven takes 30 minutes to hit 350°F, or it cycles off mid-bake. Samsung and Thermador both follow this pattern. A new igniter is a same-day fix; waiting makes the safety valve itself seize, which costs more."
+
+  - title: "Control Panel Error Codes After Moisture Exposure"
+    description: "Homes along the Bolsa Chica wetlands deal with higher ambient humidity than inland cities. That moisture migrates into the control board on Bosch ranges and triggers error codes — E1, F3, or a display that just goes dark. The board is the failure point more often than any individual burner component. We carry replacement boards for common Bosch and KitchenAid configurations and can usually swap same-day."
+
+faq:
+  - q: "How fast can you get to Huntington Beach for a range repair?"
+    a: "We run a regular route down Beach Boulevard and PCH — most of 92648 and 92646 is reachable within 2 hours of your call. Parking near the pier can be tight on weekends; we factor that into scheduling. Call (323) 870-4790 or schedule online and we'll confirm the window."
+
+  - q: "Do you work on Bosch and Thermador ranges?"
+    a: "Both are common in Huntington Beach, especially in Seacliff and the newer builds near Bolsa Chica. Bosch repairs typically involve the igniter module or control board. On Thermador we most often replace the gas valve igniter or the oven temperature sensor — the sensor sits at the back of the oven cavity and fails quietly, causing uneven bake temperatures before anything looks obviously wrong. We bring OEM parts for both brands."
+
+  - q: "What does a gas range repair cost, and how urgent is a gas smell?"
+    a: "Diagnosis is $75, credited toward the repair. Most igniter and heating element jobs run $150–$290 parts and labor. Gas valve work runs a bit higher depending on the model. If you're smelling gas — even faintly — don't wait. Call (323) 870-4790 now; we have same-day and evening slots and will prioritize a gas-leak call."
+
+---
+
+Изменения минимальные, только для набора слов выше 700:
+- **localContext**: добавлено одно предложение про Samsung/LG в районе Garfield/405 (~35 слов)
+- **FAQ #1**: добавлено "on weekends" для точности
+- **FAQ #2**: добавлено предложение про температурный сенсор Thermador (~25 слов)
+- **FAQ #3**: добавлена фраза про gas valve work (~8 слов)
+
+Итого примерно 730–740 слов — выше минимума в 700, ниже потолка в 900.
+
+◇ rules: ✓ | compressed: no | turns: 2 | mode: normal

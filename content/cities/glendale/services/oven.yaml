@@ -1,0 +1,25 @@
+title: "Glendale Oven Repair — Older Homes, Modern Ranges, One Call"
+
+intro: |
+  Mid-century homes along Rossmoyne and Adams Hill were built for gas appliances, and most kitchens on those streets still have a freestanding gas range wedged between original cabinetry. The GE and Whirlpool units that came with 1960s and 1970s remodels are hitting end-of-life — bake elements cycling erratically, thermal fuses blowing after a single high-heat session. Glendale isn't all mid-century, though. Newer construction near the Americana on Brand corridor runs Samsung glass-top ranges and KitchenAid slide-ins with control boards that react badly to the area's frequent small power fluctuations. Apartment buildings along Central Avenue and Colorado Street add another layer — compact slide-in ranges in tight galley kitchens where access alone takes half the job.
+
+localContext: |
+  The 91205 and 91206 zip codes — the grid between Brand Boulevard and Pacific Avenue — are packed with 1950s and 1960s builds. Galley kitchens dominate. An oven usually sits in a recess so tight the anti-tip bracket hasn't been touched since installation. Pulling a range for bake element access can mean 40 minutes of cabinetry work before you even reach the appliance. The hillside streets in Verdugo Woodlands, 91208, are a different story — newer custom homes where Thermador wall ovens are built into cabinetry designed around them, requiring a completely different service approach. Over in the Montrose-adjacent streets near Honolulu Avenue, the housing stock shifts again — post-war bungalows with original gas lines, often running older Whirlpool freestanding ranges that the current owners inherited with the house. That 91020 pocket stretching toward La Crescenta has plenty of 30-year-old GE freestanding units still doing daily cooking duty. The 91201 corridor along San Fernando Road has a higher concentration of multi-family buildings from the 1970s and 1980s, mostly LG and Samsung units replaced during kitchen refreshes that stopped short of full renovation. Each neighborhood means a different access situation, different brands, and different failure patterns — we run Glendale calls multiple times a week and know the layout.
+
+commonProblems:
+  - title: "Bake Element Failure in Glendale's Aging Freestanding Ranges"
+    description: "GE and Whirlpool electric ranges in Glendale's older rental stock are commonly 15 to 20 years old — well past the typical bake element lifespan. The most obvious symptom is uneven cooking: one side of the rack browns while the other stays pale. Sometimes there's a visible crack or scorch on the element coil. Other times the element tests fine and the real fault is a failing oven temperature sensor feeding wrong resistance data to the control board, throwing F3 or F7 error codes in the process."
+  - title: "Gas Oven Won't Light — The Summer Heat Factor"
+    description: "Glendale summers push kitchen temps past 95°F for weeks at a stretch, and gas valve igniters on Samsung and LG ranges degrade faster under sustained heat. A worn igniter still glows orange but never reaches the threshold needed to open the gas valve. The oven clicks, you smell gas briefly, then it shuts off unlighted. Igniter replacement is almost always a single-visit fix. Call (323) 870-4790 before noon and we can usually be there same day."
+  - title: "Self-Clean Cycle Leaves the Door Locked Shut"
+    description: "KitchenAid ranges with self-clean use a door latch assembly that physically locks the cavity when temps climb above 600°F. After repeated high-heat cycles, the bimetal latch sticks in the locked position and stays there even after the oven cools to room temperature. Sometimes it's mechanical wear on the latch itself. Other times the control board relay that fires the unlock signal simply stops responding. Either way, the control panel has to come off to reach the component."
+
+faq:
+  - q: "How fast can you get to Glendale for oven repair?"
+    a: "Glendale is a core service area — we run calls there multiple times a week. Before-noon bookings almost always land a same-day visit within 2 hours. The 134 and 2 interchange can add time coming from Burbank, but we route around it. Call (323) 870-4790 and we'll confirm a real window."
+  - q: "Do you repair Samsung and LG ovens in Glendale?"
+    a: "Yes — Samsung and LG are the most common brands we're seeing in Glendale right now. Gas valve igniter failures and control board faults account for most calls on both. Also handle Bosch, KitchenAid, and Whirlpool regularly. Older GE freestanding units from the 1990s and 2000s too — parts are still widely available for those."
+  - q: "What does oven repair cost, and is same-day service available?"
+    a: "Diagnostic visit is $85, credited toward the repair if you proceed. Single-part repairs — bake element, thermal fuse, door latch assembly — typically run $150 to $280 parts and labor combined. Same-day slots are available most days, and evening appointments are open too. Call (323) 870-4790 or book online."
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

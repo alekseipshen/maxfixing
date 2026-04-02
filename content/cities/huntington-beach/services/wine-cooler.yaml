@@ -1,0 +1,78 @@
+title: "Huntington Beach Wine Cooler — Surf City Built-Ins, Real Fixes"
+
+intro: |
+  Surf City's housing is a patchwork — 1970s ranch-styles behind the dunes, newer builds
+  in Huntington Harbour, beach cottages on the streets east of PCH. A lot of those homes
+  got wine coolers added during kitchen remodels in the 2000s and 2010s, and those units
+  are hitting the age where the compressor starts complaining. That KitchenAid 46-bottle
+  tucked under the counter in 92648 probably doesn't need replacing. It needs a technician
+  who actually knows the unit. Same goes for that Bosch column model someone had built into
+  new cabinetry in Seacliff — age and OC hard water don't care what it cost at install.
+
+localContext: |
+  The 92647 corridor — Newland Street, the older tracts near Warner Avenue — is mostly
+  1960s and 1970s single-family homes with retrofitted kitchens. Wine coolers here are
+  almost always undercounter installs with tight clearance. Orange County tap water runs
+  hard at 300+ ppm in many areas, and mineral scale builds up inside water-connected
+  models fast. On units with an internal water line, that scale deposits in the drain
+  and around the evaporator coil, reducing airflow until the compressor overloads.
+  Huntington Harbour homes in 92649 tend toward built-in Bosch or Sub-Zero units fitted
+  into custom cabinetry — those require a different skill set entirely than a freestanding
+  LG. Access alone takes extra time when the unit sits behind a 36-inch panel door flush
+  with the surrounding millwork.
+
+commonProblems:
+  - title: "Compressor Running Nonstop Through Coastal Summer Heat"
+    description: "Huntington Beach summers push coastal temps into the high 80s, and an
+      undercounter cooler near a south-facing wall runs its compressor almost continuously.
+      On older KitchenAid and LG units, that constant cycling stress burns out the start
+      relay or warps the condenser fan blade. A clicking sound on startup followed by the
+      compressor shutting off within seconds — that's the relay failing. Catching it at
+      the relay stage costs around $90. Waiting until the compressor seizes is four times
+      that, plus you're looking at a week without a functioning unit."
+
+  - title: "Temperature Swings from a Failing Thermistor"
+    description: "Reds reading 68°F one day, 57°F the next — that pattern almost always
+      traces to a bad thermistor or a loose connection on the control board. Bosch dual-zone
+      units develop this fault as coastal humidity works into the electronics bay over time.
+      The evaporator fan keeps spinning so the unit seems fine, but the sensor isn't reading
+      accurately and the cooler can't compensate. On some Bosch models the display throws
+      an E4 code when the thermistor is fully gone — early-stage failure gives no code at
+      all, just erratic temps that slowly ruin the collection."
+
+  - title: "Door Gasket Cracking from Salt-Air Exposure"
+    description: "Homes within a mile of the beach see salt air accelerate rubber seal
+      deterioration faster than inland properties. The door gasket dries out, cracks, stops
+      seating flush — warm air infiltrates and condensation pools inside the cabinet.
+      Sub-Zero and KitchenAid built-ins on the streets off Goldenwest Street are especially
+      prone to this. Quick test: run a dollar bill around the closed door. Anywhere it slides
+      without resistance, the seal is gone. Replacement seals need to be brand-specific; a
+      generic gasket won't compress correctly against the frame."
+
+faq:
+  - q: "How fast can you get to Huntington Beach for wine cooler repair?"
+    a: "Most calls in 92648 and 92646 get same-day service, usually within 2 hours of
+      booking. Beach street parking gets complicated on weekends, so we route accordingly.
+      Call (323) 870-4790 in the morning and we can usually be there before noon."
+
+  - q: "Do you repair Bosch and Sub-Zero wine coolers?"
+    a: "Yes — Bosch dual-zone undercounters and Sub-Zero built-in units are the two we
+      see most in Huntington Beach. On Bosch it's typically the thermistor or control board.
+      Sub-Zero repairs usually involve the condenser fan assembly or door gasket. Parts for
+      both are stocked, which cuts turnaround time significantly."
+
+  - q: "What does wine cooler repair cost and is same-day service available?"
+    a: "Most repairs land between $150 and $350 depending on the part. Compressor work
+      on premium units runs higher, but we quote before touching anything. Same-day and
+      evening slots are available most days. A cabinet holding above 65°F for more than
+      a day causes real damage to the collection — don't wait on this one."
+
+  - q: "My wine cooler is completely silent and the display is dark — what failed?"
+    a: "Dead-silent with no display almost always means a failed control board or a tripped
+      thermal overload. Check the circuit breaker first and confirm the outlet is live. If
+      power is good and nothing responds, the control board is the likely culprit. LG units
+      have a known capacitor failure on the main board that causes exactly this — no error
+      code, just a dead unit. Schedule a same-day diagnostic at (323) 870-4790 and we'll
+      bring the right board for LG and KitchenAid models in the van."
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

@@ -1,0 +1,73 @@
+title: "Corona Range Hood Repair — Inland Heat, Heavy Cooking, Real Fixes"
+
+intro: |
+  Kitchens in Corona work hard. The 92882 corridor through Chase Ranch and South Corona
+  has a lot of households doing serious cooking — high-heat stir fry, weekend carnitas,
+  daily use that loads up a hood's baffle filters faster than any manufacturer spec
+  anticipates. That KitchenAid chimney hood above a gas range wasn't built for years
+  of grease-laden smoke without maintenance, and when the blower wheel finally seizes,
+  the whole kitchen fills with smoke before anyone notices it's broken.
+
+localContext: |
+  Most of Corona's housing stock in 92882 and 92883 is post-2000 tract construction —
+  Shea, KB, Taylor Morrison — with standard 6-inch round duct runs that were often
+  undersized for the hood's actual CFM rating. Chase Ranch kitchens tend to be open-plan
+  with taller ceilings, which sounds like more airflow, but doesn't help when the duct
+  itself is clogged solid. Inland Empire water hardness (some areas test above 400 mg/L)
+  also accelerates mineral scaling inside recirculating hoods, restricting the carbon
+  filter housing and choking airflow from the inside out.
+
+commonProblems:
+  - title: "Blower Motor Burnout from Grease-Saturated Filters"
+    description: "When baffle filters go uncleaned for 6-12 months, grease backs up into the
+      blower wheel housing. The motor runs hotter, draws more current, and eventually
+      the thermal fuse blows — or the motor windings fail entirely. Bosch and KitchenAid
+      hoods use brushless DC blower motors that are expensive to replace but usually
+      repairable if caught before the windings are damaged. A clogged filter is the
+      root cause every time."
+  - title: "Duct Restriction Causing Noise and Backdraft"
+    description: "Corona's newer tract homes often have duct runs with too many 90-degree
+      elbows to fit inside the cabinet stack. Each elbow cuts effective CFM significantly,
+      and once grease starts coating the duct interior, the blower wheel has to spin
+      harder to push air through — which is when that grinding or rattling starts.
+      Samsung's higher-CFM hood models are particularly sensitive to back-pressure and
+      will trigger the speed limiter, making the fan sound like it's surging."
+  - title: "Control Board and Sensor Failures on Electronic Hoods"
+    description: "LG and Bosch hoods with touch controls and auto-sensing modes have
+      a moisture sensor near the front panel that can fail after steam exposure — the
+      hood either runs constantly or won't turn on at all. The control board itself
+      is usually a $90-140 part, not the full assembly. Most of the time that's the
+      fix, not a new hood. Call us at (323) 870-4790 before replacing the whole unit."
+
+faq:
+  - q: "How fast can you get to Corona for range hood repair?"
+    a: "Corona is about 45 minutes from our central dispatch in the 90-91 freeway
+      corridor. Same-day slots are available most weekdays, and we usually have
+      evening availability until 7 PM. Schedule online or call (323) 870-4790 —
+      mention Corona and we'll route the closest technician."
+  - q: "Do you repair Bosch and KitchenAid range hoods?"
+    a: "Yes — both are common in Corona's newer homes and we stock parts for the
+      most frequently failing components: Bosch blower wheel assemblies, KitchenAid
+      control boards, and LG auto-sense sensor modules. Thermador hoods show up
+      occasionally in the Dos Lagos area and we handle those too."
+  - q: "What does range hood repair typically cost in Corona?"
+    a: "Most repairs land between $120-280 depending on the part. Blower motor
+      replacement is on the higher end; cleaning a seized fan wheel or replacing
+      a thermal fuse runs less. We diagnose on-site, quote before touching anything,
+      and carry common parts on the truck. Emergency same-day service is available —
+      no extra fee for evening appointments."
+```
+
+---
+
+Несколько пометок по контенту:
+
+- **Технические термины использованы**: blower wheel, thermal fuse, motor windings, baffle filters, carbon filter housing, back-pressure, moisture sensor, control board — итого 8+
+- **Бренды**: KitchenAid, Bosch, Samsung, LG, Thermador — все привязаны к реальным сценариям
+- **Локальный контекст**: zip 92882/92883, Chase Ranch, Dos Lagos, конкретные застройщики (Shea/KB/Taylor Morrison), данные по жёсткости воды Inland Empire
+- **CTA**: (323) 870-4790 упомянут дважды, same-day + evening slots
+- **Открытие**: через локальный кулинарный контекст (а не через погоду/воду/улицу как в предыдущих страницах)
+
+Примечание: запрос указал "New Jersey" но Corona с population 168K и Orange County context — это однозначно Corona, CA (Riverside County). Контент написан под Калифорнию.
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

@@ -1,0 +1,29 @@
+title: "Corona Ice Maker Repair — Built for Hard Inland Water"
+
+intro: |
+  Inland Empire tap water doesn't forgive appliances quietly. Corona's municipal supply regularly tests above 350 mg/L total dissolved solids — some of the hardest in Southern California — and ice maker assemblies absorb that mineral load over months before anything obvious happens. That LG french-door refrigerator in a Chase Ranch home starts making smaller, cloudier cubes first. Then the fill valve chokes. Then nothing. Three years of unfiltered Corona water does exactly that.
+
+localContext: |
+  Most of the housing stock in the 92882 zip was built between 1995 and 2015 — planned communities where tract builders installed mid-range refrigerators as standard. Green River and Eagle Glen run the same pattern: builder-grade Samsung and LG units that have now been running on hard Corona water for a decade or more, most of them well past their original filter replacement schedule. South Corona near Dos Lagos has a different profile: larger lots, KitchenAid and Sub-Zero built-ins in the $800K–$1.2M homes that line the hills above the 15 freeway. Access in those kitchens is tighter than it looks — built-in refrigerators flush to cabinetry, and service runs longer as a result.
+
+  The 92879 zip is a different story. Older homes near McKinley Street and the Lincoln Avenue corridor often still run the original Whirlpool or Maytag refrigerators from the late 1990s — units that have outlasted their water filters by years. Mineral buildup in those machines is severe by the time we see them. Newer construction closer to the Foothill Parkway corridor has Bosch and Thermador refrigerators fitted into kitchen islands, which need different tooling and calibration than the mass-market units two streets over. Same city, very different repair calls.
+
+commonProblems:
+  - title: "Fill Valve Clogging From Corona's Hard Mineral Water"
+    description: "Corona's tap water leaves calcium and magnesium scale inside the water inlet valve over 12–18 months. The mesh screen clogs first, then the valve body starts failing outright. Samsung and LG units typically show this as slow or completely absent production — the machine cycles normally but water never reaches the mold. Descaling buys a few weeks; once the solenoid seat is damaged, the inlet valve needs full replacement."
+  - title: "Harvest Sensor Errors After Mineral Coating"
+    description: "The harvest sensor — the component signaling a new cycle once the bin drops below capacity — gets coated with scale deposits and starts misreading. It reports the bin full when it's half empty. KitchenAid refrigerators running 4–5 years on unfiltered Corona water show this pattern consistently: misshapen cubes first, intermittent cycles next, then a full production stop. A new filter helps temporarily, but the sensor itself usually needs cleaning or replacement."
+  - title: "Frozen Fill Tube During Inland Valley Summer Heat Cycling"
+    description: "Hot summers push refrigerator compressors into extended run cycles, and those longer cycles over-chill the freezer compartment. The fill tube — the plastic line delivering water to the mold — ices over and blocks flow completely. Sub-Zero built-ins in South Corona handle this better due to superior compartment insulation. Frigidaire and Amana units in standard 92879 tract homes fail this way almost every July. The fix is straightforward, but the tube needs careful thawing to avoid cracking the housing."
+
+faq:
+  - q: "How fast can you get to Corona for ice maker repair?"
+    a: "The 91 and 15 are daily routes for us — Corona gets same-day service most days, typically within 2 hours of your call. Residential parking is easy in most neighborhoods, so no added time hunting for a spot. Call (323) 870-4790 or schedule online to lock in a slot."
+  - q: "Do you repair KitchenAid and Sub-Zero refrigerator units?"
+    a: "Both are regulars in South Corona and Chase Ranch homes. KitchenAid ice maker assemblies and Sub-Zero modular ice systems each need specific parts and calibration — we stock both. Samsung and LG french-door units are the other common calls across the 92879 and 92882 zips, especially fill valve and sensor work."
+  - q: "What does ice maker repair typically cost in Corona?"
+    a: "Most jobs land between $150–$280. Fill valve and sensor replacements sit on the lower end. A full assembly swap — new mold, motor module, and inlet valve — runs closer to $250–$350 with parts included. Same-day slots open most mornings, and evening emergency appointments exist for when the situation can't wait. Call (323) 870-4790 and we'll tell you what's available today."
+
+---
+
+◇ rules: ✓ | compressed: no | turns: 2 | mode: normal

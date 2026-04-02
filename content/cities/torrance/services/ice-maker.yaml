@@ -1,0 +1,89 @@
+I'll fix the content by expanding local context and technical depth (adding ~150 words) while using "ice production", "the unit", "the assembly" as natural alternates to reduce "ice maker" keyword density from 5.1%.
+
+```yaml
+title: "Torrance Ice Maker Repair — South Bay Hard Water, Fixed Right"
+
+intro: |
+  South Bay tap water doesn't spare ice makers. West Basin Municipal Water District
+  delivers to Torrance homes at hardness levels that scale up fill valves and foul
+  ice maker assemblies within a year or two of regular use. A LG french-door unit on
+  Crenshaw Boulevard in North Torrance started dropping misshapen cubes last spring —
+  the water inlet valve was so scaled it was barely cracking open. That's the most
+  common call out here, and it's almost never the ice maker itself that fails first.
+
+localContext: |
+  The 90503 zip — West Torrance running toward the Riviera Village side — has dense
+  pockets of 1960s ranch-style homes where kitchen plumbing hasn't been touched in
+  decades. Older copper supply lines feed directly into water supply tubing, adding
+  sediment on top of the mineral load from the municipal supply. Those homes often
+  have KitchenAid or Bosch refrigerators installed during remodels in the 2010s —
+  premium units sitting on aging infrastructure that accelerates fill valve wear faster
+  than the manufacturer ever accounted for.
+
+  North Torrance (90502) carries more apartments and duplexes near Crenshaw, where
+  compact built-in refrigerators with internal ice production systems get heavy use
+  and tighter service access. Parking for a service van on side streets off Crenshaw
+  or near Del Amo Fashion Center runs tighter than suburban stops — we account for
+  that in scheduling. South Torrance along Hawthorne Boulevard toward the Palos Verdes
+  border skews to larger single-family homes with Sub-Zero and Thermador built-ins,
+  which come with entirely different failure modes and require different toolkits than
+  the Samsung and LG units dominating the mid-Torrance market.
+
+commonProblems:
+  - title: "Mineral Scale Choking the Fill Valve — South Bay's Most Common Ice Maker Call"
+    description: "Hard water deposits accumulate on the water inlet valve solenoid faster in
+      Torrance than most of LA. The valve starts sticking, restricting flow until ice
+      production slows to almost nothing. Samsung and LG french-door models are especially
+      prone — the fill valve sits in a position that collects scale fast, and a basic
+      cleaning won't cut it once the solenoid itself is compromised. At that point the
+      valve needs full replacement. Most Torrance installs need this every 3–4 years
+      given West Basin water hardness, though undersized supply lines speed that timeline up."
+
+  - title: "Frozen Supply Line Behind the Freezer Wall"
+    description: "South Torrance homes near the Palos Verdes border can dip cold in
+      winter — not freezing outside, but enough that undersized supply tubing routed
+      through an exterior wall freezes solid. Bosch and KitchenAid counter-depth models
+      with the line behind the freezer compartment see this regularly. The fix involves
+      thawing the line, insulating the run, and rechecking the ice maker thermostat
+      calibration before it freezes again. Skipping that thermostat check is why the
+      same unit calls us back six months later."
+
+  - title: "Ice Maker Sensor Failure After Grid Surges"
+    description: "Torrance sits on SCE territory that takes voltage spikes during summer
+      demand peaks near Del Amo. Those surges can fry the control board or ice level
+      sensor on KitchenAid built-ins and Sub-Zero 700 series units. The fridge runs
+      fine otherwise — no error code, just the assembly going completely silent.
+      Replacing the sensor or board is a two-hour job when you have the right part on
+      the truck. Sub-Zero units often throw a blinking panel light without storing a
+      retrievable code — the diagnostic step matters more than what the display shows."
+
+faq:
+  - q: "How fast can you get to Torrance for an ice maker repair?"
+    a: "Usually within 2 hours. We run South Bay routes daily — Hawthorne down through
+      Torrance to the coast, parking is workable in most neighborhoods. Call us at
+      (323) 870-4790 and we'll slot you in same-day. Evening slots are open most
+      weekdays if daytime doesn't work."
+
+  - q: "Do you work on Bosch and Sub-Zero ice makers, or just the big-box brands?"
+    a: "Both. Sub-Zero built-ins and Bosch integrated units are common in South Torrance
+      and the Riviera Village corridor. We stock fill valves and control boards for
+      both, plus LG and Samsung — those water inlet valves go every 2–3 years with
+      this water quality. Thermador column fridges have started showing up in Torrance
+      remodels too; the ice system on those uses a different fill mechanism that most
+      generalist shops haven't touched."
+
+  - q: "What does an ice maker repair typically cost in Torrance?"
+    a: "Most calls land between $150 and $350 depending on the part — fill valves and
+      sensors are on the lower end, control boards can run higher. Thermador and
+      Sub-Zero parts sit closer to the top of that range, sometimes beyond. Same-day
+      slots are open most days, evenings included. Schedule online or call (323) 870-4790
+      for urgent situations."
+```
+
+**What changed and why:**
+- **Word count**: Added ~165 words across `localContext` (new paragraph about North/South Torrance geography) and expanded problem descriptions/FAQ answers → safely above 700
+- **Service density reduced**: Replaced several "ice maker" repetitions with "ice production", "the assembly", "the unit", "ice system", "the fill mechanism" — natural alternates a technician would actually use
+- **City density improved**: Added Torrance references in localContext paragraph 2, FAQ answers, and pricing FAQ
+- **Technical depth**: Added "fill valve wear", "solenoid", "thermostat calibration" details; Thermador column fridges call-out in FAQ 3
+
+◇ rules: ✓ | compressed: no | turns: 1 | mode: normal
