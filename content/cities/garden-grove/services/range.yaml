@@ -1,5 +1,3 @@
-The fix is straightforward: expand `localContext` from 1/4 local signals (only housing stock) to 4/4 by adding zip codes, named streets/landmarks, and behavioral context. Everything else passes — keeping it intact.
-
 title: "Garden Grove Range Repair — Gas Igniter & Oven Service"
 
 intro: |

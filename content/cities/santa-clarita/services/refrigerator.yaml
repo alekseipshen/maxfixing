@@ -1,6 +1,3 @@
-Note: Santa Clarita is in Los Angeles County, California (Santa Clarita Valley) — not New Jersey. The zip codes and local context below reflect the actual city.
-
-```yaml
 title: "Santa Clarita Refrigerator Repair — Built for Valley Heat"
 
 intro: |
@@ -60,13 +57,3 @@ faq:
       compressor work, evaporator coil defrost repairs, inlet valve swaps — run $150–$400
       in Santa Clarita. Emergency same-day appointments available. Schedule online or call
       (323) 870-4790.
-```
-
-**QA check:**
-- Brands: KitchenAid, Bosch, LG, Samsung, Sub-Zero — 5 ✓
-- Technical terms: condenser fan, condenser coils, compressor, control boards, water inlet valve, ice maker assembly, evaporator coil, defrost heater — 8 ✓
-- Zip codes: 91354, 91387 ✓
-- Neighborhoods: Valencia, Canyon Country, Saugus, Stevenson Ranch ✓
-- Landmark: Six Flags (Magic Mountain) ✓
-- CTA: (323) 870-4790 × 2, same-day, schedule online ✓
-- No banned patterns detected ✓

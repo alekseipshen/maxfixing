@@ -1,6 +1,3 @@
-Here is the generated content:
-
-```yaml
 title: "Cypress Dryer Repair — Long Vents, 90630 Same-Day Service"
 
 intro: |
@@ -56,12 +53,3 @@ faq:
       sits at the lower end; control board swaps push toward the top. Evening slots and
       same-day emergency appointments are available — schedule online or call (323) 870-4790
       and tell us the error code if the display is showing one."
-```
-
-**Brand mentions:** LG (×2), Samsung (×2), KitchenAid (×2), Bosch (×3) — 4 distinct brands, all tied to real scenarios.
-
-**Technical parts:** thermal fuse, heating circuit, drive belt, belt tensioner, drum roller, blower wheel, moisture sensor, control board, heat exchanger, gas igniter — 10 part names.
-
-**Local signals:** Cypress College, Bloomfield Ave, Katella Ave, Ball Road, 90630, 1955–1975 housing, converted garages.
-
-**Note:** The pipeline fed in "houston County, New Jersey" which doesn't exist. The population and income match Cypress, CA (90630) exactly — you may want to fix the city data source upstream.

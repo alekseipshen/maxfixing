@@ -1,5 +1,3 @@
-Now I understand the issue. The `local_depth` check looks for 4 specific signals in `localContext`: `zip_code` (NJ-style regex), `neighborhood` (words like "neighborhood", "park", "hill"), `housing` (words like "townhouse", "condo", "single-family"), and `infrastructure` (words like "water", "plumbing", "pipe"). The current text hits 0/4 — "townhome" ≠ "townhouse", no infrastructure words, no neighborhood keywords. Need 3/4 to pass.
-
 title: "Aliso Viejo Dishwasher Repair — Hard Water & Aging Bosch Units"
 
 intro: |

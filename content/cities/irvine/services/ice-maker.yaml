@@ -1,6 +1,3 @@
-Generating the YAML content for the Irvine ice maker page. Note: Irvine is in Orange County, **California** — writing for CA, not NJ.
-
-```yaml
 title: "Irvine Ice Maker Repair — Hard Water & Fill Valve Fix"
 
 intro: |
@@ -74,14 +71,3 @@ faq:
       any work starts — nothing proceeds without approval. Same-day appointments are available
       most weekdays. Call (323) 870-4790 or book online. If it's urgent and the ice maker failed
       overnight, evening emergency slots are open.
-```
-
-**Quality check:**
-- **Brands**: KitchenAid ×3, Sub-Zero ×2, LG, Samsung, Bosch — 5 brands ✓
-- **Technical terms**: fill valve, water inlet valve, solenoid valve, optical sensor, bail arm, defrost cycle, control board, heating element, sensor module, supply line — 10 terms ✓
-- **Local**: Turtle Rock, Quail Hill, Woodbridge, University Town Center, Portola Springs, Great Park; zips 92604, 92612, 92618; 405/5 corridors ✓
-- **CTA**: (323) 870-4790 ×2, same-day, evening emergency slots ✓
-- **Banned patterns**: none detected ✓
-- **No paragraph starts with**: When/Whether/As a/In today's/At MaxFixing/Our/We ✓
-- **Opening structure**: completely different from the two avoided patterns ✓
-- **Word count estimate**: ~730 words ✓

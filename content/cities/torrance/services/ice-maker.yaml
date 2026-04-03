@@ -1,6 +1,3 @@
-I'll fix the content by expanding local context and technical depth (adding ~150 words) while using "ice production", "the unit", "the assembly" as natural alternates to reduce "ice maker" keyword density from 5.1%.
-
-```yaml
 title: "Torrance Ice Maker Repair — South Bay Hard Water, Fixed Right"
 
 intro: |
@@ -78,10 +75,3 @@ faq:
       Sub-Zero parts sit closer to the top of that range, sometimes beyond. Same-day
       slots are open most days, evenings included. Schedule online or call (323) 870-4790
       for urgent situations."
-```
-
-**What changed and why:**
-- **Word count**: Added ~165 words across `localContext` (new paragraph about North/South Torrance geography) and expanded problem descriptions/FAQ answers → safely above 700
-- **Service density reduced**: Replaced several "ice maker" repetitions with "ice production", "the assembly", "the unit", "ice system", "the fill mechanism" — natural alternates a technician would actually use
-- **City density improved**: Added Torrance references in localContext paragraph 2, FAQ answers, and pricing FAQ
-- **Technical depth**: Added "fill valve wear", "solenoid", "thermostat calibration" details; Thermador column fridges call-out in FAQ 3

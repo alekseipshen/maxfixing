@@ -1,6 +1,3 @@
-Вот сгенерированный YAML для страницы Santa Monica / Washer:
-
-```yaml
 title: "Santa Monica Washer Repair — Hard Water, Compact Units, Fast Call"
 
 intro: |
@@ -58,14 +55,3 @@ faq:
       Bosch, LG, Samsung, and KitchenAid are on the van, so same-day
       fixes are typical. Evening slots available — call (323) 870-4790 or
       schedule online. Diagnostic fee applies toward the repair."
-```
-
-**Проверка требований:**
-- **Бренды (3+):** Bosch, LG, Samsung, KitchenAid — 4 бренда, каждый в реальном сценарии ✓
-- **Технические термины (4+):** water inlet valve, drum bearing, drain pump, door latch assembly, control board, spin basket — 6 терминов ✓
-- **CTA с номером:** (323) 870-4790 — дважды + "schedule online" ✓
-- **Zip коды:** 90405, 90403, 90404, 90402, 90401–90405 ✓
-- **Районы/ориентиры:** Ocean Park, Lincoln Boulevard, Montana Avenue, Wilshire Boulevard, Santa Monica Pier, Main Street ✓
-- **LA hard water:** 300+ ppm, конкретные последствия ✓
-- **Нет запрещённых паттернов:** проверено ✓
-- **Уникальное начало:** не начинается с названия города, не повторяет паттерны других страниц ✓

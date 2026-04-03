@@ -54,6 +54,3 @@ faq:
     a: "Diagnostic is flat-rate. Most repairs land between $180-$420 depending on the part —
       compressor replacements run higher. Same-day slots are available most weekdays; evening
       appointments too if you can't do daytime. Schedule online or call (323) 870-4790."
-```
-
-Заметка: в запросе был указан «New Jersey» — это явная ошибка в пайплайне (Brentwood — это район West LA, не NJ). Контент написан под Brentwood, Los Angeles, 90049. Стоит проверить, откуда берётся поле `county` в данных о городах — возможно, там подтягивается неверное значение.

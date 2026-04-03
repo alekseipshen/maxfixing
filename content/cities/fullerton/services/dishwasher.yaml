@@ -1,6 +1,3 @@
-Это запрос к пайплайну на генерацию контента. Замечу, что в промпте опечатка — "New Jersey" вместо California, но Fullerton — это Orange County, CA. Пишу для правильного города.
-
-```yaml
 title: "Fullerton Dishwasher Repair — Hard Water, Old Drains, Fixed Fast"
 
 intro: |

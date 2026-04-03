@@ -1,1 +1,0 @@
-Замечаю проблему в данных: **Pasadena, "houston County, New Jersey"** — это некорректная запись. Pasadena с населением 142,017 — это **Pasadena, CA (Los Angeles County)**, San Gabriel Valley. Такого города в Нью-Джерси нет. Генерирую контент для Pasadena, CA — это соответствует контексту MaxFixing (LA metro area).
