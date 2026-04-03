@@ -1,0 +1,79 @@
+title: "Garden Grove Cooktop — Hard Water Burns Out Igniters Fast"
+
+intro: |
+  Hard water in Garden Grove runs around 300 ppm — that mineral load clogs igniter
+  ports on gas cooktops faster than most people expect. A Bosch five-burner that lit
+  fine two winters ago starts rapid-clicking or going dead by the time summer heat
+  hits. Most calls we get from the Brookhurst Street corridor involve either a
+  corroded spark electrode or a burner cap so scaled up it's blocking the gas port
+  entirely — not a failed control board like homeowners usually fear.
+
+localContext: |
+  The neighborhoods around Trask Avenue and Lampson Avenue (zip 92843) are mostly
+  1960s and early '70s ranch homes with drop-in cooktop cutouts sized for older
+  units. Gas pipe routing in these houses often runs through undersized chases, and
+  original electrical wiring near the cooktop area means every swap involves checking
+  the circuit before touching anything. Tight under-counter clearance and original
+  tile surfaces still make swapping a standard 30-inch GE or Samsung a two-person
+  job. Newer builds near the Christ Cathedral campus run electric glass-ceramic tops,
+  which bring their own cracked-surface and induction control board issues.
+
+  Over on the 92841 side — Garden Grove Boulevard toward Magnolia Street — there's
+  a dense stretch of 1980s apartment complexes. Landlords here tend to keep GE and
+  Whirlpool coil-top units running well past their service life. We pull those apart
+  regularly: worn infinite switches, cracked drip bowls shorting the burner circuit,
+  element terminals corroded from years of spill residue baked in.
+
+  The Bolsa Avenue corridor near the 92844 zip has a large number of households
+  running Samsung and LG slide-in ranges. These come in with induction control board
+  errors — often an E1 or UE code — triggered partly by voltage fluctuations and
+  partly by the hard water affecting the glass surface over time. Access isn't always
+  easy on these streets; parking a service van on Bolsa during lunch rush takes
+  planning. We account for that.
+
+  Garden Grove's proximity to the 22 freeway means we can be on-site from most of
+  Orange County within 90 minutes, often less. Chapman Avenue is our main route in
+  from the east side.
+
+commonProblems:
+  - title: "Igniter clicking constantly or not sparking at all"
+    description: "Orange County's hard water leaves calcium deposits inside the burner
+      cap and around the spark electrode tip. That residue either shorts the electrode
+      so it fires continuously or insulates it so it won't spark. On a KitchenAid
+      six-burner, this usually means cleaning or replacing the igniter module — a
+      $40–80 part — not the whole cooktop. If the clicking persists after a cleaning,
+      the spark module itself may be sending voltage to the wrong electrode — a wiring
+      issue, not a parts issue."
+
+  - title: "Cracked ceramic glass on electric and induction tops"
+    description: "A Samsung or LG glass-ceramic surface can crack from a single hard
+      impact or from thermal stress caused by an uneven heating element underneath.
+      Once the ceramic is cracked, the cooktop is a shock hazard. Surface replacement
+      is possible on most models, but the repair cost has to be weighed against unit
+      age — anything over 10 years old is a tougher call."
+
+  - title: "Uneven heat or one burner running full blast constantly"
+    description: "On Whirlpool and GE gas cooktops, a sticking or failed gas valve is
+      usually the culprit when one burner won't modulate — it either stays on high or
+      won't come off simmer. The valve itself is replaceable. On electric models,
+      the same symptom points to a burned-out infinite switch, which controls the
+      coil element's cycling and costs about $25–60 to replace."
+
+faq:
+  - q: "How fast can you get to Garden Grove for Cooktop repair?"
+    a: "Garden Grove is a straightforward run — we're usually on-site within 2 hours
+      from anywhere in Orange County. Chapman Avenue and the 22 freeway are our main
+      routes in. Same-day slots are available most weekdays. Call (323) 870-4790 to
+      check availability right now."
+
+  - q: "Do you repair Samsung and Bosch cooktops in Garden Grove?"
+    a: "Yes to both. Samsung glass-ceramic tops come in with cracked surfaces and
+      faulty induction control boards regularly. Bosch gas cooktops — common in the
+      mid-range kitchen upgrades around zip 92840 — usually need igniter assemblies
+      or burner valve work. We stock parts for both."
+
+  - q: "What does a typical cooktop repair cost, and do you charge a trip fee?"
+    a: "Diagnostic visit is $75, applied to the repair if you go ahead. Most gas igniter
+      jobs run $120–180 parts and labor. Ceramic surface replacements vary widely by
+      model. We carry common parts on the truck, so same-day fixes are the norm, not
+      the exception — no second trip waiting for a part to ship."

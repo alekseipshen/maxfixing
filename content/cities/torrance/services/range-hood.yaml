@@ -1,0 +1,76 @@
+title: "Torrance Range Hood Repair — South Bay Specialists"
+
+intro: |
+  South Torrance kitchens see serious use. The 1960s and 1970s ranch-style homes along
+  Anza Avenue and near the Walteria neighborhood were built when range hoods were
+  afterthoughts — thin sheet metal boxes venting into soffits. Today those same ducts are
+  pulling smoke from KitchenAid six-burner ranges and Bosch wall-mounted hoods that move
+  three times the CFM the original ductwork was designed for. Something breaks. We fix it.
+
+localContext: |
+  Most of the housing stock in zip codes 90503 and 90505 dates to the postwar boom — compact
+  galley kitchens, original 6-inch round duct runs, and attic paths that weren't built for
+  modern ventilation loads. The older Del Amo and Walteria neighborhoods especially have this
+  layout. Hard water from the municipal supply and coastal humidity drifting up from Redondo
+  Beach both accelerate grease buildup inside duct liners — faster than in drier inland
+  cities. The original wiring in these homes wasn't designed for the 120-watt motors in
+  today's range hoods either; it's not unusual to find undersized circuits behind a hood
+  swap. That combination kills blower wheels and motor bearings ahead of schedule.
+
+  Hollywood Riviera is a different story. The mid-century homes above Palos Verdes Drive North
+  have been renovated repeatedly — original 1950s ductwork behind new drywall, sometimes
+  terminating into a wall cavity instead of reaching the exterior. Homeowners don't know until
+  the Thermador island insert stops pulling and we scope the run. Over in the 90501 zip around
+  Old Torrance, the bungalow kitchens are tight — 24-inch cabinets, hood mounted low, almost
+  no clearance above. Getting a motor housing out without pulling the cabinet panel takes
+  patience and the right angle on the drill. We've done it enough times to know what to expect.
+
+  Torrance sits close enough to the coast that salt air is a factor too. Terminal connections
+  on control boards corrode faster here than in the Valley. A Bosch hood that's showing
+  intermittent fan speed errors near Madrona Marsh isn't always a board failure — sometimes
+  it's a corroded connector that cleans up in ten minutes.
+
+commonProblems:
+  - title: "Blower wheel seized from grease buildup in older duct runs"
+    description: "High-heat cooking — wok, deep fry, daily stovetop — coats the blower wheel
+      blades in a layer of polymerized grease that hardens like lacquer. On Bosch
+      under-cabinet models common in 90503, this throws the wheel out of balance before it
+      fully seizes. The fix is pulling the motor housing, cleaning or replacing the blower
+      wheel, and checking whether the motor shaft is still true. A balanced wheel at the
+      wrong RPM still means weak airflow — we test at full speed before signing off."
+
+  - title: "Duct restriction causing back-pressure noise and weak suction"
+    description: "The 1970s tract homes in North Torrance often have flex duct runs with
+      90-degree bends crammed into ceiling cavities. That geometry creates back-pressure.
+      The hood fan sounds like it's working hard but barely moves air. We scope the duct
+      path, identify the restriction, and reroute or replace the run — especially important
+      after upgrading to a higher-CFM KitchenAid or Thermador insert. Rigid duct with
+      swept elbows can recover 30–40% of lost airflow in these older ceiling paths."
+
+  - title: "Thermal fuse and control board failure from heat soak"
+    description: "South Bay summers push ambient kitchen temps up, and range hoods sitting
+      above gas burners on warm days accumulate heat even when off. On Samsung and LG
+      combination units with integrated lighting and fan controls, the control board
+      sits close to the heat source. Thermal fuse blows first, cutting all functions at
+      once. Looks like a dead unit — usually it's a $30 fuse and a board inspection.
+      If the board shows burn marks around the relay cluster, we replace rather than patch.
+      A repaired board in that thermal environment rarely lasts another season."
+
+faq:
+  - q: "How fast can you get to Torrance for range hood repair?"
+    a: "Torrance is a regular run for us — we cover the South Bay daily and are usually
+      on-site within 2 hours of your call. Parking is straightforward in most residential
+      neighborhoods. Call (323) 870-4790 and we'll give you a same-day window."
+
+  - q: "Do you work on Bosch and Thermador range hoods specifically?"
+    a: "Yes. Bosch under-cabinet and wall-mount hoods are the most common call we get in
+      Torrance. Thermador island inserts show up in the higher-end homes near Palos Verdes
+      Drive. Both require specific blower assemblies — we carry common parts for each.
+      For Thermador, the blower motor and the duct adapter are different across model years,
+      so we confirm the serial number before pulling parts."
+
+  - q: "What does range hood repair usually cost, and is same-day service available?"
+    a: "Most repairs land between $120 and $280 — motor swaps, control board replacements,
+      and duct reroutes each price differently, and we give you the number before touching
+      anything. Evening slots are available if you can't be home during the day.
+      Same-day service is standard — we're not scheduling a week out for a range hood."

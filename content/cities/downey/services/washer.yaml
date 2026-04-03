@@ -1,29 +1,23 @@
-title: "Downey Washer Repair — Hard Water & 1950s Homes Take a Toll"
+title: "Downey Washer Repair — 1960s Plumbing, Modern Machines"
 
 intro: |
-  Southeast LA County tap water punishes washers quietly. The municipal supply running through 90241 carries enough dissolved calcium and magnesium that water inlet valves on Samsung and LG front-loaders start restricting flow within a few years — sometimes triggering 4E error codes, sometimes just a slow-fill nobody notices until the machine stops mid-wash. Downey's original aerospace-era ranch homes have narrow side-access laundry setups too, which makes pulling a machine for drain pump work a little more involved than the job sheet suggests.
+  Postwar tract housing built across 90241 and 90242 in the 1950s and 60s — the blocks running off Lakewood Boulevard toward South Gate — wasn't designed for the Samsung front-loaders and LG ThinQ machines people are running today. Narrower utility closets, older standpipes, supply lines that haven't been replaced in decades. That combination quietly accelerates drain pump failures and water inlet valve clogs faster than most homeowners expect.
 
 localContext: |
-  Ranch houses built in the 1950s and 60s dominate the 90242 zip code — solid block construction, but laundry closets that weren't designed for today's 28-inch-depth machines. Streets south of Columbia Memorial Space Center and down toward the Florence Ave corridor see a lot of original-owner homes with GE and Whirlpool top-loaders that have never been serviced in 20 years. Apartment complexes along Firestone Blvd and near Stonewood Center run stacked units, usually LG or Whirlpool, and accessing the drum bearing in a stacked configuration takes extra time. Older homes off Lakewood Blvd still have drain standpipes from original construction that choke high-efficiency machines on fast-drain cycles. The 90241 corridor between the 5 and 710 freeways has a mix of 1980s-era condos with shared laundry rooms — those setups get heavy use and the Samsung control boards fail more often than in residential units. Rio Hondo water district feeds this part of the county, and the mineral load is consistently high year-round.
+  Neighborhoods southeast of Downey Avenue, around Gallatin Road, still carry a lot of that original postwar footprint — single-story homes with laundry hookups shoved into converted garages or tight utility alcoves. In 90242, older GE and Whirlpool top-loaders sit alongside newer front-loaders people switched to for water savings. Either way, the machine is working against LA's mineral-heavy supply — Downey area water regularly tests above 250 mg/L dissolved solids.
 
 commonProblems:
-  - title: "Mineral Scale Choking the Water Inlet Valve"
-    description: |
-      LA County water hardness runs around 300 ppm in this part of the county — high enough to coat the solenoid screens inside a water inlet valve with calcium deposits in three to four years. Samsung front-loaders throw a 4C or 4E code when this happens; GE top-loaders just fill slowly until one day they stop. Swapping the valve clears it; flushing the supply lines helps it last longer.
-  - title: "Drum Bearing Failure in Older Whirlpool and LG Units"
-    description: |
-      That grinding roar during spin is the drum bearing — and in Downey's 15-to-20-year-old Whirlpool top-loaders, it's one of the most common calls we get. The bearing sits behind the tub and absorbs the full rotational load of every cycle. Replacing it means splitting the cabinet and pulling the inner basket, a two-hour job minimum, but still far cheaper than a new machine.
-  - title: "Drain Pump Clogs Leaving Standing Water After the Wash"
-    description: |
-      Water pooling in the drum after a cycle almost always points to a clogged or failing drain pump. LG and Bosch front-loaders have a debris filter near the base — lint, coins, and sock fragments pack it tight. Most homeowners have never touched it. Cleaning the filter prevents most pump failures; when the impeller itself is cracked or seized, the whole pump needs to come out.
+  - title: "Spin cycle stops mid-load — common in 90241's older top-loaders"
+    description: "Usually a worn drive belt or a failed lid switch — both degrade faster in Downey's summer heat than most warranty estimates assume. Whirlpool and GE machines 8-12 years old are the repeat offenders. The spin basket stops responding, sometimes preceded by an F7 or E1 error code flashing on the display."
+  - title: "Standing water left after the wash cycle finishes"
+    description: "Mineral scale builds up inside drain pump housings over time, restricting the impeller until the pump can't clear the drum. Samsung and LG front-loaders handle this worst — they'll throw an OE or 5E error before going completely dead on drainage. A partial clog means slow draining at first, then nothing."
+  - title: "Machine walking across the floor during spin"
+    description: "Front-loaders on tile floors in Downey garage conversions wear through shock absorbers faster than units on poured concrete. Bosch and LG machines with gone shocks will migrate a foot across the room by the end of a full load. If you're also hearing a low grinding sound at high RPM, the drum bearing is probably going too."
 
 faq:
   - q: "How fast can you get to Downey for washer repair?"
-    a: |
-      Off the 605 and 5 corridors, Downey is typically a 25-to-40-minute run from our nearest technician. Calls placed before noon usually get same-day service. Call us at (323) 870-4790 and we can generally have someone at your door within 2 hours.
+    a: "Usually within 2 hours of your call. We run the southeast LA corridor daily — Downey, Bellflower, Norwalk, Compton, Lynwood. Call (323) 870-4790 and we'll give you a real arrival window, not a four-hour guess."
   - q: "Do you repair Samsung and LG washers in Downey?"
-    a: |
-      Samsung and LG front-loaders are the two most common machines we see in this area. Water inlet valves, drain pumps, and door latch assemblies for both stay on our trucks. Whirlpool and GE top-loaders are the other regulars — particularly in Downey's older ranch homes.
-  - q: "What does washer repair cost in Downey, and can I get same-day service?"
-    a: |
-      Most jobs run $120–$280 depending on the part. We diagnose on-site and quote before touching anything — no surprises. Evening and emergency slots are available. Same-day openings go fast, so call (323) 870-4790 early to lock one in.
+    a: "Yes — front-load and top-load both. Samsung OE error codes, LG UE balance faults, drain pump swaps. Also handle Whirlpool and GE top-loaders, which are still all over Downey's older housing stock."
+  - q: "What does washer repair cost, and is same-day service actually available?"
+    a: "Same-day slots open most days, evening appointments included. Diagnosis is free with repair. Drain pump, drive belt, water inlet valve jobs typically run $120–$280 depending on the part. Call (323) 870-4790 to lock in a time."

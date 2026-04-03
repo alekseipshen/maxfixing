@@ -1,0 +1,28 @@
+title: "Anaheim Range Repair — Same-Day Gas & Oven Service"
+
+intro: |
+  Houses along Ball Road and Euclid in West Anaheim see a lot of range calls — these are 1970s and 1980s builds with original gas hookups and kitchens that haven't been touched since Reagan. That GE or Whirlpool gas range is often 15-20 years old, and when it stops working, people notice fast. Cooking for a family of four with a dead burner or an oven that won't hold 350 degrees is a real problem, not a wait-a-week situation. Call us at (323) 870-4790.
+
+localContext: |
+  Anaheim's housing divides pretty clearly between the older western neighborhoods — zip codes 92804 and 92805 around Magnolia Avenue — and the newer Anaheim Hills developments east of the 91 Freeway. Kitchens in the western side are compact, ranges wedged tight between cabinetry with barely enough clearance to pull the unit out. Most of those homes were built gas-standard, so gas ranges dominate. The older gas hookups out here run on 3/4-inch black pipe — solid infrastructure, but the flexible connectors corrode after two decades and need swapping when we pull a range out for service. Electrical wiring in these tract homes is another thing to check; ranges on 50-amp circuits in 1970s construction sometimes show loose breaker connections that look like a range fault.
+  Move east toward the Platinum Triangle along Katella Avenue (zip 92806, right around Angel Stadium) and the picture shifts — newer townhomes and condos with glass-top electric ranges from Samsung and LG, original appliances still under 10 years old but already showing control board issues. Anaheim Hills runs newer construction with larger single-family homes and mid-range brands like KitchenAid and Bosch that owners have upgraded to over the last decade. Central Anaheim, the Lincoln Avenue corridor around zip 92805, is a mix of 1950s and 1960s tract homes — some still running the original gas valve hookups, others with ranges swapped out when the kitchen was last remodeled in the early 2000s. Service vans park easily on most residential streets in these areas; the tighter spots are the attached-garage tract homes where the driveway is the only access.
+
+commonProblems:
+  - title: "Gas Burner Won't Ignite — Likely the Igniter Module, Not the Burner Itself"
+    description: "In older West Anaheim homes near zip 92804, food debris and grease build up on the spark igniter tip over years until it can't generate a strong enough spark. On GE gas ranges especially, the igniter module is a separate replaceable component — models from the mid-2000s fail with almost no warning. Fix includes a new igniter module plus cleaning the burner ports and venturi tube. Usually done in under an hour."
+
+  - title: "Oven Won't Reach the Right Temperature — Bake Element or Sensor Problem"
+    description: "A Samsung or Whirlpool oven running 50 degrees cold is almost always a failing bake element or a dying oven temperature sensor — that thin probe inside the cavity sending resistance readings to the control board. Both parts are inexpensive. Diagnosis takes about 10 minutes with a multimeter. Common bake elements for Samsung and Whirlpool ride along in the van. LG glass-top ranges in the Platinum Triangle condos throw F9 or tE error codes when the sensor drifts out of range — same root cause, different interface."
+
+  - title: "Control Panel Error Codes on KitchenAid and Bosch Ranges"
+    description: "KitchenAid ranges — popular in the 92807 zip and Anaheim Hills — throw F3 or E1 error codes when the oven temperature sensor fails, or show a blank display when the control board drops power. Bosch ranges behave similarly. The control board itself is the actual failure point most of the time, not the touchpad overlay. We stock boards for both brands."
+
+faq:
+  - q: "How fast can you get to Anaheim for range repair?"
+    a: "Orange County routes run daily — from Irvine up through Anaheim along the 5 and 57. Residential streets near Angel Stadium and the Colony neighborhood are easy to park a service van on. The Anaheim Hills side takes a few extra minutes via the 91, but it's on the regular rotation. Call (323) 870-4790 and we can usually get there same-day, within 2 hours during business hours."
+
+  - q: "Do you repair Samsung and Whirlpool ranges in Anaheim?"
+    a: "Yes — Samsung, Whirlpool, GE, KitchenAid, Bosch, and LG all come through regularly. Samsung glass-top models often need a new surface element or control board. Whirlpool gas ranges usually come in needing a new igniter module or gas valve igniter. KitchenAid we mostly see control board failures on. LG electric ranges in the Platinum Triangle condos are a newer one — those throw sensor error codes and need the probe replaced before the control board starts misreading temperatures permanently."
+
+  - q: "What does range repair cost, and can you handle it urgently?"
+    a: "Diagnostic visit runs $75-$95, credited toward the repair. A bake element or igniter module replacement typically lands $150-$250 total, parts and labor included. Gas smell? That's a same-day call — don't wait on it. Evening slots available most weekdays. Call (323) 870-4790 or book online."

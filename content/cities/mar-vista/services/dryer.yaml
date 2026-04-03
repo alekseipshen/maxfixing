@@ -1,23 +1,62 @@
-title: "Mar Vista Dryer Repair — 90066 Vents, Bungalow Closets"
+title: "Mar Vista Dryer Repair — Long Vents, Gas Lines, Fast Fix"
 
 intro: |
-  Bungalows along Beethoven Street and the blocks off Centinela Avenue were built in the 1950s with laundry tucked into closets or converted garages — places where vent runs snake 12 to 18 feet before they reach outside air. That GE gas dryer running 80-minute cycles isn't failing; it's suffocating. Lint-packed exhaust paths cut airflow to almost nothing, and the thermal fuse eventually gives out trying to compensate.
+  The 1950s ranch houses clustered around Centinela Avenue and north of Venice
+  Boulevard have a recurring dryer problem — exhaust runs added as retrofits,
+  traveling 15+ feet through interior walls before finally exiting near the
+  roofline. A Samsung gas dryer in one of these setups can look perfectly fine
+  while a restricted vent quietly pushes drying cycles from 45 minutes to over
+  an hour. That's usually the first clue something's wrong, not the machine dying
+  outright.
 
 localContext: |
-  Most of 90066 was developed between 1945 and 1965, when builders never planned for modern high-capacity dryers drawing serious airflow. Apartments near Venice Boulevard stack washer-dryer combos in utility closets barely deep enough to close the door. Getting to the back panel of a stacked unit in a Mar Vista rental means moving the whole setup — we carry furniture dollies for exactly this.
+  Most of the housing stock in 90066 dates from the 1950s and '60s — single-story
+  stucco homes with laundry hookups shoehorned into hallway closets or converted
+  garages. The marine layer rolling in off the Pacific keeps ambient humidity just
+  high enough to slow drying noticeably. Add the apartment complexes along
+  Beethoven Street — stacked washer/dryer combos in tight alcoves — and you get
+  a neighborhood where cramped access and long exhaust runs are the norm, not
+  the exception.
 
 commonProblems:
-  - title: "Thermal Fuse Blown From Choked Vent Runs"
-    description: "The winding ductwork in 90066's older bungalows traps lint at every elbow. Once airflow drops, exhaust heat builds until the thermal fuse blows — and that's it, no heat at all. Whirlpool and GE gas dryers are the usual suspects here. Fuse replacement takes under an hour, but skipping the vent cleaning means it blows again in weeks."
-  - title: "Drum Stops Spinning — Drive Belt Snaps"
-    description: "Samsung and LG electric dryers in these mid-century homes tend to see heavy daily use through machines that never get serviced. The drive belt wears thin and eventually snaps, leaving the drum stationary while the motor keeps humming. A worn belt tensioner usually goes at the same time — replacing both together avoids a repeat visit."
-  - title: "Gas Dryer Igniter Failure in Converted Garage Laundry Rooms"
-    description: "Plenty of Mar Vista homes converted their detached garages into laundry rooms — convenient, but gas line runs out there tend to be older and restrictive. KitchenAid and Bosch gas dryers in these setups often come in with the gas valve igniter failing: the machine tumbles fine, but never produces heat. Cold air out of a warm drum is the giveaway."
+  - title: "Thermal Fuse Failures From Restricted Exhaust Runs"
+    description: "Single-story ranch layouts mean dryer vents often travel further before
+      reaching an exterior wall, sometimes with a bend or two along the way. That
+      restriction builds heat. The thermal fuse trips to protect the machine —
+      suddenly your Whirlpool tumbles but blows cold air. Replacing the fuse without
+      clearing the vent blockage means it blows again in three weeks."
+
+  - title: "Drum Bearing Wear on LG Units Running Oversized Loads"
+    description: "LG front-loaders are common throughout this neighborhood, and the drum
+      bearing takes serious abuse when machines get consistently overstuffed — king
+      comforters, heavy denim, the full haul. A low scraping or grinding during the
+      tumble cycle is the tell. Ignore it and the worn drum roller assembly eventually
+      locks up entirely. What costs $140 now becomes considerably more later."
+
+  - title: "Gas Valve Igniter Failures in Older GE and Maytag Machines"
+    description: "Mar Vista stays cooler than the Valley, but summer temps still push into
+      the high 80s, and the gas valve igniter on older GE and Maytag units shows
+      intermittent failures — heats for a cycle or two, then goes cold. The igniter
+      isn't always fully dead; it just can't sustain a consistent flame. Confirming
+      whether the flame sensor or the igniter itself is the culprit is the first
+      diagnostic step."
 
 faq:
-  - q: "How fast can you get to Mar Vista for dryer repair?"
-    a: "We run routes from Culver City through 90066 daily — usually there within 2 hours of your call. Street parking on the residential blocks off Venice Boulevard is straightforward, no van-access issues. Call (323) 870-4790 to get on today's schedule."
-  - q: "Do you repair Samsung and LG dryers in Mar Vista?"
-    a: "Yes — Samsung and LG are the two most common brands we see in this area. Typical jobs: moisture sensor replacement on LG units, heating element and control board issues on Samsung. We stock common parts for both, so most repairs close on the first visit."
-  - q: "What does dryer repair cost and is same-day service available?"
-    a: "Diagnostic is $75, applied to the repair if you proceed. Most thermal fuse and drive belt jobs land between $130–$200 parts and labor combined. Same-day slots are available most weekdays — call (323) 870-4790 before noon and we can usually be there that afternoon."
+  - q: "How fast can you get to Mar Vista for a dryer repair?"
+    a: "Most calls in the 90066 area get same-day service. We run the Westside daily
+      — Venice Boulevard and Lincoln are our standard routes in. Parking on the
+      residential streets near Mar Vista Recreation Center is usually fine. Call us
+      at (323) 870-4790 and we'll lock in a window for today."
+
+  - q: "Do you repair Samsung and LG dryers specifically?"
+    a: "Both are among the most common brands we see out here. On Samsung electric
+      models, heating element and moisture sensor failures are typical. LG gas units
+      usually come in with drum roller or control board issues. Bosch and Whirlpool
+      too — we carry parts for all of them."
+
+  - q: "What does a dryer repair typically cost and how quickly can you diagnose it?"
+    a: "Diagnosis happens the same visit — we carry thermal fuses, heating elements,
+      and drum rollers for the common brands on the van. A fuse or element swap runs
+      $100–$180 all-in. Drum bearing jobs take longer but are still same-day in most
+      cases. Evening slots available most weekdays — call (323) 870-4790 or schedule
+      online."

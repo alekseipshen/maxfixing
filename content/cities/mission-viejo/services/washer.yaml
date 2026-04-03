@@ -1,23 +1,23 @@
-title: "Mission Viejo Washer — Hard Water, Aging Valves, Fast Fix"
+title: "Mission Viejo Washer — Mineral Scale Kills Inlet Valves Fast"
 
 intro: |
-  The planned neighborhoods off Marguerite Parkway — those 1970s and early-80s tract homes in 92691 — were built with actual dedicated laundry rooms, which is a luxury compared to much of LA. Homeowners who've upgraded to Bosch or Miele front-loaders often don't realize how hard Orange County water runs: parts of South OC regularly test above 300 mg/L dissolved minerals. That calcium load quietly destroys water inlet valves and drum bearings long before anything looks obviously wrong.
+  The planned streets off Marguerite Parkway were laid out in the early 1970s, and those original homes have seen three generations of washers. Moulton Niguel Water District serves 92691 and 92692 with supply that tests around 380 ppm hardness — enough to calcify a Bosch Serie 6 water inlet valve within five years. Most owners assume it's the control board. Usually it isn't.
 
 localContext: |
-  Mission Viejo's housing stock is predominantly single-family homes built between 1968 and 1990, mostly slab-on-grade. Zip code 92692 — the western side near Oso Creek Trail — skews slightly newer, late-80s to mid-90s construction, with laundry alcoves sized for older top-loaders. Retrofitting a modern front-load machine into those original cutouts sometimes means accessing the drain pump or hoses from awkward angles. Technicians need to work around that original cabinetry without damaging the finished interiors these homes typically have.
+  Mission Viejo's housing stock runs almost entirely from 1972 to 1990, which means laundry alcoves were dimensioned for freestanding top-loaders — not the front-loading pairs now wedged into those same spaces. Around Olympiad Road and the Casta del Sol neighborhood (92691), stacked Miele and LG units sit in tight utility closets where access for service is tight. Aging supply lines in these homes compound the problem: mineral deposits narrow them over time, cutting water pressure before it even reaches the inlet valve.
 
 commonProblems:
-  - title: "Mineral Scale Destroying Water Inlet Valves"
-    description: "OC tap water above 300 mg/L deposits calcium scale inside inlet valve screens and solenoid ports — the machine fills slowly, then stops filling entirely. Bosch and Miele washers are especially sensitive; their precision-toleranced inlet assemblies clog faster than domestic brands. A valve replacement caught early runs about $80 in parts. Left alone, the control board overheats trying to compensate and fails next."
-  - title: "Drum Bearing Failure in Aging Top-Loaders"
-    description: "Maytag and Kenmore top-loaders installed in Mission Viejo homes before 2000 are hitting the end of their drum bearing lifespan. The symptom is a grinding rumble that worsens at high spin cycles — the spin basket develops wobble, and if the bearing seizes, it takes the drive belt with it. Worth repairing if the tub is clean and rust-free, which most are in this climate."
-  - title: "Door Lock Failures on Front-Load Machines"
-    description: "Samsung front-loaders throw the dE or dL error code and refuse to start when the door latch assembly wears out — common after 5–7 years of daily use. South OC's warm temperatures accelerate thermal fatigue on the lock actuator. The latch swap itself is straightforward, but the wiring harness behind the front panel needs careful handling to avoid cracking the door boot seal on reassembly."
+  - title: "Water Inlet Valve Calcification from Moulton Niguel Supply"
+    description: "At 350-400 ppm hardness, this water is aggressive on solenoid screens. A Bosch 500 series front-loader develops calcium blockage on the inlet valve within 3-5 years — fill cycle slows, then the machine throws an E17 fault and stops mid-load. Replacing the valve runs $45-90 in parts. Ignore it and you risk a warped door gasket from standing water."
+  - title: "Drum Bearing Failure in 1980s Top-Loaders"
+    description: "The ranch homes near Trabuco Road still run Maytag Bravos and older Kenmore 700-series machines. Drum bearings on those units last 8-12 years before the grinding starts on spin cycles. Once the bearing goes, it takes the spin basket seal with it and water hits the floor. Continued use accelerates damage to the drive belt and control board — what starts as a bearing job becomes a much bigger bill."
+  - title: "Drain Pump Clogs Locking Samsung Front-Loaders"
+    description: "Samsung WF45R6100AW machines — common in Mission Viejo's newer developments near La Paz Road — throw 5E or OE codes when the drain pump filter backs up with lint, hard water sediment, and small debris. Door stays locked. Water sits. Most owners don't know the filter access panel exists on the lower front fascia. It needs cleaning every 3-4 months in Southern California water conditions."
 
 faq:
   - q: "How fast can you get to Mission Viejo for a washer repair?"
-    a: "From our South OC service loop, Mission Viejo is usually a 90-minute response window. We cover 92691 and 92692 with same-day availability most weekdays. Call (323) 870-4790 by noon and we can usually be there that afternoon."
-  - q: "Do you repair Bosch and Miele washers in Mission Viejo?"
-    a: "Both are standard jobs for us. Bosch condenser pump failures, Miele water inlet valve clogs, KitchenAid control board resets — all common in this area. Samsung front-loaders also show up constantly. We stock parts for these brands or source same-day."
-  - q: "What does washer repair cost, and do you offer emergency service?"
-    a: "Diagnostic fee is $75, applied toward the repair. Most jobs — drain pump swap, door latch assembly, drum bearing — land between $160 and $380 all-in. Evening slots available through 7 PM. Same-day emergency visits: call (323) 870-4790 early."
+    a: "From our South OC route, we reach 92691 and 92692 same-day — usually within 2 hours of your call. The 5 freeway is the variable. Early morning slots fill fastest. Call (323) 870-4790 before noon and we can almost always get there the same day."
+  - q: "Do you repair Miele and Bosch front-load washers in this area?"
+    a: "Yes. Miele W1 series and Bosch 500/800 series are both common throughout Mission Viejo. We stock inlet valves, drain pump assemblies, and door latch components for both. Miele diagnostics require brand-specific tools that most shops don't carry — we do."
+  - q: "What does a washer repair typically cost, and do you offer emergency visits?"
+    a: "Diagnostic fee is $75, credited toward the repair if you proceed. Drain pump and inlet valve jobs typically run $150-280 total — quote given before any work starts. Evening slots available Thursday through Friday. Same-day emergency service is available if the drum is flooded or you've got a slow leak onto hardwood."

@@ -1,23 +1,55 @@
-title: "Monrovia Refrigerator Repair — SGV Hard Water & Heat Specialists"
+title: "Monrovia Refrigerator — Valley Heat, Hard Water, Fast Fixes"
 
 intro: |
-  Foothill Boulevard runs right through Monrovia's older residential blocks, and a lot of those 1950s ranch homes were wired and plumbed long before French-door refrigerators existed. That KitchenAid counter-depth sitting flush against a tile backsplash? Getting behind it requires moving the whole unit — tight clearance, often no room to slide sideways. San Gabriel Valley hard water (TDS regularly above 400 ppm) hits ice maker assemblies hard in this area, and it shows up in the repair calls we get from the 91016 zip constantly.
+  Tight Craftsman kitchens near Myrtle Avenue in Old Town weren't built for 36-inch
+  french-door units — the condenser barely gets airflow, especially in a south-facing
+  room. On top of that, SGV tap water running through 91016 pipes tests above 300 mg/L
+  hardness, and it grinds through ice maker assemblies in KitchenAid and Samsung models
+  faster than most homeowners expect. That combination keeps us busy in Monrovia year-round.
 
 localContext: |
-  Monrovia's housing stock runs heavily 1950s-1970s ranch and bungalow styles — solid construction, but kitchens weren't designed for today's 36-inch built-ins. The 91016 and 91017 zip codes cover everything from compact rentals near Myrtle Avenue to larger single-family homes backing up to the foothills. Older homes near Mayflower Park and the historic district sometimes have galvanized supply lines that accelerate mineral deposits inside water inlet valves and ice maker lines.
+  The 91016 zip has a real mix — 1920s bungalows near downtown Monrovia, postwar
+  ranch homes from the 1950s and 60s spreading east into 91017, plus newer builds
+  up toward Monrovia Canyon Park. Older kitchens sometimes have original cabinetry
+  that makes pulling a counter-depth unit a legitimate job on its own. Sub-Zero and
+  Thermador built-ins appear more frequently on the hillside streets where lot sizes
+  get bigger. Narrow side-yard access on older parcels means service van parking
+  takes planning too.
 
 commonProblems:
-  - title: "Hard Water Mineral Buildup Killing Ice Makers"
-    description: "SGV tap water deposits calcium scale inside the ice maker assembly and water inlet valve over 2-3 years — it's not a maybe, it's a when. Samsung French-door models show this constantly in 91016: the valve partially clogs, ice production drops, then stops. Cleaning or replacing the inlet valve and flushing the fill tube usually resolves it before the ice maker module itself needs replacing."
-  - title: "Compressor Overheating During Summer Foothills Heat"
-    description: "Monrovia sits against the San Gabriel Mountains, and summer temps along Foothill Boulevard regularly crack 100°F. Refrigerators in garages or south-facing kitchens run the condenser fan motor hard all day. LG and Bosch units with inverter compressors handle it better than older linear-compressor designs, but a dusty condenser coil turns any compressor into a liability — cleaning it buys years of runtime."
-  - title: "Evaporator Coil Frost Buildup Causing Warm Compartments"
-    description: "The symptom homeowners notice: freezer fine, fridge warm. The actual problem is a failed defrost timer or defrost heater letting ice sheet the evaporator coil completely. KitchenAid side-by-sides in Monrovia's older homes show this pattern regularly — door gaskets degrade in the dry SGV air, letting humid outside air in, accelerating frost cycles. Replacing the defrost thermostat and clearing the coil usually runs $150-220 in parts."
+  - title: "Ice Maker Assembly Failure from Mineral Deposits"
+    description: "San Gabriel Valley water calcifies the water inlet valve screens first,
+      then the ejector arm seizes mid-cycle. LG french-door models show an IE error code;
+      Samsung units just stop producing ice entirely. Rebuilt inlet valve kits fix most of
+      these without needing a full ice maker assembly swap — though sometimes you need both."
+
+  - title: "Compressor Cycling Nonstop Through Summer Heat"
+    description: "August highs in Monrovia sit around 97°F, and a refrigerator in a
+      warm kitchen runs its compressor nearly nonstop. The condenser fan motor is usually
+      the first casualty — it burns out under sustained load before the compressor itself
+      fails. A grinding hum from the back of the unit is the giveaway. Catch it early
+      and the repair is straightforward."
+
+  - title: "Evaporator Coil Frost Buildup on Pre-2012 Models"
+    description: "Older Bosch and KitchenAid units with a failing defrost timer let frost
+      accumulate on the evaporator coil until cold air can't circulate. The freezer looks
+      normal but the fridge compartment climbs to 50°F. Most homeowners assume the thermostat
+      is broken — it's almost always the defrost heater or timer that needs replacing."
 
 faq:
   - q: "How fast can you get to Monrovia for refrigerator repair?"
-    a: "We route through the 210 from our San Gabriel Valley coverage area — Monrovia is typically a 25-35 minute drive. Same-day slots are available most weekdays. Call us at (323) 870-4790 before noon and we can usually get there by afternoon."
-  - q: "Do you repair KitchenAid and Bosch refrigerators in Monrovia?"
-    a: "Yes — both are common in Monrovia's mid-to-upper income neighborhoods. KitchenAid built-ins need specific door hinge tools; Bosch counter-depths have a quirky drain pump access. We also handle Sub-Zero and Thermador for the larger homes backing the foothills."
-  - q: "What does a refrigerator repair typically cost, and is same-day service available?"
-    a: "Most repairs fall $180-380 depending on the part — compressor jobs run higher. Diagnostic fee applies toward the repair if you proceed. Evening slots available for working households. Schedule online or call (323) 870-4790 — emergency same-day service available for units completely down."
+    a: "The 210 is our main artery — from Pasadena or Arcadia we're typically in Monrovia
+      within 60-90 minutes. Call (323) 870-4790 and we'll confirm availability. Same-day
+      morning slots fill fast, but afternoon windows are usually open."
+
+  - q: "Do you repair Samsung and LG refrigerators in Monrovia?"
+    a: "Samsung and LG are the most common calls in the 91016 zip. Typical fixes: water
+      inlet valve on Samsung side-by-sides, ice maker assembly on LG french-doors, and
+      control board resets for error codes like 1E or 22E. Parts for both are usually
+      on the van."
+
+  - q: "What does refrigerator repair cost in Monrovia, and how urgent can you come?"
+    a: "Diagnosis is free when you book a repair. Condenser fan replacement runs
+      $130-185 labor and parts combined. Sub-Zero and Thermador built-in work is more —
+      call (323) 870-4790 for an honest estimate. Emergency and evening slots are available
+      when a full fridge of food is at stake."

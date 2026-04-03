@@ -1,23 +1,58 @@
-title: "Inglewood Dishwasher — Hard Water Silts Up Spray Arms Fast"
+title: "Inglewood Dishwasher — Hard Water, Aging Kitchens, Fast Fixes"
 
 intro: |
-  That Samsung DW80 in a Morningside Park kitchen isn't cleaning right because the spray arm jets are packed with mineral deposits — not because the machine is broken. Inglewood runs on LA municipal water, and the calcium load in 90301 is consistent enough to silt up the float switch and inlet valve within 18 months on most units. SoFi Stadium renovation brought a lot of kitchen upgrades to the area, and newer KitchenAid installs are hitting the same hard water problem the old GE units faced for decades.
+  SoFi Stadium brought national attention back to this corner of LA County, but
+  the families spreading out from Morningside Park toward Manchester Avenue deal
+  with something less glamorous: hard water systematically destroying dishwasher
+  components. That Bosch 500 Series in a 90302 kitchen is working against
+  300-plus ppm mineral content every single cycle. Spray arms calcify. The
+  heating element scales over. Dishes come out cloudy regardless of what
+  detergent pod you use.
 
 localContext: |
-  Most of Inglewood's residential housing dates from 1945–1965 — post-war construction along Century Boulevard and north toward Florence Avenue. Zip codes 90302 and 90303 are heavy with compact kitchen layouts where the dishwasher sits tight against cabinetry and the water supply line hasn't been touched since the original install. Bosch 300 Series units that homeowners upgraded to in the last five years are dealing with the same hard water the old Whirlpool units dealt with before them — the plumbing didn't change.
+  Most homes in zip codes 90301 and 90303 went up between the 1940s and 1960s —
+  post-war ranch houses and small bungalows where the dishwasher was retrofitted
+  into a kitchen not designed for one. Cabinet clearances in the Century Heights
+  area can be tight enough that pulling a unit for repair takes twice as long as
+  a newer construction job. Original drain lines in some of these builds also
+  accelerate drain pump wear over time.
 
 commonProblems:
-  - title: "Spray Arms Clogged from LA Hard Water Deposits"
-    description: "LA County water in the 90301–90305 range carries enough dissolved calcium and magnesium to pack spray arm jets solid within a year or two of normal use. The water inlet valve takes a hit too — mineral buildup restricts flow until the machine either underfills or cycles too long. A Bosch 500 Series in a Lockhaven remodel will throw the same E24 or E25 error codes as a basic Whirlpool in a 1960s bungalow two streets over."
-  - title: "Door Latch Assembly Failure on Out-of-Plumb Installs"
-    description: "Inglewood's post-war kitchens have a lot of original rough-ins where the dishwasher opening was never quite plumb. Every cycle, the door flexes slightly — enough to crack the door latch assembly over time. On GE Profile models, the latch is tied directly to the control board's cycle trigger, so a worn latch means the machine won't start at all, not just won't seal tight."
-  - title: "Standing Water from a Failed Drain Pump"
-    description: "An inch of standing water after the cycle usually points to a jammed drain pump impeller or a burned-out drain pump motor. Samsung's DW80 series — common in Inglewood rentals near Prairie Avenue — uses a check valve that sticks open when grease and debris accumulate. The detergent dispenser spring can fail separately, leaving dishes filmed over even when drainage is working fine."
+  - title: "Spray Arm Calcification from LA Metro Hard Water"
+    description: "LA Metropolitan Water District supply running through the 90302 and 90303 zip codes
+      consistently tests between 300–400 ppm hardness. At those levels, spray arm nozzles
+      on Samsung and GE units clog within 18 months of regular use. Pulling both the upper
+      and lower spray arms, descaling, and verifying the float switch is reading correctly
+      usually clears it — but ignoring it long enough means replacing the wash pump too."
+
+  - title: "Standing Water After the Cycle Ends"
+    description: "Puddles left in the tub after a completed cycle are one of the most common calls
+      from around the Manchester Avenue corridor. The drain pump impeller gets jammed by
+      food debris or mineral buildup and stops moving water. LG dishwashers typically
+      throw an OE error code at this point. Left sitting, that standing water warps the
+      door gasket and creates mold problems inside the tub that are much worse to fix."
+
+  - title: "Detergent Dispenser Stuck Shut — Dishes Come Out Greasy"
+    description: "Whirlpool and KitchenAid units are everywhere in these Inglewood neighborhoods and
+      both develop door latch assembly failures around the 5–7 year mark. The actuator
+      spring loses tension or the wax motor that triggers the dispenser burns out mid-cycle.
+      Soap tablet just sits there undissolved. It's a straightforward swap, but the
+      actuator part number varies by model year — ordering the wrong one wastes a week."
 
 faq:
   - q: "How fast can you get to Inglewood for dishwasher repair?"
-    a: "Service routes run through the South Bay daily — Hawthorne, El Segundo, and back through Inglewood. Most calls in 90301–90304 get same-day service, usually within 2 hours of booking. Call (323) 870-4790 or schedule online and we'll lock in a window."
-  - q: "Do you repair Bosch and Samsung dishwashers in Inglewood?"
-    a: "Both are among the most common calls here. Bosch 300 and 500 Series usually need spray arm cleaning, inlet valve work, or control board resets. Samsung DW80-series calls typically involve drain pump failure or door latch assembly issues. KitchenAid, GE, and Whirlpool covered too."
-  - q: "What does a dishwasher repair typically cost, and can you come the same day?"
-    a: "Most repairs land between $120–$280 depending on the part — drain pump replacement and heating element swaps are on the higher end. Same-day slots are available most weekdays, and evening appointments most days. Call (323) 870-4790 if it's urgent — we can usually be there within 2 hours."
+    a: "South Bay runs are on the schedule most days — typical arrival is within 2 hours of
+      your call. Street parking on residential blocks near Morningside Park is usually
+      fine for the van. Call (323) 870-4790 to check same-day availability or book online."
+
+  - q: "Do you repair Bosch and Samsung dishwashers in these zip codes?"
+    a: "Bosch 300 and 500 series are probably the most common ticket we see in 90301–90305.
+      Samsung too, especially drain pump and control board issues. Also handle LG, GE,
+      Whirlpool, and KitchenAid — each brand has its own failure patterns on the
+      electronics side."
+
+  - q: "What does a dishwasher repair cost and how soon can you come out?"
+    a: "Diagnostic visit is flat-rate. Most repairs land between $120–$280 depending on
+      parts — heating element and drain pump replacements sit at the higher end. Same-day
+      slots available most weekdays, evening appointments too. Call (323) 870-4790 and
+      we'll get you on the schedule."

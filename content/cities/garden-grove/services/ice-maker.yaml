@@ -1,0 +1,69 @@
+title: "Garden Grove Ice Maker — Mineral Buildup Stops Ice Cold"
+
+intro: |
+  Orange County's water supply runs hard — Garden Grove pulls from both MWD imports and
+  local groundwater, and the mineral load shows up fast inside ice maker assemblies. Bolsa
+  Ave corridor homes in 92843, many of them 1960s ranch builds, are full of Samsung and LG
+  french-door refrigerators where the fill valve gets coated with calcium scale within two
+  or three years. The unit doesn't fail dramatically. It just slows down, then stops. Garden Grove
+  residents often spend weeks troubleshooting before realizing the water inlet valve is the
+  culprit — not the control board. The ice maker mold thermostat takes calcium hits too,
+  misreading temperatures and cutting the harvest cycle short before a full tray forms.
+
+localContext: |
+  Garden Grove housing runs heavily toward postwar ranch homes — 1950s through 1970s builds
+  in zip codes 92840 and 92841, most with original kitchen layouts and tight cabinet spacing
+  around the refrigerator. Retrofitted built-ins are common near the Chapman Ave area, which
+  means pulling an appliance for access takes planning. Apartment stock along Euclid Street
+  adds compact under-counter units to the mix — different failure patterns, same hard water
+  problem. The Garden Grove stretch along Westminster Ave has newer townhome developments
+  with KitchenAid and Bosch refrigerators, where owners tend to expect faster turnaround than
+  the older ranch crowd. Different kitchens, same calcium buildup inside the dispenser lines.
+  Harbor Blvd corridor properties skew toward mid-2000s construction with side-by-side
+  Whirlpool and GE units — older enough now that water inlet valves and ice maker assemblies
+  are hitting the end of their serviceable lifespan right on schedule.
+
+commonProblems:
+  - title: "Fill Valve Scale Buildup — No Ice Despite Hearing the Unit Run"
+    description: "Garden Grove's water deposits calcium carbonate directly on the water inlet
+      valve screen and valve seat. The solenoid fires, but flow is restricted to a trickle.
+      LG refrigerators with dual ice makers are hit especially hard — the upper door dispenser
+      unit starves first. Cleaning the valve doesn't fix it long-term; the valve assembly
+      needs replacement once the seat is compromised."
+
+  - title: "Frozen Water Line Behind the Freezer Wall"
+    description: "Garden Grove's coastal proximity keeps humidity higher than most inland
+      Orange County cities — that moisture finds its way into freezer compartments with worn
+      door gaskets. The fill tube from the water inlet valve to the ice maker mold freezes
+      solid. Whirlpool side-by-side models from 2015–2019 have a known fill tube routing
+      issue that makes this worse in homes without proper ventilation clearance behind the
+      fridge. Thawing it without fixing the root cause buys a few weeks, nothing more.
+      A compromised fill tube also forces the defrost heater assembly to run longer cycles,
+      which accelerates wear on the defrost timer and can trigger error codes like F5 or
+      E1 depending on the platform — symptoms homeowners often mistake for a control board fault."
+
+  - title: "Faulty Ice Level Sensor — Maker Stops Cycling Entirely"
+    description: "GE and KitchenAid refrigerators use an optical sensor or a bail arm to
+      detect when the bin is full. Mineral film on the optical sensor reads 'full' when the
+      bin is empty — the machine stops requesting cycles entirely. Homeowners call it a broken
+      appliance; it's usually a $15 sensor lens cleaning or a sensor module swap, not a full
+      assembly replacement. Worth diagnosing before ordering parts that don't need replacing.
+      Garden Grove hard water makes this particular failure about twice as common here as in
+      softer-water markets."
+
+faq:
+  - q: "How fast can you get to Garden Grove for ice maker repair?"
+    a: "We cover Orange County from our South Bay route — Garden Grove typically puts us 35–50
+      minutes out. Same-day slots available most days. For a completely dead unit in summer,
+      call (323) 870-4790 and we'll prioritize. Evening appointments work too."
+
+  - q: "Do you repair Samsung and LG ice makers in Garden Grove?"
+    a: "Both, yes. Samsung french-door ice maker assemblies and LG's dual-unit systems are
+      probably half our Garden Grove calls. We also see a lot of Whirlpool and GE side-by-sides
+      in the older homes off Garden Grove Blvd. Parts for all of these are on the van."
+
+  - q: "What does ice maker repair cost, and how long does it take?"
+    a: "Most jobs — fill valve swap, sensor replacement, frozen line clearing — run 45 to 90
+      minutes on-site. Garden Grove appointments typically land between 8am and 6pm, with some
+      evening slots open for urgent calls. Pricing depends on parts needed; we quote before
+      touching anything. Same-day service is standard, not an upcharge. Schedule at (323) 870-4790."

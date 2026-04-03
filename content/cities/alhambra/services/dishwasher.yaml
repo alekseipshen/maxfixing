@@ -1,23 +1,66 @@
-title: "Alhambra Dishwasher — SGV Hard Water & Same-Day Repair"
+title: "Alhambra Dishwasher — Hard Water Kills More Than It Cleans"
 
 intro: |
-  Valley Boulevard corridor in the 91803 zip runs through some of the densest housing in Alhambra — tract homes and apartment buildings from the 1960s and 70s, many already on their second or third dishwasher. San Gabriel Valley tap water clocks around 250–300 ppm total dissolved solids, and that mineral load is brutal on spray arm nozzles and float switches. That Bosch 300-series sitting under your granite counter? The spray arm ports clog faster here than the manufacturer's specs ever anticipated.
+  Hard water in Alhambra's 91801 zip routinely tests above 350 ppm — among
+  the worst in the SGV — and dishwashers absorb the full punishment. That
+  calcium scale coats the spray arm first, then works into the heating element,
+  until your Samsung or Bosch is leaving a white film on every glass. The unit
+  doesn't fail dramatically. It just gets worse, load by load, until nothing
+  is actually clean.
 
 localContext: |
-  Post-WWII bungalows near Almansor Park and along Fremont Avenue (91801) run tight under-counter spaces — not all of them standard-depth. Apartment buildings along Atlantic Boulevard still hide compact 18-inch units in galley kitchens. Those smaller machines, often older Frigidaire or GE models, have drain pump access that requires pulling the lower rack assembly completely before a technician can even see the filter housing.
+  Most of the residential blocks around Almansor Park and east toward Garfield
+  Avenue were built between 1945 and 1965. Bungalows and post-war ranches with
+  kitchens tight enough that pulling a dishwasher for parts access sometimes
+  means moving cabinetry first. In the 91803 zip especially, older copper
+  supply lines and corroded shutoff valves mean we often find water inlet valve
+  failures tied to plumbing age — not anything wrong with the appliance itself.
 
 commonProblems:
-  - title: "Spray Arm Calcification from SGV Hard Water"
-    description: "Alhambra's 250–300 ppm water turns spray arm nozzles into chalky stubs inside 18 months of daily use. On Samsung and LG units, the upper spray arm feeds from a tower connection — once that calcifies, the top rack comes out gritty every cycle. A thorough descale clears it, but a cracked spray arm from mineral pressure needs full replacement."
-  - title: "Drain Pump Failure in Older SGV Homes"
-    description: "Standing water after a cycle almost always points to the drain pump or a blocked filter. Whirlpool and KitchenAid units from the early 2000s show up constantly in the 91801 and 91802 zips with worn pump impellers — food debris plus hard water deposits grind the impeller down over time. The F8 E1 or 'Sud' error code on newer Whirlpool models is a reliable diagnostic flag."
-  - title: "Door Latch Assembly Wear on High-Cycle Apartment Units"
-    description: "Buildings along Valley Blvd run dishwashers hard — two or three loads a day is common. Bosch and GE door latch assemblies degrade faster under that workload. A failed latch trips the door switch and kills the wash cycle mid-run. It is a low-cost part, but reaching the latch bracket means pulling the entire inner door panel."
+  - title: "Calcium-Choked Spray Arms From SGV Hard Water"
+    description: "At 350+ ppm, Alhambra tap water deposits calcium inside the
+      spray arm ports faster than most owners realize. A Bosch Series 500 that
+      cleaned perfectly at purchase starts leaving grit on the bottom rack
+      within a year — sometimes triggering E24 error codes as the blockage
+      worsens. The fix is spray arm replacement combined with descaling the
+      heating element, not just running a cleaning cycle."
+
+  - title: "Standing Water After Cycles in Older Kitchens"
+    description: "Standing water at the bottom of the tub almost always points
+      to a failing drain pump or a kinked drain hose. In the 91801 area, older
+      kitchen configurations sometimes route the hose at an angle that
+      encourages backflow — especially in homes where the dishwasher was
+      retrofitted into cabinet space not originally built for one. GE and
+      Whirlpool units from the 2010–2016 range hit drain pump failure most
+      often around the 8–10 year mark."
+
+  - title: "Detergent Dispenser Stuck Shut — LG and KitchenAid Units"
+    description: "A dispenser that won't open mid-cycle is usually a failed
+      wax motor inside the dispenser assembly, not a software issue. On LG and
+      KitchenAid models, this frequently shows up alongside OE or LE error
+      codes. Door latch failures appear separately, typically on machines
+      that got jostled during delivery into one of Alhambra's tight older
+      kitchens — and a bad latch means the control board never gets the
+      signal to start the cycle."
 
 faq:
   - q: "How fast can you get to Alhambra for dishwasher repair?"
-    a: "From the 10 or Huntington Drive, Alhambra is a 20–30 minute run for our closest tech. Same-day slots are available most days — call (323) 870-4790 or schedule online and we'll confirm a two-hour arrival window."
-  - q: "Do you repair Bosch and Samsung dishwashers in Alhambra?"
-    a: "Both are the most common calls in the SGV. Bosch E24 drain errors, Samsung heavy-cycle error codes, KitchenAid detergent dispenser failures — all standard repairs. Common parts for these brands ride on the van."
-  - q: "What does a dishwasher repair cost in Alhambra, and how does the process work?"
-    a: "Most repairs run $120–$280 depending on the part needed. We diagnose on arrival, quote before touching anything, and carry components for same-day fixes. Evening slots available — call (323) 870-4790 if it cannot wait."
+    a: "Most Alhambra calls get same-day service — we run SGV routes daily.
+      Valley Boulevard and Atlantic Boulevard are easy access for our vans,
+      and parking near residential side streets in the 91803 is usually
+      straightforward. Call (323) 870-4790 before noon and we can typically
+      be there the same afternoon."
+
+  - q: "Do you repair Samsung and Bosch dishwashers in Alhambra?"
+    a: "Yes — Samsung, Bosch, LG, KitchenAid, GE, and Whirlpool are all
+      regular work for us across the SGV. On Samsung units the most common
+      call is a drain pump failure throwing a 5C error code. Bosch tends to
+      fail at the inlet valve or spray arm. Parts for both are stocked, so
+      most repairs finish in one visit."
+
+  - q: "What does a dishwasher repair typically cost in Alhambra?"
+    a: "Diagnosis is a flat-rate visit fee, credited toward the repair if you
+      move forward. Most common fixes — drain pump, detergent dispenser, door
+      latch — run $150–$280 parts and labor combined. Evening slots are
+      available for urgent situations; call (323) 870-4790 to check
+      same-day availability."
