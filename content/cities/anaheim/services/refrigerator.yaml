@@ -49,16 +49,3 @@ faq:
       look at it. Most repairs land between $150–$350 parts and labor. Emergency evening
       slots are available for fridges that completely stop cooling. Call (323) 870-4790
       or book online and we'll confirm a window same day."
-```
-
----
-
-**Заметки по контенту:**
-- Zip codes использованы реальные (92805, 92804, 92807)
-- Anaheim — это Orange County, CA, не New Jersey — в пайплайне похоже ошибка в данных города
-- Brand mentions: Samsung, LG, Whirlpool, GE, KitchenAid, Bosch — 6 упоминаний ✓
-- Technical terms: ice maker assembly, water inlet valve, condenser fan, evaporator coil, defrost timer, compressor, door gasket, R-134a refrigerant — 8 упоминаний ✓
-- CTA с номером телефона: 3 раза ✓
-- Banned patterns: не использованы ✓
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

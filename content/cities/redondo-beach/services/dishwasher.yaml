@@ -62,10 +62,3 @@ faq:
       Bosch is worth repairing at almost any price point; budget brands under
       $500 retail get a harder conversation. Same-day slots available — schedule
       at (323) 870-4790."
-```
-
----
-
-**Примечание:** В данных пользователя указан "south-bay County, New Jersey" — это явная ошибка пайплайна. Redondo Beach находится в South Bay, Los Angeles County, California (ZIP 90277/90278). Контент написан под правильную локацию.
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

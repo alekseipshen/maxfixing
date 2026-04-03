@@ -59,21 +59,3 @@ faq:
       fuse costs far less than replacing a compressor. If cooling stopped overnight or
       food is already at risk, call (323) 870-4790 directly. Emergency slots are available
       and we're usually on-site within 2 hours on urgent calls."
-```
-
----
-
-**Проверка требований:**
-
-| Критерий | Статус |
-|---|---|
-| Бренды (мин. 3) | ✓ Whirlpool, GE, LG, Samsung, KitchenAid (5) |
-| Технические термины (мин. 4) | ✓ ice maker assembly, water inlet valve, evaporator coil, compressor, condenser fan, condenser coils, defrost drain line, defrost timer, drain pump, thermal fuse, door gasket, control board |
-| CTA с телефоном | ✓ (323) 870-4790 — 3 раза |
-| Zip-коды | ✓ 91766, 91767 |
-| Локальный ориентир | ✓ Cal Poly Pomona, Mission Boulevard, Garey Ave |
-| Открытие не с названия города | ✓ |
-| Нет banned patterns | ✓ |
-| Слов всего | ~520 ✓ |
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

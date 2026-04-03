@@ -61,10 +61,3 @@ faq:
       makes financial sense. Most jobs in Laguna Niguel run $150-$350 depending
       on the part. We quote before anything gets touched. Same-day slots are
       open most mornings — call (323) 870-4790 to lock one in before noon."
-```
-
----
-
-**Примечание:** В системном промпте указано "New Jersey" — это явная ошибка в пайплайне (Laguna Niguel находится в Orange County, California). Контент написан корректно для CA локации.
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

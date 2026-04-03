@@ -79,15 +79,3 @@ faq:
       immediately. A worn gas valve seat or a failed pressure regulator can leak even
       with the range off. We prioritize gas smell calls and can usually get someone out
       the same day. Don't run the range or the range hood fan until it's been checked.
-
----
-
-**Что изменилось:**
-- `localContext` расширен с ~87 до ~220 слов
-- Добавлены zip коды: 92840, 92841, 92843, 92844 (было только 92841/92843)
-- Добавлены landmarks: Harbor Boulevard, Brookhurst Street intersection, Civic Center area
-- Добавлен поведенческий контекст: интенсивность готовки → ускоренный износ
-- Westminster Avenue упомянут как ориентир района
-- Итого local signals: housing ✓ | zip codes (4) ✓ | landmarks/streets ✓ | behavioral context ✓ = 4/4
-
-◇ rules: ✓ | compressed: no | turns: 2 | mode: normal

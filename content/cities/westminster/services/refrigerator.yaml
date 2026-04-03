@@ -60,10 +60,3 @@ faq:
       appointment slots are available. If your fridge stopped cooling overnight,
       call us at (323) 870-4790 — we treat food spoilage situations as emergency
       calls."
-```
-
----
-
-**Примечание:** В данных города указан "New Jersey", но Westminster с такими параметрами (population 90K+, Orange County) — это Westminster, CA (92683/92684, Little Saigon). Написал контент под калифорнийский Westminster. Если это действительно другой город — уточни, переделаю.
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

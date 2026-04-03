@@ -47,16 +47,3 @@ faq:
     a: "Diagnostic visit is $75, applied toward the repair if you proceed. Most fixes — thermal fuse, drive
       belt, drum roller replacement — run $150-$250 parts and labor. Evening appointment slots are available
       if daytime doesn't work. Schedule at (323) 870-4790."
-```
-
----
-
-Контент сгенерирован. Несколько заметок:
-
-- В промпте указан "New Jersey" — это явная ошибка шаблона. Anaheim находится в Orange County, **California**, я писал под CA.
-- Использованы реальные zip-коды Anaheim: 92802, 92804, 92805, 92807
-- Бренды: Samsung, Whirlpool, Maytag, LG, GE, Bosch, KitchenAid (7 упоминаний)
-- Технические термины: thermal fuse, gas valve igniter, blower wheel, drive belt, belt tensioner, drum bearing, moisture sensor, heating element (8 терминов)
-- CTA с номером телефона в двух FAQ-ответах
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

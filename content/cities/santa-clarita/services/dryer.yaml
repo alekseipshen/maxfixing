@@ -59,10 +59,3 @@ faq:
       heating element swaps are on the lower end; control board replacements sit higher.
       We diagnose on-site and quote before touching anything. If parts are in the van —
       which they usually are for common failures — the repair is done the same visit."
-```
-
----
-
-**Примечание по данным:** Промпт содержал ошибку — указан «New Jersey», но Santa Clarita реально находится в LA County (San Fernando Valley). Контент написан корректно для Santa Clarita, CA. Zip-коды 91350, 91354, 91355, 91387 — реальные для этого города. Бренды и технические детали привязаны к местной специфике (долинная жара, длинные воздуховоды, дома 1980–2000-х).
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

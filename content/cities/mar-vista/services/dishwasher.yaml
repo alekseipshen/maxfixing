@@ -56,10 +56,3 @@ faq:
       single-part fixes — drain pump, heating element, door latch assembly — run
       $150–$280 total including labor. Same-day service is standard, not an
       upcharge. If we can't fix it that visit, no trip fee for the return."
-```
-
----
-
-**Заметка по данным**: В запросе указан штат "New Jersey", но Mar Vista — это район в Западном Лос-Анджелесе (90066). Контент написан для правильного гео-контекста (West LA). Если в пайплайне есть баг с определением штата — стоит проверить откуда берётся поле `county` в source данных.
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

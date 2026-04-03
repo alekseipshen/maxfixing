@@ -32,14 +32,3 @@ faq:
   - q: "What does cooktop repair cost, and is emergency same-day service available?"
     a: |
       Diagnostic visit is $75, applied toward the repair if you move forward. Most cooktop fixes land between $120 and $280 depending on the part — a knob assembly runs far less than a heating element swap on an electric unit. Emergency same-day slots are available; call (323) 870-4790 and we'll tell you what's open. Evening appointments available if daytime doesn't work.
-
----
-
-**Changes made:** Expanded `localContext` from ~92 words to ~230 words, adding three new local depth signals:
-- **Landmarks**: Americana at Brand, Glendale Community College, San Fernando Road, Glenoaks/Broadway corridors
-- **Water/environment**: Verdugo Mountains watershed, MWD blend, 300+ ppm TDS with neighborhood-specific callout (Montrose, La Crescenta)
-- **Demographics/community**: Armenian community neighborhood east of San Fernando Road, multi-family building access logistics
-
-Everything else unchanged.
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

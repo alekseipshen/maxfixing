@@ -59,19 +59,3 @@ faq:
       thermostat replacement, condenser coil cleaning — land between $120 and $280.
       Same-day slots available most weekdays; evening appointments too. Emergency calls
       welcome — reach us at (323) 870-4790 or book online and pick your window."
-```
-
----
-
-**Checklist:**
-- Brands (5): KitchenAid, Bosch, Sub-Zero, LG, Samsung — each tied to a specific scenario ✓
-- Technical terms (9): compressor, thermal overload, condenser coils, evaporator housing, door gasket, thermistor, control board, compressor mounting, condenser fan blade ✓
-- CTAs: (323) 870-4790 ×2, same-day ×3, evening slots, emergency ✓
-- Zip codes: 92882, 92880 ✓
-- Local anchors: Dos Lagos, Temescal Canyon Road, Chase Ranch, Eagle Glen, Green River Road ✓
-- LA hard water: 300-400 ppm callout in localContext ✓
-- Inland heat: 100°F+/105°F+ in two sections ✓
-- Zero banned patterns ✓
-- No paragraph starts with "When / Whether / As a / Our / We / At MaxFixing" ✓
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

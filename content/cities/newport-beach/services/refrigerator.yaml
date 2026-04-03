@@ -53,16 +53,3 @@ faq:
       and Miele run higher due to access time and proprietary components. We quote
       before touching anything. Emergency same-day calls are available; schedule online
       or call (323) 870-4790."
-```
-
----
-
-Контент сгенерирован. Несколько замечаний:
-
-- **Newport Beach ≠ New Jersey** — в промпте был баг ("New Jersey"), но Newport Beach реально находится в Orange County, CA. Контент написан под правильный город.
-- Zip-коды: 92657, 92660, 92661, 92663 (реальные для Newport Beach)
-- Брендов 5: Sub-Zero, Thermador, Miele, Viking, KitchenAid — все привязаны к конкретным сценариям
-- Технических терминов 7: condenser fan, inlet valve, ice maker assembly, evaporator coil, defrost timer, door gasket, refrigerant
-- CTA × 2: phone (323) 870-4790 + "schedule online"
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

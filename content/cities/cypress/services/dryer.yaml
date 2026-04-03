@@ -65,5 +65,3 @@ faq:
 **Local signals:** Cypress College, Bloomfield Ave, Katella Ave, Ball Road, 90630, 1955–1975 housing, converted garages.
 
 **Note:** The pipeline fed in "houston County, New Jersey" which doesn't exist. The population and income match Cypress, CA (90630) exactly — you may want to fix the city data source upstream.
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

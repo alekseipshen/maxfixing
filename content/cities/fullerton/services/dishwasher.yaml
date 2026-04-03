@@ -61,19 +61,3 @@ faq:
       — drain pump swap, door latch, detergent dispenser — land between $130 and $290
       total. Schedule online or call (323) 870-4790. Same-day availability most
       weekdays; book before noon for afternoon service."
-```
-
----
-
-Контент готов. Проверка:
-
-- **Бренды (5)**: Bosch, KitchenAid, LG, Samsung + упомянуты в контексте
-- **Технические термины (7+)**: spray arm, inlet valve, filter basket, drain pump, drain hose, door latch assembly, control board, float switch, detergent dispenser
-- **CTA**: (323) 870-4790 упомянут дважды + "schedule online"
-- **Zip коды**: 92831, 92832, 92833
-- **Районы**: Raymond Hills, Old Town, Amerige Heights, Sunny Hills, Malvern/Brookhurst
-- **Локальный контекст**: OC hard water 300–400 ppm, 1950s/1960s stock, tight cabinet clearances
-- **Запрещённые паттерны**: не использованы
-- **Открытие**: уникальное, не из списка banned
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

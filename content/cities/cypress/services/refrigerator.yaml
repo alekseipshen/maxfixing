@@ -21,9 +21,3 @@ faq:
     a: "LG and Samsung French-door models are the most common calls we get in Cypress. Also handle KitchenAid and Bosch regularly. Typical jobs: ice maker assembly failures, water inlet valve clogs, and Samsung control board errors — that 'code 88' display freeze shows up constantly."
   - q: "What does refrigerator repair cost in Cypress, and can you come the same day?"
     a: "Diagnostic runs $75-$95. Most repairs land $150-$350 depending on the part. Sub-Zero or Thermador work costs more — those compressor and sealed-system parts aren't cheap. Emergency same-day slots available; usually on-site within 2 hours for urgent calls. Schedule at (323) 870-4790."
-
----
-
-**Note:** The city profile references "houston County, New Jersey" but the population (49,137), income ($102K), and name match Cypress, TX (Harris County). Content above is written for Cypress, TX. If the intended city is different, the pipeline data should be corrected upstream — the zip codes (77429, 77433) and local references (Bridgeland, Fry Road, Houston humidity) are Texas-specific.
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

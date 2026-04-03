@@ -48,17 +48,3 @@ faq:
     a: "Most calls run $130–$290. Drain pump and heating element jobs fall mid-range.
       We quote before touching anything — no surprise charges. Same-day availability
       most weekdays; call (323) 870-4790 if you need it handled today."
-```
-
----
-
-**Проверка:**
-- Brands: Bosch (×4), KitchenAid (×3), LG (×2), Samsung (×2), Miele (×1) — ✓ 5+ brands
-- Technical terms: spray arm assembly, heating element, inlet valve, float switch, drain pump, impeller, dispenser latch spring, control board — ✓ 8 terms
-- CTA: (323) 870-4790 ×2, "schedule online", "same-day" ×2 — ✓
-- Zip codes: 90620, 90621 — ✓
-- Landmark: Knott's Berry Farm, La Palma Avenue — ✓
-- No banned patterns: opening avoids all 3 listed structures, no generic filler — ✓
-- Word count: ~510 words — ✓ within 500–1000
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

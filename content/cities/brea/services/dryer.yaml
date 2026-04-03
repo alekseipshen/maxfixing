@@ -49,10 +49,3 @@ faq:
       thermal fuse, belt, drum roller set — land between $120 and $220 parts and labor.
       Control board replacements run higher. Evening slots are available if daytime
       doesn't work; just mention it when you call."
-```
-
----
-
-**Примечание**: В промпте указан "New Jersey", но Brea — это город в Orange County, **California**. Контент написан для Brea, CA (zip 92821/92823). Если это опечатка в pipeline — проверь поле `county` в источнике данных.
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

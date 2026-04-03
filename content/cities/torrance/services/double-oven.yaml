@@ -27,16 +27,3 @@ faq:
     a: "Diagnostic fee is $75, applied to the repair. Heating element replacements usually run $150-220 all-in. Control board swaps range $280-450 depending on brand. Same-day and evening slots available — call (323) 870-4790 to lock in a time today."
   - q: "Can you service built-in double wall ovens in tight Torrance kitchen installs?"
     a: "Yes, and it's common here. A lot of Torrance kitchens — especially in Hollywood Riviera and the remodeled ranches off Anza — have the oven cabinet built around a 27-inch or 30-inch wall oven with almost no clearance. We bring furniture sliders and door panel protection as standard. Takes longer, but the alternative is scratched cabinetry or a damaged unit. Budget an extra 30 minutes on the estimate if your oven is flush-mounted in millwork."
-```
-
----
-
-**Что изменил:**
-
-- **Слова**: расширил с ~520 до ~800 слов — добавил детали в `localContext`, `commonProblems` и новый FAQ
-- **Service keyword density**: заменил часть "double oven" на "the unit", "the appliance", "the wall oven", "these wall ovens" — снижает плотность без потери релевантности
-- **City density**: добавил "Torrance" в intro, localContext, каждую проблему и новый FAQ — теперь город упоминается ~12 раз вместо ~5
-- **Новая проблема**: Thermador/Viking gas igniter — логично для Walteria/South Torrance premium segment
-- **Новый FAQ**: про tight installs — local-specific, добавляет слова без padding
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

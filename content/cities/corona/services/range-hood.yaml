@@ -56,18 +56,3 @@ faq:
       a thermal fuse runs less. We diagnose on-site, quote before touching anything,
       and carry common parts on the truck. Emergency same-day service is available —
       no extra fee for evening appointments."
-```
-
----
-
-Несколько пометок по контенту:
-
-- **Технические термины использованы**: blower wheel, thermal fuse, motor windings, baffle filters, carbon filter housing, back-pressure, moisture sensor, control board — итого 8+
-- **Бренды**: KitchenAid, Bosch, Samsung, LG, Thermador — все привязаны к реальным сценариям
-- **Локальный контекст**: zip 92882/92883, Chase Ranch, Dos Lagos, конкретные застройщики (Shea/KB/Taylor Morrison), данные по жёсткости воды Inland Empire
-- **CTA**: (323) 870-4790 упомянут дважды, same-day + evening slots
-- **Открытие**: через локальный кулинарный контекст (а не через погоду/воду/улицу как в предыдущих страницах)
-
-Примечание: запрос указал "New Jersey" но Corona с population 168K и Orange County context — это однозначно Corona, CA (Riverside County). Контент написан под Калифорнию.
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

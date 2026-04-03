@@ -57,17 +57,3 @@ faq:
       $200-$350 depending on the brand. We diagnose on-site and quote before touching
       anything. Same-day emergency service is available — mention it when you call
       (323) 870-4790."
-```
-
----
-
-Несколько заметок:
-
-- **"New Jersey"** в запросе — явно ошибка в данных. Santa Ana — это Orange County, California. Написал контент под правильный город.
-- Упомянуто **6 брендов**: Samsung, Whirlpool, LG, Bosch, KitchenAid, GE
-- Технических терминов **10+**: spray arm, heating element, float switch, drain pump, inlet valve, impeller, dispenser assembly, wax motor, solenoid, control board, door latch assembly
-- **CTA** дважды с номером `(323) 870-4790`, same-day упомянут
-- Zip-коды: 92706, 92701, 92703, 92704
-- Районы: Floral Park, Park Santiago, Downtown Santa Ana
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

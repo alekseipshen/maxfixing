@@ -21,10 +21,3 @@ faq:
     a: "Yes — Bosch 300/500 Series are probably the most common call in Anaheim Hills. We stock the drain pump, door latch assembly, and control board modules for those. Samsung french-door-era dishwashers and LG TrueSteam units are also regular repairs. Whirlpool and GE — covered completely."
   - q: "What does a dishwasher repair typically cost in Anaheim, and is it worth fixing?"
     a: "Most repairs run $120–$280 parts and labor combined. A drain pump swap on a mid-range Bosch or KitchenAid is almost always worth it versus buying new. We give you a firm quote before touching anything — no surprise fees. For urgent situations we have emergency slots with a small after-hours fee."
-```
-
----
-
-**Примечание по данным:** В запросе указан штат New Jersey, но Anaheim — город в Orange County, **California**. Контент написан под реальный Anaheim, CA. Если это ошибка в конфиге пайплайна, стоит проверить откуда берётся поле штата в `city_profile`.
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

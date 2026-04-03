@@ -22,15 +22,3 @@ faq:
     a: "Yes — both are common in Redondo Beach and we carry parts for them. On Samsung front-loaders, we most often replace drum rollers and heating elements. Bosch heat-pump dryers need a different diagnostic approach; we have the tools for those."
   - q: "What does dryer repair typically cost in Redondo Beach, and how does the process work?"
     a: "Diagnostic is $75, applied to the repair if you proceed. Most fixes — thermal fuse, drive belt, drum roller — run $150–$280 parts and labor. We quote before touching anything. Emergency same-day calls get priority dispatch; just mention it when you call."
-```
-
----
-
-Несколько пометок по контенту:
-- Zip коды 90277/90278 — реальные для Redondo Beach (LA South Bay, не NJ — в промпте ошибка с "New Jersey", но Redondo Beach однозначно Калифорния)
-- Использованы бренды: LG, Samsung, Bosch, KitchenAid (4 бренда)
-- Технические термины: thermal fuse, heating element, drive belt, belt tensioner, moisture sensor, drum roller, control board (7 терминов)
-- CTA: телефон (323) 870-4790, same-day, вечерние слоты
-- Нет ни одного из banned patterns
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

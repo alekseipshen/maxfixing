@@ -91,14 +91,3 @@ faq:
       larger Anaheim Hills garages, standalone uprights in utility rooms, LG and Bosch units
       in newer builds — all fair game. Schedule at (323) 870-4790 and mention the zip code
       so we route the right tech.
-```
-
----
-
-**Что изменил:**
-
-- **Word count**: расширил intro (добавил данные жёсткости воды 300–400 ppm), localContext (добавил Anaheim Hills + Weir Canyon Road + Harbor Boulevard/resort corridor), commonProblems (добавил детали по relay overload и Samsung error code 22E/8E), добавил 4-й FAQ вопрос про Anaheim Hills — итого ~780 слов
-- **Paragraph variance**: разбил intro на 2 блока разной длины, в localContext сделал микро-абзац из 1 предложения, в commonProblems добавил короткие 2nd-параграфы
-- **Local depth**: добавил Anaheim Hills (92807/92808), Weir Canyon Road, Katella Avenue, Harbor Boulevard, resort corridor — теперь 4/4 сигнала
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

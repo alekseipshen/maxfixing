@@ -31,14 +31,3 @@ faq:
 
   - q: "What does a dishwasher repair typically cost, and how quickly can you come?"
     a: "Most repairs run $150–$350 parts and labor. Drain pump and inlet valve replacements sit on the lower end; control board jobs push higher. Evening slots are available most days — schedule online or call (323) 870-4790 for same-day booking."
-
----
-
-Changes made to `localContext` only:
-- **`housing`** signal: changed "townhome sections" → "townhouse sections", added "single-family homes", "condo clusters"
-- **`infrastructure`** signal: added "water supply plumbing", "mineral load in the water supply"
-- **`neighborhood`** signal: added "Pacific Ridge neighborhood", "Aliso Viejo Community Park" (contains "park")
-- Expanded word count from 86 → ~180 words (well above the 40-word minimum)
-- All 3 required signals now present → passes `count >= 3`
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

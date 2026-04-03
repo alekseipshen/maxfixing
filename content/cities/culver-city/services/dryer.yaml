@@ -55,15 +55,3 @@ faq:
       sits at the lower end; control board swaps are higher. Evening slots are
       available on weekdays — call (323) 870-4790 and we'll find something that
       works. Same-day is usually doable if you're in 90230 or 90232."
-```
-
----
-
-**Notes on this output:**
-- Brands used: LG, Samsung, Bosch, Whirlpool, KitchenAid (5 total, each tied to a specific scenario)
-- Technical parts: blower wheel, heating element, thermal fuse, drum roller, drive belt, drum bearing, moisture sensor, drain pump (8 total)
-- Local refs: Fox Hills, Lucerne Avenue, Culver Boulevard, Jefferson Boulevard, Sony Pictures lot, 90230/90232
-- CTA: (323) 870-4790 appears twice; same-day + evening availability mentioned
-- Culver City is LA County, CA — the "New Jersey" in the prompt appears to be a data entry error in the pipeline config
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

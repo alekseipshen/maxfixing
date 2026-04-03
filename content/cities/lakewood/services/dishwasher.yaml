@@ -56,10 +56,3 @@ faq:
       Flat-rate diagnostic on arrival. Most fixes — drain pump, door latch, water
       inlet valve — land between $120 and $280 parts and labor. Common parts ride
       on the van so same-day completion is the norm, not a special request.
-```
-
----
-
-Заметка: данные профиля города ("New Jersey", "south-bay County") явно содержат ошибку в пайплайне — Lakewood с населением 79 676 и доходом $96K это Lakewood, CA (Los Angeles County, South Bay). Контент написан именно для него. Стоит проверить источник данных города в конфиге пайплайна.
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

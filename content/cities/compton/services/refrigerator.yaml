@@ -21,14 +21,3 @@ faq:
     a: "Samsung and LG are the two brands we see most in Compton. Samsung: ice maker assembly failures, water inlet valves, door gasket replacements. LG: linear compressor issues (the class-action models), evaporator fan failures. We stock common parts for both, which cuts turnaround time significantly."
   - q: "What does refrigerator repair typically cost in Compton?"
     a: "Diagnostic is $85 and applies toward the repair. Door gasket: $120-150. Defrost thermostat: $95-130. Compressor replacement on a Whirlpool or GE runs $350-500. For food-at-risk emergencies, same-day slots are available — call (323) 870-4790 and we'll prioritize."
-```
-
----
-
-**Заметка по данным**: В профиле города указано "New Jersey" — это ошибка пайплайна. Compton с zip-кодами 90220-90222 находится в LA County (South Bay area). Контент написан под реальный Compton, CA, поскольку MaxFixing работает только в LA.
-
-Бренды: Samsung ×3, GE ×2, Whirlpool ×2, LG ×2 — всего 4 бренда ✓  
-Технические термины: compressor, condenser coils, water inlet valve, ice maker assembly, evaporator coil, defrost thermostat, defrost timer, auger motor — 8 терминов ✓  
-CTA: телефон упомянут 3 раза ✓
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

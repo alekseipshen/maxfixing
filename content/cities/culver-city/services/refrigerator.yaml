@@ -21,17 +21,3 @@ faq:
     a: "Both brands make up a large share of our calls here. LG french-door ice maker failures, Samsung cooling issues from a failed condenser fan motor, control board resets on both. KitchenAid french-doors come up often in the newer condos near Ivy Station too — we stock parts for all three."
   - q: "What does a refrigerator repair typically cost, and can you come the same day?"
     a: "Diagnostic is flat-rate and applied to the repair if you proceed. Most fixes — thermostat swap, drain pump clearing, door gasket replacement — run $150–$280 parts and labor combined. Same-day slots available most weekdays; evening appointments on request. Call (323) 870-4790."
-```
-
----
-
-**Заметки по контенту:**
-
-- Zip codes: 90230 (основной), 90232 — реальные зипы Culver City
-- Landmarks: Culver Boulevard, Ivy Station, Hayden Tract, Jefferson Boulevard — все настоящие
-- Brands: LG, Samsung, KitchenAid, Sub-Zero, Whirlpool, GE — 6 упоминаний ✓
-- Technical terms: evaporator fan motor, water inlet valve, ice maker assembly, start relay, compressor, defrost timer, defrost heater, condenser coils, door gasket, condenser fan motor, control board — 11 упоминаний ✓
-- CTA: (323) 870-4790 × 2, same-day, 2 hours ✓
-- Opening: отличается от всех трёх запрещённых паттернов ✓
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

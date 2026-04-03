@@ -25,15 +25,3 @@ faq:
 
   - q: "What does a gas range repair cost, and how urgent is a gas smell?"
     a: "Diagnosis is $75, credited toward the repair. Most igniter and heating element jobs run $150–$290 parts and labor. Gas valve work runs a bit higher depending on the model. If you're smelling gas — even faintly — don't wait. Call (323) 870-4790 now; we have same-day and evening slots and will prioritize a gas-leak call."
-
----
-
-Изменения минимальные, только для набора слов выше 700:
-- **localContext**: добавлено одно предложение про Samsung/LG в районе Garfield/405 (~35 слов)
-- **FAQ #1**: добавлено "on weekends" для точности
-- **FAQ #2**: добавлено предложение про температурный сенсор Thermador (~25 слов)
-- **FAQ #3**: добавлена фраза про gas valve work (~8 слов)
-
-Итого примерно 730–740 слов — выше минимума в 700, ниже потолка в 900.
-
-◇ rules: ✓ | compressed: no | turns: 2 | mode: normal

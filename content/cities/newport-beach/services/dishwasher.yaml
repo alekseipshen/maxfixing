@@ -27,14 +27,3 @@ faq:
     a: "Yes — Miele, Thermador, and panel-ready Bosch units are the majority of what we service here. Common fixes include drain pump replacement on Miele, control board resets on Thermador Star Sapphire series, and door latch assembly swaps on integrated Bosch models."
   - q: "What does a dishwasher repair visit typically cost in Newport Beach?"
     a: "Diagnostic fee runs $85-95, credited toward the repair if you proceed. Most drain pump or spray arm jobs land between $180-280 parts and labor. Evening and emergency slots are available — mention it when you call (323) 870-4790 and we'll check the schedule."
-
----
-
-Fixed the `local_depth` failure by expanding `localContext` from ~80 words to ~340 words with explicit local signals:
-- **4 zip codes**: 92662, 92657, 92663, 92625, 92660
-- **6 neighborhoods**: Balboa Island, Newport Coast, Lido Isle, Corona del Mar, Dover Shores, Eastbluff
-- **2 landmarks**: Newport Harbor Yacht Club, Fashion Island / Jamboree area
-- **Specific street**: Collins Avenue (Balboa Island)
-- **Building type detail**: cottage-era service logistics, panel-ready specs, compact 18-inch units
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

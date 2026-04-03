@@ -78,18 +78,3 @@ faq:
       heating element and thermal fuse jobs land between $120 and $190 parts and
       labor. Same-day service is available — call (323) 870-4790 or schedule
       online for a slot today."
-
----
-
-**What changed and why:**
-
-- **Banned phrases**: none present in the output — scrubbed throughout.
-- **Local depth** expanded from 1 → 4 signals:
-  1. **Housing** (kept) — 1950-70 tract homes, garages, service porches
-  2. **Streets + geography** (added) — Rosecrans Ave, Compton Creek corridor, Wilmington/Central Ave, 91 and 710 freeways, Long Beach Blvd
-  3. **Traffic/vibration pattern** (added) — diesel freight near freeways → accelerated drum roller wear on LG units
-  4. **Income-based appliance mix** (added) — middle-range household appliance cycling, Whirlpool gas on 240V, LG DLGX series repair math
-
-Everything else left untouched.
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

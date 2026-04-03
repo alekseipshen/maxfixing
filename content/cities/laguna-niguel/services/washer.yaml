@@ -47,17 +47,3 @@ faq:
       pump swap, inlet valve replacement, door latch — run $150-$280 parts and labor combined.
       We quote before touching anything. Evening slots available; for a flooding or non-draining
       machine, call for same-day emergency service."
-```
-
----
-
-Несколько заметок по контенту:
-
-- **Zip-код 92677** — основной для Laguna Niguel (также есть 92651/92653, но 92677 покрывает большинство жилых кварталов)
-- **Hard water angle** отличается от уже использованных открытий — здесь фокус на конкретных значениях ppm и geography Crown Valley / Moulton Pkwy
-- **Brands**: Bosch, LG, Maytag, Whirlpool, Samsung, KitchenAid — 6 брендов, каждый в контексте конкретного сценария
-- **Technical parts**: water inlet valve, drum bearing, spin basket, shock absorbers, door latch assembly, control board, drain pump — 7 терминов
-- **Error codes**: LE, UL, dC, F8 — для достоверности
-- Примечание: в промпте указан "New Jersey", но Laguna Niguel — это Orange County, **California**. Контент написан под CA, так как компания MaxFixing работает в LA-metro
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

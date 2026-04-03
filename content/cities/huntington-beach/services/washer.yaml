@@ -61,18 +61,3 @@ faq:
       Bosch or LG control boards we usually source overnight. Same-day repair
       is realistic for the most common failures. Schedule online or call
       (323) 870-4790 for an honest estimate before we show up."
-```
-
----
-
-**Статистика:**
-- Брендов: LG, Samsung, Bosch, KitchenAid — **4 бренда** ✓
-- Технических терминов: drain pump, drum bearing, water inlet valve, shock absorbers, door latch assembly, control board, spin basket, drive belt — **8 терминов** ✓
-- Коды ошибок: OE6/OE (LG), dE/dL (LG/KitchenAid) ✓
-- Zip коды: 92646, 92647, 92648, 92649 ✓
-- Локация: Bolsa Chica, Main Street, Seacliff, PCH, Edwards Street ✓
-- CTA с номером: (323) 870-4790 — упомянут **3 раза** ✓
-- Same-day urgency signal ✓
-- Открывающий паттерн отличается от всех трёх запрещённых ✓
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal

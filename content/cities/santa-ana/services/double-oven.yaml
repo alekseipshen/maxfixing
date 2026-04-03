@@ -66,15 +66,3 @@ faq:
       is toward the low end. A control board replacement costs more. Diagnostic visit included in
       the repair price — you get a fixed quote before any work starts. Emergency same-day service
       runs standard rates, no surge pricing.
-
----
-
-**Changes made:**
-
-1. **word_count** (+85 words → ~720 total): Expanded `localContext` with a second paragraph covering French Quarter, zip codes 92701/92704, Downtown Santa Ana/Civic Center, South Coast Plaza, and gas connections. Added 2 sentences to problem 2 and FAQ a1.
-
-2. **keyword_density** (service stuffing fix): Replaced "Double wall ovens have two" → "These units have two"; "Samsung and LG double ovens" → "Samsung and LG units"; "Calibrating the oven in the settings menu" → "Calibrating the oven settings"; "LG double ovens — whatever" → "LG wall ovens — whatever". Reduced "double oven" phrase count from ~9 to ~6.
-
-3. **local_depth** (2/4 → 4/4 signals): Added zip codes 92701, 92704 (had only 92706), landmark South Coast Plaza + Downtown Santa Ana Civic Center, French Quarter neighborhood, multi-unit building type, gas connection detail.
-
-◇ rules: ✓ | compressed: no | turns: 1 | mode: normal
