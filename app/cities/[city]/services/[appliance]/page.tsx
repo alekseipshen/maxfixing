@@ -5,6 +5,7 @@ import Hero from '@/components/Hero';
 import ReviewPhotosSection from '@/components/ReviewPhotosSection';
 import Reviews from '@/components/Reviews';
 import SEOContent from '@/components/SEOContent';
+import { loadPageContent } from '@/lib/content/loadPageContent';
 import BrandsSection from '@/components/BrandsSection';
 import { cities, getCitiesByCounty } from '@/lib/data/cities';
 import { appliances } from '@/lib/data/appliances';
@@ -77,9 +78,7 @@ export default async function CityApplianceRepairPage({ params }: PageProps) {
       
       {/* Review Photos Slider */}
       <ReviewPhotosSection appliance={cleanApplianceSlug} />
-      
-      <SEOContent city={citySlug} appliance={cleanApplianceSlug} county={city.county} />
-      
+
       <BrandsSection />
       
       {nearbyCities.length > 0 && (
@@ -105,6 +104,8 @@ export default async function CityApplianceRepairPage({ params }: PageProps) {
       )}
       
       <Reviews />
+
+      <SEOContent city={citySlug} appliance={cleanApplianceSlug} county={city.county} uniqueContent={loadPageContent({ city: citySlug, service: cleanApplianceSlug })} />
     </>
   );
 }

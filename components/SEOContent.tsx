@@ -1,11 +1,20 @@
+import type { PageContent } from '@/lib/content/loadPageContent';
+
 interface SEOContentProps {
   city?: string;
   appliance?: string;
   brand?: string;
   county?: string;
+  uniqueContent?: PageContent | null;
 }
 
-export default function SEOContent({ city, appliance, brand, county }: SEOContentProps) {
+export default function SEOContent({ city, appliance, brand, county, uniqueContent }: SEOContentProps) {
+  if (uniqueContent?.intro) {
+    const cityName = city ? formatCityName(city) : null;
+    const applianceName = appliance ? formatApplianceName(appliance) : null;
+    return renderUniqueContent(uniqueContent, cityName, applianceName);
+  }
+
   const cityName = city ? formatCityName(city) : null;
   const applianceName = appliance ? formatApplianceName(appliance) : null;
   const brandName = brand ? formatBrandName(brand) : null;
@@ -15,6 +24,67 @@ export default function SEOContent({ city, appliance, brand, county }: SEOConten
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto">
           {renderContent({ city: cityName, appliance: applianceName, brand: brandName, county })}
+        </div>
+      </div>
+    </section>
+  );
+}
+
+function renderUniqueContent(content: PageContent, cityName: string | null, applianceName: string | null) {
+  return (
+    <section className="bg-white py-12">
+      <div className="container mx-auto px-4">
+        <div className="max-w-3xl mx-auto space-y-8">
+          {content.intro && (
+            <div className="text-gray-700">
+              <p className="text-base md:text-lg leading-relaxed">{content.intro}</p>
+            </div>
+          )}
+          {content.localContext && (
+            <div className="text-gray-700">
+              <p className="text-base md:text-lg leading-relaxed">{content.localContext}</p>
+            </div>
+          )}
+          {content.commonProblems && content.commonProblems.length > 0 && (
+            <div>
+              <h2 className="text-2xl font-bold text-gray-900 mb-4">
+                Common {applianceName || 'Appliance'} Issues{cityName ? ` in ${cityName}` : ''}
+              </h2>
+              <div className="space-y-4">
+                {content.commonProblems.map((problem, i) => (
+                  <div key={i} className="bg-gray-50 rounded-lg p-4">
+                    <h3 className="font-semibold text-gray-900 mb-2">{problem.title}</h3>
+                    <p className="text-gray-700 text-base leading-relaxed">{problem.description}</p>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+          {content.faq && content.faq.length > 0 && (
+            <div>
+              <h2 className="text-2xl font-bold text-gray-900 mb-4">Frequently Asked Questions</h2>
+              <div className="space-y-4">
+                {content.faq.map((item, i) => (
+                  <details key={i} className="bg-gray-50 rounded-lg p-4 group">
+                    <summary className="font-semibold text-gray-900 cursor-pointer list-none flex justify-between items-center">
+                      {item.q}
+                      <span className="ml-2 text-gray-500 group-open:rotate-180 transition-transform">&#9660;</span>
+                    </summary>
+                    <p className="text-gray-700 mt-2 text-base leading-relaxed">{item.a}</p>
+                  </details>
+                ))}
+              </div>
+            </div>
+          )}
+          <div className="text-center bg-blue-50 rounded-lg p-6">
+            <p className="text-lg font-semibold text-gray-900 mb-2">
+              Need {applianceName || 'Appliance'} Repair{cityName ? ` in ${cityName}` : ''}?
+            </p>
+            <p className="text-gray-700 mb-4">Same-day service available. Call now for a free estimate.</p>
+            <a href="tel:+18886084604" className="inline-block bg-blue-600 text-white font-bold py-3 px-8 rounded-lg hover:bg-blue-700 transition">
+              (888) 608-6404
+            </a>
+          </div>
         </div>
       </div>
     </section>

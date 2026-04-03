@@ -53,6 +53,13 @@ const nextConfig: NextConfig = {
   experimental: {
     optimizePackageImports: ['lucide-react'],
   },
+
+  outputFileTracingIncludes: {
+    '/cities/[city]/services/[appliance]': ['./content/**/*.yaml'],
+    '/cities/[city]': ['./content/**/*.yaml'],
+    '/brands/[brand]': ['./content/**/*.yaml'],
+    '/brands/[brand]/services/[appliance]': ['./content/**/*.yaml'],
+  },
 };
 
 export default nextConfig;
