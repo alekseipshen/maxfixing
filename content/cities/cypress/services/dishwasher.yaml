@@ -1,23 +1,57 @@
-title: "Cypress Dishwasher — Hard Water & Drain Repairs, 90630"
-
 intro: |
-  Orange County tap water in the 90630 zip consistently tests above 300 ppm calcium carbonate — among the harder supplies in Southern California — and dishwashers quietly absorb that mineral load until something stops working. That Bosch 500 Series sitting in a Denni Street kitchen accumulates scale inside the spray arm nozzles over 18–24 months, and suddenly the top rack isn't getting clean. Most Cypress calls we handle trace back to hard water damage that started well before the owner noticed anything wrong.
-
-localContext: |
-  Cypress was built out primarily between 1960 and 1985 — ranch-style homes and two-story tract houses on aging plumbing along streets like Moody, Grindlay, and Cerritos Avenue. The 90630 zip has tight kitchen footprints in older floor plans that weren't sized for today's 24-inch European dishwashers. Retrofitting a KitchenAid or Bosch into a 1970s cutout is common here, and that means door hinge stress and awkward service access come with almost every repair call.
+  Cypress sits in one of the harder-water pockets of Orange County. Municipal water here runs around 300–400 ppm total dissolved solids — not the worst in Southern California, but bad enough that mineral deposits in spray arms and inlet valves are basically guaranteed after three or four years of daily use. Most homes in the 90630 zip code were built between 1965 and 1985, and a lot of those kitchens have been through two or three appliance cycles. Right now, Bosch and KitchenAid dominate the newer installs; older homes still have Frigidaire or GE units running past their expected lifespan. Either way, dishwasher problems in Cypress tend to follow the same patterns — and they're usually fixable the same day you call.
 
 commonProblems:
-  - title: "Spray Arm Clogs from 90630's High-Mineral Water"
-    description: "Calcium deposits from Orange County water block the spray arm nozzles on Bosch and KitchenAid units within 1–2 years of regular use. The top rack stops cleaning first — glasses cloud over, food residue sticks. Descaling the arm and inspecting the filter assembly usually fixes it, but heavily scaled units need the arm replaced outright."
-  - title: "Standing Water After the Cycle — Drain Pump Failure"
-    description: "Pooling water at the tub bottom after washing almost always points to a failing drain pump or a jammed pump filter. LG and Samsung models are especially prone — small food particles bypass the coarse filter and lock up the impeller. An E24 or OE error code means the pump is running but losing flow fast."
-  - title: "Detergent Dispenser Stuck or Door Latch Not Catching"
-    description: "A dispenser that won't open mid-cycle leaves detergent sitting in the tub — dishes come out dirty with no obvious reason why. On Bosch 300 and 800 series units the dispenser actuator spring fatigues around year five to seven. Door latch failures are separate but just as common, especially on older KitchenAid built-ins where the plastic latch housing cracks under daily use."
+  - title: Dishwasher Not Draining
+    description: |
+      Standing water at the bottom after a cycle almost always points to the drain pump or a clogged filter basket. On LG models — popular in the newer builds along Moody Street — the drain pump impeller can seize from food particle buildup if the filter hasn't been cleaned in a year. The fix is usually a pump replacement or a thorough flush of the drain line. We carry common drain pump assemblies in the van, so this one rarely requires a return trip.
+
+  - title: Dishes Coming Out Dirty or Cloudy
+    description: |
+      Cypress hard water leaves calcium deposits inside the spray arm holes — those tiny jets clog slowly, so the decline is gradual. Homeowners notice dishes aren't getting clean and assume the machine is dying. Usually it's not.
+
+      A blocked lower spray arm and a scaled-up heating element are the culprits most of the time. The heating element pulls double duty: it heats the water during the wash cycle and drives moisture off the dishes during drying. When it's coated in mineral scale, both functions degrade. Your Bosch 500 series will start throwing an E1 or E2 thermistor error before long — that code looks alarming but it's usually just the sensor reacting to heat distribution problems caused by scale buildup on the element itself. A Bosch 300 series running the same water chemistry will show the same pattern within two to four years of install. Descaling the interior, replacing the heating element if it's past recovery, and clearing the spray arm ports brings things back to normal. One visit.
+
+  - title: Door Latch Not Catching
+    description: |
+      KitchenAid dishwashers in the KDTM and KDTE lines have a known issue with the door latch assembly — the plastic housing cracks or the strike plate shifts, and the unit won't start at all because the door sensor reads as open. It's a $45–$80 part depending on the model year. Takes about 20 minutes to swap. If your KitchenAid is throwing a "door open" error but the door clearly closed, that's almost certainly it.
+
+  - title: Not Filling with Water
+    description: |
+      A dishwasher that starts a cycle but never fills — and then throws an error — usually has a failed water inlet valve. On Samsung models, the inlet valve solenoid burns out quietly. You'll hear the machine try to fill, nothing happens, and the display throws an LC or 1E code. The float switch is worth checking too; in older Cypress homes where kitchens haven't been updated, sediment in the float chamber can trick the machine into thinking it's already full.
+
+  - title: Unusual Noise During Wash Cycle
+    description: |
+      Grinding mid-cycle on a Bosch or Frigidaire — something got past the filter into the chopper blade. Glass, twist-tie, ceramic chip. Shut it off. Running it makes the repair more expensive. Call us; we're usually in Cypress within two hours.
 
 faq:
-  - q: "How fast can you get to Cypress for dishwasher repair?"
-    a: "We run an Orange County route that covers 90630 — usually on-site within 2 hours of your call. Cerritos Avenue and the 91 Freeway keep access clean from most directions. Call (323) 870-4790 to check same-day availability."
-  - q: "Do you repair Bosch and KitchenAid dishwashers in Cypress?"
-    a: "Yes — Bosch, KitchenAid, and LG are the three brands we see most in Cypress homes. Common fixes: Bosch spray arm and control board replacements, KitchenAid door latch assemblies, LG drain pump swaps. Parts for all three are stocked on the van."
-  - q: "What does dishwasher repair cost in Cypress, and how soon can you come?"
-    a: "Most repairs run $150–$350 depending on the part. Drain pump and control board jobs sit at the higher end. We diagnose on-site and quote before touching anything — same-day slots are open most weekdays and Saturday mornings. Evening appointments available on request."
+  - question: How fast can you get to Cypress for a dishwasher repair?
+    answer: |
+      Same-day most weekdays, and we have evening slots available if you can't be home during the day. Call (323) 870-4790 before noon and there's a good chance we'll be at your door by 3 or 4 PM. We cover all of Cypress — from the neighborhoods near Valley View Street down toward the Cypress Business Park area.
+
+  - question: Do you work on Bosch dishwashers specifically?
+    answer: |
+      Yes. Bosch is one of the brands we see most often in Cypress. The 300, 500, and 800 series all have model-specific quirks — the circulation pump housing on older 500 series units is a frequent failure point, and the control board on some 800 series models throws misleading error codes when the real issue is a dirty sensor. We stock parts for these and can usually complete the repair in one visit.
+
+  - question: Is it worth repairing a dishwasher that's 8–10 years old?
+    answer: |
+      Depends on the failure. A 10-year-old KitchenAid with a cracked door latch? Fix it. A builder-grade Frigidaire with a dead control board? At $200–$250 for the part, a new mid-range machine probably makes more sense. We'll tell you straight.
+
+  - question: Why does my dishwasher smell even after cleaning it?
+    answer: |
+      Usually the drain hose has a low loop or a bad connection at the garbage disposal, and dirty water is backflowing into the tub between cycles. Sometimes it's trapped food in the filter basket that's been there long enough to ferment. In Cypress homes with garbage disposals — which is most of them — make sure the knockout plug was removed when the disposal was installed. That's a surprisingly common miss on older installs. If you've cleaned everything and the smell persists, the door gasket might be harboring mold in the folds.
+
+  - question: Do you handle Sub-Zero or Thermador integrated dishwashers?
+    answer: |
+      Yes. There are some higher-end homes in the Cypress Country Club area and along Cerritos Avenue with Thermador or Miele integrated units. These require panel-ready-specific approaches and, in some cases, factory diagnostic tools. We have experience with integrated installs and the tighter access points that come with them.
+
+localContext: |
+  Most of Cypress was developed in the 1960s and 70s — ranch-style single-family homes on decent-sized lots, with apartment complexes concentrated near Lincoln Avenue and along the east and west corridors off Katella. The original plumbing in these homes is aging. Water lines carry 300–400 ppm TDS from the Metropolitan Water District blend, and the kitchens were never designed for today's appliance footprints.
+
+  Hard water is the consistent theme across all of OC, and Cypress is no exception. If you have a water softener, your dishwasher will last significantly longer — we see a real difference in part longevity between softened and unsoftened homes. The scale buildup on heating elements and inlet valves in unsoftened homes is visible within six months of heavy use.
+
+  A Bosch 800 series is deeper than the built-in clearance on a 1968 kitchen allows, so installs sometimes involve adjusting the toe kick or shimming the unit. That affects how we access it for service too.
+
+  The homes closer to the Cypress College campus and along Katella Avenue tend to be a mix of owner-occupied and rental, and in rentals the machines don't get maintained at all. First visit is usually a filter clean, a spray arm flush, and an inlet valve check. The machines are fixable; they've just been ignored.
+
+  For scheduling or emergency service anywhere in Cypress, call (323) 870-4790. Same-day appointments are available, and we'll give you a one-hour arrival window — not a four-hour block.
