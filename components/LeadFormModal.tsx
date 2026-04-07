@@ -130,15 +130,21 @@ export default function LeadFormModal({ isOpen, onClose }: LeadFormModalProps) {
       });
 
       if (response.ok) {
-        // GTM Event
+        // GTM Event with Enhanced Conversions data
         if (typeof window !== 'undefined' && (window as any).dataLayer) {
           (window as any).dataLayer.push({
             event: 'lead_submitted',
-            lead_data: {
+            enhanced_conversions: {
               email: data.email,
-              phone: cleanedPhone,
-              source: 'Website - Max Fixing'
-            }
+              phone_number: `+1${cleanedPhone}`,
+              first_name: data.firstName,
+              last_name: data.lastName,
+              street: data.street,
+              city: data.city,
+              region: 'CA',
+              postal_code: data.zipCode,
+              country: 'US',
+            },
           });
         }
         setSubmitStatus('success');
