@@ -1,0 +1,84 @@
+title: "Pasadena Ice Maker — Scale, Summer Heat, and Hard Water"
+
+intro: |
+  Pasadena Water and Power pulls from one of the harder municipal supplies in the
+  San Gabriel Valley. Calcium content runs high. A KitchenAid french-door near the
+  Arroyo Seco corridor will make smaller, cloudier cubes long before the homeowner
+  notices the fill valve is nearly scaled shut. Water inlet valves start restricting
+  flow within the first year on a heavily used unit. By the time production stops,
+  the ice maker assembly usually needs more than a rinse.
+
+localContext: |
+  Craftsman bungalows in Pasadena's Bungalow Heaven district (91103) were built
+  between 1910 and 1935. Kitchens are tight. Fitting a modern refrigerator with a
+  built-in ice maker means near-zero clearance behind the unit. Getting to the water
+  supply line connection means moving the whole fridge — sometimes through a narrow
+  hallway with original tile flooring. Add 20 minutes just for repositioning before
+  the repair even starts.
+
+  Madison Heights (91105) is a different situation. The 1980s and 1990s remodels
+  there installed Sub-Zero and Thermador built-ins as standard. Access is better.
+  But these brands require specific tooling and part numbers that generic shops
+  don't stock.
+
+  Old Town lofts along Colorado Boulevard (91101) mostly run LG and Samsung
+  french-door units. Newer builds, but the city water hits them with the same hard
+  mineral load as every other Pasadena address. The Colorado Street Bridge area
+  has older water mains — residents there sometimes see sediment pulses that clog
+  inlet screens faster than expected.
+
+  Hastings Ranch in east Pasadena (91107) has 1960s-to-1980s tract homes. Bosch
+  and KitchenAid side-by-sides are common throughout. The Rose Bowl neighborhood
+  off Arroyo Boulevard runs measurably hotter than most of the city. Afternoon
+  temps there regularly beat readings two miles east. Refrigerators in that zone
+  run harder all summer, and longer compressor cycles affect how steady the freezer
+  holds temperature for ice production.
+
+  Linda Vista (91103) sits above the 210 on the hillside. Power dips hit that grid
+  section harder during peak AC season — July through September. That matters for
+  sensitive control boards on LG and Samsung units.
+
+commonProblems:
+  - title: "Hard Water Scales the Fill Valve Shut — Quietly"
+    description: "Pasadena tap water hardness peaks in dry months when groundwater
+      share goes up — regularly over 300 mg/L. That mineral load deposits inside
+      the water inlet valve fast. 12 to 18 months on a heavy-use unit. Bosch and
+      KitchenAid ice makers have narrower valve tolerances than budget models, so
+      the restriction shows up sooner. Output drops gradually. Then stops. The
+      valve needs replacement, not descaling. Flushing the line buys a few extra
+      weeks. But a calcified orifice won't clear from flushing — the channel is
+      too narrow."
+  - title: "Frozen Water Line in July — Happens More Than It Should"
+    description: "San Gabriel Valley heat pushes past 100°F in the 91107 zip code
+      during late July. Refrigerators compensate by running the compressor harder.
+      The temperature swing inside the freezer door section widens. The water
+      supply line feeding the unit freezes solid inside the door panel. Samsung
+      french-door models see this every summer near Sierra Madre Villa. Defrost
+      clears it for now. But the thermostat calibration needs adjustment or the
+      line refreezes within a few weeks."
+  - title: "LG Optical Sensor Stuck — Ice Bin Reads Full When It's Empty"
+    description: "Voltage dips during peak AC demand hit the grid sections near
+      the 210 corridor hard. LG refrigerators are sensitive to this. The optical
+      sensor that signals bin level gets confused by micro-dips and stops
+      triggering new production cycles. The unit acts like the bin is full when
+      it's bone dry. A control board reset clears it about half the time.
+      Persistent cases need the sensor assembly replaced. LG units often display
+      error code 1F or IF when this happens — that's the sensor confirming it
+      can't read the bin correctly."
+
+faq:
+  - q: "How fast can you get to Pasadena for ice maker repair?"
+    a: "From our San Gabriel Valley base, Pasadena runs 20-30 minutes depending on
+      the 210. Same-day appointments are open most weekdays — call (323) 870-4790
+      before noon and we can usually be there by early afternoon. Evening slots are
+      available if you can't step away from work."
+  - q: "Do you service Sub-Zero and Thermador ice makers in Pasadena?"
+    a: "Yes. Madison Heights and Linda Vista see a lot of built-in Sub-Zero and
+      Thermador units, and we stock the common failure parts for both — assemblies,
+      water inlet valves, and sensor kits. Bosch and KitchenAid repairs are just
+      as frequent across Pasadena and handled the same way."
+  - q: "What does ice maker repair typically cost in Pasadena?"
+    a: "A fill valve swap on a KitchenAid or LG usually runs $180-$250. Assembly
+      replacement on a Sub-Zero is closer to $350-$450 with parts. Diagnosis is
+      included in the service call, and we quote before touching anything.
+      Same-day emergency slots available — call (323) 870-4790."
