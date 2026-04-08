@@ -1,0 +1,76 @@
+title: "West Covina Range — Gas Igniter & Oven Repair, Same Day"
+
+intro: |
+  The 91791 zip has a lot of 1960s ranch-style homes where original gas stub-outs are still
+  running — and KitchenAid slide-in ranges on aging lines develop igniter problems faster than
+  you'd expect. Most of the range calls we get near Shadow Oak Park and the streets east of
+  Galster Wilderness Park are igniter failures, burner valve issues, and oven sensors drifting
+  out of calibration. Call (323) 870-4790 — we're usually in West Covina within two hours.
+
+localContext: |
+  West Covina's housing stock runs mostly 1960s and 1970s ranch homes through zip codes 91790
+  and 91792, with newer townhome clusters near The Lakes shopping center off Citrus Avenue. Older
+  homes have freestanding gas ranges with pre-digital controls — simple to diagnose, but parts
+  sourcing matters. Townhomes and condos closer to Azusa Avenue tend to have slide-in models
+  crammed against cabinetry, which makes component access genuinely awkward.
+
+  The Cameron Avenue corridor and the neighborhoods around Vincent Avenue show a split that matters
+  for diagnosis. Original GE and Maytag freestanding ranges that haven't been replaced in decades
+  sit alongside KitchenAid and Bosch slide-ins installed during kitchen remodels. Older freestanding
+  units use standing pilot systems or early electronic ignition with universal parts. Slide-ins from
+  2012 forward have proprietary control boards you can't cross-reference easily — you need the
+  exact part number from the serial tag inside the door frame.
+
+  One thing specific to this part of the San Gabriel Valley: gas pressure fluctuations. Homes on
+  the western edge near the 91790 border sometimes run low on the outer burners during peak
+  evening cooking hours. Homeowners often misread that as an igniter problem. A quick manifold
+  pressure test clarifies it fast — and if the issue is upstream supply, that's a call to
+  SoCalGas, not a parts job. Knowing the difference saves the customer money and a second
+  service visit.
+
+commonProblems:
+  - title: "Burner Igniter Clicks Constantly But Flame Won't Catch"
+    description: "In the ranch homes around 91790, the spark module takes the most abuse — grease
+      and moisture work into the igniter tips over years of cooking. On Samsung and LG gas ranges,
+      a cracked ceramic igniter tip is almost always the culprit. Replace the igniter assembly,
+      clean the burner cap seating, and it's done. Usually a 45-minute fix. On older GE models
+      still running in some of the Vincent Avenue homes, the spark module itself fails rather than
+      the individual igniters — different diagnosis path, cheaper part, but you have to open the
+      cooktop to confirm it. We carry both."
+  - title: "Oven Runs Hot or Heats Unevenly"
+    description: "This is almost always a failing RTD temperature sensor or a worn bake igniter
+      on gas models. Bosch ranges hold calibration well, but after 8-10 years the RTD sensor
+      starts reading low — the gas valve stays open too long and the oven runs 25-40 degrees
+      hot. Recalibration won't fix a bad sensor. That part needs replacing. On Thermador ranges —
+      more common in the remodeled homes near Walnut Creek Road in the 91791 zip — the gas valve
+      igniter can develop a weak glow that causes delayed ignition and uneven heat across the oven
+      floor. It looks like a calibration issue. It's actually a failing igniter drawing below-spec
+      amperage. The fix is different, and so is the part."
+  - title: "Control Panel Stops Responding to Knobs"
+    description: "KitchenAid ranges from the 2015–2019 production run have a known relay failure
+      on the main control board — specifically the relay that powers the surface igniter circuit.
+      Burners stop responding even though the rest of the range works fine. It's not the knobs.
+      We stock that board for KitchenAid's 30-inch slide-in series."
+
+faq:
+  - q: "How fast can you get to West Covina for Range repair?"
+    a: "From our Van Nuys and Irvine routes, West Covina is almost exactly in the middle — we're
+      typically on-site in under two hours. Street parking in the residential neighborhoods off
+      Citrus is easy. Call (323) 870-4790 or schedule online for a same-day window."
+  - q: "Do you repair Bosch and KitchenAid ranges in West Covina?"
+    a: "Both, plus Samsung and LG — those four cover most of what we see here. Common jobs:
+      KitchenAid control board relay failures, Bosch RTD sensor replacements, Samsung gas valve
+      igniter swaps. Parts for all of them are on the truck."
+  - q: "How does pricing work for a range repair visit?"
+    a: "Diagnostic fee covers the visit and assessment, and it applies toward the repair if you
+      move forward. Most igniter and sensor jobs run $150–$280 parts and labor. Same-day and
+      evening slots are available — a broken range doesn't have to mean three nights of takeout.
+      Call (323) 870-4790 to get on the schedule."
+  - q: "Can you work on gas ranges in older West Covina homes with original gas lines?"
+    a: "Yes, and we do it regularly in the 91790 and 91791 neighborhoods. Older flex connectors
+      and shutoff valves sometimes complicate access, but we carry the tools to check manifold
+      pressure and verify safe operation before and after the repair. If the line itself needs
+      work, we flag it clearly — that goes to a licensed plumber, not us. A gas appliance
+      doesn't leave our hands running if something upstream looks wrong."
+
+---

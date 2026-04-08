@@ -1,0 +1,69 @@
+title: "Orange Freezer — Hard Water & Inland Heat Are a Brutal Combo"
+
+intro: |
+  Old Towne Orange — the historic plaza area, the circle, the streets radiating off Chapman
+  Avenue — those neighborhoods in 92866 run a lot of Whirlpool side-by-sides from the early
+  2000s, and those freezer compartments are fighting two things at once: OC municipal water
+  that tests around 300–400 ppm total dissolved solids and summer temperatures that regularly
+  push inland past 95°F. Ice makers don't last long under those conditions. We're in Orange
+  multiple times a week. Chapman University students and staff rent a lot of the older housing
+  stock along Cambridge Street and Shaffer Street — those units often have appliances that
+  haven't been serviced in a decade and hit multiple failure points at once.
+
+localContext: |
+  The ranch-style homes built along Tustin Street and the streets east of downtown in 92868
+  date mostly to the 1950s and early 1960s. Kitchens in these houses are compact — pulling
+  a fridge-freezer out for access behind the unit is a two-person job, and original 15-amp
+  circuits sometimes struggle with modern french-door compressors. Newer townhome complexes
+  closer to the 22 Freeway run LG and Samsung models that see punishing use from May through
+  October. The El Modena area along Hewes Street and out toward Santiago Canyon Road (92869)
+  sits at higher elevation and gets consistent afternoon heat — freezers there cycle harder
+  than units closer to the coast. Handy Park neighborhood on the north side runs a mix of
+  50s tract homes and post-2000 infill townhomes; kitchen layouts vary wildly on the same
+  block, which affects how much time a repair actually takes. Orange Water and Power serves
+  most of the city, and their treated supply still comes in hard enough to leave visible
+  calcium on valve screens within 18 months.
+
+commonProblems:
+  - title: "Ice Maker Assembly Clogging From OC Hard Water"
+    description: "Orange tap water at 300–400 ppm will coat the water inlet valve screen and ice
+      maker assembly in calcium scale inside of two or three years. The ice production just stops —
+      no warning, no error code. Samsung french-door models see this constantly; the supply line
+      narrows and then the inlet valve gives out entirely. On newer Samsung units the control board
+      throws a 1E or PC ER code before the ice maker goes fully silent — if you're seeing that,
+      it's almost always the valve, not the board itself. Descaling or replacing the valve usually
+      fixes it same visit."
+  - title: "Evaporator Coil Icing Solid During Summer"
+    description: "A freezer that can't hold temperature in July usually has a failed defrost timer
+      or a burned-out defrost heater — the evaporator coil behind the back panel turns into a solid
+      block of ice and airflow stops. Whirlpool and GE units from the 2010–2015 range hit this
+      failure mode regularly. The condenser fan motor on older GE side-by-sides also fails under
+      sustained heat load; when the fan stops moving air across the condenser coils, temps climb
+      fast and the compressor overheats. Replacing the heater element and clearing the coil brings
+      them back to spec the same day."
+  - title: "Door Gasket Shrinkage on Older KitchenAid Units"
+    description: "A door gasket that's hardened and pulled away from the frame makes the compressor
+      run almost continuously trying to compensate. KitchenAid freezer-on-bottom models in the older
+      Serrano Heights neighborhood do this a lot — the gasket just dries out and loses its seal.
+      Left alone, it eventually kills the compressor. Catching it at the gasket stage saves
+      a $400–$600 compressor job. On LG bottom-freezer units the same symptom sometimes traces
+      back to a failing thermal fuse instead — the unit will feel warm on the freezer side but
+      the door seals look fine. Worth checking both before assuming it's the gasket."
+
+faq:
+  - q: "How fast can you get to Orange for Freezer repair?"
+    a: "We run a regular Anaheim–Orange route, so 92866, 92868, and 92869 are easy coverage.
+      Call before noon at (323) 870-4790 and same-day is usually doable. Street parking on most
+      residential blocks around Old Towne is fine for the van — no permits needed. Evening slots
+      are usually open too if daytime doesn't work."
+  - q: "Do you repair Samsung and LG freezers in Orange?"
+    a: "Both are bread-and-butter for us. Samsung we're usually fixing the ice maker assembly or
+      the control board. LG linear compressor failures come up often too, especially on units
+      five-plus years old — the compressor itself is a known weak point on that platform and LG
+      extended the warranty on affected models, so it's worth checking your serial number before
+      paying out of pocket. We stock common parts for both, which means fewer return trips."
+  - q: "What does a freezer repair run in Orange, and can you come today?"
+    a: "Diagnostic is $75–$95 and applies to the repair. Most fixes — thermal fuse, defrost
+      timer, inlet valve — land at $150–$300. Compressor work on a unit under eight years runs
+      $400–$600 and is usually worth it. Emergency slots open most evenings — call
+      (323) 870-4790 to check availability."

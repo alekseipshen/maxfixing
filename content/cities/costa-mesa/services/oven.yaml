@@ -1,0 +1,105 @@
+title: "Costa Mesa Oven — Mesa Verde to Eastside, Fixed Right"
+
+intro: |
+  Mesa Verde's ranch-style homes along Baker Street have had their kitchens
+  redone at least once since the 1970s — and a lot of those renovations
+  ended up with a KitchenAid double wall oven or a Bosch slide-in range.
+  Those appliances are solid until they're not.
+
+  The OC Fair & Event Center sits half a mile from some of these addresses.
+  Most of 92626 is reachable in under 30 minutes on a normal weekday, and the
+  55-to-405 transition before 9 AM is manageable — that's usually our window
+  for early morning calls in Costa Mesa.
+
+localContext: |
+  The 92627 zip — Eastside Costa Mesa, the grid between 19th Street and
+  the Back Bay — mixes 1950s cottages with 1970s condos. Compact kitchens,
+  sometimes with 24-inch or apartment-sized ranges. Tight clearance when
+  pulling a unit, and street parking on those Eastside blocks can complicate
+  a service run with parts in the van.
+
+  Over in 92626, Mesa Verde's single-family homes run larger — full 30-inch
+  freestanding ranges, sometimes a separate wall oven above the microwave
+  cabinet. Building age and layout both affect how long a repair takes on-site.
+
+  The 17th Street corridor heading toward Newport Beach Boulevard has a
+  different mix: newer mixed-use construction from the 2010s, kitchens with
+  Samsung or LG slide-in ranges, sometimes Bosch built-ins flush-mounted into
+  custom cabinetry. Those built-ins have tighter ventilation clearances around
+  the cavity — matters a lot when you're pulling a unit for a control board
+  swap and you can't just slide it forward.
+
+  Orange County's municipal water in Costa Mesa runs around 200–280 ppm
+  hardness — that doesn't affect most oven repairs directly, but it does
+  show up in Bosch steam ovens and combination microwave-ovens as calcium
+  scale on the cavity walls and water reservoir. If a steam oven is throwing
+  a water-quality fault, that's almost always the reason.
+
+commonProblems:
+  - title: "Bake element burnout — oven won't reach temperature or heats unevenly"
+    description: |
+      A cracked or visibly scorched lower heating element is one of the most
+      common calls we get from Costa Mesa kitchens. The oven either stops
+      hitting 350°F or cooks one side of the pan faster than the other.
+
+      KitchenAid and Bosch elements are usually stocked locally, but the
+      part number has to match or the oven throws a fault code on the
+      control board. KitchenAid wall ovens tend to show an F2-E0 or F3-E2
+      code when the element degrades before it fully fails — catching that
+      early saves the board from a secondary failure.
+
+  - title: "Gas igniter too weak to open the valve — oven clicks, won't light"
+    description: |
+      A lot of Costa Mesa homes run gas ranges. When the flat-style igniter
+      degrades, it draws current but can't reach the temperature needed to
+      open the gas valve — so the burner clicks, you smell a brief whiff of
+      gas, then nothing.
+
+      Samsung and LG gas ranges wear through igniters faster than expected,
+      especially in dusty SoCal conditions near the 405 corridor. Direct
+      igniter swap, usually under an hour on-site.
+
+  - title: "Self-clean cycle locks the door and the latch won't release"
+    description: |
+      Thermador and KitchenAid wall ovens in particular can get stuck after
+      a self-clean run — the door latch motor fails mid-cycle or the control
+      board misreads the cavity temperature and keeps the lock engaged. The
+      oven is completely unusable until the latch assembly is diagnosed and
+      reset.
+
+      This one looks mechanical but usually starts with the board. Thermador
+      throws a LOC or F97 fault in these cases. Swapping just the latch
+      mechanism won't resolve it if the board is still sending a lock signal —
+      that's a two-part fix, and skipping the board diagnosis is how you end
+      up with the same problem six weeks later.
+
+faq:
+  - q: "How fast can you get to Costa Mesa for oven repair?"
+    a: |
+      Coming from the Irvine-Santa Ana corridor, we're usually at your door
+      within 90 minutes — faster if you're in Mesa Verde near 92626. Call
+      (323) 870-4790 to check same-day availability; evening slots are open
+      most weekdays.
+
+  - q: "Do you repair Bosch and Thermador ovens, or only basic brands?"
+    a: |
+      Bosch and Thermador are two of the most common calls from Costa Mesa's
+      updated kitchens. KitchenAid double wall ovens come up constantly too.
+      We carry parts for all three and know the specific error codes these
+      models throw — F3, E1, LOC errors included.
+
+      The higher-end homes near South Coast Plaza and the remodeled Eastside
+      properties often have Sub-Zero or Thermador units that require
+      manufacturer-specific calibration tools. Generic parts won't pass the
+      control board handshake on those units — that's not negotiable.
+
+  - q: "What does oven repair involve, and how do I know it's worth fixing?"
+    a: |
+      Diagnosis comes first — that fee applies toward the repair if you go ahead.
+      Heating element swaps, igniter replacements, door latch assembly fixes:
+      most of these are done same-day.
+
+      Control board is the issue on a unit under 8 years old? Repair almost
+      always beats replacement at current appliance prices. Schedule online
+      or call (323) 870-4790 and you'll get a straight answer on-site, not
+      a range estimate over the phone.

@@ -1,0 +1,25 @@
+title: "Costa Mesa Ice Maker — Hard Water Kills Your Fill Valve Fast"
+
+intro: |
+  Mesa Verde homes around Baker Street and Paularino Avenue see it constantly — KitchenAid french-door refrigerators start dropping hollow or misshapen cubes roughly 18 months after install. Orange County's groundwater supply feeding 92626 runs noticeably hard, and mineral scale attacks the water inlet valve long before homeowners catch the pattern. Coastal proximity doesn't soften the supply the way people expect. The ice maker isn't broken — the fill pathway is just slowly strangled.
+
+localContext: |
+  Eastside Costa Mesa — zip 92627 — packs a lot of compact apartments and 1970s townhomes off 19th Street and Harbor Boulevard where service calls get logistically complicated. Tight galley kitchens, shared parking lots, limited van access on narrow residential streets. Over in Mesa Verde, the housing stock runs mostly 1960s ranch builds with full-size refrigerators that have cycled through two or three appliance generations. Some of those Whirlpool and GE side-by-sides from the early 2000s are still running on original water valve hardware — and those don't hold up indefinitely.
+
+  The Newport Boulevard corridor runs through a mix of older commercial strips and newer condo developments. Sub-Zero and Thermador built-ins show up regularly in the remodeled units near South Coast Plaza — counter-depth configurations with narrow service clearances that require pulling the unit from its cabinet before any ice maker work can happen. That adds time to the job. Residents in those buildings should budget for a longer service window and make sure there's elevator access for the technician.
+
+commonProblems:
+  - title: "Mineral-Clogged Water Inlet Valve Shuts Down Ice Production"
+    description: "Costa Mesa tap water typically tests around 300–350 ppm dissolved minerals. That calcium load accumulates inside the water inlet valve solenoid over 12–18 months until flow drops to near zero. Samsung french-door models hit this first — the ice maker assembly cycles, the motor runs, but no water reaches the tray mold. Swapping the valve usually restores full production; flushing the supply line behind the fridge helps prevent a repeat. On Samsung RF series specifically, the dual inlet valve feeds both the ice maker and door dispenser — one solenoid can fail while the other still works, which throws off the diagnosis if you're only watching ice output and not testing both circuits."
+  - title: "Frozen Fill Tube Stops Water Reaching the Ice Tray"
+    description: "A small fill tube runs from the back of the refrigerator to the ice tray — it freezes solid when the defrost timer misfires or the thermostat runs too cold. Bosch and KitchenAid counter-depth models installed in Mesa Verde kitchens are particularly vulnerable because their compact refrigerant routing keeps that tube section colder than spec. Thawing it manually buys a day; the real fix is diagnosing the defrost control circuit. KitchenAid units have a defrost thermostat and a bimetal cutout as two separate components — both need testing before you replace either one."
+  - title: "Optical Sensor Failure Locks the Unit in 'Full' Mode"
+    description: "LG refrigerators with ThinQ control boards throw ER IF or FF error codes when the ice level sensor goes bad. The sensor tells the unit the bin is full — so the ice maker stops cycling even with an empty tray. LG's linear compressor models in Costa Mesa get this diagnosis regularly. The fix is usually the optical sensor or bail arm assembly, not the compressor itself."
+
+faq:
+  - q: "How fast can you get to Costa Mesa for ice maker repair?"
+    a: "We run a regular Orange County route — Costa Mesa is typically 60–90 minutes out from dispatch. We cover Newport Beach, South Coast Metro, Irvine, and Fountain Valley on the same loop. Call (323) 870-4790 to book same-day. Evening slots available most weekdays."
+  - q: "Do you service KitchenAid and LG ice makers specifically?"
+    a: "Both are bread-and-butter repairs here. KitchenAid units need inlet valve specs that vary by model year — a wrong part causes low flow from day one. LG ThinQ boards require diagnostic tools most local shops don't carry. We also handle Bosch, Samsung, Sub-Zero built-ins, and GE Profile."
+  - q: "How much does ice maker repair usually cost in Costa Mesa?"
+    a: "A water inlet valve swap runs $150–$220 parts and labor. Optical sensor replacements are usually less — typically $90–$130 depending on the part. We quote on-site after diagnosis — nothing gets replaced without your sign-off first. The diagnostic fee applies toward the repair if you move forward, so there's no wasted cost in getting us out to look. Same-day emergency service is available if going without ice isn't an option."

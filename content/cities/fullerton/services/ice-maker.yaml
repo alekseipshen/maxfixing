@@ -1,0 +1,76 @@
+title: "Fullerton Ice Maker Repair — OC Hard Water, Same-Day Service"
+
+intro: |
+  Orange County's inland heat hits Fullerton differently than the coast — summer
+  afternoons around the Amerige Heights neighborhood regularly push past 92°F, and
+  ice makers run nearly nonstop June through September. That constant cycling is
+  exactly when LG french-door water inlet valves start to fail. The Orange County
+  Water District delivers moderately hard water to 92832 and 92835, roughly 300–350
+  mg/L total dissolved solids, enough to scale fill valve screens within 12–18
+  months of heavy use. Samsung TwinCooling models show this faster than most —
+  their narrower inlet screen diameter clogs before the machine throws any error code.
+
+localContext: |
+  Older ranch homes along Commonwealth Avenue and Malvern in the 92832 zip code
+  tend to have tighter kitchen clearances — accessing the ice maker assembly in a
+  bottom-freezer refrigerator means shifting cabinetry on roughly a third of jobs
+  here. Newer construction near Coyote Hills Golf Course in 92835 skews toward
+  KitchenAid and Bosch side-by-side configurations. Pre-1980 builds up in the
+  Fullerton hills, 92831, frequently have older galvanized supply lines that reduce
+  water pressure to the fill valve and accelerate failures.
+
+  The Amerige Heights development in 92833 is a different story — built 2000–2006,
+  those homes have copper supply lines but installed LG and Samsung french-door
+  units that are now hitting the 15–20 year mark. Ice maker assemblies on those
+  models are essentially at end-of-service-life for the original components.
+  Replacement parts are still available, but some Samsung DA97 series trays require
+  ordering ahead. Worth knowing before you call around to shops that stock only
+  the most common SKUs.
+
+commonProblems:
+  - title: "Mineral Scaling Choking the Water Inlet Valve"
+    description: "Hard water from the OCWD deposits calcium carbonate inside the
+      inlet valve solenoid — flow drops, ice cubes come out small or misshapen.
+      Samsung and LG models with single-pass filtration are especially prone.
+      Flushing the inlet screen buys time, but a corroded solenoid coil needs
+      replacement. On Samsung french-door units you'll often see an IE error code
+      before production stops entirely — that's the inlet valve struggling against
+      a partially blocked screen. This is the most common call we get from the
+      92832 area."
+  - title: "Ice Level Sensor Drifting During Fullerton's Heat Spikes"
+    description: "The ice level sensor — the optical module or mechanical arm that
+      tells the unit to stop producing — drifts out of calibration when ambient
+      temperatures swing. Un-air-conditioned utility rooms are the worst offender.
+      KitchenAid freestanding units and older Whirlpool modules show this pattern
+      most. Replacing the sensor assembly usually takes about 45 minutes on-site."
+  - title: "Frozen Fill Tube in 1960s Construction Homes"
+    description: "Drafty interior walls in Fullerton's mid-century ranch homes let
+      cold air reach the refrigerator's water supply line. The fill tube — the
+      short plastic line feeding the ice mold — freezes solid and kills production
+      with no error code displayed. Sub-Zero and Thermador built-ins in the 92831
+      hillside neighborhoods need a defrost cycle plus line re-routing to prevent
+      it coming back within a season. On Sub-Zero 700-series units specifically,
+      the fill tube runs through a cabinet section that sits right against the
+      back wall — re-routing adds about 30 minutes to the job but it's the fix
+      that actually holds through the following winter."
+
+faq:
+  - q: "How fast can you get to Fullerton for ice maker repair?"
+    a: "We run directly off the 57 and 91 freeways — typical drive time from our
+      nearest route puts us at your door in under 90 minutes. Same-day slots are
+      open most weekdays and Saturday mornings. Call (323) 870-4790 to check
+      what's available today."
+  - q: "Do you repair Samsung and KitchenAid ice makers in Fullerton?"
+    a: "Yes — Samsung french-door assemblies and KitchenAid side-by-side ice maker
+      modules are the two units we see most often here. Also handle LG ThinQ line
+      failures, Bosch bottom-freezer units, and Sub-Zero's modular ice systems for
+      the hillside homes in 92831. Bosch bottom-freezer units use a different drain
+      pump configuration that trips up generalist shops — the ice melt cycle routes
+      through the same pump, so a failing drain pump shows up as an ice maker
+      problem first. Easy to misdiagnose if you're not familiar with the platform."
+  - q: "What does ice maker repair cost, and how does the process work?"
+    a: "Diagnosis is $75, credited toward the repair if you move forward. A fill
+      valve or sensor module swap typically lands between $80–$180 parts and labor.
+      Most jobs close same-day. Frozen line repairs or control board replacements
+      take a bit longer — we'll confirm timing when you call (323) 870-4790 to
+      book. Evening slots are available most weekdays if daytime doesn't work."

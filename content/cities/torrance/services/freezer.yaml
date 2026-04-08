@@ -1,0 +1,76 @@
+title: "Torrance Freezer Repair — South Bay Marine Layer & Hard Water"
+
+intro: |
+  South Torrance homes near Madrona Marsh run heavy marine layer almost nine months a
+  year — that coastal humidity accelerates door gasket failure in ways that inland cities
+  rarely deal with. Last month we pulled a Sub-Zero column freezer off a wall in the 90505
+  zip where the bottom seal had completely deteriorated, leaving the compressor cycling every
+  eight minutes trying to hold temperature. Same pattern shows up constantly in this
+  neighborhood: Torrance air is damp, gaskets pay for it, and your electricity bill climbs
+  right along with it.
+
+  Hard water is the other constant. Torrance municipal water runs 300-400 ppm hardness.
+  Ice maker assemblies — especially on LG and Samsung units — accumulate mineral scale in
+  the fill valve and inlet line faster than homeowners expect. The ice maker stops cycling,
+  or produces undersized cubes, and the actual culprit isn't the motor. It's calcium deposits
+  blocking water flow.
+
+localContext: |
+  Old Torrance — the historic district around Sartori and Gramercy — is full of 1950s and
+  early-1960s ranch homes. Those kitchens were designed for 24-inch appliances, not the
+  36-inch KitchenAid uprights homeowners install today. Service calls in the 90501 zip
+  regularly involve freezers wedged between cabinets with barely two inches of clearance on
+  each side. Older electrical panels in that area also produce voltage irregularities that
+  stress compressor start relays over time — slow failure that looks like a temperature
+  control problem until it isn't.
+
+  South Torrance near PCH and Hawthorne Boulevard trends toward newer construction with
+  higher-end finishes. Thermador and KitchenAid column freezers are common there, often
+  paired with counter-depth refrigeration. Those built-in installations require door panel
+  removal before any service work can start — add 20-30 minutes to the call compared to
+  a freestanding unit. Worth knowing before you schedule.
+
+commonProblems:
+  - title: "Condenser Fan Failure During South Bay Heat Spikes"
+    description: "Torrance sits far enough from the water that North Torrance summer temps hit the
+      mid-90s with some regularity — and sustained heat hammers refrigeration systems. A Bosch
+      bottom-freezer unit near Del Amo Fashion Center was pulling nearly double its rated
+      amperage because the condenser fan blade had cracked and stopped moving air. The
+      compressor was running almost continuously. Caught early, it's a $40 part. Caught late,
+      it's a compressor replacement. The condenser coils on that Bosch unit were also caked
+      with lint and dust — restricted airflow compounds the heat load and shortens compressor
+      life noticeably."
+  - title: "Frost Buildup Blocking Airflow — Defrost Circuit Failure"
+    description: "Ice crystal accumulation on the evaporator coil is the most common freezer call
+      we get in this city. Almost always traces back to a failed defrost heater or a defrost
+      timer stuck in the cooling cycle. Samsung french-door models with the bottom drawer
+      freezer are especially prone to this — the F1 or FF error code usually confirms the
+      defrost circuit quit. Airflow drops, food temperature drifts up, motor noise increases.
+      The thermal fuse that protects the defrost heater circuit also burns out on these models
+      — cheap part, but easy to overlook if you only replace the heater without checking
+      continuity on the fuse."
+  - title: "Phantom Temperature Readings After SCE Brownouts"
+    description: "SCE circuits in older Torrance neighborhoods — particularly around the 90502 zip
+      — occasionally see brief voltage dips during summer peak demand. That's enough to knock
+      an LG freezer's control board into a fault state where it displays the correct set-point
+      but the compressor isn't actually running. Unit feels cold initially. By the next morning
+      food is soft and the display is flashing an error code that isn't in the manual."
+
+faq:
+  - q: "How fast can you get to Torrance for a freezer repair?"
+    a: "We run the South Bay corridor daily — Hawthorne down through Torrance to Palos Verdes.
+      From our nearest technician, Torrance is typically a 25-40 minute drive. Same-day slots
+      open most weekday mornings, and evening appointments are available several nights a week.
+      Call (323) 870-4790 to confirm what's open today."
+  - q: "Do you repair Sub-Zero, Bosch, and Samsung freezers in Torrance?"
+    a: "Yes — Sub-Zero column and integrated units, Bosch bottom-mount freezers, KitchenAid
+      uprights, and LG and Samsung french-door models with drawer freezers are all regular
+      jobs. Sub-Zero work requires specific refrigerant handling certification and door
+      alignment tools. All of that comes on the truck. Thermador column freezers show up
+      frequently in South Torrance — those use proprietary control board connectors that
+      generic parts won't fit. We stock the manufacturer-spec components."
+  - q: "What does a freezer repair cost, and how does the process work?"
+    a: "The diagnostic fee is flat-rate and gets applied to your repair if you proceed. Most
+      common fixes — defrost heater swap, door gasket replacement, control board reset or
+      replacement — run $180-$350 parts and labor combined. Freezer losing temp right now?
+      Same-day emergency slots are available. Schedule at (323) 870-4790."

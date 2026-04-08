@@ -1,0 +1,27 @@
+title: "Pasadena Double Oven Repair — Craftsman Kitchens, Real Fixes"
+
+intro: |
+  Bungalow Heaven and the older blocks around Linda Vista have seen a lot of kitchen renovations over the past 15 years — wall ovens dropped into cabinetry that wasn't originally designed for them. Most of those installs are KitchenAid or Thermador. Now some of those units are hitting the 12–15 year mark and showing it. The lower cavity stops heating. The upper one reads 50 degrees hot. Call (323) 870-4790 if you're dealing with either.
+
+localContext: |
+  Zip codes 91103 and 91104 carry heavy concentrations of 1920s Craftsman bungalows and Spanish Colonial Revival homes — kitchens renovated in the mid-2000s with double ovens built into custom millwork. Clearances are tight, which complicates hinge replacement and control board access. Gas shutoffs are sometimes in awkward spots behind cabinetry in pre-war construction, especially on the blocks north of Colorado Boulevard toward the Arroyo Seco.
+
+  Over in 91107 near Lamanda Park, newer construction tends toward Samsung and Bosch wall oven combos, which develop their own failure patterns around the 8–10 year mark. Pasadena's hard water — the same mineral-heavy supply that clogs steam features on Miele and Thermador units — accelerates sensor corrosion in steam-assist ovens. It's a common call in the 91106 zip along San Marino Avenue: steam oven throwing an F3 fault, owner assumes the board failed, turns out the steam generator probe is coated in calcium.
+
+commonProblems:
+  - title: "Lower Oven Dead — Heating Element Burnout in Renovated Craftsman Kitchens"
+    description: "Double wall ovens installed during Pasadena's 2000s remodel wave often have the lower cavity doing the daily heavy lifting — roasting, baking — while the upper unit stays mostly idle. That imbalance burns out the lower heating element faster. KitchenAid double wall models show this pattern around year 10–12. Replacement is straightforward but requires pulling the oven from a cabinet cutout that's usually tighter than expected. On older custom builds, the junction box is tucked behind the unit at an angle that makes the job a two-person extraction."
+  - title: "Temperature Mismatch — Upper and Lower Cavities Reading Differently"
+    description: "Both cavities set to 375°F, one runs 40 degrees low. Usually that's a failed oven temperature sensor — also called a bake sensor or RTD probe — not the element itself. Thermador double wall units are frequent culprits: the sensor sits near the rear wall and corrodes in kitchens with heavy steam cooking. Error codes E1 or F2 typically point here before the control board gets blamed. Replacing the probe is a 45-minute fix on most Thermador models. New board would run two to three times the cost for the same symptom."
+  - title: "Control Board Failures After Summer Power Events"
+    description: "Pasadena's grid takes hits during peak-demand heat waves and Santa Ana wind events — the same conditions that stress older electrical infrastructure near the Rose Bowl neighborhood. Control board failures on Bosch double ovens often trace back to voltage spikes rather than normal wear. A failed board shows up as an unresponsive touchpad, an error loop, or one cavity working while the other goes completely dark. Before ordering a replacement board, it's worth checking whether the oven tripped an internal thermal fuse — a $15 part that mimics a dead board when it blows."
+
+faq:
+  - q: "How fast can you get to Pasadena for double oven repair?"
+    a: "From our usual run down the 210, Pasadena is 20–35 minutes depending on the Foothill interchange. Same-day slots are usually open — call (323) 870-4790 before noon and we can typically get there the same afternoon. Evening appointments available too."
+  - q: "Do you repair KitchenAid, Thermador, and Bosch double wall ovens?"
+    a: "Those three are the most common calls in Pasadena. KitchenAid control board replacements, Thermador door hinge assemblies, Bosch heating element and bake sensor swaps. Samsung and LG wall oven combos as well, mostly in newer 91107 construction. Sub-Zero and Miele come up occasionally in the higher-income blocks near Annandale — those need brand-specific tooling we carry on the van. Both electric and gas configurations."
+  - q: "How does the diagnostic work and what does repair cost?"
+    a: "On-site diagnostic runs 20–30 minutes — both cavities, control board, sensors, door assemblies. The diagnostic fee applies toward the repair cost. Most single-component fixes like a heating element, bake sensor, or door hinge get completed same visit. Harder jobs — control board replacement on a Thermador, or a heating element buried behind a liner panel — sometimes need a parts run but we usually come back next day. Schedule online or call (323) 870-4790 for same-day or next-day availability."
+  - q: "Can you handle gas double ovens in older Pasadena homes?"
+    a: "Yes. Gas configuration adds a step — verifying the igniter, gas valve solenoid, and the flame sensor before anything else. A lot of pre-1950 Pasadena homes were rewired and re-plumbed in stages, so supply pressures and shutoff locations vary. We test with a manometer on-site. If the issue is a weak igniter on a KitchenAid gas double wall unit, that's typically a same-day repair."

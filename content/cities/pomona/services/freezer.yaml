@@ -1,0 +1,27 @@
+title: "Pomona Freezer Repair — SGV Heat and Hard Water Take a Toll"
+
+intro: |
+  Pulled the back panel off a Samsung upright near Garey Avenue last month — condenser fins were caked solid with mineral dust and lint, practically looked like insulation. That's 91767 for you: hard water from the San Gabriel Valley Municipal Water system runs around 350 ppm, and Pomona summers routinely hit 95°F before July ends. Freezers in this city work harder and longer than most. The compressor usually shows the strain first, then the door seal starts going.
+
+localContext: |
+  A lot of Pomona's housing stock in 91766 dates to the late 1950s and early 1960s — ranch-style homes with detached garages where people park their upright and chest freezers. Those garages are not climate-controlled. August temps inside an unvented two-car garage can push 110°F, and a freezer compressor fighting that ambient heat burns through start relays and overload protectors much faster than normal. The condenser coil gets zero airflow benefit from air conditioning, so it runs hotter with every passing summer.
+
+  Newer builds near Cal Poly Pomona in 91768 tend to run more modern LG and Samsung units, but the hard water issue hits every household in the city equally. That mineral load doesn't care what year your home was built. Descaling is eventually required on almost every ice maker assembly we service in Pomona, regardless of brand or age.
+
+commonProblems:
+  - title: "Garage Heat Burns Out Compressor Start Relays in Pomona's Ranch Homes"
+    description: "A GE upright running in a South Pomona garage off White Avenue was reading 45°F in mid-July — compressor cycling on and off every few minutes. Classic overload protector failure from sustained heat stress. The compressor itself was fine; the start relay and overload component ran about $80 in parts. Repair was finished in under an hour. Garage-based freezers in this city need a check every summer before the heat peaks."
+  - title: "Frost Buildup on the Evaporator Coil From a Cracked Door Gasket"
+    description: "Gaskets on Whirlpool and LG uprights crack over time, especially in climates with strong day-to-night temperature swings like Pomona's inland conditions. Warm air seeps in through the broken seal, moisture collects, and freezes onto the evaporator coil. Within a few months the coil is buried in a solid frost block that cuts off airflow entirely and the unit can't hold temp. You'll often see ice accumulation visible through the interior vent slots before the temperature alarm triggers. Replacing the door gasket takes about 45 minutes on most models, and the evaporator usually defrosts fully within 24 hours."
+  - title: "Ice Maker Stops Working Due to Mineral Scale in the Water Inlet Valve"
+    description: "San Gabriel Valley tap water runs hard — 350 ppm calcium hardness is not unusual in Pomona's 91767 zip — and that scale accumulates inside ice maker assemblies and water inlet valves within two to three years. On Samsung french-door models, the first sign is smaller, malformed cubes. Then production slows to nothing. Descaling the lines and replacing the water inlet valve usually gets things running again."
+
+faq:
+  - q: "How fast can you get to Pomona for freezer repair?"
+    a: "Most Pomona calls get same-day service. We route in via the 60 or 71 freeway from our San Gabriel Valley base — typically 25-30 minutes depending on traffic. Street parking in Pomona's residential neighborhoods is usually easy for a service van. Call (323) 870-4790 and we can typically have someone on-site within 2 hours."
+  - q: "Do you repair Samsung and LG freezers in Pomona?"
+    a: "Both are a large part of what we see in 91766 and 91767. Samsung french-door models typically need ice maker assembly or control board work. LG uprights commonly come in with drain pump failures or compressor issues. Whirlpool and GE round out the rest — older Kenmore units, which are mostly Whirlpool-built, show up regularly too. KitchenAid chest freezers have started appearing more in the newer neighborhoods east of Towne Avenue."
+  - q: "What does freezer repair typically cost in Pomona, and do you work evenings?"
+    a: "Straightforward parts swaps — thermal fuse, door gasket, overload protector — usually run $120-180 all-in including the service call. Compressor replacements run higher: $350-550 depending on model and refrigerant type. Flat quote given on-site before any work starts. Evening slots and Saturday appointments are available — call (323) 870-4790 to get on the schedule."
+
+---
