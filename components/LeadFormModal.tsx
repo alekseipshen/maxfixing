@@ -523,9 +523,11 @@ export default function LeadFormModal({ isOpen, onClose }: LeadFormModalProps) {
                 )}
               </div>
 
-              <p className="text-sm text-gray-600">
-                We will confirm the approximate arrival time a little later.
-              </p>
+              <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
+                <p className="text-sm text-gray-800">
+                  <span className="font-semibold">Service call fee:</span> A $89 diagnostic fee applies to all service visits. This amount is <span className="font-semibold">applied toward the cost of repair</span> if you choose to proceed.
+                </p>
+              </div>
 
               <button
                 type="submit"
