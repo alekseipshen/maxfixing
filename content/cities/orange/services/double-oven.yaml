@@ -1,0 +1,27 @@
+title: "Orange Double Oven Repair — Old Towne to East Orange"
+
+intro: |
+  The Craftsman bungalows and Victorian homes radiating off Chapman Avenue near the Plaza in Old Towne Orange went through a heavy kitchen renovation wave in the early 2000s. A lot of those jobs dropped KitchenAid double wall ovens into cabinetry that was never designed for them. Those units are pushing 15-20 years now. The lower bake element goes first, then owners start noticing the upper cavity running 25-30° hot. Both problems are fixable — and both are common enough in Orange that we stock the parts for KitchenAid wall oven models before we leave the shop.
+
+localContext: |
+  Orange splits pretty cleanly between housing eras. The 92866 zip around Chapman University holds postwar bungalows from the '50s and '60s where kitchen footprints barely hit 100 square feet — wall oven installs required cutting into original framing, and clearances around the units stay tight. Getting a 30-inch setup in or out of those kitchens near Glassell Street without damaging the surrounding cabinets takes longer than the repair itself sometimes. The Chapman University corridor draws a lot of faculty homeowners who bought in the '90s and are now dealing with aging KitchenAid and Bosch units that haven't been serviced since the Obama administration.
+
+  East Orange in the 92869 zip runs along the Santiago Creek greenbelt — rows of 1980s and '90s tract homes where slide-in ranges got swapped out for wall oven setups during remodels. Mismatched cabinet openings from those conversions put constant torque on door hinges over time. The neighborhoods north of Katella Avenue between Tustin Street and Hewes Street run almost entirely on GE and Whirlpool units installed during those mid-'90s kitchen flips — same failure patterns, same parts.
+
+  The 92868 area near the 57 freeway corridor and The Outlets at Orange is a different story: older apartment complexes from the '70s alongside newer condos. Compact 24-inch configurations — less common brands, tighter parts availability. Samsung and LG show up here more than anywhere else in Orange. Then there's the 92867 belt toward Anaheim Hills, where newer construction from the 2000s built kitchens around Bosch and Thermador wall setups — those homeowners expect brand-specific parts, not substitutes.
+
+commonProblems:
+  - title: "Lower oven goes dead while the upper cavity still heats"
+    description: "GE and Whirlpool double wall ovens put most of the cooking load on the lower cavity, and the bake element fails first — usually throwing an F2 or F3 error code on the display before it goes fully dead. The element itself is a $40-80 part, but it has to match the control board revision on your specific model. Wrong spec part means the same failure again in under a year."
+  - title: "Temperature gap between cavities — one rack burns, the other undercooks"
+    description: "Samsung and LG double ovens run independent RTD temperature sensors in each cavity. Age or a pinched wiring harness from the original install throws one sensor off by 25-40°, and the two cavities stop agreeing. Adjusting the calibration offset through the control panel buys time. Replacing the drifted sensor and tracing the harness routing is the actual repair. Call (323) 870-4790 and we can usually get to Orange same-day if the temperature gap is making the unit unusable."
+  - title: "Control board fails — display flickers or buttons stop responding"
+    description: "Bosch HBL series units, common in the newer 92867 subdivisions near Meats Avenue, develop control board failures most often after a power surge. The catch: Bosch requires firmware matching between the replacement board, the door latch assembly, and the convection fan motor. Install a mismatched board and you get persistent error codes on an otherwise functional appliance. Full model and serial number required before ordering."
+
+faq:
+  - q: "How fast can you get to Orange for double oven repair?"
+    a: "Orange sits 20-30 minutes from our normal route depending on 55 freeway traffic. Morning slots usually put us at your door by 10 AM. Call (323) 870-4790 before noon and we can typically confirm a same-day window. Evening appointments available Tuesday through Thursday."
+  - q: "Do you repair KitchenAid and Bosch double wall ovens in Orange?"
+    a: "Yes — KitchenAid, Bosch, and GE account for most of what we see in Orange. KitchenAid units typically come in needing a new bake element or a burnt thermal fuse. Bosch jobs usually point to control board replacement or a door latch assembly that's lost tension after years of use."
+  - q: "What does a double oven repair cost in Orange, and how fast can you fix it?"
+    a: "Flat-rate diagnostic — full cost quoted before we touch anything. A bake element or thermal fuse swap runs $120-220 parts and labor combined. Control board jobs on a Bosch or GE land between $250-400 depending on the model. Same-day service available most weekdays; emergency slots for completely dead units."

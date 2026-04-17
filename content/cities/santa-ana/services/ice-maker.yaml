@@ -1,77 +1,25 @@
-title: "Santa Ana Ice Maker — Hard Water Fill Valve Failures Fixed Fast"
+title: "Santa Ana Ice Maker Repair — Hard Water Kills Fill Valves Fast"
 
 intro: |
-  Kitchens in Santa Ana's older ranch homes — built through the 1950s and 60s all
-  along Bristol Street — weren't designed around french-door refrigerators with
-  bottom-mounted ice makers. GE and Samsung units crammed into those tight spaces
-  run warmer than spec, and the assembly is usually the first thing to show it.
-  Floral Park residents call us more for these repairs than almost any other single
-  appliance problem. Same-day appointments available — (323) 870-4790.
+  Orange County tap water ranks among the hardest in California — 300-400 ppm in parts of Santa Ana near the MainPlace Mall corridor. That mineral load hits your ice maker's fill valve first, and after two or three summers it calcifies until nothing flows. A Whirlpool french-door sitting in a 92703 home will start dropping misshapen half-moon cubes before the water inlet valve finally fails completely. Call (323) 870-4790 and we can usually be there the same day.
 
 localContext: |
-  Santa Ana's housing stock skews hard toward 1950s and 1960s construction,
-  especially in the 92703 and 92704 zip codes. Kitchens in those builds are compact
-  — refrigerators get pushed tight against cabinetry, and water line access at the
-  back is genuinely awkward. Apartment clusters near South Main Street have an
-  additional wrinkle: older building plumbing runs at low pressure, which stresses
-  water inlet valves on any brand harder than a newer single-family home would.
+  Santa Ana's housing stock skews heavily toward 1960s and 1970s ranch-style homes, especially in Floral Park and the Riviera Streets neighborhoods. Those kitchens weren't designed for modern french-door refrigerators — tight cabinet clearances and cramped water line routing make service genuinely slow. Homes in the 92706 zip often have original copper supply lines from the early 1970s feeding today's Samsung and LG assemblies, which creates its own set of pressure and compatibility issues.
 
-  Santa Ana's tap supply runs notoriously hard — the MWDOC blend that serves most
-  of Orange County regularly reads above 280 mg/L TDS. That mineral load hits every
-  appliance with a water connection, but refrigerator dispensing systems take it
-  worst because the water cycles through narrow valves hundreds of times a year. In
-  Wilshire Square and the older blocks near Civic Center Drive, we see scale
-  accumulation that would surprise most homeowners. Adding a simple inline filter
-  on the supply line can extend valve life by a year or more.
+  Apartment complexes along Bristol Street and in the South Santa Ana corridor run into a different set of problems. Compact units, undersized water lines at 1/4-inch diameter instead of the standard 3/8-inch, and building water pressure that fluctuates between floors — all of it stresses the solenoid valve and fill mold in ways that don't surface in static diagnostics. You have to test live, under actual flow conditions, to catch intermittent failures in those buildings. That's a longer service call, and we account for it in the quote before starting. The 92704 stretch between MacArthur Boulevard and the 405 adds one more wrinkle: mid-1990s tract homes where KitchenAid and Bosch units were installed during kitchen remodels and haven't been serviced since — mineral scaling inside those ice maker assemblies runs deep by now.
 
 commonProblems:
-  - title: "Calcified Fill Valves From Orange County's Hard Tap Water"
-    description: "Santa Ana's municipal supply comes from MWDOC and regularly tests above
-      280 mg/L total dissolved solids. That mineral load deposits scale inside the
-      water inlet valve over 12 to 18 months until flow restricts enough that ice
-      cubes come out hollow or undersized — then stop entirely. Samsung french-door
-      models throughout the 92701 corridor show this pattern constantly, and the
-      fix is a valve swap plus a line flush, not a new fridge."
-  - title: "Frozen Fill Line Behind the Unit"
-    description: "A faulty thermostat or a defrost timer that's stuck in continuous-cool
-      mode can drop the refrigerator compartment temperature low enough to freeze
-      the supply line before water ever reaches the mold. LG side-by-sides throw
-      an IE or CF error code when this happens. Most technicians replace the module
-      on sight and miss the actual culprit — the temperature control board — which
-      means the problem returns within weeks. Santa Ana kitchens without adequate
-      airflow are especially vulnerable during summer, when Valley heat pushes the
-      compressor into longer cycles and the temperature control board compensates
-      erratically. We see a spike in these calls every June through September."
-  - title: "Harvest Sensor Failure in Mid-Range Units"
-    description: "Whirlpool and KitchenAid models from 2013 to 2018 have a documented
-      failure pattern in the harvest sensor — the component that signals the motor
-      to eject frozen cubes from the mold. The motor cycles, you hear the unit
-      working, but nothing drops into the bin. It's a straightforward part
-      replacement, but the sensor sits behind the ice maker assembly and takes real
-      disassembly to reach without cracking the housing. GE Profile units in Santa
-      Ana's newer development along MacArthur Boulevard show a similar issue in the
-      ejector arm — different part, same symptom, same fix timeline."
+  - title: "Calcified Fill Valve Shutting Down Ice Production Entirely"
+    description: "Santa Ana's hard water deposits calcium straight into the water inlet valve — the component that controls flow from your home supply line into the freeze mold. GE and Whirlpool units typically run 48-72 hours with an empty bin before the pattern becomes obvious. Flushing the line rarely helps at that stage; the solenoid is mechanically compromised and needs a full swap. We carry standard 120V replacement valves on the truck for most GE and Whirlpool platforms, so the repair usually wraps in a single visit. Typical residential water pressure in Santa Ana runs 40-60 psi — anything below 20 psi means the valve won't open reliably even after replacement, so we test at the inlet before ordering parts."
+  - title: "Frozen Supply Line Behind Older Ranch-Style Walls"
+    description: "Refrigerators pushed against exterior walls in Santa Ana's 1960s homes sit in a cold pocket that can freeze the narrow water line mid-run. Samsung models typically throw error code 1E or a blinking ice-maker indicator when this happens — the unit tries to cycle but the line is blocked solid. LG french-door units surface the same condition as an ER IF code. Re-routing the tubing with foam insulation is the only lasting fix. If the line has been cycling freeze-thaw for a few seasons, the plastic supply tube itself usually needs full replacement at the same time. Call (323) 870-4790 if you're seeing either code — a blocked line left alone tends to split within a few weeks and puts water on the floor."
+  - title: "Optical Sensor Failure During Peak Summer Heat"
+    description: "KitchenAid french-door refrigerators are frequent calls in Santa Ana from June through September. The optical sensor in the storage bin misreads capacity and halts production with no error code on the display. Replacing the sensor module and running a manual harvest cycle to verify calibration takes about 90 minutes on-site. Ambient temps in Santa Ana kitchens hit 85-90°F on August afternoons, which accelerates infrared sensor drift specifically on KitchenAid's 2017-2021 platform — a known failure pattern we see every summer. The control board sometimes logs a false-full condition simultaneously, so we test both the sensor harness and the board output before closing out."
 
 faq:
   - q: "How fast can you get to Santa Ana for ice maker repair?"
-    a: "We run the Santa Ana route daily — down the 5 or 57 from LA, typical arrival
-      is within 2 hours of your call. Evening slots available most weekdays.
-      Schedule online or call (323) 870-4790 to lock in a same-day window before
-      they fill."
-  - q: "Do you repair Samsung and LG refrigerators in Santa Ana?"
-    a: "Yes — Samsung and LG make up the majority of our repair calls here. We carry
-      fill valves, the assemblies, and control boards for both brands in the van.
-      Bosch and KitchenAid built-in units come up regularly too, and we stock parts
-      for those as well."
-  - q: "What does this type of repair typically cost, and is there a diagnostic fee?"
-    a: "Diagnostic fee applies to the visit, then credits toward the repair. Most
-      jobs — valve replacement, sensor swap, frozen line correction — land between
-      $130 and $260 parts and labor. Call (323) 870-4790 for a same-day slot;
-      we can usually confirm parts availability before we arrive."
-  - q: "Why does my Santa Ana fridge stop producing frozen cubes faster than a neighbor's in another city?"
-    a: "Hard water is the main factor. Orange County's supply — especially in Santa
-      Ana's 92701 and 92704 zip codes — runs high in dissolved minerals that coat
-      the inlet valve orifice and restrict flow over time. A fridge in a softer-
-      water city can go three or four years before needing that valve. Here, 18
-      months is common. Call (323) 870-4790 and we can diagnose whether it's the
-      valve, a control issue, or something else entirely."
+    a: "From our Orange County route, Santa Ana is a 20-30 minute drive depending on traffic on the 5 or the 55. Call (323) 870-4790 before noon and we can usually arrive the same day. Parking in Floral Park and the Riviera Streets area is straightforward — no permit zones to deal with. Evening slots are available for homeowners who can't take time off during the workday."
+  - q: "Do you repair Samsung and LG ice makers in Santa Ana?"
+    a: "Those two brands are our most common calls in Santa Ana, across zip codes 92701 through 92707. We stock fill valves, complete assemblies, and sensor modules for both Samsung and LG. On Samsung french-door models the ice maker assembly includes a separate auger motor and ejector blades — both wear faster in hard-water areas because mineral deposits grind into the rotation mechanism. Whirlpool and GE come up frequently too, especially in older homes where the original unit has been running for 12-plus years. Bosch and KitchenAid show up in the newer builds near South Coast Metro — different parts, but same-day availability on most common failure points."
+  - q: "What does this type of repair typically cost in Santa Ana?"
+    a: "Most jobs run $120-$280 depending on the part. A fill valve swap sits on the lower end; a full assembly replacement runs higher. Diagnosis happens on-site and you get a fixed price — parts and labor combined — before any work starts. For Santa Ana residents dealing with hard-water damage on older units, the honest answer sometimes involves a conversation about repair cost versus replacement cost. A 14-year-old GE side-by-side with a failed compressor is a different calculation than a 5-year-old Samsung with a cracked inlet valve. Emergency same-day slots available — call (323) 870-4790 or book online."

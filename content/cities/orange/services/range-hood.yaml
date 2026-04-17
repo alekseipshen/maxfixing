@@ -1,0 +1,35 @@
+title: "Orange CA Range Hood Repair — Old Towne Kitchens, Cleared"
+
+intro: |
+  Old Towne Orange kitchens near the Plaza in 92868 are running some of the oldest ventilation setups we see — original GE hoods with filters caked solid and motors going on three decades without cleaning. High-BTU burners in modern cooking push more grease vapor than those old duct runs were ever sized for. Smoke backs into the house. That's a fixable problem, not a normal one.
+
+  Many of the 1950s craftsman bungalows along Glassell Street have duct runs originally sized for lower-output ranges — undersized for today's cooking habits. Same issue shows up in the El Modena neighborhood east of the 55, where postwar ranch homes along Hewes Street sit on original ductwork that hasn't been cleared since Reagan was president. The Orange Park Acres parcels out past Cannon Street run larger ranch-style layouts with longer horizontal duct runs, and those long horizontal runs trap grease at every low point. We serve all of Orange — 92865, 92866, 92867, 92868, 92869 — and are usually there same day.
+
+localContext: |
+  The tract homes in Santiago Hills along Meats Avenue in 92869 mostly use recirculating hoods — no exterior duct, just a charcoal filter cycling air back into the kitchen. Those charcoal filters saturate fast in households that cook daily, and most residents don't notice until odors stop clearing between meals. Replacing charcoal filter packs on these recirculating units runs about $40-60 and takes twenty minutes, but the underlying blower and housing still need inspection.
+
+  Older blocks near Chapman University in 92866 are different: ductwork runs exist but often terminate in wall louvers or roof caps that haven't moved freely in years. Galvanized roof caps on homes along Maple Avenue tend to seize — rust or paint over the hinge flange locks the flap shut. The exhaust fan fights back-pressure the whole time it runs, which overloads the motor faster than normal wear would.
+
+  The Serrano Heights neighborhood off Santiago Canyon Road in 92869 is newer construction — 1990s and early 2000s two-story homes where KitchenAid and Bosch wall-mount hoods were spec'd in during original build. These units are a generation old now and the damper actuators are failing on schedule. Residents near the Irvine Regional Park side tend to cook with the windows open, which creates negative pressure that fights the exhaust system even when everything is working correctly.
+
+  Over in the 92867 zip near Tustin Street, homeowners more often have mid-range Bosch or KitchenAid under-cabinet units installed during kitchen remodels from the early 2000s. Different failure patterns there — damper issues and control board glitches rather than the mechanical wear common in older stock closer to downtown Orange.
+
+commonProblems:
+  - title: "Dead Blower Motor From a Failed Run Capacitor"
+    description: "GE Profile and older Whirlpool hoods common in 92868 use a single-speed squirrel-cage blower motor with a run capacitor. Capacitors fail silently — no error code, fan just stops spinning. The motor hums when you flip the switch but the blade doesn't turn; that low buzz is the giveaway. Replacing the capacitor typically runs $80-120 and takes under an hour on-site, no hood replacement needed."
+  - title: "Grease Buildup Choking the Blower Wheel"
+    description: "Homes near Chapman Avenue cook heavily, and grease accumulation on the blower wheel is the result. Buildup slows the wheel's RPM, drops CFM below useful levels, and eventually seizes the motor bearing. Samsung and LG slide-in models with integrated lighting sometimes show a blinking fan indicator before the motor seizes completely — that's the thermal overload tripping. A thorough blower wheel cleaning plus fresh grease filter usually restores full airflow without touching any electrical components."
+  - title: "Stuck Duct Damper Causing Backdraft"
+    description: "KitchenAid and Bosch wall-mount hoods installed in Santiago Hills homes during the mid-2000s frequently develop a corroded duct damper — the flap that seals the duct when the fan shuts off. Stuck open means cold air and outside odors drift back in; stuck closed means exhaust has nowhere to go. On Bosch units, the damper assembly ties into the speed selector wiring harness, so a seized damper can also cause the motor to run at full speed regardless of which setting you choose. Damper assembly replacement fixes it completely."
+  - title: "Lighting Circuit Failure Unrelated to the Bulb"
+    description: "Older GE Spacemaker hoods and mid-range KitchenAid units use a small socket board mounted close to the cooking surface. Heat cycles degrade the board contacts over time — the socket cracks, connections arc, and the lamp circuit fails even with a brand-new bulb installed. Especially common in the 92868 zip where the original hood is still in place after 30-plus years. Socket board replacement runs $60-90 and fixes it permanently, versus chasing bulb changes that never solve anything."
+
+faq:
+  - q: "How fast can you get to Orange for range hood repair?"
+    a: "Service routes run through Orange daily from the Santa Ana and Anaheim direction — 92868 and 92866 are usually 30-45 minutes out. Call (323) 870-4790 to lock in a same-day slot. Evening appointments available most weekdays, and street parking near Old Towne is straightforward."
+  - q: "Do you repair Bosch and KitchenAid range hoods?"
+    a: "Both are common calls in Orange — KitchenAid wall-mounts and Bosch under-cabinet units especially. We stock blower wheel assemblies, damper kits, and grease filters for those models. Samsung and LG hoods come up too; control board failures on the Samsung slide-ins are a regular call in the 92867 area."
+  - q: "What does range hood repair cost, and how long does it take?"
+    a: "Diagnostic visit is $75, credited toward any repair. Most blower motor and capacitor jobs run $150-250 parts and labor. Damper swaps are usually under $180. Same-day service available — call (323) 870-4790 and we'll tell you what's on the van before we head out."
+  - q: "My hood exhausts through the wall — can you service it without opening up the wall cavity?"
+    a: "Almost always yes. The damper, motor, blower wheel, and capacitor are all accessible from inside the hood body. Duct runs in older Orange homes along streets like Glassell and Maple are usually straightforward galvanized pipe — we can clear blockages at the cap end from the roof or from inside the hood throat without opening drywall. If the cap itself is seized, that's a ten-minute fix from the exterior. Call us at (323) 870-4790 and describe what you're seeing — we can usually give a cost estimate before scheduling."

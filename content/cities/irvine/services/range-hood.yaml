@@ -1,78 +1,87 @@
-title: "Irvine Range Hood Repair — High-Heat Cooking, Fixed Fast"
+title: "Irvine Range Hood Repair — Same-Day OC Service"
 
 intro: |
-  High-heat cooking is the norm in Woodbridge and the Northwood neighborhoods — wok
-  burners at full BTU load up a Bosch or KitchenAid hood's grease filters faster than
-  most homeowners expect. That clogged filter doesn't just create odor. It forces the
-  blower motor to work against restricted airflow, which is usually the first step toward
-  a full motor failure. Irvine kitchens get used hard, and the hoods pay for it.
-
-  Orange County tap water tests at 300–400 ppm hardness across most of Irvine. That
-  mineral load accelerates scale deposits on blower housings and damper assemblies in
-  ways you don't see in softer-water cities. A hood running fine in Portland would be
-  gummed up and noisy inside two years here.
+  Planned-community kitchens in Woodbury and Orchard Hills tend to run Bosch and KitchenAid
+  wall-mount hoods — solid units, but they still fail. The blower wheel seizes up, grease
+  filters pack solid, or the control board dies mid-dinner. MaxFixing covers Irvine with
+  same-day scheduling. Call (323) 870-4790 and we can usually get a tech on-site within
+  2–3 hours.
 
 localContext: |
-  Most of Irvine's housing stock was built between 1978 and 2010 — master-planned
-  subdivisions in zip code 92620 near Northwood, or the newer Great Park neighborhoods
-  around 92618. These homes were built with ducted range hoods running through cabinetry
-  and up into the attic, which means a vent duct blockage or backdraft damper failure is
-  harder to diagnose than in a simple recirculating hood. Grease buildup inside those
-  longer duct runs is a real and recurring problem here.
+  The master-planned layout in zip codes 92620 and 92618 means most single-family homes
+  and townhouses went up between the late 1980s and 2010s — ducted range hoods routed
+  through interior walls or above tall cabinetry in open-concept floorplans. Great Park
+  neighborhoods like Portola Springs have wide kitchen islands with ceiling-mounted hoods
+  that need long vertical duct runs. Those configurations trap grease and create airflow
+  choke points that cause problems most homeowners don't catch until the smoke alarm goes off.
 
-  Orchard Hills and Portola Springs (92602) have higher ceilings and deeper cabinet
-  runs — duct lengths of 12–18 feet aren't unusual in those newer builds. That extra
-  distance is where grease condenses fastest. Homes near the Irvine Spectrum Center in
-  92618 tend to have kitchen remodels with wall-mount hoods installed by GC contractors.
-  Good-looking installs, but often with undersized duct transitions that choke airflow
-  from day one. Diagnosing that before replacing any parts saves the homeowner real
-  money. University Park and Westpark homes in 92612 run older under-cabinet units —
-  Kenmore and early KitchenAid models that are 15–20 years in and starting to show it.
+  Shady Canyon and Turtle Rock are different stories. Larger custom homes there run
+  Thermador and Sub-Zero setups with professional-grade ventilation — 600 CFM or higher,
+  dedicated makeup air, baffle filters instead of mesh. When those fail, it's usually
+  the duct damper assembly or a controller fault, not a simple filter issue. University
+  Park and Northwood homes from the early 1990s have older ducted installations that
+  weren't designed for modern high-output cooking — the original 4-inch round duct
+  restricts airflow enough to burn out blower motors prematurely.
+
+  Irvine sits in the inland OC basin where summer temperatures push into the mid-90s
+  regularly. Hard water from the Irvine Ranch Water District leaves mineral scale on
+  internal wiring contacts, grease filter mesh, and baffle surfaces — accelerating
+  electrical faults in control boards on hoods that are only 3–4 years old. Range hoods
+  in west-facing kitchens near the Irvine Spectrum corridor also run in already-hot
+  ambient conditions — that extra thermal load stresses motor capacitors faster than
+  coastal-area homes see.
 
 commonProblems:
-  - title: "Blower Wheel Failure in Irvine's Heavily Used Kitchens"
-    description: "After a few years of regular cooking, rendered grease bypasses the mesh
-      filter and coats the blower wheel — especially on KitchenAid and Bosch under-cabinet
-      models. That coating throws the wheel off balance, causing vibration and noise before
-      the motor eventually seizes. Cleaning or replacing the blower wheel is the fix, not
-      a full hood replacement. On KitchenAid's 400–600 CFM models, the blower assembly
-      pulls out after removing four screws from the bottom panel — under an hour on-site.
-      Trying to run it dirty long-term usually burns out the motor windings and doubles
-      the repair cost."
+  - title: "Blower Wheel Failure in Open-Concept Irvine Kitchens"
+    description: "Open layouts let cooking vapors spread before the hood captures them, so the
+      blower works harder and accumulates grease on the wheel faster. That Bosch under-cabinet
+      unit might spin on low but barely draw on high — classic blower wheel obstruction or a
+      failing motor capacitor. On the newer Bosch Serie 800 models common in 92618 builds,
+      the blower wheel is press-fit onto a stepped shaft; a worn bearing lets it wobble and
+      scrape the housing before the motor fully fails. Usually fixable same visit if it's
+      mechanical, not electrical. Call (323) 870-4790 if you're hearing that grinding noise
+      at high speed — catching it early saves the motor."
 
-  - title: "Duct Blockages and Stuck Backdraft Dampers Around 92604 and 92612"
-    description: "Longer duct runs through attic space — common in Irvine's two-story
-      planned homes — collect grease residue and eventually choke airflow until the hood
-      barely pulls smoke. The backdraft damper can also stick shut from combined grease and
-      OC hard water scale, which looks exactly like a fan motor failure. Diagnosing the
-      difference before ordering parts saves real money. A stuck damper in a Westpark or
-      University Park home runs about $85 to fix. A motor replacement runs $180–$220.
-      Getting that call right on the first visit is the whole job."
+  - title: "Duct Vibration Noise in Tract-Home Wall Runs"
+    description: "Long duct runs through interior walls — common in Northwood and Turtle Rock
+      homes — create resonance at certain fan speeds. Sometimes it's a loose duct joint;
+      other times the motor mount has cracked. KitchenAid and Thermador variable-speed hoods
+      also develop a high-pitched whine when the control board degrades and loses clean
+      speed regulation. In 1990s-era University Park homes, the original flex duct
+      transitions have often separated at the collar — that gap lets air escape into the
+      wall cavity and creates a low-frequency hum that sounds like it's coming from
+      the fan itself. Fixing the duct connection is a 30-minute job. Replacing a
+      cracked motor mount bracket takes a bit longer but we carry the common sizes."
 
-  - title: "LED Driver Board Failures on Premium Hoods in Shady Canyon and Turtle Ridge"
-    description: "Thermador and Sub-Zero wall-mount hoods in homes along Shady Canyon Road
-      often use integrated LED driver boards that fail from heat cycling — the light stops
-      working while the fan runs fine. Replacing only the driver board or the socket
-      assembly is a straightforward fix. No reason to pull and replace the entire unit.
-      Sub-Zero's hood line uses a proprietary 24V LED module; the part number is usually
-      on a sticker behind the filter panel. We stock several common variants and can
-      usually resolve the lighting issue same day without a return trip."
+  - title: "LED Light Failure Caused by Restricted Airflow"
+    description: "Orange County hard water leaves mineral scale on mesh grease filters fast —
+      faster than most people realize. On Samsung and LG hoods with integrated LED driver
+      boards, a clogged filter raises heat inside the hood cavity enough to kill the LED
+      assembly prematurely. The lights go first, but restricted airflow through the filter
+      is the actual problem driving the failure. In Woodbury and Cypress Village kitchens
+      where cooking is heavy, we see this on hoods less than three years old. The fix is
+      filter replacement plus a new LED driver board — and going forward, running the
+      hood on medium for five minutes after cooking to clear residual heat. Skipping
+      that cool-down cycle is what kills the boards early."
 
 faq:
-  - q: "How fast can you get to Irvine for range hood repair?"
-    a: "We come down from LA via the 405 or 5 most days — 92618 and 92620 typically get
-      same-day service, usually there within 2–3 hours of your call. Evening slots open
-      up regularly after 5pm too. Check today's availability at (323) 870-4790."
+  - q: "How fast can you get to Irvine for Range Hood repair?"
+    a: "We run the 405 corridor daily, so Irvine zip codes like 92618 and 92620 are on our
+      regular route. Most calls get same-day slots — usually on-site within 2 hours. Call
+      (323) 870-4790 or schedule online at maxfixing.com. Evening slots available for
+      customers who can't be home during the day."
 
-  - q: "Do you repair Bosch, KitchenAid, and Thermador range hoods?"
-    a: "Yes. Bosch and KitchenAid are the most common hoods we see in Irvine — blower
-      assemblies and control boards are straightforward on both. Thermador and Sub-Zero
-      wall-mounts need specific housing tools; we carry them and stock common parts.
-      LG and Samsung chimney hoods show up in the newer Great Park homes too — control
-      board failures and LED strip replacements on those are quick diagnostics."
+  - q: "Do you repair Bosch and Thermador range hoods in Irvine?"
+    a: "Both are common in Irvine's newer builds, and yes — we service them regularly. On
+      Bosch, we mostly see blower motor and grease filter issues. Thermador units tend to
+      have duct damper assembly failures and control board faults, especially in the
+      older PowerPack inserts installed in Shady Canyon homes around 2005–2012. We carry
+      parts for both and can usually quote on-site before touching anything."
 
-  - q: "What does range hood repair cost, and can I get an evening appointment?"
-    a: "Most repairs run $120–$280 depending on the part — blower motor swaps on the
-      higher end, filter cleaning and damper resets on the lower end. Evening slots open
-      up regularly. Same-day is available most weekdays — call (323) 870-4790 or
-      schedule online."
+  - q: "What's involved in diagnosing a range hood that stopped working completely?"
+    a: "Dead hood usually points to the control board, a blown thermal fuse, or a seized
+      blower motor. We check all three on the first visit. Diagnosis takes 15–20 minutes.
+      Same-day repair is common if parts are available — call (323) 870-4790 to get a
+      tech scheduled. If it's a control board on a higher-end brand like Sub-Zero or
+      Wolf, we'll confirm part availability before confirming the appointment so you're
+      not waiting on a second visit."

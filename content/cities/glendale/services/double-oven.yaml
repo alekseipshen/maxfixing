@@ -1,31 +1,92 @@
-title: "Glendale Double Oven Repair — Montrose to Adams Hill, Fast"
+title: "Glendale Double Oven Repair — Built-In Units in Older Homes"
 
 intro: |
-  Around Montrose and the Verdugo Woodlands, a lot of 1950s ranch-style kitchens got double wall ovens installed during the early-2000s remodel wave. Those KitchenAid units are now pushing 18-20 years. Lower oven stops heating while the upper still works, or both cavities start reading 40 degrees apart — that's a failed bake element or a drifted temperature probe, not a full replacement situation. Call (323) 870-4790 and we're usually there same day.
+  Adams Hill and the older blocks off Verdugo Road are packed with homes that got
+  double wall ovens installed during kitchen remodels in the '90s and early 2000s.
+  A lot of those are GE Profile or KitchenAid units — solid at the time, but the
+  control boards on both brands start misbehaving around the 15-year mark. One oven
+  stops heating altogether while the other runs fine. That split behavior is almost
+  always the upper oven's bake element or a relay failure on the main board.
 
 localContext: |
-  Glendale's 91205 and 91206 zip codes mix 1940s single-family homes with denser multi-unit buildings — tight kitchens, sometimes flush-column configurations where the wall oven sits in a narrow cabinet stack. The older pre-1970 wiring in Adams Hill and Rossmoyne can cause intermittent control board errors that look like oven failure but are actually power delivery issues. Worth knowing before replacing parts that don't need replacing.
+  Glendale's housing stock in 91205 and 91206 leans heavily on postwar bungalows and
+  1960s tract homes that got upgraded kitchens over the decades. Those renovations
+  often dropped in 30-inch double wall ovens where a single unit used to be, meaning
+  the cabinet cutout is tight. Pulling and reinstalling requires patience — the framing
+  in these older walls doesn't always line up with modern mounting brackets.
+  Chevy Chase Canyon homes are similar: well-maintained but the kitchens weren't
+  designed around today's appliance dimensions.
 
-  The 91207 corridor up toward Glenoaks and the La Crescenta border tends to have newer construction from the 1980s and 90s. These homes went with GE Profile and Whirlpool double-cavity configurations that are now at the age where heating elements and thermal fuses start going. Glendale's summer heat doesn't help — ambient temps in the Foothill area push into the high 90s, and the electronics in these units run hotter than they were rated for.
+  Glendale's large Armenian community uses ovens hard — daily baking, holiday cooking,
+  elaborate multi-dish meals. A built-in unit in a household like that logs two or three
+  times the hours of a typical LA kitchen. By the time a job shows up on our schedule,
+  it's often got 8-10 years of heavy use on it. That matters for realistic parts
+  sourcing and repair expectations. A KitchenAid that's been running six days a week
+  since 2011 needs a different conversation than one used on weekends only.
 
-  Chevy Chase Canyon and Kenneth Village have a different mix — older craftsman bungalows that got gut-renovated, often with Bosch or KitchenAid upgrades installed during those projects. Those are usually flush-mounted in custom millwork, which means access takes more time than a standard pull-out. We've worked plenty of these in Glendale and know the clearance issues ahead of time.
+  Getting into Glendale from our San Fernando Valley base is straightforward via the
+  134 — usually 20-30 minutes with normal traffic. That means same-day service without
+  the scheduling gymnastics you'd get from a company based in Pasadena or downtown LA.
+  The Verdugo Mountains trap heat in summer, and kitchens near Glenoaks Boulevard that
+  lack good ventilation run hot year-round. That heat accelerates wear on control boards
+  and thermal fuses faster than you'd see in coastal areas.
+
+  Glendale Water & Power delivers water with high mineral content — harder than most
+  of LA County. That same mineral buildup that clogs dishwasher spray arms also
+  affects steam-assisted self-clean cycles on newer GE and Samsung double ovens.
+  In the Montrose neighborhood north of the 210, we pull reservoir assemblies and
+  water inlet valves that are completely calcified, often in units only seven or eight
+  years old. The plumbing connection behind a recessed double wall oven never gets
+  flushed the way a dishwasher does, so scale accumulates unnoticed until the steam
+  cycle fails entirely. Older wiring in the 1950s blocks near Central Avenue is
+  another factor — 240V circuits that were sized for a single oven sometimes
+  struggle when a modern 5,000W double unit runs both cavities simultaneously.
+  We check the electrical connection before assuming the appliance is at fault.
 
 commonProblems:
-  - title: "Lower Oven Won't Heat While Upper Cavity Works Fine"
-    description: "GE and Whirlpool double wall ovens show this pattern constantly. The lower cavity takes more daily abuse — more door cycles, more roasting runs — so the bake element fails first. Sometimes it's the thermal fuse on that circuit tripping and not resetting. Both parts are stocked for the common models we see in Glendale, and most calls get fixed in one visit. If the broil element is also showing uneven glow or partial heat, that's a separate circuit and worth checking while we're already in the unit."
-  - title: "Temperature Gap of 30–50°F Between the Two Cavities"
-    description: "Bosch and KitchenAid units develop this after 10-plus years. The RTD temperature sensor mounts near the back wall of each cavity and oxidizes over time — one reads high, one reads low, and baking results go sideways. Some cases fix with recalibration through the service menu. A drifted sensor that's beyond spec needs swapping out. In Glendale homes with fluctuating voltage from aging panels, it's also worth checking the control board's calibration memory, which can corrupt after power spikes."
-  - title: "Control Board Errors — F-Codes or Dead Touchpad"
-    description: "Samsung double ovens hit F-code loops and unresponsive touchpads around year 8–10. The control board runs hot in normal use, and Glendale summers push ambient temps up further. Symptoms: one cavity locks out, display freezes, or random shutoffs mid-bake. An F3 or F9 code on these models usually points to the sensor or the relay on the board itself, not the whole board — diagnose before ordering parts. Board replacement costs less than a new unit in most cases, and we carry the common Samsung boards in the van."
-  - title: "Oven Door Hinge and Seal Problems"
-    description: "Door hinge assemblies on older LG and GE units wear out around year 10-12. A sagging door throws off the cavity seal, which means heat escapes and the oven cycles constantly trying to reach temperature. In Glendale's older homes where the oven is built into a tall cabinet column, a door that doesn't close flush is obvious — and fixing the hinge assembly is usually a half-hour job. Door gaskets on these models are cheap; the hinge bracket itself is the part that fails."
+  - title: "Upper Oven Dead, Lower One Works — Control Board Split Fault"
+    description: "This shows up constantly on GE Profile double wall ovens here in Glendale.
+      The main control board has separate relay outputs for each cavity, and one relay
+      burns out while the other keeps firing. The oven displays normally, you set a temp,
+      nothing happens. GE Profile models from 2005-2012 are the most common offenders —
+      the board part number usually starts with WB27 if you want to cross-reference before
+      we arrive. Replacing just the failed relay is possible but a full board swap is
+      usually the cleaner fix at this age. Expect $180-$280 for parts and labor on that job."
+
+  - title: "Temperature Reads 350° But Feels Like 275° — Bake Element Partial Failure"
+    description: "A partially failed bake element is sneaky. The oven still heats — just not
+      to temp. KitchenAid double ovens from the mid-2000s are prone to this; the element
+      develops a hairline crack and draws reduced wattage. Food takes 30% longer and the
+      bottom never browns right. Pull the lower oven rack and look for a visible scorch
+      mark or blister on the element coil. Some KitchenAid units throw an F3E0 or F3E1
+      error code when the sensor circuit registers the temp discrepancy — that code
+      narrows the diagnosis considerably and saves time on the service call."
+
+  - title: "Door Hinge Worn — Oven Won't Seal, Heat Escapes"
+    description: "The lower cavity door takes more abuse on any built-in double unit — opened
+      more often, loaded heavier, slammed more. Whirlpool and Samsung double ovens both
+      use a spring-loaded hinge assembly that wears out and lets the door hang slightly
+      open. Even a 2mm gap kills temperature consistency. The thermal fuse can also trip
+      repeatedly if heat keeps leaking past a bad door gasket seal. Replacing the gasket
+      alone runs $40-60 in parts — worth doing before the fuse fails and takes the
+      control board with it. We carry hinge kits for Whirlpool and Samsung in the van."
 
 faq:
-  - q: "How fast can you get to Glendale for double wall oven repair?"
-    a: "Usually within 2 hours for same-day calls — we work the 91201 through 91210 zip codes regularly. Chevy Chase Canyon, Kenneth Road, downtown Glendale corridors, no issues. Call (323) 870-4790 to check today's availability."
-  - q: "Do you work on KitchenAid and GE double wall ovens in Glendale?"
-    a: "KitchenAid and GE are the two most common double wall ovens we service in this area. Also handle Whirlpool, Samsung, Bosch, and LG. Most jobs — bake element swaps, sensor replacements, broken door hinge assemblies — are done on the first visit. For flush-mounted built-ins in renovated Glendale homes, we bring panel removal tools so we're not improvising on-site."
-  - q: "What does double oven repair typically run in Glendale?"
-    a: "A bake element replacement is roughly $90–150 parts and labor. Control board jobs run $200–350 depending on model. Diagnosis happens on-site; we quote before starting anything. Evening slots available — call (323) 870-4790 for same-day or next-morning scheduling."
-  - q: "My oven shows an error code but still heats — should I keep using it?"
-    a: "Depends on the code. An F3 on a Samsung usually means the temperature sensor is drifting — the oven can overheat without you knowing it. A door-latch error on a self-cleaning model means the door won't lock for self-clean, but normal baking is fine. Don't guess on codes that involve heating elements or gas ignition. Call us and describe exactly what's on the display — we can usually tell you over the phone whether it's safe to run."
+  - q: "How fast can you get to Glendale for an oven repair?"
+    a: "From our San Fernando Valley coverage zone, Glendale is usually 25-35 minutes
+      depending on the 134. Same-day slots are available most days — call us at
+      (323) 870-4790 and we'll tell you exactly when we can be there. Street parking
+      on the residential blocks off Brand Boulevard is usually fine for the service van."
+
+  - q: "Do you repair KitchenAid and GE double wall ovens specifically?"
+    a: "Both are common in this part of Glendale. On KitchenAid, the door hinge assembly
+      and control board are the usual culprits. GE Profile units often need the bake or
+      broil element replaced, sometimes the igniter on gas models. Whirlpool built-in
+      ovens show up frequently too — we stock parts for all three. Samsung and LG
+      dual-cavity models are repairable as well, though parts lead times vary by model year."
+
+  - q: "What does the repair typically cost, and is same-day service available?"
+    a: "Control board replacement runs $180-$320 depending on the model. Bake element
+      swaps are usually $95-$150 parts and labor combined. Door hinge assembly jobs
+      typically land at $80-$130. Evening slots are available if daytime doesn't work —
+      call (323) 870-4790 and we can often reach 91205 or 91206 the same day."

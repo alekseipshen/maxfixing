@@ -1,94 +1,114 @@
-title: "Pasadena Oven Repair — Craftsman Kitchens to Thermador Wall Ovens"
+title: "Pasadena Oven Repair — Craftsman Kitchens, Real Fixes"
 
 intro: |
-  The Craftsman bungalows along Arroyo Boulevard and the Spanish Colonial revivals near
-  Caltech weren't designed for Thermador wall ovens — but that's what's in plenty of them
-  now. Pasadena remodels skew premium. When a KitchenAid double wall oven starts throwing
-  an F3 error or stops holding temperature past 350°, you need someone who actually
-  understands the part, not just the brand. We cover Pasadena same-day, usually there
-  within 2 hours of your call to (323) 870-4790.
+  Bungalow Heaven — the historic grid between Washington Boulevard and
+  Orange Grove — packs hundreds of 1910s Craftsman homes, most of them
+  remodeled at least once since the 1980s. A lot of those kitchen updates
+  included KitchenAid wall ovens that are now pushing 30-plus years old.
+  Heating element failures, temperature calibration drift, self-clean
+  lockouts — these are the calls we get regularly from Pasadena
+  homeowners who need it fixed fast, not next week. The Rose Bowl
+  neighborhood and streets up toward Linda Vista average older housing
+  than most of the San Gabriel Valley, which means aging oven components
+  are the rule, not the exception.
 
 localContext: |
-  The 91103 and 91105 zip codes mix pre-war Craftsman stock with 1950s-60s ranch homes —
-  original gas range setups, many converted to dual-fuel when kitchens got updated. The
-  Bungalow Heaven Historic District alone has hundreds of kitchens retrofitted with modern
-  slide-in ranges dropped into cabinetry built for something far older.
+  South Pasadena and the 91030 zip border bleeds into 91105, where
+  Spanish Colonial Revival and Craftsman homes from the 1920s–1940s are
+  the norm. Kitchens in these houses were typically gutted and redone in
+  the 70s or 80s, which means a second wave of aging appliances is
+  failing now. The 91106 zip — east along Colorado Boulevard past
+  Caltech and into the San Rafael Hills — trends more toward 2000s-era
+  remodels with Thermador and Bosch ranges. Madison Heights, east of
+  Lake Avenue in 91101, runs newer still, with higher concentrations of
+  Bosch wall ovens and KitchenAid double-oven setups.
 
-  West of Lake Avenue, the remodels get more serious. Built-in Thermador and Bosch wall
-  ovens are standard in those kitchens, and original cabinet depths paired with aging
-  electrical panels make every service call more involved than a standard tract-home job.
+  Parking and kitchen access are generally easy here — most addresses
+  have driveways, no apartment-building logistics. The Arroyo Seco
+  corridor along 91103 mixes older bungalows with recently flipped
+  properties, so we see everything from tired GE slide-in ranges to
+  freshly installed Thermador dual-fuel units on the same block.
 
-  Homes on the north side near the Arroyo Seco have seen significant kitchen overhauls in
-  recent years — full Thermador cooking suites, sometimes a Sub-Zero column refrigerator
-  next to a 36-inch range. Access to those built-in wall ovens often means partially pulling
-  the unit out of the cabinet run before the first diagnostic check can even start. Tight
-  tolerances, old framing, and a premium appliance that the homeowner paid real money for.
-  That combination demands patience and the right tools.
+  Old Town Pasadena and the stretch along Fair Oaks Avenue toward the
+  91103 boundary sees a lot of condo conversions from the 2000s — those
+  buildings typically have LG or Samsung freestanding ranges jammed into
+  galley kitchens with limited clearance. Getting the oven pulled and
+  back in place without scratching hardwood or tile is half the job.
+  Farther east, the neighborhoods around Sierra Madre Boulevard and
+  Hastings Ranch in 91107 skew larger lots, 1950s–1970s ranch houses
+  with gas ranges — mostly GE and Maytag originals that have been
+  running since the Carter administration. Water quality in Pasadena
+  draws from the Metropolitan Water District and local wells, and mineral
+  content is high enough that broiler igniters and oven sensors in older
+  units scale up faster than they would in softer-water cities. We factor
+  that in during diagnostics — a fouled temperature sensor reads low,
+  the oven overheats trying to compensate, and homeowners blame the
+  control board before the real cause gets identified.
 
 commonProblems:
-  - title: "Gas Igniter Failure in Pasadena's Older Kitchen Setups"
-    description: |
-      Gas ovens in pre-war and mid-century Pasadena homes fail this way constantly: the
-      igniter weakens until it glows but can't draw enough current to open the gas valve.
+  - title: "Gas Oven Igniter Too Weak to Light — Classic Pasadena Problem"
+    description: >-
+      Older Bosch and Thermador gas ranges in the Madison Heights and
+      San Rafael Hills areas show this constantly. The glow-bar igniter
+      draws current, the gas valve opens, but nothing lights — or the
+      oven takes five minutes to come up to temp. The igniter itself
+      tests fine with a multimeter but is below the amperage threshold
+      the gas valve needs. A weak igniter pulls around 2.5–3.0 amps
+      instead of the 3.2–3.6 range a healthy one holds, and that gap is
+      just enough for the gas valve to stay partially closed. Replacement
+      fixes it cleanly — typically a 45-minute job on Thermador PRO
+      series and most Bosch 800-line ranges.
 
-      You hear the click, smell a brief trace of gas, then silence.
+  - title: "Bake Element Partial Failure Causing Hot Spots"
+    description: >-
+      A KitchenAid wall oven baking unevenly is almost always a
+      cracked bake element — it still glows, still pulls power, but
+      heat distribution across the cavity is shot. You see burned edges
+      and raw centers. On 30-year-old units common in Bungalow Heaven,
+      the element bracket can also corrode through, which means the
+      element sags and contacts the oven floor. The hidden failure mode
+      here is a hairline crack mid-element that only shows under load —
+      cold resistance checks come back normal, so homeowners often spend
+      months replacing thermostats before someone catches it visually.
+      We pull the element and inspect under direct light before quoting
+      any other parts.
 
-      KitchenAid freestanding gas ranges are a repeat offender here, and Bosch slide-ins
-      aren't far behind. Resistance testing the igniter tells you quickly whether it's the
-      element or the gas valve that needs attention next. Usually an igniter assembly swap
-      closes the job on the same visit — if the igniter tests within spec, the valve itself
-      gets pulled and inspected before we leave.
-
-  - title: "Self-Clean Cycle Leaves the Oven Locked Shut"
-    description: |
-      Self-clean pushes the oven cavity past 900°F. That kind of sustained heat destroys
-      the door latch assembly faster than years of normal cooking ever would. The latch
-      sticks in the locked position after the cycle — or the thermal fuse trips entirely,
-      leaving the oven both locked and dead.
-
-      Thermador double wall ovens see this failure more than most. Samsung slide-ins too.
-      A control board reset fixes it sometimes; a blown thermal fuse means the part gets
-      replaced before anything runs again. If the latch motor itself is seized, that's a
-      separate component — we check both before ordering anything.
-
-  - title: "Uneven Baking from a Partially Failed Bake Element"
-    description: |
-      A crack or burn-through in the bake element creates hot spots — one side of the oven
-      runs significantly hotter than the other, and you might not catch it until a whole
-      sheet pan comes out half-scorched. LG slide-in ranges typically throw an F9 or heating
-      error code. Older Bosch wall ovens often fail silently, no error code at all — the
-      oven just bakes badly and the homeowner assumes something's off with their recipe.
-
-      New element, about 45 minutes, and the range is back to normal that same day. No error
-      code and the element looks intact? The oven temperature sensor gets tested next — a
-      failed sensor reads low and the control board overcompensates, which mimics a bake
-      element problem almost perfectly.
+  - title: "Self-Clean Cycle Leaving Door Locked — LG and Samsung Models"
+    description: >-
+      LG and Samsung freestanding ranges in newer Pasadena builds
+      — the 91104 corridor near the 210 — frequently throw a door-lock
+      error after the self-clean cycle ends. The motor-driven latch
+      assembly seizes from repeated heat cycles. The door stays locked
+      and the unit throws an F9 or a lock-indicator that won't clear.
+      Control board reset sometimes works; latch assembly replacement
+      is the permanent fix. On some LG models a secondary thermal fuse
+      tied to the door-lock circuit also blows during high-heat cleaning,
+      so we test both before ordering parts.
 
 faq:
   - q: "How fast can you get to Pasadena for oven repair?"
-    a: |
-      Pasadena sits on our regular 210 corridor route. Most days we're there within 2 hours
-      of your call. Old Town and the blocks around Caltech can be tight for the service van,
-      so mention access when you book. Call (323) 870-4790 or schedule online — same-day
-      slots are usually open.
+    a: >-
+      The 210 freeway puts most of Pasadena within 30 minutes from
+      us. Addresses in 91103, 91104, and 91106 typically get same-day
+      service — usually there within 2 hours of your call. Ring us at
+      (323) 870-4790 and we will confirm a window the same morning.
+      Evening slots are available most weekdays for 91105 and 91101
+      as well.
 
-  - q: "Do you repair Thermador and Bosch wall ovens in Pasadena?"
-    a: |
-      Both show up constantly in Pasadena remodels. Thermador wall ovens usually need igniter
-      work or convection fan motor replacement — the fan bearings wear out faster than most
-      owners expect. Bosch models lean toward control board failures or door latch issues.
+  - q: "Do you repair Thermador and Bosch ovens in Pasadena?"
+    a: >-
+      Yes, both regularly. Thermador dual-fuel ranges in the Madison
+      Heights and South Lake remodels are a common call — mostly
+      igniter and temperature sensor work. Bosch wall ovens come in
+      for control board and door latch issues. We carry parts for
+      Bosch 500 and 800 series and Thermador PRO Harmony line on the
+      van, and we do not outsource diagnostics.
 
-      KitchenAid and LG ranges round out most of our calls here. We stock parts for all four,
-      so most repairs close on the first visit.
-
-  - q: "What does oven repair cost in Pasadena, and do you charge for the diagnosis?"
-    a: |
-      Diagnostic fee is $75, applied toward the repair if you move forward. Most common
-      fixes — heating element swap, thermal fuse replacement, igniter assembly — run $150
-      to $280 in parts and labor. Evening and weekend slots are available most weeks.
-
-      Urgent situation? Call (323) 870-4790 and we'll sort out same-day or emergency
-      coverage. If it's a gas issue and the oven isn't safe to use, say so when you call —
-      those get prioritized.
-
----
+  - q: "What does oven repair cost in Pasadena and how quickly can you come?"
+    a: >-
+      Diagnostic is free with repair. Most jobs — bake element swap,
+      igniter replacement, door latch assembly — run $140 to $320
+      depending on parts. Same-day slots are available most days.
+      Evening appointments work for most Pasadena addresses. Call
+      (323) 870-4790 or schedule online and we will find a window
+      that fits.

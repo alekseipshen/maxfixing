@@ -1,31 +1,59 @@
-title: "Pomona Wine Cooler Repair — Quick Fixes for SGV Homes"
+title: "Pomona Wine Cooler Repair — Same-Day Service in San Gabriel Valley"
 
 intro: |
-  Older ranch homes and craftsman bungalows near downtown Pomona have been getting serious kitchen upgrades over the past decade — built-in wine storage is part of almost every remodel now. That Samsung 32-bottle freestanding unit looked great on install, but the compressor runs harder than spec in Pomona summers, especially in kitchens without dedicated ventilation clearance. Most service calls from the 91766 zip come down to three things: temperature creeping above 60°F, vibration rattling the cabinet, or a door seal that's lost its grip.
+  Around Lincoln Park and along Garey Avenue, a lot of Pomona's older homes have gotten full kitchen overhauls in the past decade. A freestanding KitchenAid wine cooler ends up under the counter after a remodel — and when it starts warming up or cycling nonstop in July, it's a real problem.
+
+  Pomona hits 95°F routinely from June through September.
+
+  That's brutal for any compressor trying to hold a consistent 55°F. The Fairplex area and neighborhoods around Phillips Ranch see a lot of this — homeowners invest in a decent wine cooler, tuck it into a remodeled kitchen, and three summers later the unit's working twice as hard as it should. Hard water from the MWD supply lines doesn't help either; mineral scale builds up inside the water line of dual-zone units with humidity controls, quietly choking performance before anything obvious shows up.
 
 localContext: |
-  Pomona's housing stock is mostly 1950s and 1960s tract construction — the blocks around Lincoln Park in zip 91767 are a good example, single-story stucco homes with galley kitchens that were never built with a 24-inch wine cooler in mind. Phillips Ranch has newer builds from the 1980s with more counter space, but plenty of those appliances are original and well past their service interval.
+  Most of the housing stock in the 91766 and 91767 zip codes was built between the 1950s and 1970s — solid bones, but kitchens were never laid out with wine storage in mind. Retrofitted wine coolers often end up in enclosed cabinetry with almost no rear clearance, which overheats the condenser fan and shortens compressor life.
 
-  The rental corridor near Cal Poly Pomona adds another layer — those units see heavy use and minimal maintenance, and wine coolers in rental kitchens fail faster than in owner-occupied homes. Closer to the Fairplex fairgrounds on White Avenue, the neighborhood mix shifts: mid-century duplexes and small multi-family buildings where landlords often install budget GE or Whirlpool units and leave them until something breaks. Zip 91768 covers that stretch, and it shows up in our call log regularly.
+  The stretch along Foothill Boulevard near the old Route 66 corridor — running from downtown Pomona west past the Pomona Valley Hospital Medical Center toward Claremont — is heavy with mid-century ranch homes. Garages converted to bonus rooms. Wine coolers sitting on concrete slabs with zero insulation underneath. Ambient temps in those spaces can hit 105°F in August, which is way past what a stock LG compressor was designed for.
+
+  Tight spots everywhere.
+
+  Near Campus Avenue and Temple Avenue, close to Cal Poly Pomona, newer apartment complexes have modern kitchens, but compact under-counter units still get shoved into spaces with no airflow behind them. We've pulled units out of spots with literally two inches of clearance behind the coil. Western University of Health Sciences is just north on Garey — that whole corridor has a mix of converted older retail spaces and newer residential builds, and the appliance setups reflect it.
+
+  The 91768 zip — running east of San Antonio Avenue toward the Diamond Bar line, south of the 60 freeway — has a mix of 1960s tract homes and some early-2000s infill. Basements are rare here. Wine coolers live in garages, converted bonus rooms, or tight kitchen alcoves near the Brackett Field side of the city. All of that affects how the unit handles ambient heat and how long the compressor actually lasts.
 
 commonProblems:
-  - title: "Compressor Overload During San Gabriel Valley Heat Waves"
+  - title: "Compressor Running Nonstop — Valley Heat Overworking the Unit"
     description: |
-      Pomona Valley temperatures push past 95°F in July and August. In a kitchen with poor clearance — common in the older homes near downtown and along Mission Blvd — the condenser fan can't pull enough air across the coils, and the compressor compensates by running nonstop. That constant cycling shortens compressor lifespan fast, and eventually the unit stops holding temperature altogether. LG's dual-zone models are particularly prone to this: the control board reads sustained internal heat as a sensor fault and locks the unit into a recovery loop that needs a manual reset or full board replacement to clear.
-  - title: "Mineral Scale Buildup on the Evaporator Coil"
+      Pomona's summer temps push a wine cooler's compressor past its intended duty cycle when ambient temperature stays above 90°F indoors.
+
+      LG and Samsung dual-zone units are especially prone to this when installed in enclosed cabinetry — the condenser coil can't shed heat fast enough, so the unit just keeps running. Cleaning the coil and verifying the refrigerant charge usually corrects it. Thermostat recalibration alone won't fix constant-run; the root cause is almost always heat buildup or refrigerant loss.
+
+      On older Samsung models we also check the condenser fan motor. The blade can seize partially and you'd never know it from the outside until the compressor fails completely.
+
+  - title: "Vibration Noise — Settling Foundations Throwing the Unit Off-Level"
     description: |
-      San Gabriel Valley tap water runs around 350-400 ppm total dissolved solids — high enough that scale accumulates inside wine coolers faster than most homeowners expect. The evaporator coil takes the worst of it; once it's coated in calcium deposits, the unit stalls at 58-60°F even with the thermostat dialed all the way down. Bosch freestanding models with their narrow internal channels tend to clog fastest. A full coil cleaning helps in early stages, but if it's been ignored for a few years, evaporator replacement is more reliable than repeated service visits.
-  - title: "Door Gasket Failure and Temperature Drift"
+      Slab foundations from the 1960s in the 91768 zip have had decades to settle unevenly. A wine cooler that's off-level by even a quarter inch stresses the compressor mounts and throws the cooling fan blade out of balance.
+
+      KitchenAid freestanding units are particularly noisy when the fan blade gets unbalanced — rattles loud enough to hear from the next room. Proper leveling followed by a fan motor bearing check fixes it almost every time. If the bearing is worn through, we replace the motor assembly; rebalancing a bad bearing is a short-term fix at best.
+
+  - title: "Door Seal Failure — Temperature Swings and Condensation on the Walls"
     description: |
-      Rental units and older installs in the 91766 zip often have door gaskets that have been heat-cycled and compressed for years without replacement. A degraded seal lets ambient room air infiltrate constantly, forcing the thermostat to hunt and the internal temperature to swing 5-8°F — enough to affect wine quality over months. KitchenAid 24-bottle units from 2012 through 2016 have particularly fragile gasket material. Parts are in stock, and the door gasket swap typically takes under an hour on-site.
+      Pomona's hot, dry summers followed by late-August monsoon humidity cause door gasket material to crack and shrink faster than in coastal cities.
+
+      On Bosch and GE wine coolers, a failed door seal lets warm air in constantly — the unit cycles nonstop, condensation appears on the interior walls, and temperature fluctuates 8–10 degrees across the racks. Replacing the door latch assembly and gasket together is the right fix.
+
+      Patching the gasket alone rarely holds past the next heat wave.
 
 faq:
-  - q: "How fast can you get to Pomona for a wine cooler repair?"
+  - q: "How fast can you get to Pomona for wine cooler repair?"
     a: |
-      Pomona sits 20-30 minutes from our usual San Gabriel Valley route, though the 10 and 60 freeways can add time during rush hour. Call (323) 870-4790 and we'll check the day's schedule — same-day slots open up regularly, especially mid-morning. Evening appointments run Wednesday through Saturday for households where a daytime visit doesn't work.
-  - q: "Do you repair Samsung and LG wine coolers in Pomona?"
+      We run a San Gabriel Valley route daily and can usually reach Pomona within 2 hours of your call. Same-day service is available most weekdays — call us at (323) 870-4790 to check availability. Evening slots open too if daytime doesn't work.
+
+  - q: "Do you repair KitchenAid and Bosch wine coolers in Pomona?"
     a: |
-      Both are among the most common calls in the 91766 and 91767 zips. Samsung dual-zone units tend to develop control board faults around year 4-5, often showing an error code with no obvious cause. LG models lose thermostat calibration and start running warmer than set. Bosch and KitchenAid are also in the regular rotation — parts stocked locally for all four, so most repairs finish in a single visit.
-  - q: "What does a wine cooler repair typically cost, and is same-day service available?"
+      Yes — KitchenAid and Bosch are among the most common wine cooler brands we service in the 91766 and 91767 area. Also handle LG, Samsung, and GE units.
+
+      Common jobs: thermostat calibration on LG dual-zone models, door gasket replacement on Bosch, condenser coil cleaning on Samsung freestanding units. One note on GE units from the mid-2010s: the control board tends to throw an E4 or F1 error code when the door seal starts failing, even though the board itself is fine. Replace the gasket first before assuming the board needs replacing — saves a lot of unnecessary parts cost.
+
+  - q: "What does wine cooler repair typically cost in Pomona?"
     a: |
-      Diagnostic visit runs $65-85 and gets credited toward the repair if you move forward. Most common fixes — compressor inspection, door gasket replacement, thermostat swap — typically come in under $250. Emergency same-day service is available in Pomona most weekdays. Call (323) 870-4790 or book online and we'll confirm a window for your zip code.
+      Most repairs run $150–$350 depending on the part. Compressor jobs sit at the higher end; door gasket and thermostat replacements usually come in under $200.
+
+      We diagnose on the first visit and quote before touching anything — no surprises on the final bill. Schedule a same-day appointment by calling (323) 870-4790. Evening and weekend slots available most weeks.

@@ -1,0 +1,98 @@
+title: "Orange Oven Repair — Old Towne to New Tracts, Fast Fix"
+
+intro: |
+  The blocks radiating out from the Old Towne circle in 92866 are full of
+  kitchens that have been renovated two or three times since the 1950s — and
+  that Samsung slide-in range somebody installed in 2017 is already throwing
+  F3 error codes on the control board. Oven problems in Orange tend to stack
+  up quietly: one day the preheat takes forever, next week the broiler stops
+  firing entirely. Gas igniter, bake element, temperature sensor — it's rarely
+  the whole oven, just one worn part that throws everything off. We cover
+  Orange daily and can usually get there the same day you call.
+
+localContext: |
+  Housing in Orange runs the full spectrum — pre-war bungalows in Old Towne
+  (92866), 1960s ranch tracts out near Tustin Street in 92869, and newer
+  condo developments along the 22 freeway corridor. The older gas ranges in
+  the craftsman-style homes often sit on original stub lines with minimal
+  clearance behind the unit, which makes pulling the range for a bake element
+  swap a two-person job. Mid-century electric wall ovens in the 92868 zip
+  are still common — original cavities, usually tight on depth for modern
+  replacement units.
+
+  The neighborhoods around Chapman University and the historic Plaza district
+  mix older rental stock with owner-occupied bungalows. Landlords in that
+  stretch of Chapman Avenue tend to keep GE or Whirlpool freestanding ranges
+  running as long as possible — so we see a lot of decade-old units with worn
+  door gaskets, failing igniter glow bars, and temperature sensors that read
+  50 degrees low. Further east toward Prospect Street and the Friendly Hills
+  area, homeowners have upgraded to KitchenAid and Bosch slide-ins but those
+  bring their own quirks: more complex control boards, proprietary error codes,
+  and door latch assemblies that don't survive the self-clean cycle well.
+
+  Santiago Creek runs through the middle of the city and the neighborhoods
+  just north of Hart Park — Villa Park Road, Taft Avenue — tend to have
+  1970s-era homes with original gas appliances still plumbed in. Thermostat
+  failures are common in those units after 40-plus years of cycling. We know
+  the access constraints in these kitchens: cramped alcoves, tile floors you
+  can't drag a range across, and utility shutoffs that need locating before
+  any gas work starts.
+
+  Orange Park Acres out in 92869 is a different story entirely. Larger lots,
+  many homes built in the 1980s and 1990s, and a lot of remodeled kitchens
+  with Thermador or KitchenAid 30-inch wall ovens recessed into custom cabinetry.
+  Those installations look clean but they trap heat differently than freestanding
+  units, which accelerates wear on the convection fan motor and thermal fuse.
+  We've also been seeing more Bosch HBL series wall ovens in the remodeled
+  homes along Meats Avenue — good appliances, but the door hinge arms fatigue
+  faster than people expect, and the E118 error (door lock fault) is not the
+  control board — it's almost always the hinge or the latch solenoid.
+
+  The 92865 corridor near the 55 and Katella Avenue has a heavy mix of
+  attached townhomes and late-1990s condos. Gas hookups vary — some units were
+  converted to electric at some point and have a 240V outlet behind the range
+  instead. Knowing which setup you have before we show up saves time; we ask
+  when you call.
+
+commonProblems:
+  - title: "Bake element burnout in older Orange homes"
+    description: "In the ranches and bungalows around Orange Park Acres, electric ovens
+      get heavy use and the bake element eventually cracks or burns through at
+      a weak point — you'll see it arc or show a visible split. GE and Whirlpool
+      units from the mid-2000s are especially prone to this in the 92869 zip.
+      Replacing the element is straightforward but the part has to match the
+      wattage and terminal style exactly, or you get uneven heating again within
+      a month."
+  - title: "Gas igniter failure on slide-in ranges"
+    description: "A lot of Orange households have gas ranges — the older neighborhoods
+      near Chapman University run on city gas with decent pressure, but the
+      igniter on a Samsung or LG gas oven still wears out after five to eight
+      years of daily use. Symptom is the oven clicking repeatedly but never
+      lighting, or lighting slowly with a weak flame. The igniter draws current
+      to glow and open the gas valve; once it degrades below the resistance
+      threshold, the valve won't open. New igniter, fifteen minutes, done."
+  - title: "Self-clean door latch assembly getting stuck"
+    description: "Running the self-clean cycle at 900°F stresses the door latch assembly
+      hard. On KitchenAid and Bosch wall ovens — both common in the remodeled
+      homes along Meats Avenue — the latch motor can seize mid-cycle and leave
+      the door locked even after the oven cools. The oven reads as still in
+      clean mode and won't let you bake. A failed latch solenoid or a warped
+      latch arm is usually the culprit, not the control board, so the repair
+      cost is lower than most homeowners expect."
+
+faq:
+  - q: "How fast can you get to Orange for oven repair?"
+    a: "We run routes through Orange County daily — from Irvine up through Anaheim.
+      Orange sits right off the 55 and 22, so we're usually there within two hours
+      of your call. Call (323) 870-4790 to check same-day availability or book
+      online."
+  - q: "Do you work on Samsung and LG ovens in Orange?"
+    a: "Yes, and they're two of the most common brands we see here. Samsung ranges
+      often need control board resets or igniter replacements. LG wall ovens
+      show up with sensor probe failures that read as temperature errors. We stock
+      common parts for both."
+  - q: "What does oven repair typically cost, and do you charge a diagnosis fee?"
+    a: "Diagnostic visit is a flat fee, applied toward the repair if you go ahead.
+      Most element or igniter jobs run $150–$280 parts and labor. Evening and
+      Saturday slots are available — call (323) 870-4790 for same-day or next
+      morning appointments."

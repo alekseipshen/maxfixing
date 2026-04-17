@@ -1,49 +1,85 @@
-title: "Santa Ana Range Hood — Grease, Duct & Motor Repairs"
+title: "Santa Ana Range Hood Repair — Kitchens That Cook Hard Need This"
 
 intro: |
-  Cooking in Santa Ana is not light work. From the dense residential blocks around Floral Park to the older homes along Bristol Street in 92703, households here run their stovetops hard.
-
-  A GE or Whirlpool range hood pulling heavy grease-laden steam through a clogged blower wheel simply cannot keep the kitchen clear. Miss a few filter cleanings and the motor starts laboring, suction drops, and you end up living with smoke and cooking odors that the hood should have been pushing outside all along.
-
-  That's not a maintenance issue. That's a repair call.
+  The older stucco homes along Minter Street and around the Thornton Park neighborhood cook
+  daily — big family meals, high-heat burners, the kind of use that loads up a range hood fast.
+  That Whirlpool or GE under-cabinet unit above the stove in a 1960s Santa Ana kitchen was
+  never built for this volume. Once the blower wheel gets coated in grease or the motor
+  capacitor fails, smoke stops going anywhere useful. The hood runs, nothing clears.
 
 localContext: |
-  Much of Santa Ana's housing stock in zip codes 92703 and 92706 was built between the late 1940s and early 1960s — single-story stuccos with ductwork runs that were never designed for modern cooking appliances. Retrofit range hoods in these kitchens often end up venting into undersized 3-inch flex duct instead of the 6-inch rigid exhaust pipe the manufacturer requires. That restriction kills suction, makes the hood run loud, and burns out the blower motor years ahead of schedule. KitchenAid and Bosch hoods installed in these older setups take the brunt of it.
+  Most of 92703 is post-war residential — 1950s and early 60s homes where the original
+  builder-grade hoods are still bolted under cramped cabinets with short duct runs to the
+  exterior wall. Access to the blower motor and wiring in these installs is tight, and the
+  non-standard mounting hardware after decades of paint adds time to every job. The 92705
+  corridor near Tustin Avenue runs newer, with wall-mount chimney hoods and island-style
+  units in kitchen remodels — different hardware, still the same failure points.
 
-  Hard water makes everything worse here. Santa Ana's municipal supply blends Santa Ana River basin groundwater with MWD imports — the result runs 350–400 ppm total dissolved solids in many neighborhoods. That mineral content combines with cooking grease to form a dense, almost cement-like coating on blower wheel vanes. Kitchens near Logan Barrio and Midtown see it constantly. By the time the homeowner in 92701 notices reduced suction, the blower is already struggling to move air through half an inch of hardened buildup.
+  Floral Park is a different story. The larger craftsman and colonial homes along North
+  Flower Street and Park Viejo Drive were built in the 1930s and 40s, and many kitchens
+  have been remodeled since — KitchenAid or Bosch wall-mounts replacing whatever original
+  ventilation existed. The ducts in those remodels often run longer horizontal stretches
+  through interior walls before they hit an exterior cap, which means grease accumulates
+  in sections you can't see without pulling the unit.
 
-  One more variable: Centennial Regional Park and the 55 Freeway corridor see heavy afternoon traffic that adds 20 minutes to service calls from the west. Morning slots are easier to hit same-day.
+  Over in 92707 near South Bristol Street and the Segerstrom Center area, you get a mix of
+  mid-century duplexes and early 90s apartment complexes. The apartments are where we see
+  the most neglected ductwork — flex duct transitions that were never properly secured at
+  the wall cap, especially in second-floor units where the run angles awkwardly through
+  a dropped ceiling. The 92701 zip along Fourth Street and Civic Center Drive still has
+  a lot of commercial kitchen adjacency in mixed-use buildings, and residential tenants
+  above restaurants deal with grease infiltration from shared ventilation shafts — a
+  problem that isn't technically a hood repair but shows up on the diagnostic every time.
+
+  The 92704 pocket west of Harbor Boulevard — single-family tracts built through the 70s
+  and early 80s — runs almost entirely on gas ranges. Gas burners push more ambient heat
+  than electric, which means the hood motor runs longer cycles and accumulates grease faster
+  at the blower wheel. Many of these homes still have the original galvanized duct terminating
+  into an aluminum wall cap that hasn't been cleaned since installation. When the Santa Ana
+  winds kick in each fall, that cap flap seals shut under pressure and the exhaust backs
+  up into the kitchen — homeowners assume the hood is broken when the duct path is just
+  blocked by wind load. It's a five-minute exterior fix once we're there, but we see it
+  misdiagnosed regularly. The Bowers Museum neighborhood just north of 17th Street has a
+  similar mix of original tract homes where the same duct condition shows up on nearly
+  every older GE or Whirlpool under-cabinet unit we inspect.
 
 commonProblems:
-  - title: "Blower Wheel Caked with Grease — Fan Running but No Real Airflow"
-    description: |
-      Heavy cooking loads up the blower wheel with grease faster than most homeowners expect. Once the wheel is caked and unbalanced, the motor strains against the extra rotating mass — you feel it as vibration through the cabinets, hear a grinding undertone, and notice suction has dropped by half.
+  - title: "Blower Wheel Caked in Grease — Fan Runs but Moves No Air"
+    description: "The motor spins fine, but grease buildup between the impeller fins cuts airflow to
+      almost nothing. KitchenAid under-cabinet hoods are particularly prone to this — their wider
+      impeller design catches more residue than narrower units. Cleaning or replacing the blower
+      wheel brings CFM back to spec without a full hood replacement. Most Santa Ana kitchens
+      cooking daily hit this point in five to seven years."
 
-      Whirlpool and GE hoods are the most common culprits in Santa Ana kitchens. Cleaning the wheel and swapping the mesh grease filter together usually restores full airflow in a single visit.
+  - title: "Fan Motor Burnout After Constant High-Speed Use"
+    description: "Samsung and LG hoods running on the highest setting every night eventually burn out
+      the fan motor or its run capacitor. The pattern is predictable: grinding noise first, then
+      the fan stops entirely. Logan Barrio and Willard neighborhood homes with kitchen remodels
+      from the early 2000s show this constantly. Motor replacement is almost always a same-day fix
+      — we stock the common sizes. On Samsung units, the EC error code or a completely unresponsive
+      control panel usually means the run capacitor went first before the motor itself seized."
 
-  - title: "Duct Damper Seized Shut — Hood Sounds Fine but Kitchen Still Fills with Smoke"
-    description: |
-      A seized duct damper is easy to miss because the hood sounds perfectly normal. The blower spins, the light works, but the damper flap has corroded shut and nothing is actually venting outside.
-
-      In 1960s Santa Ana homes with original rigid exhaust duct runs, grease accumulates around the damper over decades and eventually locks it closed. Homeowners almost never check the exterior vent cap until smoke starts backing up into the kitchen. By then the smell has been there for weeks.
-
-  - title: "Motor Capacitor Failure — Hum Without Spin on Samsung and LG Hoods"
-    description: |
-      Switch the hood on and hear a low hum, but the fan doesn't spin. That's a failed motor capacitor, not the motor itself.
-
-      Samsung and LG range hoods with multi-speed touch controls typically flash a speed-selection error code in the days before the motor stops completely. The fix is straightforward: match the capacitor spec to the fan motor exactly, swap it, test all speeds. Most Santa Ana calls for this problem get resolved same visit without ordering anything. If you're seeing an E1 or fan-speed error flashing on the panel, call (323) 870-4790 — we can usually get there same day.
+  - title: "Duct Run Blocked or Pulled Loose Behind the Wall"
+    description: "A hood can sound fully operational and do nothing — if the flex duct has sagged,
+      kinked, or disconnected from the exterior wall cap, exhaust just recirculates into the cabinet.
+      Grease then coats the inside of the duct and creates a fire risk over time. Bosch ducted hoods
+      in older 92701 homes near Fourth Street hit this failure regularly. We inspect the full duct
+      run, not just the hood unit itself."
 
 faq:
   - q: "How fast can you get to Santa Ana for range hood repair?"
-    a: |
-      Santa Ana is typically 20–30 minutes from our service coverage area depending on the 5 Freeway. Most requests in 92701 and surrounding zip codes qualify for same-day service. Call (323) 870-4790 to check current availability — evening slots are open most weekdays and we'll give you a two-hour arrival window, not an all-day wait.
+    a: "Santa Ana is on our regular Orange County route — usually there within 2 hours for same-day
+      calls. The 5 and 55 freeways cover both the north and south ends of the city without issue.
+      Call (323) 870-4790 to check availability. Evening slots are open most days."
 
-  - q: "Do you repair Bosch and KitchenAid range hoods, or just the budget brands?"
-    a: |
-      Both are common in Santa Ana and we handle them regularly. Bosch hoods frequently need damper rebuilds and blower wheel cleaning after years of heavy cooking. KitchenAid units tend to develop control board and grease filter issues. Samsung and LG repairs are equally routine — motor capacitors, fan assemblies, and touch-panel boards are stocked for both brands.
+  - q: "Do you repair Bosch and KitchenAid hoods, or only budget brands?"
+    a: "Both. Bosch, KitchenAid, and Samsung are the three we see most in Santa Ana. Common repairs:
+      blower wheel replacement on Bosch, cracked grease filter housing on older KitchenAid
+      under-cabinet models, and control board or light socket failure on Samsung units. Parts
+      for all three are usually on the truck."
 
-  - q: "What does a range hood repair visit cost, and how does the process work?"
-    a: |
-      The diagnostic visit is a flat fee covering the full inspection: blower wheel condition, duct damper operation, exhaust airflow measurement, electrical draw, and filter assessment.
-
-      Most repairs run $90–$185 in parts and labor combined. Parts in stock mean same-day completion. Emergency slots are available when you can't wait — schedule online or call (323) 870-4790 and we'll find a time that works.
+  - q: "Is there a diagnostic fee, and what does range hood repair typically cost here?"
+    a: "No separate diagnostic fee when we complete the repair. Parts drive the cost — a blower
+      wheel swap or motor replacement typically runs $85–$165 plus labor. Control board
+      replacement on a mid-range Bosch or KitchenAid will cost more. Same-day and emergency
+      appointments are available; we quote before starting anything."

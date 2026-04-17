@@ -1,0 +1,36 @@
+title: "Downey Range Hood Repair — Fixing 1960s Ventilation Problems"
+
+intro: |
+  Ranch homes built across Downey in the 1950s and early 1960s came with four-inch duct runs and exhaust fans sized for low-BTU electric burners — not for the gas cooktops and upgraded KitchenAid hoods homeowners have been swapping in over the last decade. The gap between what those ducts can move and what a modern range hood expects to push through them is where most of the problems start. Neighborhoods off Firestone Boulevard see this constantly. So does the stretch along Lakewood Boulevard between the 105 and Stewart & Gray Road, where post-war tract development packed single-family homes onto 50-foot lots with almost no side-yard clearance.
+
+localContext: |
+  The bulk of Downey's single-family stock — densest in the 90240 and 90241 zip codes — was built between 1947 and 1968. That era means horizontal duct runs through stud walls, 6-inch round transitions tightened with duct tape that hasn't held a seal since the 1990s, and wall caps facing into tight side yards with no room for a service ladder. Grease pools in those horizontal sections instead of draining. It accelerates every failure mode a range hood can develop.
+
+  The 90242 zip covers newer tracts closer to the 605 freeway — some of those homes got upgraded during the Downey Landing redevelopment years and have better duct layouts, but they also have more mid-range hoods (Bosch, Samsung) that owners expect to last longer and get frustrated when they don't. Flat ranch layouts versus the occasional two-story near Gardendale Street create two completely different service scenarios, especially for second-floor kitchen exhausts that terminate through attic runs. Attic routing means summer heat in those duct sections, which accelerates grease oxidation and bearing wear.
+
+  A large share of homes near Columbia Way and Downey Avenue — the blocks surrounding the old NAA/Rockwell footprint, now anchored by the Columbia Memorial Space Center — date to the early 1960s and were built for aerospace workers who bought new and stayed. Those kitchens still have the original 3.5-inch exhaust transitions and single-speed fan housings. Owners near Woodruff Avenue and Imperial Highway have the same story. The duct systems in that corridor were never designed for continuous daily cooking on a 30-inch gas range. Hard water compounds it: Downey municipal supply runs 300–350 ppm depending on the season, and that mineral load coats internal grease baffles, clogs recirculating carbon filters, and leaves calcium deposits around the blower housing that a homeowner can't easily see.
+
+  Stonewood Center sits at the north end of 90241, and the residential blocks just west of it — mostly 1,400-square-foot single-stories on narrow lots — represent the most active service zone for range hood calls. Small kitchens, gas ranges running daily, original duct penetrations through stucco walls. That combination comes up constantly.
+
+commonProblems:
+  - title: "Blower Wheel Seizes After Months of Restricted Airflow"
+    description: "A grease filter packed solid doesn't just smell bad — it chokes the blower wheel and makes the fan motor run hot. Samsung and LG hoods with brushless motors tolerate it longer than most, but the motor windings eventually overheat and fail. We pull filters in Downey kitchens that are completely opaque, mesh buried under a solid quarter-inch of baked grease. On gas ranges running daily — common in Downey households that cook heavily — the buildup timeline is faster than the manufacturer assumes. Cleaning every 2 months on an active gas range prevents this entirely."
+
+  - title: "Rattling at Medium Speed Points to the Duct Damper"
+    description: "That flapping rattle that appears at medium fan speed and disappears at low usually isn't the hood itself — it's a duct damper hanging loose inside the wall. In older Downey homes where the original duct joints were wrapped in foil tape, the connections let go over time and the damper swings freely. A Whirlpool or GE hood that sounds fine on low but vibrates on medium is almost always this, not a motor problem. Homes near Downey Avenue with original 1960s exhaust paths are especially prone — the duct penetrations through exterior stucco walls were never sealed properly, and the damper mechanism corrodes from both sides."
+
+  - title: "KitchenAid LED Boards Fail From Heat Cycling"
+    description: "Older GE hoods use wedge-base halogen bulbs — two-minute fix. KitchenAid models from roughly 2015 onward switched to integrated LED driver boards, and repeated heat cycling kills them. The light strip goes completely dark while the fan still runs fine. There are five different board versions across visually identical KitchenAid hood models, so ordering without the exact part number means a second visit. We verify the board revision before ordering. If you're seeing error codes like F1 or a flashing light indicator alongside the dead strip, that's the driver board, not the bulb socket."
+
+faq:
+  - q: "How fast can you get to Downey for range hood repair?"
+    a: "We run service routes along the 105 and 605 corridors most days — Downey is a regular stop between South Gate and Lakewood. Call (323) 870-4790 and we can usually get there same day. Evening slots are available if daytime doesn't work."
+
+  - q: "Do you repair KitchenAid, Bosch, and Samsung range hoods?"
+    a: "All three are common in Downey remodels. KitchenAid usually means LED driver boards or blower wheel assemblies. Bosch repairs often involve the control board on recirculating models — particularly the 800 Series units installed in kitchens renovated after 2018. Samsung hoods — mostly grease filter service, motor replacements, or failed light assemblies. We stock common parts for faster same-visit repair."
+
+  - q: "What does a range hood repair cost, and is there a diagnostic fee?"
+    a: "Flat-rate diagnostic visit, credited to the repair cost if you proceed. Blower motor replacements typically run $150–$270 parts and labor. Duct damper fixes and grease filter service are on the lower end. Call (323) 870-4790 to schedule — we usually have same-day or next-morning availability in Downey."
+
+  - q: "Can you fix a range hood that runs but doesn't vent properly?"
+    a: "Yes — and in Downey specifically, this is often a duct problem rather than a hood problem. The original 4-inch duct in many 90240 homes simply can't move enough air for a modern 400 CFM hood. We assess whether the hood itself is at fault or whether the duct run is undersized or obstructed. Sometimes the wall cap outside is packed with debris or the damper flap is stuck closed. We diagnose the whole path, not just the unit. Schedule a same-day appointment and we'll trace it from the blower back to the exterior."

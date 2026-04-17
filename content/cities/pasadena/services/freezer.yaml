@@ -1,0 +1,31 @@
+title: "Pasadena Freezer Repair — Craftsman Kitchens, Hard Water, Real Fixes"
+
+intro: |
+  That stretch of craftsman bungalows off Marengo Avenue in 91103 — gorgeous homes, but the kitchens often have LG french-door units with freezer drawers sitting on city water that tests around 350 ppm hardness. Ice maker assembly gets gunked up fast.
+
+  Pasadena runs on Foothill Municipal Water District supply fed from the San Gabriel Mountains — harder water than most of the LA basin. The Rose Bowl sits a mile from some of the oldest residential blocks in the city, and those homes have seen three or four appliance generations cycle through the same kitchen footprint. Caltech faculty housing in 91106, the Craftsman row blocks near Orange Grove Boulevard, the newer construction off the 210 near Sierra Madre Villa — each neighborhood has a distinct vintage of appliance and a distinct failure pattern. We cover the whole city and know what San Gabriel Valley municipal water does to freezer components over a 3-5 year span.
+
+localContext: |
+  Pasadena's housing runs the full spectrum — 1920s craftsman bungalows in Bungalow Heaven, 1960s ranch-style in the 91107 corridor near Caltech, and newer builds closer to the 210 freeway. Older homes often have tighter kitchen layouts, which means pulling a built-in Sub-Zero or Thermador column freezer involves more disassembly than a standard freestanding unit. The 91105 zip near San Marino borders carries a high concentration of premium built-ins that need brand-specific diagnostic tools.
+
+  The neighborhoods north of Colorado Boulevard — around Linda Vista and the Caltech faculty housing in 91106 — tend to run KitchenAid and Bosch side-by-sides installed during kitchen renovations in the 2010s. Those units are hitting the 8-12 year mark now, which is exactly when evaporator coil frost issues and control board failures start showing up. South Pasadena and the Arroyo Seco corridor (91030 bleeds into 91105) have a similar vintage housing stock with similar failure patterns.
+
+  The Rose Bowl area in 91103 sits close enough to the San Gabriel Mountains that temperature swings between summer afternoons and winter nights are wider than most of LA — refrigeration systems cycle harder here than in coastal cities. A Samsung or LG french-door freezer in a sun-facing kitchen on Seco Street works overtime compared to the same unit in Culver City. That thermal stress accelerates condenser fan wear and shortens compressor life.
+
+  Apartment buildings along Lake Avenue and in the 91101 zip near Old Town Pasadena often have compact or counter-depth freezers in galley kitchens — tight spaces where service van parking requires planning. We account for that on the booking side.
+
+commonProblems:
+  - title: "Mineral Scale Killing Ice Maker Assembly From San Gabriel Valley Water"
+    description: "Pasadena municipal water runs consistently 300-350 ppm calcium — and that scale coats the ice maker assembly, clogs water inlet valve screens, and restricts the evaporator coil over time. An LG unit throwing FF or CF error codes is almost always scale-related clogging plus a failing inlet valve. Descaling alone won't fix it once the valve seat is corroded. On Samsung models, the DA97 ice maker module fails for the same reason — the mineral deposits seize the ejector arm and the unit stops cycling entirely. Replacement plus a whole-house inline filter is usually the right call in 91103 and 91107 zip codes."
+  - title: "Frost Block Choking Airflow in Older Pasadena Freezers"
+    description: "Heavy frost accumulation on the evaporator coil is a defrost system failure — not a door-left-open problem. A dead defrost heater or failed defrost terminator thermostat lets ice build into a solid block that starves the condenser fan. KitchenAid uprights from the 2015-2019 range do this frequently. The freezer reads 15°F instead of 0°F and the fix is a $35 thermostat, not a new appliance. Bosch column freezers in the Caltech faculty housing corridor show a similar symptom — the unit enters an incomplete defrost cycle and throws an E18 error. Those need a control board reset and thermostat swap, not a compressor diagnosis."
+  - title: "Loud or Constantly-Running Compressor on Sub-Zero Built-Ins Near 91108"
+    description: "Sub-Zero built-in column freezers in Pasadena's higher-end neighborhoods run dual compressors — loud cycling or non-stop runtime usually means a dragging condenser fan motor or the compressor overheating from blocked vents. These units need the correct R-134a refrigerant charge spec and factory diagnostic tools. A generic repair tech with a universal refrigerant kit will mischarge it and you'll be back in two months. Homes along Lombardy Road and in the San Marino-adjacent 91108 corridor have Sub-Zero 700 series units that require the SQ logic board adapter to read fault codes properly."
+
+faq:
+  - q: "How fast can you get to Pasadena for a freezer emergency?"
+    a: "From our San Gabriel Valley base, Pasadena is typically 20-35 minutes depending on the 210. Same-day slots open most weekdays before 2pm — call (323) 870-4790 to check availability. Evening appointments cover the full 91101-91108 zip range."
+  - q: "Do you repair Sub-Zero and KitchenAid freezers in Pasadena?"
+    a: "Yes — Sub-Zero column and panel-ready units, KitchenAid uprights, and LG french-door freezer drawers are all frequent jobs here. On Sub-Zero we carry the SQ logic board diagnostic adapter. KitchenAid defrost heater and terminator thermostat swaps are usually same-day."
+  - q: "What does a freezer repair cost in Pasadena, and do you quote upfront?"
+    a: "Diagnostic visit is $75, applied toward repair if you proceed. Most jobs — door gasket swap, defrost heater, inlet valve replacement — run $150-350 parts and labor. Compressor work runs higher. We quote before touching anything. Call (323) 870-4790 or schedule online for a same-day window."

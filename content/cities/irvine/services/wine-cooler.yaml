@@ -1,76 +1,109 @@
-title: "Irvine Wine Cooler — Built-In Repair for Planned Community Homes"
+title: "Irvine Wine Cooler Repair — Built-In Units, Same-Day Service"
 
 intro: |
-  Portola Springs and Woodbridge kitchens run toward the high end — Irvine Company builds from 2005
-  through 2018 routinely included under-counter or full-height wine coolers as part of the original
-  cabinet layout. That Sub-Zero 424-series unit sitting in a zero-clearance enclosure is genuinely
-  hard to service without pulling the whole installation. We do this regularly across Irvine,
-  without damaging surrounding cabinetry or disturbing the trim.
+  The Great Park neighborhoods around 92618 have seen a wave of new construction — and
+  a lot of those homes came with built-in wine coolers already spec'd by the builder.
+  A Bosch 30-bottle dual-zone unit running warm in a Portola Springs kitchen is a
+  different animal than a freestanding unit; access is tight, and the compressor sits
+  behind a fixed panel. We cover all of Irvine, usually there within 2 hours of your call.
+
+  Orchard Hills and Shady Canyon — different story. Larger custom builds, often
+  Sub-Zero 427 wine columns integrated into full butler's pantries. Those take longer
+  to diagnose because the control board isn't where you'd expect it.
 
 localContext: |
-  Most calls in Irvine come from zip codes 92618 and 92620 — Portola Springs, Stonegate, and the
-  newer Beacon Park homes near the Great Park. These are tight-tolerance installations: wine coolers
-  fitted flush into cabinetry with barely two inches of clearance on each side. Irvine's water
-  supply runs moderately hard, which accelerates mineral scaling on condenser coils and interior
-  drain channels faster than most manufacturers account for in their maintenance schedules.
+  Irvine's master-planned communities from Woodbridge to Quail Hill skew toward late
+  1990s and 2000s builds — layouts that often included dedicated wine storage nooks in
+  kitchen islands or butler's pantries. Zip codes 92603 and 92620 are packed with these
+  setups.
 
-  Turtle Rock and Woodbridge pull a different set of problems. Those neighborhoods have 1980s and
-  early-90s Irvine Company tract homes that got retrofitted wine coolers during kitchen remodels —
-  meaning the rough-in dimensions don't always match current unit specs. Clearances are improvised,
-  ventilation is an afterthought, and the 92612 zip code generates a steady stream of overheating
-  calls every summer when temperatures in the valley push past 95. The Irvine Spectrum area and
-  nearby Woodbridge Village Center both sit close enough to the coast to have milder microclimates,
-  but homes north of the 5 near Sand Canyon run hotter and the condensers work harder for it.
+  Sealed cabinet designs mean heat has nowhere to go.
 
-  University Park and Northpark in 92606 skew toward KitchenAid and Bosch 300-series installs —
-  solid mid-range units that get neglected until the evaporator coil frosts over or the temperature
-  sensor drifts. The fix is usually straightforward once you know the unit's service history.
+  That puts serious strain on the condenser fan and thermostat when July temps push into
+  the low 90s. Woodbury and Stonegate neighborhoods in 92620 see this constantly — newer
+  homes with tight cabinetry tolerances where even a 2mm warp in the door gasket frame
+  throws off the whole seal. Sand Canyon Road corridor in 92603, closer to the Irvine
+  Spectrum, has a stretch of 2004-2010 custom builds where Sub-Zero and Thermador columns
+  were installed during original construction — most of those units are now hitting
+  compressor-fatigue territory.
+
+  Northpark (92606) has a mix of 2002-2008 builds where the original KitchenAid units
+  are hitting the 15-year mark. Compressor fatigue and dried-out door seals — not a
+  question of if, but when.
+
+  The UCI Research Park corridor along Jamboree has a different mix: condo conversions
+  and smaller townhomes with 24-inch undercounter units from LG and Samsung. No side
+  clearance, and the parking situation on Harvard and Michelson makes hauling tools
+  interesting. Over in Turtle Rock near 92604 — older hillside homes off Turtle Rock
+  Drive — we see a lot of freestanding units retrofitted into cabinetry that wasn't
+  built for them. Ventilation is always the problem there.
+
+  92614 along the Culver corridor tends to be early-2000s multifamily, mostly LG and
+  Samsung undercounter units. Repair access is its own puzzle in those complexes.
 
 commonProblems:
-  - title: "Temperature Fluctuation in Zero-Clearance Cabinet Enclosures"
+  - title: "Temperature Creeping Up — Usually the Condenser Fan Motor"
     description: |
-      Built-in units in Irvine's newer homes often have restricted airflow around the condenser
-      coil — the cabinet enclosure traps heat and the thermostat reads fine while the wine stays
-      five degrees above the set point. Bosch 800-series units are especially prone to this when
-      the toe-kick vent grille is blocked by flooring transitions or an area rug shifted by foot traffic.
-      The fix is rarely the thermostat itself. More often it's cleaning the condenser fins and
-      confirming the fan motor is spinning at full RPM — a partial-failure motor will move just
-      enough air to fool the diagnostic display while the actual cabinet temp drifts.
-  - title: "Compressor Cycling Constantly, Unit Never Holds Temperature"
+      In Irvine's sealed built-in installations, the condenser fan motor is the first
+      thing to go. When it slows or seizes, heat builds up around the compressor and the
+      unit stops hitting its target temp. We see this constantly on Sub-Zero 424 series
+      wine columns in Turtle Rock — the fan assembly is a straightforward swap, but
+      requires fully pulling the unit from the cabinetry first.
+
+      A warm upper zone while the lower zone holds temp is the classic symptom.
+
+      On dual-zone Bosch units, the upper evaporator coil can ice over independently
+      from the lower — that's a different repair path than just swapping the fan. Don't
+      let anyone quote you a compressor replacement until the fan motor and evaporator
+      have both been ruled out. That misdiagnosis costs homeowners real money.
+
+  - title: "Vibration Noise Rattling Through the Cabinet Run"
     description: |
-      A compressor that won't shut off usually points to a failing door gasket bleeding cold air
-      continuously, or a refrigerant charge that's dropped below operating spec. Sub-Zero built-ins
-      sometimes develop hairline cracks along the lower door seal after a few years — particularly
-      in south- and west-facing kitchens in Quail Hill that take direct afternoon sun for six hours
-      a day in summer. An E1 or temperature-alarm error code on the display confirms the unit is
-      running a recovery cycle it can't complete. We check refrigerant pressure and seal integrity
-      on the same visit — no need for a second trip.
-  - title: "Vibration Noise in Open-Plan Layouts"
+      Compressor vibration in a freestanding unit is annoying. In a built-in, it
+      resonates through the whole cabinet run. Worn vibration dampeners or a loose
+      compressor mounting bracket are usually the culprits — common on KitchenAid
+      46-bottle models around the 5-7 year mark. A rattling unit in a quiet Irvine
+      kitchen at midnight is not subtle.
+
+      Sometimes it's simpler: a bottle touching the back wall, or a loose shelf clip
+      resonating at a specific compressor RPM. Worth eliminating the obvious before
+      assuming it's mechanical. We check both.
+
+  - title: "Moisture Inside the Cabinet — Door Gasket Failing"
     description: |
-      KitchenAid and LG freestanding wine coolers placed on hard tile or engineered hardwood
-      transmit compressor vibration directly into the floor, and in open-plan Irvine homes that
-      hum travels far. Usually it's a worn compressor mounting bracket or a loose condenser fan
-      blade — both are quick fixes once the unit is pulled. The noise is almost never the
-      compressor internals themselves. Freestanding units near the 92617 border in the Irvine
-      Business Complex zone occasionally show this issue in converted loft-style condos where
-      tile runs wall to wall with no underlayment to absorb the vibration.
+      A failing door seal lets warm air sneak in. The temperature sensor then reads
+      ambient instead of interior air, the compressor runs nonstop trying to compensate,
+      and moisture pools on the lower shelf. We replace door gaskets on Liebherr and
+      Bosch units regularly across 92612 and 92614 — it's a repair that's easy to ignore
+      until a bottle of Pinot gets ruined.
+
+      The condensation pattern matters for diagnosis. Water pooling on one side of the
+      lower shelf usually means the gasket is failing at a corner joint, not the full
+      perimeter. That changes what parts get ordered and how long the repair takes.
 
 faq:
   - q: "How fast can you get to Irvine for wine cooler repair?"
     a: |
-      Portola Springs and Northwood are part of our regular daily route — we cover the 92618 and
-      92620 zip codes routinely. Same-day appointments are usually available. Call (323) 870-4790
-      or schedule online and we can typically arrive within 2 hours. Evening slots are available
-      for 92612 and 92606 most weekdays.
-  - q: "Do you service Bosch and Sub-Zero wine coolers specifically?"
+      Most Irvine calls get a same-day slot. We run a route through the 405/5 corridor
+      daily — from the Spectrum area up through Woodbridge and into north Irvine near
+      92620. Call (323) 870-4790 and we'll give you an exact arrival window, not a
+      4-hour guessing game. Evening slots available most weekdays if daytime doesn't work.
+
+  - q: "Do you repair Sub-Zero and Bosch wine coolers in Irvine?"
     a: |
-      Yes — Bosch 300-series and 800-series and Sub-Zero 424/448-series are two of the most
-      common units we see in Irvine and Laguna Hills. KitchenAid and Thermador built-ins come up
-      regularly too. Each brand has its own failure patterns with thermostat calibration and
-      control board behavior that we've seen enough to diagnose fast.
-  - q: "Is wine cooler repair worth it, or should I replace the unit?"
+      Both, regularly. Sub-Zero wine columns — the 424 and 427 series — need specific
+      tools for evaporator coil access. Bosch dual-zone units have a distinct control
+      board layout that trips up general repair shops. We also handle Liebherr and
+      KitchenAid. Have your model number ready when you call.
+
+      The Sub-Zero 427 has a known thermistor drift issue after 8-10 years — it reads
+      colder than actual interior temp, so the compressor short-cycles and the unit
+      never stabilizes. Easy to misdiagnose as a refrigerant problem. It's not.
+
+  - q: "What does a wine cooler repair typically cost, and how quickly can you come?"
     a: |
-      Depends entirely on what failed. A door gasket or condenser fan replacement runs $100–180
-      and adds years to the unit's life. On a Bosch 800-series or Sub-Zero, even compressor
-      replacement makes financial sense — parts and labor still cost less than a new install.
-      We'll give you a straight answer after the diagnostic, same-day, no pressure.
+      A door gasket replacement runs $150-200. A condenser fan motor swap is usually
+      $220-290. Compressor replacement on a premium Sub-Zero or Liebherr is where costs
+      climb significantly — worth a diagnostic conversation before committing to parts.
+      Call (323) 870-4790 for a same-day appointment; no trip fee if you book the repair
+      on the spot.

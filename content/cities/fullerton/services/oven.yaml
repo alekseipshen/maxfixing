@@ -1,0 +1,33 @@
+title: "Fullerton Oven — Sunny Hills Wall Ovens to Downtown Gas Ranges"
+
+intro: |
+  The streets running through Sunny Hills — up past Bastanchury Road toward the hills — have some of the most fully-equipped kitchens in Orange County. Remodeled ranches with KitchenAid double wall ovens, Bosch slide-ins, occasionally a Thermador installed during a gut renovation. When the bake element fails or the oven stops holding temperature mid-roast, those kitchens go quiet fast. We cover all of Fullerton and are usually on-site within 2 hours of your call.
+
+localContext: |
+  Fullerton's housing splits sharply by zip code. The 92831 and 92832 corridors — older subdivisions running from Harbor Boulevard east toward the Metrolink station on Santa Fe Avenue — are mostly 1950s and 60s ranch builds. Gas ranges in those kitchens have been running 20-plus years, sometimes longer. Vintage Frigidaire and GE units are still common; the igniters often still glow, but the oven temperature sensors have drifted badly.
+
+  Sunny Hills (92835) is a different story. Larger lots, 1980s and 90s construction, homeowners who upgraded to KitchenAid double wall ovens or Bosch slide-in ranges during kitchen remodels. Up past Bastanchury Road toward the Brea border, you start seeing Thermador dual-fuel wall units installed during full gut renovations — those require specialized tools and brand-direct parts sourcing.
+
+  The Cal State Fullerton neighborhood around Nutwood Avenue and State College Boulevard adds another layer: landlord-owned properties cycling mid-grade LG and Samsung freestanding ranges through heavy tenant use. East Fullerton near Craig Regional Park (92833) runs notably warmer than coastal cities in summer — ambient kitchen heat in July pushes oven igniters harder than any manufacturer spec assumes, shortening their lifespan by two to three years compared to a unit running in Long Beach.
+
+  North Fullerton, up toward Rosecrans Avenue near the Brea Canyon border, newer custom builds carry the Sub-Zero and Thermador installations that are genuinely worth repairing correctly. Each vintage and zip code brings completely different failure points, parts lead times, and access challenges. A 1958 slab-foundation ranch off Chapman Avenue is not the same job as a 2005 custom build off Laguna Road.
+
+commonProblems:
+  - title: "Bake Element Failure in Older Electric and Dual-Fuel Ranges"
+    description: "Downtown Fullerton homes on the 92832 grid often have electric ranges untouched for a decade. The bake element is usually first to go — visible burn marks, or the oven only heats from the top. On Bosch dual-fuel models the element can fail without throwing an error code, which means you need to pull the bottom panel and test with a meter to confirm. Most replacements are a 45-minute job. Older units near the downtown corridor also show corrosion on the element terminals from years of grease vapor — that causes intermittent heating even when the element itself still tests good. Cleaning the terminal block and reseating the connectors sometimes resolves it before you even order a part."
+
+  - title: "Gas Oven Won't Reach Temperature — Igniter or Sensor Fault"
+    description: "A gas oven that glows orange but never fully lights has a weak oven igniter — draws enough current to glow, not enough to open the gas valve. LG and Samsung freestanding ranges in the 5-to-8-year range hit this constantly. Sometimes it's the temperature sensor drifting 50°F low instead, causing the control board to under-fire the burner. Either way, both parts are typically in stock for same-day repair. In Fullerton's hotter inland zip codes like 92833, ovens run harder during summer months — the ambient heat in the kitchen stresses the igniter faster than in coastal cities. Gas-specific repair also means verifying the valve seat and supply pressure before closing out the job."
+
+  - title: "Self-Clean Door Latch Stuck After Cycle"
+    description: "KitchenAid wall ovens in Sunny Hills — especially units installed during early-2000s kitchen remodels — run into this after high-temp self-clean cycles. The door latch assembly motor burns out from sustained heat, or the control board misreads the thermostat signal and keeps the door locked even after the cavity cools. Fix is usually a latch motor swap, sometimes with a board reset to clear the fault code."
+
+faq:
+  - q: "How fast can you get to Fullerton for oven repair?"
+    a: "Fullerton is a straight shot off the 57 — we can reach most of the city within 90 minutes, Sunny Hills maybe 15 minutes longer in afternoon traffic. Same-day slots open most days. Call (323) 870-4790 and we'll confirm a window on the spot."
+
+  - q: "Do you repair KitchenAid and Bosch wall ovens in Fullerton?"
+    a: "Both are among the most common brands we pull parts for in Fullerton. We also work on Thermador and LG regularly. Typical jobs: bake element replacements, door latch assembly failures after self-clean cycles, and temperature sensor recalibration on units that have drifted out of range over time."
+
+  - q: "What does oven repair cost, and how quickly can I get it fixed?"
+    a: "Diagnostic is $75, applied toward the repair if you proceed. Heating element or igniter replacements usually run $150–$250 all-in. Same-day appointments are available most days, evening slots too. If your Bosch or Samsung is throwing an F-code or E-code, call (323) 870-4790 — we can usually narrow it down before we arrive."

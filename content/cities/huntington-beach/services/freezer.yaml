@@ -1,35 +1,95 @@
-title: "Huntington Beach Freezer — Coastal Air Kills Compressors"
+title: "Huntington Beach Freezer Repair — Salt Air, Hard Water, Fixed Fast"
 
 intro: |
-  Salt air off the Pacific hits appliances harder than most homeowners realize. Bolsa Chica-area homes in 92649 see accelerated condenser corrosion — that KitchenAid upright freezer in the garage starts running hot within a few years if the coils stay dirty. Huntington Beach's ocean breeze sounds pleasant until the condenser fan is pulling salt particulate through the fins all summer long. Add in August heat and you have a compressor working at the edge of its rated conditions every few months. These are fixable problems, and most don't require a new unit.
+  Pacific Coast Highway cuts through 92648, and the salt air rolling in off the Pacific does
+  things to appliance seals that inland cities rarely see. A KitchenAid chest freezer we
+  diagnosed near Bolsa Chica State Beach had a door gasket that looked intact — but was pulling
+  warm, humid coastal air in on the hinge side, forcing the compressor to cycle almost
+  nonstop. Humidity here isn't just a comfort issue. It's a hardware issue.
+
+  Surf City sees corrosion timelines that would surprise homeowners even 10 miles inland.
+  That's the reality of repairing freezers this close to the ocean.
 
 localContext: |
-  Housing here runs the full spectrum — mid-century ranches near Yorktown Avenue in 92646, newer subdivisions around Bella Terra in 92647, and the channel-front homes of Huntington Harbour in 92649. Garage and side-yard freezer installs are common across all of them. That means condenser coils exposed to marine air year-round, cramped utility closets in the older ranch homes, and the occasional built-in Sub-Zero or Thermador in the Harbour properties that requires specialized tooling to access. Compact service vans matter here too — street parking along beach-area blocks is tight.
+  Huntington Harbour in 92649 is a different world from the inland tracts off Goldenwest
+  Street — those waterfront properties run Sub-Zero and Thermador built-ins requiring
+  specialized access and tools most generalists don't carry. The bulk of service calls come
+  from 1970s and early-1980s ranch-style homes in 92646, where original kitchen layouts
+  weren't built for today's larger appliance footprints. Ocean-facing garage freezers in both
+  zones show accelerated condenser coil corrosion compared to anything further inland in OC.
+
+  The Seacliff neighborhood off Palm Avenue sits in a microclimate that gets more marine layer
+  than anywhere east of the 405. Upright freezers in those homes cycle harder through June
+  and July when morning fog keeps ambient humidity above 85%. Older condos along Pacific
+  Coast Highway near 92648 often have stacked or under-counter units crammed into galley
+  kitchens — tight clearance means extra labor time and sometimes mirror-image door reversals
+  just to pull the unit out. Downtown HB apartments near Main Street are similar: compact
+  spaces, no service elevator, street parking for the van. We account for all of it when
+  quoting the job.
+
+  The mid-century tract housing east of Beach Boulevard — Meredith Gardens, Suburbia, the
+  older developments off Talbert Avenue — presents its own set of access patterns. These
+  are mostly single-story slab-foundation homes built between 1958 and 1972. Kitchens run
+  small by modern standards. A standard 36-inch refrigerator-freezer often leaves under
+  two inches of clearance on each side, which matters when you're pulling a compressor or
+  getting behind the unit to reach the condenser fan. The HOA communities along Yorktown
+  Avenue add another layer: gate access, designated parking, and building managers who
+  sometimes need to be looped in before a service window opens.
+
+  MWDOC-sourced water throughout 92647 and 92646 runs consistently hard — typically in
+  that 350–400 ppm range depending on the blend from MWD imports versus local wells.
+  That's not a complaint about the municipal system; it's just the local baseline that
+  every freezer's defrost drain has to deal with. Homes on Southern California Gas lines
+  in the older Huntington Beach tracts also commonly have gas dryers sharing utility
+  closets with chest freezers — tight ventilation in those spaces affects how hard the
+  freezer compressor works to shed heat in summer.
 
 commonProblems:
-  - title: "Frost Buildup on the Evaporator Coil — Coastal Humidity Makes It Worse"
-    description: |
-      Ocean air means elevated humidity, and that humidity gets into garage-installed freezers every time the door opens. The evaporator coil frosts over faster than the defrost timer can handle — especially when a door gasket is even slightly compromised. Samsung french-door models with the freezer compartment at the bottom show this pattern constantly: the defrost heater element fails, the auto-defrost cycle stops running, and the coil ices completely solid within days. Catch it early, it's a $60 heater element swap. Wait six weeks, you're looking at a full compressor replacement.
+  - title: "Coastal Humidity Destroying Door Gaskets Prematurely"
+    description: "Salt-laden air breaks down rubber faster near the water. Sub-Zero column units and
+      Bosch built-in freezers in Huntington Harbour homes show door gasket cracking in as few
+      as five years — half the expected lifespan. Once the seal fails, ice crystals form around
+      the frame, frost builds on the evaporator coil, and food near the door starts thawing
+      during the warmest part of the day. The fix isn't just swapping the gasket — the frame
+      channel has to be cleaned of mineral residue first or the new seal won't sit flush."
 
-  - title: "Compressor Overheating in Summer — Garage Installs Are the Problem"
-    description: |
-      August garage temperatures in Huntington Beach easily hit 85-90°F. A compressor designed for 70°F ambient conditions starts pulling excess amperage — longer cycles, more heat buildup, until the thermal overload relay trips and the freezer goes warm without warning. Bosch and KitchenAid chest freezers in under-ventilated garages are the most frequent summer calls in this area. Four inches of clearance behind the unit and annual cleaning of the condenser fan blades prevent most of these failures. Both are things most people never do.
+  - title: "Frost Layer Buildup from Hard Orange County Water and Humidity"
+    description: "OC water hardness averages 300–400 ppm. Mineral deposits clog the defrost drain,
+      water backs up, and refreezes into a solid sheet across the evaporator coil. The defrost
+      timer runs its cycle but can't clear the ice fast enough. LG french-door models in the
+      92647 zip see this within the first three to four years — it's not a defect, it's the
+      local water. Samsung units show it differently: an Er FF or Er 1F error code on the
+      display before the ice sheet is even visible. Clearing the drain line buys time, but
+      replacing the defrost heater assembly and drain tube together is the lasting fix."
 
-  - title: "Door Gasket Failure on Older Built-In Units"
-    description: |
-      Sub-Zero and Thermador built-in freezers in the Huntington Harbour properties — many installed 12-18 years ago — are overdue for a gasket inspection. The magnetic door gasket hardens and cracks from age and constant salt air exposure. Once it gaps even slightly, warm humid air infiltrates continuously, the thermostat runs the compressor nonstop, and internal temps swing 10-15 degrees. Food spoils unpredictably. The compressor wears out months ahead of schedule. A gasket replacement runs $120-$180. Ignoring it leads to a $900+ compressor job.
+  - title: "Compressor Overwork in South-Facing and Garage Installations"
+    description: "Huntington Beach summers peak in the high 80s, but uninsulated garages south of
+      Adams Avenue easily hit 95°F by afternoon. A Samsung or GE upright freezer working in
+      that ambient heat strains the compressor hard — add a dust-clogged condenser fan and the
+      unit loses its ability to shed heat. Internal temps creep above 0°F without any obvious
+      warning until food goes soft. The compressor itself is often fine; the condenser fan
+      motor seized from grit and the condenser coils are packed with lint and coastal dust.
+      Clean those two components and the compressor load drops back into a safe range."
 
 faq:
   - q: "How fast can you get to Huntington Beach for freezer repair?"
-    a: |
-      From the South Bay corridor, Huntington Beach is typically 30-45 minutes depending on traffic on the 405. Call (323) 870-4790 before noon most weekdays and same-day afternoon service is usually available. Evening slots open up regularly too. Parking near the beach streets is manageable — we run a compact service van, not a full-size truck.
+    a: "Coming down the 405 to Beach Blvd or PCH, we cover most of Huntington Beach in 30–45
+      minutes from the time you call. Parking in the Harbour area can be tight — we plan
+      around it. Same-day slots are available most days; evening appointments too if daytime
+      doesn't work. Call us at (323) 870-4790 and we'll lock in a window."
 
-  - q: "Do you repair KitchenAid, Sub-Zero, and LG freezers in Huntington Beach?"
-    a: |
-      Yes — those three are the most common calls in this zip. KitchenAid uprights with evaporator coil icing, Sub-Zero built-ins needing door gasket replacements or refrigerant work, and LG french-door bottom freezers with ice maker assembly failures. Parts for all three stocked on the van. No ordering and waiting.
+  - q: "Do you repair Sub-Zero and Bosch built-in freezers in Huntington Harbour?"
+    a: "Yes, both. Sub-Zero column units usually need vacuum condenser service or a failed
+      evaporator fan replaced — the fan blade corrodes from salt air faster than the motor
+      itself. Bosch built-ins commonly come in with a clogged drain pump or a door latch
+      assembly that won't seal. KitchenAid french-door freezer sections too — the ice maker
+      assembly on those clogs from mineral scale, not mechanical failure. Whatever's in
+      the home, we carry the tools for it."
 
-  - q: "What does freezer repair typically cost, and do you handle emergencies?"
-    a: |
-      Diagnostic is $75, applied toward the repair if you proceed. Most common fixes — heating element replacement, door gasket swap, drain pump replacement — run $150-$300 parts and labor combined. Same-day emergency service is available for urgent situations. Call (323) 870-4790 or schedule online, and we can usually give a phone estimate before dispatching a tech.
-
----
+  - q: "What does freezer repair typically cost in Huntington Beach, and do you offer emergency
+      service?"
+    a: "Diagnosis runs $75, credited toward repair if you proceed. Replacing a thermal fuse,
+      defrost timer, or condenser fan typically lands between $150–$280 parts and labor.
+      A compressor swap on a premium unit runs higher — we'll quote it on-site before
+      touching anything. Evening slots are available most days, usually there within 2 hours
+      of your call. Schedule online or call (323) 870-4790 directly."

@@ -1,0 +1,124 @@
+title: "Inglewood Oven Repair — Same-Day Service, South Bay"
+
+intro: |
+  The bungalows clustered around Centinela Park were mostly built between
+  1945 and 1960 — and those original kitchens have been updated piecemeal
+  ever since. A Samsung slide-in range sitting in a cabinet cutout sized for
+  a 1983 Whirlpool is pretty common in the 90302 zip. That size mismatch
+  around the oven cavity is one reason uneven-heating calls come
+  disproportionately from this part of Inglewood.
+
+  Fifteen-minute diagnostic call. That's usually enough to confirm whether it's
+  the bake element, a failed thermostat, or something deeper in the control board
+  — before we ever touch a screw.
+
+  Most jobs close same day.
+
+localContext: |
+  Homes in the Morningside Park neighborhood (90305) and along the Centinela
+  corridor still carry their original 1950s gas line placements. Tight
+  clearances that complicate a straightforward element swap — in those galley
+  kitchens, pulling a freestanding range sometimes means maneuvering around
+  cast-iron radiator pipes or original oak cabinetry that wasn't built to code.
+  Apartment blocks off La Cienega Boulevard lean toward compact 24-inch wall
+  ovens; remodeled units often got a Bosch built-in, which disassembles
+  completely differently than a freestanding range. We've done enough of those
+  Bosch 500-series calls to carry the right torx bits without hunting through
+  the van.
+
+  Hard water hits differently in Inglewood.
+
+  LA's municipal supply runs 270–310 ppm calcium in much of the South Bay —
+  that mineral load deposits on oven sensor probes, clogs broiler ports on gas
+  units, and accelerates scaling on steam-clean surfaces faster than most
+  residents expect. Bosch and KitchenAid ovens with sensor-driven cooking modes
+  are especially vulnerable: a coated probe gives bad temperature reads, and the
+  oven compensates by overcooking or cycling off early.
+
+  The blocks east of Crenshaw Boulevard between Florence Avenue and Manchester
+  Boulevard (90301) sit in the shadow of the Kia Forum — dense apartment
+  corridor, mostly rental-grade Whirlpool and GE ranges installed by landlords
+  who spec'd whatever met code. Those machines come in with clogged igniter
+  ports, burnt bake elements, and broiler drawers that haven't been cleaned
+  since the Obama administration. Fast fixes when the right parts are already on
+  the van.
+
+  The streets around Prairie Avenue and Queen Street see a lot of early-2000s
+  GE and Whirlpool freestanding ranges from the last big remodel wave. Still
+  running. Just tired.
+
+commonProblems:
+  - title: "Bake Element Failure in Aging GE and Whirlpool Ranges"
+    description: |
+      GE and Whirlpool ranges installed during late-1990s kitchen remodels
+      across Inglewood are now pushing 20-plus years on their original bake
+      element. The element cracks or fails on one side — charred edges on
+      the right, raw dough on the left. On older GE models that's often an
+      F2 or F3 fault code on the control board; sometimes the board shuts the
+      oven down entirely before the element physically burns through.
+
+      Swapping the element takes about an hour. We pull stored fault codes off
+      the control board before closing the call — replacing the element without
+      clearing the underlying code means the same error trips again in two weeks,
+      and nobody wants a second service visit.
+
+  - title: "Samsung Self-Clean Door Latch Stuck After Cycle"
+    description: |
+      Samsung's NE and NX series ovens regularly trip the door latch assembly
+      past its design tolerance during a self-clean cycle — the lock engages
+      but refuses to release once the cavity cools. The oven is cold,
+      completely locked, and unusable. A failed latch solenoid or a corrupted
+      signal from the control board is almost always the culprit.
+
+      Power-cycling the range doesn't fix it. The latch mechanism needs to be
+      manually released and the solenoid tested under load. Parts for these
+      Samsung models are typically in stock; most latch repairs close in a
+      single visit without waiting on a parts order.
+
+  - title: "Gas Broiler Won't Light on KitchenAid and LG Ranges"
+    description: |
+      KitchenAid and LG gas ranges in Inglewood remodels commonly develop
+      broiler igniter failure around the 8-to-10-year mark. The igniter
+      glows orange but can't reach the temperature needed to open the gas
+      valve — you hear the relay click, but no flame ever appears.
+
+      A degraded igniter typically draws under 3.2 amps when the gas valve
+      needs at least 3.6 to open. That 0.4-amp gap is the whole problem.
+      Replacing the igniter assembly and inspecting the gas valve orifice for
+      debris or carbon buildup usually resolves it in one visit. We carry
+      igniter assemblies for the most common KitchenAid and LG configurations
+      on the van.
+
+faq:
+  - q: "How fast can you get to Inglewood for oven repair?"
+    a: |
+      We run a South Bay route covering 90301 through 90305, so we're usually
+      under 30 minutes from a prior call. SoFi Stadium event nights slow
+      Century Boulevard significantly — we route around it via Florence.
+      Call (323) 870-4790 and we can typically confirm a same-day window,
+      including evening slots.
+
+  - q: "Do you repair Samsung and Bosch ovens specifically?"
+    a: |
+      Samsung and Bosch together make up a large share of Inglewood oven calls.
+      On Samsung, we most often deal with control board failures and door latch
+      solenoids. LG touchpad and thermal fuse failures are common too — the
+      thermal fuse on LG wall ovens sits in an awkward spot behind the back
+      panel, but it's a straightforward swap once you're in there.
+
+      Bosch wall ovens in this area typically present with heating element shorts
+      or failed temperature sensors. E015 and E016 error codes on the 500 and
+      800 series usually point to one of those two. We stock sensors for the
+      common Bosch configurations, so same-day turnaround is realistic.
+
+  - q: "What does oven repair cost, and can you fix it the same day?"
+    a: |
+      Diagnostic fee is flat-rate and applied toward the repair if you proceed.
+      Most bake element or igniter swaps land between $150 and $260 total,
+      parts and labor included. Control board replacements vary more by brand —
+      Samsung and LG boards run higher than GE or Whirlpool.
+
+      Same-day repair is the norm, not the exception. We stock common parts for
+      GE, Whirlpool, Samsung, and KitchenAid on the van. Schedule at
+      (323) 870-4790 — evening appointments in Inglewood are available on
+      short notice.

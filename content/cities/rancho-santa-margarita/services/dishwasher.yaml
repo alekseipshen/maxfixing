@@ -1,55 +1,60 @@
-title: "Rancho Santa Margarita Dishwasher — Hard Water, Fast Fix"
-
 intro: |
-  The master-planned neighborhoods fanning out from Lake RSM look immaculate — and
-  the Bosch and Miele units built into those late-'90s kitchens are quietly
-  accumulating mineral scale every single cycle. Rancho Santa Margarita sits on
-  some of Orange County's hardest tap water, consistently above 280 ppm calcium
-  carbonate. That scale coats the spray arm first, then the inlet valve screen,
-  then the detergent dispenser — until one day nothing rinses clean.
+  Rancho Santa Margarita kitchens lean heavily toward Bosch and Miele — panel-ready units tucked behind custom cabinetry that most generalist repair shops won't touch. OC hard water is the real problem here. At around 300–400 ppm in 92688, mineral buildup clogs spray arms, jams float switches, and coats heating elements in calcium scale faster than the manufacturer's warranty assumes. MaxFixing handles dishwasher repair across Rancho Santa Margarita, from the Melinda Hills tract homes to the custom builds near Rancho Santa Margarita Lake.
+
+description: |
+  Most dishwasher calls in Rancho Santa Margarita fall into predictable patterns. The Bosch 500-series units common in these kitchens throw E24 and E25 error codes when the drain pump gets restricted — a combination of food debris and calcium scale from the local water. That's usually a $150 fix, not a replacement.
+
+  KitchenAid built-ins in the older RSM homes from the late 90s have a door latch assembly failure that shows up around year 8–10. Machine starts a cycle, then stops mid-wash. Homeowners assume it's the control board. It's almost never the control board.
+
+  Miele G-series models behave differently. The inlet valve on those units is sensitive to water pressure variation. RSM sits at the end of some long distribution lines, and pressure fluctuates enough to cause problems. A sticking inlet valve either floods the machine or starves it of water entirely. Parts for these are on the truck — call (323) 870-4790 and we can usually get there same day.
 
 localContext: |
-  Most of RSM's housing stock went up between 1988 and 2002, meaning appliances
-  are either original and overdue or mid-range replacements that didn't account
-  for hard-water abuse. The 92688 zip covers everything from Melinda Heights
-  condos to larger single-family homes near the Tijeras Creek Golf Club — very
-  different installation footprints. Built-in panel-ready dishwashers in
-  higher-end remodels here often require custom door-panel removal before any
-  diagnostic work can even begin.
+  92688 is hard on appliances in a specific way.
 
-commonProblems:
-  - title: "Spray Arm Clogging from Mineral Scale — 92688 Water Is Relentless"
-    description: "Hard water deposits plug the spray arm ports faster here than most of
-      LA County. That Bosch 500 or 800 Series starts leaving gritty residue on
-      glasses — not dirty dishes, calcified ports restricting water pressure. The
-      fix involves descaling the spray arm assembly and inspecting the inlet valve
-      screen, which usually needs replacement at the same visit."
-  - title: "Standing Water After the Cycle — Drain Pump Failure"
-    description: "An inch of cloudy water sitting at the bottom after the cycle ends
-      almost always points to the drain pump. KitchenAid and Miele units in RSM
-      develop this when food debris combines with mineral buildup and blocks the
-      pump impeller. The float switch may also trigger a false 'full' reading,
-      preventing the final drain sequence from starting at all."
-  - title: "Detergent Dispenser Won't Open Mid-Cycle"
-    description: "The dispenser door relies on a wax motor actuator that fails from heat
-      cycling and hard-water residue around the latch. Bosch units throw an E24
-      or E25 error code when this happens — dishes come out still soapy, or the
-      pod sits there untouched. Replacing the dispenser assembly, not just
-      cleaning it, is the permanent fix on units over five years old."
+  The Santa Margarita Water District pulls from a mix of imported Metropolitan Water and local groundwater. Hardness runs 280–380 ppm depending on the season and which distribution zone you're in. For dishwashers, that means calcium deposits inside the spray arm jets, a film on the heating element that reduces drying efficiency, and detergent dispenser doors that stick because the mechanism is coated. Descaling is not optional maintenance here — it's a repair driver.
+
+  Tijeras Creek Golf Club area and the newer builds near Antonio Pkwy have a mix of Miele and Thermador appliances installed during construction. These aren't the units you find at a box store. The Thermador DWHD770WFM and similar models use a condensation drying system — no heating element in the traditional sense — which confuses homeowners when dishes come out wet. That's a zeolith mineral regeneration issue, not a broken part.
+
+  Melinda Hills and the Village at RSM have a higher concentration of late-90s and early-2000s construction. KitchenAid KUDS30 series machines are common there. Float switch failures and worn door gaskets are the typical age-related issues at 20+ years. Replacement parts still exist but lead times vary.
+
+commonProblems: |
+  Hard water scale buildup is the underlying cause behind roughly 60% of dishwasher repairs in Rancho Santa Margarita. Clogged spray arms, false float switch readings, and reduced heating element output all trace back to calcium and magnesium deposits accumulating in the water circuit. A descale service at the same time as a mechanical repair extends the next service interval significantly.
+
+  E24 and E25 error codes on Bosch units mean the drain path is restricted. Could be the pump impeller, could be scale in the drain hose, could be a partial blockage at the knockout plug if this machine was connected to a garbage disposal. Fast to diagnose.
+
+  Control board failures get blamed for a lot of symptoms that actually have mechanical causes. Before replacing a $300+ board, check the basics: door latch assembly, float switch continuity, inlet valve solenoid resistance. Nine times out of ten, the board is fine.
+
+  Miele inlet valve failures in 92688 are common enough that the part stays on the truck. Pressure-sensitive solenoid valve, two failure modes: it won't open (machine doesn't fill, throws F11 or water intake fault), or it won't close fully (machine overfills, trips the flood protection). Both are same-day repairs.
+
+problems:
+  - title: Dishwasher not draining
+    description: |
+      Standing water after a cycle is the most common complaint in 92688. Nine times out of ten it's the drain pump — either a partial blockage or a failed pump motor. On Bosch units, check for the E24 code first. On older GE and Frigidaire machines in the townhome complexes near Plano Trabuco Road, it's typically the drain pump impeller cracked from years of hard water exposure.
+
+  - title: Dishes coming out spotted or dirty
+    description: |
+      OC water hardness is aggressive. Spray arm holes clog with calcium, the detergent dispenser sticks shut mid-cycle, and heating element scale reduces drying performance significantly.
+
+      A descale service and spray arm replacement fixes most of this. If the float switch is reading falsely low, the machine under-fills and nothing rinses clean regardless of detergent. Two separate problems, same symptom.
+
+  - title: Dishwasher leaking
+    description: |
+      Most leaks trace back to the door gasket or the water inlet valve. On panel-ready Bosch and Miele units behind custom cabinetry, a slow door gasket leak can go undetected until subfloor damage is already done. Every leak call gets a full inspection of the door seal perimeter, the sump, and the inlet valve connections. Schedule same-day service at (323) 870-4790 before a small drip turns into a flooring claim.
 
 faq:
-  - q: "How fast can you get to Rancho Santa Margarita for dishwasher repair?"
-    a: "We cover 92688 out of South Orange County — typically same day, usually
-      within 2 hours of your call. Tijeras Creek and Melinda Heights are both on
-      our regular route. Call (323) 870-4790 or schedule online to lock in a slot."
-  - q: "Do you repair Miele and Bosch dishwashers in Rancho Santa Margarita?"
-    a: "Yes — Bosch (including panel-ready 500 and 800 Series), Miele, and
-      KitchenAid are the three we see most in RSM. On Bosch units we commonly
-      replace drain pumps, door latch assemblies, and control boards. Miele
-      diagnostics require a specific dealer tool, which we carry."
-  - q: "What does a dishwasher repair typically cost out here?"
-    a: "Most repairs in Rancho Santa Margarita run $150–$350 depending on the
-      part. Drain pump swap on a Bosch is on the lower end; control board
-      replacement on a panel-ready Miele is higher. We diagnose on-site, quote
-      before touching anything, and stock common parts — same-day completion is
-      the norm."
+  - question: Do you work on built-in panel-ready dishwashers?
+    answer: |
+      Yes — panel-ready Bosch, Miele, and KitchenAid units in Rancho Santa Margarita are a significant part of what MaxFixing repairs. These machines require careful disassembly to reach the control board and pump assembly without scratching the custom panel or misaligning the door. Bring in someone unfamiliar with these units and you're paying for a new panel on top of the repair. Call (323) 870-4790 to confirm same-day availability.
+
+  - question: How long does a dishwasher repair take?
+    answer: |
+      Most repairs — drain pump swap, spray arm replacement, inlet valve, heating element — finish on the first visit. Common parts for Bosch, Miele, KitchenAid, GE, and LG stay stocked on the truck. If a part needs ordering, typical turnaround is 1–2 business days. Evening slots are available on weekdays for Rancho Santa Margarita — check same-day openings at (323) 870-4790.
+
+  - question: Repair or replace — how do I decide?
+    answer: |
+      A rough rule: if the repair costs less than half the replacement price and the machine is under 10 years old, fix it.
+
+      A Miele or Bosch dishwasher is built for 15–20 years with normal maintenance. Replacing a drain pump at year 6 makes sense. Replacing a control board on a 12-year-old budget GE probably doesn't. You get a straight answer on that before any work begins.
+
+service_area: |
+  Rancho Santa Margarita (92688), including Melinda Hills, Tijeras Creek, the Village at Rancho Santa Margarita, and neighborhoods around Rancho Santa Margarita Lake. Also covering nearby Coto de Caza, Las Flores, and Ladera Ranch.
