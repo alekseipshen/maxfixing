@@ -1,0 +1,29 @@
+title: "Mar Vista Range Hood Repair — Old Ducts and Grease Problems"
+
+intro: |
+  The 1950s bungalows along Beethoven Street and the blocks between Venice Boulevard and Washington Place weren't built with serious cooking in mind. Most original ductwork in these homes is undersized — 3-inch round runs where 6-inch rectangular should be. Drop a KitchenAid hood rated for 400 CFM into that setup and the motor fights restricted airflow every single time you cook. That stress shows up first on the blower wheel, then on the motor bearings. These hoods fail quietly for months before anyone calls.
+
+localContext: |
+  The 90066 zip code has a few distinct housing profiles. East of Centinela Avenue, it's mostly 1950s and 60s single-family homes — many now on their second or third kitchen renovation, rarely with ductwork sized for the new appliances. Closer to Lincoln Boulevard the construction is denser with tighter ceiling clearances. Newer condos near the Mar Vista Recreation Center often have ductless recirculating hoods with charcoal filter cartridges — a completely different repair scenario than a standard ducted wall mount.
+
+  The blocks south of Venice Boulevard between Grandview and Inglewood Boulevard skew toward older gas ranges paired with under-cabinet hoods — a Whirlpool or GE unit bolted in years ago that nobody has touched since. Gas burners produce more grease-laden vapor than electric, and that difference shows up clearly in how fast baffle filters saturate. The Mar Vista Farmers Market draws the crowd that actually cooks: the kind of household running a Bosch or LG range five nights a week. Those kitchens rack up blower motor hours fast, and range hoods in this zip reflect it.
+
+commonProblems:
+  - title: "Blower Motor Seized From Grease in Under-Ventilated Kitchens"
+    description: "GE and KitchenAid hoods in these renovated bungalows frequently go years without a real cleaning. Carbonized grease coats the blower wheel and eventually reaches the motor bearings. By the time you hear grinding or notice the fan slowing, the motor is already past the tipping point. Catching it early means a straightforward motor swap — usually a 45-minute job. Waiting usually means harder disassembly, a seized shaft, and more labor hours."
+
+  - title: "Duct Collar Rattle From Minor Seismic Activity"
+    description: "Mar Vista sits a few miles from the Newport-Inglewood fault zone, and 3.0-3.5 magnitude events happen regularly. That low-level vibration loosens duct collar connections at ceiling penetrations over time. Bosch wall-mount hoods are particularly prone — the collar isn't externally clamped on most models. A small gap creates a resonant low-frequency rattle at high fan speed. Most homeowners blame the blower motor. It's usually not."
+
+  - title: "Samsung Control Board Faults After Ignored Filter Alert Codes"
+    description: "Samsung hoods with digital panels throw a filter-cleaning code and sometimes lock the fan to low speed until the alert is cleared. The cause is almost always a fully saturated baffle grease filter. In a 90066 kitchen running nightly dinners, that filter maxes out in 10-14 weeks. Skip enough alerts and the control board starts accumulating persistent faults — at that point a factory reset or full board replacement is the only path forward."
+
+faq:
+  - q: "How fast can you get to Mar Vista for Range Hood repair?"
+    a: "Most calls in 90066 get a technician out same day, usually within 2 hours of booking. Traveling the 10 Freeway or coming down Lincoln Boulevard, Mar Vista is easy to reach from either direction. Residential blocks like Beethoven and Grandview have available street parking. Call (323) 870-4790 to confirm a slot."
+
+  - q: "Do you repair Bosch and Samsung range hoods in Mar Vista?"
+    a: "Yes — Bosch, Samsung, and KitchenAid are the three brands we see most in 90066 kitchens. Bosch hoods typically need a duct collar gasket or blower wheel cleaning. Samsung is more often a control board replacement or a dead light assembly. KitchenAid tends toward worn motor bearings and cracked grease filter frames after heavy use."
+
+  - q: "What does range hood repair typically cost in Mar Vista?"
+    a: "Diagnostic visit is $65 and applies toward the repair bill. Blower motor swaps run $180-$240 parts and labor combined. Control board replacements on Samsung or LG units can reach $280-$320 depending on the model year. Same-day and evening appointments are both available — call (323) 870-4790 or schedule online if daytime doesn't work."

@@ -1,0 +1,95 @@
+title: "Inglewood Double Oven — Post-War Kitchens, Same-Day Repair"
+
+intro: |
+  Hollywood Park Casino sits two miles from a stretch of 90301 bungalows
+  where kitchen remodels peaked between 2015 and 2020 — right when buyers
+  started flooding Inglewood ahead of SoFi Stadium opening. A lot of those
+  jobs installed Samsung or KitchenAid double wall ovens, 30-inch electric
+  built-ins mostly. Those units are seven to ten years in now, hitting the
+  phase where control boards drift, bake elements fail, and door hinges start
+  sagging off the upper cavity.
+
+localContext: |
+  Inglewood's 90301 and 90303 zip codes hold the densest concentration of
+  owner-occupied housing — post-WWII frame houses and 1950s stucco ranches,
+  typically 1,100–1,400 sq ft with kitchens not designed for built-in wall
+  ovens. Retrofit installations mean tight clearances around the cabinet box
+  and wiring that sometimes gets jury-rigged to reach 240V. The 90304
+  corridor along Centinela Avenue skews older — some 1940s construction —
+  where original wiring needs checking before any part replacement.
+
+  Morningside Park and the blocks around Manchester Boulevard run slightly
+  newer stock — mid-1960s to early-1980s builds — where kitchens were
+  planned for freestanding ranges and a double-cavity unit got added during
+  a later remodel. Properties along Century Boulevard near the Kia Forum mix
+  multifamily and single-family lots; those buildings often carry older
+  electrical panels that weren't sized for a 240V double-cavity load.
+  Homes off Prairie Avenue, closer to 90305, skew toward the same postwar
+  footprint but with more intact original cabinetry — which means tighter
+  rough-in dimensions and less room to maneuver when pulling a built-in unit
+  for service. LA County water runs hard through Inglewood — same calcium and
+  magnesium load as the rest of the basin — and that accelerates scale
+  buildup on door gaskets and any components that cycle through repeated
+  steam exposure.
+
+commonProblems:
+  - title: "Lower Cavity Dead, Upper Cavity Still Works"
+    description: |
+      Independent bake elements on separate circuits share one control board
+      in most double wall ovens. When the lower cavity goes cold, it's almost
+      always the heating element itself or a blown thermal fuse on that
+      circuit — not a board problem. Samsung electric units in Inglewood are
+      especially prone after summer heat spikes or brief grid dips on the
+      local distribution network. We carry 240V elements for the most common
+      Samsung and GE configurations and can test on-site with a multimeter
+      in under ten minutes.
+  - title: "Upper and Lower Cavities Running at Different Temperatures"
+    description: |
+      A temperature mismatch between cavities usually points to a failed RTD
+      probe — the sensor that feeds live readings to the control board.
+      GE and Whirlpool double ovens use separate probes per cavity, and
+      hard water mineral deposits coat the probe housing over time, degrading
+      accuracy. Recalibrating through the keypad masks the symptom
+      temporarily. Once the probe drifts past spec, it needs replacing —
+      typically a $90–$140 part. Bosch handles this differently; calibration
+      offsets live in board memory, so a probe swap sometimes requires
+      clearing an F3 or E1 error code before the unit reads temperature
+      correctly again.
+  - title: "Control Board Failure — Display Locks or Throws Error Codes"
+    description: |
+      KitchenAid double wall ovens from the 2013–2017 production window are
+      showing a clear relay board failure pattern: touchpad stops responding,
+      display freezes mid-cycle, or the unit short-cycles without reaching
+      set temperature. That's the main control board — not a wiring issue,
+      not a door switch. Replacement boards run $190–$330 depending on the
+      model; swapping one takes about an hour once the part is on hand.
+      LG units in the 90305 zip are throwing F9 and tE3 codes with some
+      regularity — both trace to the temperature sensor harness vibrating
+      loose at the cavity wall connector, a fixable problem that doesn't
+      require a full board replacement.
+
+faq:
+  - q: "How fast can you get to Inglewood for a double oven repair?"
+    a: |
+      Usually on-site within 2 hours for morning calls in Inglewood — we
+      run up the 405 or cut over on La Cienega from the south depending on
+      traffic. Evening slots are available Tuesday through Saturday. Call
+      (323) 870-4790 to check today's openings; same-day appointments
+      typically book out by early afternoon.
+  - q: "Do you repair Samsung and LG double ovens in Inglewood?"
+    a: |
+      Yes — Samsung and LG wall ovens make up a big share of Inglewood
+      calls. Samsung jobs most often need control board or bake element
+      replacements. LG repairs typically involve the door latch assembly or
+      a temperature sensor failure. Whirlpool and GE built-ins are covered
+      equally, and we stock common parts for both brands.
+  - q: "What does a double oven repair visit cost in Inglewood?"
+    a: |
+      Diagnostic is $85, applied toward the repair if you move forward.
+      Heating element replacement runs $150–$230 parts and labor combined.
+      Control board swaps land between $290–$460 depending on brand. Unit
+      completely down and you can't wait? Call (323) 870-4790 — we keep
+      emergency slots open for same-day service across Inglewood and the
+      surrounding South Bay.
+
+---
