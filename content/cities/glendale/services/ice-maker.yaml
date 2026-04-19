@@ -1,31 +1,51 @@
-title: "Glendale Ice Maker — Hard Water Kills Fill Valves Fast Here"
+title: "Glendale Ice Maker Repair — Hard Water Kills Ice Makers Fast"
 
 intro: |
-  Glendale's municipal water regularly tests above 300 mg/L hardness — one of the higher readings in the San Gabriel Valley. That mineral load hits ice makers quietly: the fill valve clogs first, then the sensor starts misreading, then cubes shrink or stop altogether. That LG french-door refrigerator in a Montrose kitchen? The water inlet valve is usually the first casualty. Most homeowners don't connect the dots until the freezer bin's been empty for a week.
+  Hard water running through Glendale's pipes — particularly in the 91205 and 91206 zip codes near the base of the Verdugo Mountains — attacks ice makers in ways that aren't obvious until production stops entirely. Samsung french-door refrigerators in Adams Hill regularly hit fill valve failure inside 24 months from mineral scale buildup alone. That's not a defective unit. That's LA water doing what LA water does.
 
-  Glendale sits between the Verdugo Mountains and the 134 freeway corridor. Homes on the hillside above Glenoaks have older plumbing than the newer construction near the Americana on Brand — but the water chemistry is consistent throughout. Hard water doesn't care which ZIP you're in.
+  Glendale's municipal supply consistently tests between 250 and 300 ppm hardness — among the highest readings in the San Fernando Valley corridor. A budget GE side-by-side in a 91203 rental fights that mineral load the same as a KitchenAid built-in in a Verdugo Woodlands single-family home. Same water, same damage, different price tag on the fridge.
 
 localContext: |
-  A lot of the housing stock in the 91202 and 91205 zip codes dates to the 1940s-1960s — ranch homes and two-story apartment buildings where refrigerators sit in tight kitchen alcoves with minimal clearance. Pulling a unit out to access the ice maker assembly can mean navigating around old oak cabinetry or a wall that was never designed for modern refrigerator depth. The older plumbing in these buildings also runs at inconsistent pressure, which accelerates fill valve wear faster than you'd see in newer construction.
+  Glendale's housing mix matters for this kind of service call. Older 1940s and 1950s bungalows in Rossmoyne and Chevy Chase Canyon often have narrow galley kitchens — pulling a refrigerator out to reach the water line behind it adds real time to a call.
 
-  Glendale's Armenian community — concentrated in the 91204 and 91205 corridors — tends to run appliances longer than average. A 12-year-old Whirlpool or GE side-by-side that's never had service is common. By that point, the fill valve, door gasket, and sometimes the evaporator coil all need attention at once. We see those repairs often in the blocks between Maryland Avenue and Glendale Avenue.
+  Zip code 91207 is dense with 1960s apartment buildings where side-by-side and french-door refrigerators were retrofitted in, meaning water line routing is improvised and access behind the unit is never straightforward.
 
-  The Verdugo Woodlands neighborhood up in 91208 is a different story — mid-2000s construction, larger kitchens, and more KitchenAid and Bosch refrigerators with integrated ice makers. Those units have their own failure patterns: the optical sensor lens fogs with mineral film faster than mechanical arm designs, and the water line routing behind the cabinet panel is harder to access without the right tools. Adams Hill and Grandview Avenue houses share similar build characteristics — post-1990 construction on sloped lots with finished basements, where the utility line to the ice maker sometimes runs longer than standard and picks up more scale buildup along the way.
-
-  Brand Boulevard corridor sees heavy foot traffic from the Americana, but the residential streets just east — near Glendale Community College — are packed with 1970s-era duplexes and converted single-family rentals. Landlords replace appliances less often than homeowners. Samsung and LG units in those rentals routinely hit 8-10 years without a single service call. When the ice maker finally quits, it's usually not one part — it's the inlet valve, the sensor arm, and a partially frozen supply line all at once.
+  The Brand Boulevard corridor is a different story: newer construction condos with tight kitchen layouts and LG or Samsung stainless installs that look great but pack the plumbing into a corner. Getting to the water inlet valve on a top-freezer LG in one of those 91204 kitchens sometimes means removing lower cabinet panels before you even see the back wall. Glendale technicians unfamiliar with the local building stock waste 45 minutes finding out the hard way.
 
 commonProblems:
-  - title: "Calcified water inlet valve from Glendale's hard water"
-    description: "Hard water deposits coat the water inlet valve over 2-4 years until flow restricts below the minimum threshold the assembly needs to cycle. Whirlpool side-by-side units are especially prone — their valve design has smaller orifices than LG or GE models. The fix is usually a full valve swap, not just a cleaning. On Samsung french-door units, error code 1E or 4E typically appears alongside the production stoppage — the control board flags low water flow before the valve fails completely."
-  - title: "Frozen water line in exterior-wall refrigerators"
-    description: "Older Glendale homes with kitchens on the north or east wall see this in winter. The supply line running to the freezer compartment passes near an uninsulated exterior wall, freezes, and blocks flow entirely. Samsung models with the unit mounted high in the freezer compartment are particularly vulnerable — the line has more exposure. Thawing and rerouting the line, plus adding insulation wrap, usually prevents recurrence."
-  - title: "Sensor malfunction causing false 'bin full' shutoff"
-    description: "The optical or mechanical sensor that signals the assembly to stop cycling runs into trouble when mineral film coats the sensor arm or lens. KitchenAid refrigerators in the 91208 zip — a lot of mid-2000s builds in Verdugo Woodlands — show this failure pattern frequently. The unit shuts down thinking the bin is full when it's empty. Cleaning the sensor arm and recalibrating the control board usually resolves it without replacing the full assembly. On LG InstaView models, error code IS shows on the display when the arm is stuck — easy to miss if you don't know what it means."
+  - title: "Mineral Scale Choking the Fill Valve"
+    description: |
+      Glendale's water hardness deposits calcium directly into the fill valve — the part controlling water flow into the ice maker tray — until nothing gets through. LG InstaView refrigerators are especially prone here; their narrow-bore fill valve orifice scales up faster than older wide-bore designs. No water in means no ice out, simple as that.
+
+      The fix isn't just replacing the valve. Flushing the inlet line and checking the water filter housing for scale prevents the new valve from choking out inside another year. On a Samsung with a secondary inline filter, that housing is often the real culprit — the valve takes the blame because it's easier to see.
+
+  - title: "Frozen Water Supply Line Behind the Unit"
+    description: |
+      Older Glendale homes with saddle valve taps on copper supply lines see this constantly. The pinhole saddle valve restricts flow just enough that water sits in the thin plastic inlet line and freezes at the connection point.
+
+      Whirlpool side-by-sides backed against exterior walls in 91204 are repeat offenders — the refrigerator runs fine but production stops entirely. Replacing the saddle valve with a proper compression fitting and insulating the line behind the unit solves it for good.
+
+  - title: "Ice Level Sensor Coated by Hard Water Dust"
+    description: |
+      The optical ice level sensor — a small infrared emitter and receiver pair — gets filmed over by mineral particulate carried in hard water vapor. GE Profile refrigerators with their sensor-based shutoff show this symptom constantly in Glendale: the machine reads a full bin, shuts off, and the bin is half-empty. Cleaning the sensor lens or swapping the sensor module gets production back to normal within the same visit.
+
+      This one gets misdiagnosed constantly. Homeowners call it a control board issue because the display looks normal.
+
+      In Glendale specifically, with water this hard, check the optical sensor before touching the board.
 
 faq:
-  - q: "How fast can you get to Glendale for an ice maker repair?"
-    a: "We run service routes through the San Gabriel Valley daily — from the 91201 corridor near Brand Park up to Montrose. Usually there within 2 hours of your call. Evening slots available on weekdays. Call (323) 870-4790 to check same-day availability."
-  - q: "Do you repair Samsung and LG refrigerators with built-in ice makers?"
-    a: "Yes, those are actually the two most common service calls in Glendale. Samsung french-door and LG InstaView models both have ice maker assemblies we stock parts for. Also handle Whirlpool and KitchenAid — fill valves, control boards, the full range."
-  - q: "What does ice maker repair typically cost, and is same-day service available?"
-    a: "Most repairs run $120-$280. A fill valve swap on a Whirlpool or GE unit lands on the lower end. A control board replacement or a frozen line reroute pushes toward the top. Parts availability in Glendale is rarely the bottleneck — we carry stock for the most common Samsung, LG, and KitchenAid assemblies. Same-day service is available. Call (323) 870-4790 in the morning and we can usually get there the same afternoon."
+  - q: "How fast can you get to Glendale for ice maker repair?"
+    a: |
+      Glendale sits on our regular Burbank–Pasadena corridor, so response is usually under 2 hours. The 91201 through 91208 zip codes are all covered same-day. Street parking near Brand Boulevard and Central Avenue is manageable for the service van. Call (323) 870-4790 to get on today's schedule.
+
+  - q: "Do you repair Samsung and LG ice makers in Glendale?"
+    a: |
+      Both come up constantly here. Samsung french-door assemblies, LG module replacements, KitchenAid built-ins in the Verdugo Woodlands — these are weekly jobs in Glendale. We stock fill valves, sensor assemblies, and control boards for all three so most repairs close on the first visit.
+
+  - q: "What does ice maker repair usually cost, and is same-day available?"
+    a: |
+      Fill valve replacements typically run $130–$180. Control board swaps land closer to $250–$320. Same-day appointments are almost always available, and we keep evening slots open for calls that come in after noon. Schedule online or call (323) 870-4790 — we'll confirm a window within the hour.
+
+  - q: "My Bosch or Whirlpool stopped making ice after a filter change — is that related?"
+    a: |
+      Almost always yes. Swapping a water filter on a Bosch or Whirlpool can introduce an air lock in the inlet line that starves the tray. On Bosch models, a pressure sensor can misread after a filter swap and prevent the fill cycle from starting altogether. Run two or three dispenser water cycles to purge the air first. Still nothing? That's a 20-minute diagnostic in Glendale — call (323) 870-4790 and we'll walk through it on the phone or schedule a same-day visit.

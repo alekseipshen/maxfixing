@@ -1,89 +1,86 @@
-title: "Santa Clarita Range Repair — Valencia to Newhall, Same Day"
+title: "Santa Clarita Range Repair — Gas, Ignition & Oven Fixes"
 
 intro: |
-  Valencia's newer developments off McBean Parkway in the 91355 zip are full of KitchenAid
-  dual-fuel ranges that came standard in the original kitchen packages. When the control board
-  starts throwing F3 errors or a surface burner keeps clicking without catching flame, that's
-  usually the igniter module — not the gas valve. We cover all of Santa Clarita and can
-  typically get there same day. Two technicians, routes that run from Newhall to the 14/5
-  interchange and back.
+  Valencia's master-planned tracts and the newer builds climbing up toward Bouquet Canyon Road
+  put a lot of KitchenAid slide-ins and Thermador pro-style ranges in kitchens that see real
+  daily cooking. Those dual-fuel models are great — until the igniter assembly starts failing
+  from grease accumulation inside the spark module socket. We run the 14 Freeway into Santa
+  Clarita regularly, covering 91355 and 91350, and most calls get a same-day visit.
 
 localContext: |
-  The housing stock here splits pretty clearly by era. Newhall and Canyon Country (91351, 91387)
-  have older ranch-style homes from the '70s and '80s — freestanding gas ranges, tight utility
-  spaces, appliances that have logged 15-plus years of daily use. Stevenson Ranch and newer
-  Valencia tracts skew upscale: Thermador or Bosch slide-in models built flush into cabinetry,
-  which means pulling the unit requires extra care so you don't damage the surrounding millwork.
+  Santa Clarita's housing boom ran from the late 1980s through the 2000s, so the gas lines
+  are relatively modern but the appliances are now hitting the age where parts start failing.
+  Stevenson Ranch and the 91381 zip in particular have a dense cluster of upgraded kitchens —
+  Bosch slide-ins, Thermador built-ins — sitting in homes where the original stub-out was
+  sized for a basic freestanding range. That matters when you're diagnosing gas pressure issues
+  or replacing a gas valve igniter on a high-BTU pro burner.
 
-  North Valencia (91354) along Copper Hill Drive and Tournament Road has seen a lot of new
-  builds in the last decade — open-concept kitchens where the range is the centerpiece. Those
-  homes tend to run KitchenAid or LG slide-ins. The older Saugus corridor (91350) near
-  Bouquet Canyon Road is a different story: tract homes from the early '90s with GE or
-  Frigidaire freestanding units that are finally starting to show their age.
+  Canyon Country and Saugus (91351, 91350) run older — some tract homes there date back to the
+  early 1990s, and the range that came with the house got swapped out for a Samsung or LG
+  freestanding unit somewhere around 2010-2015. Those are now hitting the 10-12 year mark where
+  control boards and bake elements start going. Newhall near the old downtown stretch on Lyons
+  Avenue has a different mix entirely — smaller lots, older kitchens, more GE and Maytag
+  freestanding units that have been running continuously for 20 years.
 
-  Old Town Newhall along Railroad Avenue is its own category: mixed commercial-residential,
-  older construction, often gas ranges that pre-date modern electronic ignition — pilot-light
-  setups on ancient O'Keefe & Merritt or early GE slide-ins that need a technician who actually
-  knows what a standing pilot looks like. Not common, but we run into them.
+  The hills above Copper Hill Drive in Valencia and the gated sections off Entrada Valley Road
+  in Stevenson Ranch skew heavily premium. Sub-Zero and Thermador combinations are common in
+  those builds. Parts for those brands aren't on every truck — we specifically stock them
+  because that's where the calls come from. College of the Canyons sits just south of the
+  91355, and the surrounding neighborhoods along Rockwell Canyon Road are dense with
+  mid-2000s builds that now need real range service, not just cleaning.
 
-  SCV Water serves most of the valley, pulling supply from Castaic Lake and the State Water
-  Project. The hardness runs 200–300 mg/L depending on the season and how much groundwater
-  blends in. That's aggressive — spark ports on gas burner caps accumulate mineral crust fast,
-  and the igniter electrodes on five-year-old Bosch and KitchenAid units show calcite buildup
-  that blocks the spark gap entirely. We clean burner assemblies on almost every range call here.
+  Summer is brutal in the SCV — inland heat pushes Triple digits through July and August, and
+  ranges run hard during morning and evening cooking windows when families avoid the midday
+  heat. That thermal cycling stresses oven door gaskets and bake elements faster than in
+  coastal neighborhoods. SCV Water sources from both State Water Project and local groundwater,
+  and the mineral content is high enough that steam-assist cleaning cycles on Bosch and
+  Thermador ovens build up calcium deposits around the steam injector over time — something we
+  check during range service even when the customer doesn't mention it.
 
-  Santa Clarita also sits in an inland heat pocket. Summers near the 14 Freeway corridor push
-  past 105°F on peak days. Ranges and ovens in poorly ventilated kitchens — common in older
-  Canyon Country tract homes — run hotter ambient temperatures, which accelerates thermal
-  fuse failure and shortens the lifespan of oven igniter bricks. We see a spike in oven-won't-heat
-  calls every July and August, mostly from 91351 and 91387 zip codes.
+  Traffic on the 14 through Newhall Pass can stretch afternoon drive times significantly. We
+  schedule Santa Clarita calls to avoid that window — early afternoon or after 6 PM works
+  better for everyone, and evening slots mean the homeowner doesn't have to take time off work.
 
 commonProblems:
-  - title: "Burner Igniter Fails After Heavy Summer Cooking"
-    description: "Santa Clarita summers run hot, and kitchens in the inland Valley get used hard.
-      The ceramic igniter tips on KitchenAid and Bosch gas ranges crack from repeated thermal
-      cycling — you hear the clicking but get no flame. Mineral residue from Castaic Lake water
-      also packs into the spark ports and smothers the igniter over time. Replacing the igniter
-      electrode, spark module, and cleaning the burner cap assembly usually fixes it for
-      $120-180 in parts. The wiring harness connecting the spark module to the control board
-      is worth inspecting too — brittle insulation is common on units over eight years old."
-  - title: "Oven Temperature Drifts — Bakes Unevenly or Too Slow"
-    description: "On gas ranges, a failing bake igniter is the usual culprit: the oven
-      takes forever to preheat, or shuts off mid-cycle when the igniter can no longer hold
-      enough current to keep the gas valve open. A failing temperature sensor probe will
-      also cause this — the control board reads the wrong cavity temp and either over- or
-      under-fires. Thermador dual-fuel units in Stevenson Ranch homes sometimes have a
-      secondary issue — a worn door gasket that bleeds heat and makes the oven work twice
-      as hard. In high-heat summers, thermostats that are marginal spring through fall often
-      fail completely by August. We test the igniter amperage draw and probe resistance on
-      every oven call before ordering parts."
-  - title: "Gas Smell Near the Range — Don't Ignore It"
-    description: "A faint gas odor around an LG or Samsung slide-in usually means a loose
-      or degraded gas valve seal, not a line leak — but it still needs same-day attention.
-      We carry a combustible gas detector on every call and check the valve seats, flex
-      connector, and manifold fittings before confirming it's safe to use. Most of the
-      time it's the valve body O-ring or the supply connection at the range shutoff. Call
-      us at (323) 870-4790 and we'll be there within a few hours — this isn't a wait-and-see
-      situation."
+  - title: "Igniter Clicks Constantly But the Burner Won't Actually Light"
+    description: "The spark igniter module itself tests fine, but on KitchenAid and Thermador gas
+      ranges the igniter switch assembly absorbs cooking grease over time and loses the voltage
+      needed to jump the gap. Sometimes a deep cleaning of the electrode and cap restores it.
+      More often the switch needs replacing — a 45-minute repair once we have the right part on
+      the truck, which we usually do for those two brands."
+  - title: "Oven Runs 40-50 Degrees Under Set Temperature"
+    description: "Samsung and LG ranges in Santa Clarita's post-2000 builds develop this after a
+      few years of use. The oven temperature sensor drifts out of spec, or the bake element
+      develops a partial break that causes uneven heat without fully cutting out. On Thermador
+      dual-fuel units we sometimes see the control board behind this symptom — different
+      diagnosis, different part, usually a higher cost. Worth a proper check before replacing
+      parts blindly. LG sometimes throws an F3 or F9 error code alongside the temperature
+      drop, which points directly at the sensor rather than the element — saves a diagnostic
+      step and usually means a faster repair."
+  - title: "Faint Gas Smell Near the Cooktop or Broiler"
+    description: "On Bosch slide-in ranges, the gas valve igniter assembly can develop a slow seal
+      failure — trace gas escapes near the broiler burner, especially after the unit's been
+      running hot. Turn the supply valve off at the wall and don't use the range. Call us at
+      (323) 870-4790 immediately. We carry common gas valve components for Bosch and KitchenAid
+      on the truck and can usually get out the same day."
 
 faq:
-  - q: "How fast can you get to Santa Clarita for Range repair?"
-    a: "We run service routes through the 91355 and 91350 corridors daily. From the 5/14
-      interchange it's a straight shot to most of Valencia and Canyon Country. Call us at
-      (323) 870-4790 before noon and we can usually fit you in the same afternoon. For
-      Stevenson Ranch and Saugus addresses we typically have evening slots open as well.
-      Old Town Newhall and the 91321 zip are on route too — usually there within 2 hours
-      of your call."
-  - q: "Do you work on Thermador and KitchenAid ranges, or just budget brands?"
-    a: "Both ends of the spectrum. Thermador dual-fuel ranges need a specific gas valve
-      tool and a calibrated igniter tester that most generalists don't carry — we do.
-      KitchenAid slide-ins are more forgiving but the control boards on the newer KSGG700E
-      models throw cryptic fault codes that require the service manual to decode correctly.
-      LG and Samsung have their own board quirks that show up as F-series or SE error codes.
-      We stock common igniters, thermostats, and valve assemblies for all of them."
-  - q: "What does a typical range repair cost, and is same-day available?"
-    a: "Diagnostic visit is $85, applied toward the repair if you move forward. Most igniter
-      and gas valve jobs run $180-320 all-in. Bake igniter replacement on a standard GE or
-      Frigidaire is on the lower end. Control board replacements on Thermador or Bosch cost
-      more — parts alone can run $200-350 depending on the model year. Evening slots are
-      available most days — call (323) 870-4790 or book online for a same-day window."
+  - q: "How fast can you get to Santa Clarita for a Range repair?"
+    a: "From the Valley, Santa Clarita is 25-35 minutes depending on the 14 Freeway. Same-day
+      slots are available most weekdays — call before noon and we can usually be there that
+      afternoon. Evening appointments also available. Reach us at (323) 870-4790 or schedule
+      online."
+  - q: "Do you repair Thermador and Bosch ranges in Valencia and Stevenson Ranch?"
+    a: "Yes — those are two of the most common service calls in that part of the Valley. Thermador
+      pro-style units usually come in with igniter assembly or control board issues. Bosch
+      slide-ins tend to have igniter switch failures and door latch assembly problems. We stock
+      parts for both brands. The 91381 zip is a regular stop for us — those Stevenson Ranch
+      kitchens have Thermador and Bosch setups that actually get daily use, so wear patterns
+      are predictable and we come prepared with the right components."
+  - q: "What does a typical Range repair cost in Santa Clarita, and is emergency service available?"
+    a: "Diagnostic visit is flat-rate. Most igniter and heating element repairs land between
+      $150-$350 depending on the specific part. Control board replacements on premium brands
+      like Thermador run higher — worth knowing upfront before you decide to repair vs. replace.
+      Same-day emergency service is available — gas smell calls get priority regardless of zip
+      code. Call (323) 870-4790 and describe the symptom so we can confirm whether we have the
+      part on the truck before we head up the 14."

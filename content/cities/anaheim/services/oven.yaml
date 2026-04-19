@@ -1,27 +1,123 @@
-title: "Anaheim Oven Repair — West Side Homes to Anaheim Hills"
+title: "Anaheim Oven Repair — West Anaheim to the Hills"
 
 intro: |
-  West Anaheim — specifically the blocks clustered around La Palma Avenue and Brookhurst Street in the 92801 zip — runs on 1960s tract homes where the kitchen footprint never changed. A Samsung slide-in range or older Whirlpool freestanding unit sees heavy daily use in these single-story stucco houses, and when the bake element fails or the oven stops reaching temperature, it affects the whole household schedule. This part of the city sits a few miles northwest of Angel Stadium, and the housing stock reflects it: compact original kitchens, gas hookups from the original build, appliances that have been there for decades. Same-day service available throughout Anaheim — call (323) 870-4790.
+  The stretch of homes between Ball Road and Katella in West Anaheim (92804)
+  runs older GE and Whirlpool freestanding ranges — most installed when those
+  houses were built in the late 1960s. That's decades of cooking on bake
+  elements and burner igniters nobody's replaced.
+
+  Summers here are brutal on appliances.
+
+  Kitchens within a mile of the Disneyland Resort on Harbor Boulevard stay hot
+  well into September, and ovens running through July and August in this part
+  of Orange County fail at higher rates than you'd expect for equipment that
+  old. The heat doesn't just affect the food — it accelerates thermal fuse
+  failures and warps door gasket seals faster than in coastal cities like
+  Huntington Beach.
+
+  East Anaheim (92807) is a different story. The tract homes off La Palma Avenue
+  went up in the 1970s and 80s — same era, slightly different appliance mix,
+  a lot of early KitchenAid built-ins that homeowners held onto longer than
+  anyone planned. Those ovens develop thermal fuse failures and igniter problems
+  that show up right when the holiday cooking season hits.
 
 localContext: |
-  Zip codes 92801 and 92804 are mostly 1950s and 60s construction — small kitchens, tight clearances, mix of gas and electric ranges crowded between original cabinetry. The stretch along Magnolia Avenue near Ball Road is classic West Anaheim: single-story homes, original tile counters, freestanding ranges that haven't moved since Reagan was president. Getting a large Whirlpool or GE range out for service in those kitchens sometimes means removing a drawer stack or shimming around a dishwasher that was installed by someone who didn't leave much margin.
+  Anaheim Hills (92808), east of the 241 freeway, has newer two-story homes
+  from the late 1980s and 90s — a lot of KitchenAid wall ovens built into
+  cabinetry that was never designed for easy service access. The mounting
+  brackets are tight, the junction boxes are tucked awkward, and pulling the
+  unit for any kind of repair means two sets of hands and the right extraction
+  tools. Two very different setups from West Anaheim, two different sets of
+  problems.
 
-  Anaheim Hills (92807) is different: newer custom homes off Nohl Ranch Road and near Serrano Avenue with KitchenAid wall ovens and Bosch built-ins recessed into millwork. Pulling a wall oven out of those setups takes different tools and planning than swapping a bake element in a freestanding range on Knott Avenue. The 92802 corridor near Disneyland has a denser mix of older multifamily housing — compact kitchens, limited ventilation, units where the gas supply line runs in an awkward spot. Canyon Rim Road in the Hills has a completely different profile: larger lots, double ovens, sometimes a Thermador or Viking range in a kitchen that's been remodeled in the last decade.
+  Downtown Anaheim near Euclid Street (92801) is a different call entirely.
 
-  Hard water is a factor here too. Orange County water consistently runs 300–400 ppm total dissolved solids. That mineral load accelerates scaling inside steam-assist ovens and gums up the door seal tracks on older units. Anaheim residents with self-cleaning ovens notice the residue buildup faster than most.
+  1950s bungalows with tight galley kitchens, older freestanding ranges that
+  haven't been swapped since before Angel Stadium opened. Access is tight,
+  parking for a service van on those narrow residential streets requires
+  coordination.
+
+  The 92805 zip around downtown also has a growing number of condo conversions
+  and apartment renovations from the 2000s — that generation of appliances is
+  now hitting the age where control boards fail and door gaskets crack. LG
+  slide-in ranges from that era are common there.
+
+  One thing that affects nearly every zip in Anaheim: hard water. The city pulls
+  from Metropolitan Water District supply running 300–400 ppm total dissolved
+  solids — some of the hardest municipal water in Southern California. That
+  mineral load builds up around bake chamber heating elements and door seal
+  edges faster than most homeowners expect, especially in the older 92804 and
+  92801 neighborhoods where nobody's installed a whole-house softener.
 
 commonProblems:
-  - title: "Bake Element Failure — Hot Spots and Uneven Results in West Anaheim Ranges"
-    description: "Whirlpool and GE freestanding ranges in the 92801 zip show this constantly — one rack position runs noticeably hotter than the other, or the bottom of everything burns before the top browns. A failing bake element may still draw partial power and appear functional. Thermostat recalibration can mask the problem briefly, but the element itself needs replacing. On Samsung ranges, the F-3 or F-4 error code often surfaces alongside this symptom — the control board flags the resistance reading before the element fully fails, which actually makes diagnosis faster."
-  - title: "Self-Clean Cycle Ends but the Oven Door Won't Open"
-    description: "KitchenAid wall ovens do this more often than people realize. The door latch assembly overheats during a self-clean cycle, the thermal fuse trips, and the latch seizes in the locked position — even after the oven cools completely. Resetting the control board sometimes helps temporarily; replacing the latch mechanism or fuse is the real fix. In the 92807 zip, where these KitchenAid built-ins are common, the repair usually takes 90 minutes on-site. Call (323) 870-4790 — evening slots are available if the oven locks up mid-week."
-  - title: "Gas Oven Igniter Glows Orange but the Burner Never Lights"
-    description: "Anaheim has a high percentage of gas ranges — LG, GE, and Frigidaire units are everywhere in these neighborhoods. A glowing igniter that stays orange for 60 to 90 seconds without firing the burner means it's drawing insufficient current to open the gas valve. The gas line itself is usually fine. New igniter, problem solved, typically same-day. On older GE ranges near the 92804 zip, the bake igniter and the broil igniter fail at different rates — if both are marginal, replacing one and leaving the other usually means a second call within six months."
+  - title: "Bake Element Burnout in Aging West Anaheim Ranges"
+    description: |
+      GE and Whirlpool freestanding ranges in the 92804 zip code are running
+      bake elements that are 30-plus years old in some cases. A cracked element
+      shows up as uneven browning — one side of the oven cold, the other scorching.
+      The element itself is straightforward to replace, but you have to match
+      the original resistance spec or the oven temperature cycles way off target.
+      Most homeowners assume the control board is gone. Usually it's just the element.
+
+      Bosch slide-ins in the Anaheim Hills area develop a similar symptom but
+      for a different reason — the broil element and bake element share a control
+      relay on some models, and when the relay sticks, you get the same uneven
+      heat complaint. Different fix entirely. The diagnosis matters before ordering parts.
+
+  - title: "Self-Clean Cycle Trapping the Door on KitchenAid Wall Ovens"
+    description: |
+      This is the most common KitchenAid complaint in Anaheim Hills. The self-clean
+      cycle runs up to 900°F, the door latch assembly engages — and then won't
+      release. The motor inside the latch mechanism burns out from repeated
+      high-heat exposure. You're stuck with a locked oven that won't open and
+      a control board error code sitting on the display.
+
+      New latch motor, board reset, and you're back. The oven isn't dead.
+
+  - title: "Gas Igniter Failure on Samsung and LG Slide-In Ranges"
+    description: |
+      Anaheim has a high share of gas appliances, and Samsung and LG slide-in
+      ranges show up constantly with weak igniters. The symptom: the oven takes
+      forever to come to temperature, or clicks repeatedly without lighting.
+      A degraded igniter draws current but can't generate enough heat to open
+      the gas valve. It fails gradually, so homeowners assume it's a gas pressure
+      issue. It's almost always the igniter assembly.
+
+      Samsung ranges specifically will throw an SE or E-08 code when the igniter
+      circuit is borderline. Most people call the gas company first. Gas pressure
+      checks out fine, because the problem isn't the gas — it's the igniter
+      pulling maybe 2.5 amps when it needs 3.2 to open the valve. That's a parts
+      swap, not a gas line call.
 
 faq:
   - q: "How fast can you get to Anaheim for oven repair?"
-    a: "Anaheim is on our regular Orange County route — typically 1.5 to 2 hours from first contact. Coverage runs from 92801 through 92807, including Anaheim Hills. Residential street parking is easy across most of the city, and the freeway access off the 91 and 5 keeps response times consistent. Call (323) 870-4790 to get on the same-day schedule."
-  - q: "Do you fix KitchenAid and Samsung ovens in Anaheim?"
-    a: "Yes — KitchenAid wall ovens and Samsung ranges are among the most common jobs in Anaheim. Also handle Bosch, Whirlpool, GE, and LG units. Typical repairs: bake elements, control board replacements, door latch assembly work, igniter replacements on gas units. Most parts ship same-day from local suppliers, so waiting a week for a part is rarely the situation here."
-  - q: "What does oven repair usually cost in Anaheim?"
-    a: "A bake element swap typically runs $150–260 parts and labor. Control board replacement on a KitchenAid or Bosch wall oven costs more — usually $280–420 depending on the model. Gas igniter replacement on an LG or GE range tends to land in the $130–200 range. Same-day and evening slots available. Call (323) 870-4790 or book online — a phone estimate is usually possible before we come out."
+    a: |
+      We run routes along the 5 and 91 corridors daily — most Anaheim zip codes
+      including 92804, 92805, and 92807 get a technician within 2 hours. Anaheim
+      Hills (92808) takes a bit longer depending on traffic on the 241. Call us
+      at (323) 870-4790 and we'll lock in a same-day arrival window.
+
+  - q: "Do you repair Bosch and Samsung ovens in Anaheim?"
+    a: |
+      Yes on both. Samsung and LG slide-ins are the highest-volume calls in this
+      area — we stock igniter assemblies, heating elements, and control boards
+      for those models. Bosch slide-in ranges are common in Anaheim Hills and
+      East Anaheim; we carry door latch parts and thermal fuse kits for those too.
+
+  - q: "What does an oven repair cost, and how does the process work?"
+    a: |
+      Most oven repairs in Anaheim run $150–$350 for parts and labor combined.
+      We diagnose on-site first and quote before touching anything. Parts for
+      Samsung, GE, Whirlpool, and KitchenAid are usually on the van — meaning
+      one visit handles the whole job. Evening slots available most weekdays,
+      no extra charge. Schedule online or call (323) 870-4790.
+
+  - q: "My oven turns on but won't hold temperature — is that the thermostat?"
+    a: |
+      Could be the oven sensor (RTD probe), not the thermostat itself. The probe
+      sits inside the oven cavity and sends temperature readings to the control
+      board — if it's reading 50 degrees high, the oven cuts the heat early and
+      your food comes out raw in the middle. Whirlpool and GE models in the older
+      West Anaheim (92804) homes get this a lot. Easy test with a multimeter,
+      cheap part if that's it. Call (323) 870-4790 to book a same-day diagnostic —
+      most of these get resolved in one visit.
