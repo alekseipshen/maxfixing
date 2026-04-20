@@ -1,0 +1,103 @@
+title: "Compton Ice Maker Repair — Hard Water Hits Fill Valves Hard"
+
+intro: |
+  LADWP water in Compton runs close to 280–310 ppm hardness — mineral-heavy enough to
+  choke a fill valve within a couple of years. That GE or Samsung unit mounted in a
+  Compton kitchen off Central Avenue starts making cloudy, undersized cubes, then stops
+  altogether. Most of the calls we get from this area trace back to mineral buildup, not
+  a failed machine.
+
+  Hard water is the baseline problem. Compton's older housing stock compounds it — the
+  plumbing in these 1950s homes, the sediment load off Compton Creek, the way original
+  copper pipes accelerate calcium transfer into every appliance connected to the line.
+  A fill valve that lasts five years in Torrance lasts two here.
+
+localContext: |
+  Post-WWII tract housing dominates zip code 90220 — these are 1950s and early 1960s
+  homes with narrow kitchen layouts and original copper plumbing that accelerates mineral
+  transfer into appliances. The 90221 side, closer to Compton Creek, has older water mains
+  that add sediment to an already hard supply. Samsung and LG french-door units are common
+  upgrades in these homes, often the first fridge the family has owned with a built-in ice
+  maker. The kitchen footprint in these houses was designed around a 30-inch top-freezer;
+  fitting a 36-inch french-door means millimeters of clearance and careful maneuvering
+  to pull the unit for service.
+
+  Richland Farms — the agricultural holdover neighborhood in the city's northwest corner —
+  is different. Larger lots, detached structures, sometimes a secondary fridge running in a
+  garage or converted outbuilding with no climate control. Those units work overtime in
+  August. Compressors and ice maker fill valves both take a beating out there.
+
+  The apartment corridors along Wilmington Avenue and Long Beach Boulevard are another
+  situation entirely. Compact refrigerators crammed into galley kitchens, parking tight for
+  a service van. We know those blocks. Usually the alley is the only option.
+
+  Zip 90222 — the Leuders Park and North Compton area east of Central — runs mostly
+  Whirlpool and GE in the kitchens. A few Kenmore units too, bought from the Sears that
+  used to sit off Alameda. Those Kenmore ice maker assemblies are Whirlpool OEM under the
+  skin. Same parts bin, same repair.
+
+commonProblems:
+  - title: "Mineral-Clogged Fill Valve — Compton's Hard Water Problem"
+    description: |
+      That 280 ppm water deposits calcium directly inside the water inlet valve. The valve
+      needle can't seal cleanly, so you either get a constant drip into the bin or no water
+      flow at all. On GE Profile models, the fill valve sits near the back lower panel —
+      pulling it takes 20 minutes if you know the layout. Most homeowners don't.
+
+      The symptom pattern is almost always the same: small hollow cubes first, then
+      intermittent production, then nothing. By the time it stops completely, the solenoid
+      has seized and the whole valve needs replacing. Parts run $45–$65; the labor is
+      straightforward if the fridge rolls out cleanly. Older Compton kitchens with tight
+      clearances can add 30 minutes.
+
+  - title: "Frozen Fill Tube When Summer Heat Overcorrects the Thermostat"
+    description: |
+      Sounds backward, but when Compton's inland heat pushes past 95°F, the refrigerator
+      thermostat sometimes compensates too hard — and the fill tube feeding the ice maker
+      freezes solid. Whirlpool and KitchenAid side-by-sides are especially prone to this.
+      Zero ice production, every other function working fine. A heat gun and thermostat
+      recalibration sort it out in one visit.
+
+      Seen it on Maytag top-freezers too. Not just the side-by-sides.
+
+  - title: "Samsung Optical Sensor Coated by Mineral Film"
+    description: |
+      Samsung french-door refrigerators use an optical ice-level sensor that gets filmed
+      over by mineral deposits in hard-water areas. The sensor reads a full bin when it's
+      actually empty, so the ice maker shuts off. Error code 41C or 42C on the display is
+      the tell. Cleaning the sensor lens and recalibrating the assembly is a two-hour job —
+      replacing the whole module isn't necessary most of the time.
+
+      LG InstaView models have the same issue — different error codes (ER IF or ER dH),
+      same root cause. Call before ordering a $200 module you might not need.
+
+faq:
+  - q: "How fast can you get to Compton for ice maker repair?"
+    a: |
+      We run the South Bay corridor daily — Long Beach up through Compton to Inglewood.
+      Compton is a 25–35 minute drive from our usual staging point. Call (323) 870-4790
+      before noon and same-day slots are almost always available. Evening appointments
+      open too.
+
+  - q: "Do you fix Samsung and LG refrigerators in Compton?"
+    a: |
+      Yes, and those are the most common calls we get in 90220. Samsung ice maker assemblies,
+      LG fill valves and optical sensors, Whirlpool water inlet valves — all parts we carry
+      on the van. GE Profile ice maker modules too. Usually diagnosed and done in one visit.
+
+  - q: "What does ice maker repair cost, and how soon can someone come out?"
+    a: |
+      Diagnostic visit is $65, applied toward the repair if you go ahead. Fill valve
+      replacements typically run $110–$160; full ice maker assembly swaps are $180–$260
+      depending on the unit. For urgent calls, we're usually there within 2 hours. Schedule
+      online or call (323) 870-4790.
+
+  - q: "My ice maker just stopped — is it the water line or the unit itself?"
+    a: |
+      In Compton, it's the water supply side nine times out of ten. A pressure check at the
+      inlet line and a visual on the fill tube tells us within five minutes. If the ice maker
+      harvest motor itself has failed, you'll usually hear it — grinding during the cycle, or
+      the ejector arm stuck mid-rotation. Bosch and KitchenAid units sometimes throw a door
+      alarm code when the bin sensor loses contact; that's a completely different diagnosis
+      than a seized harvest motor or a blocked fill valve. Bring the model number when you
+      call and we can usually tell you what to expect before we arrive.

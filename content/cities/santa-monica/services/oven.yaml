@@ -1,0 +1,39 @@
+title: "Santa Monica Oven Repair — Montana Ave to Ocean Park"
+
+intro: |
+  Around Montana Avenue and into the 90402 zip, kitchens routinely have Thermador or KitchenAid wall ovens installed during full gut renovations — high-end work, but the control boards and heating elements still fail. Ocean Park and the older condo rows closer to the pier run a different script: tighter access, Samsung and LG freestanding ranges, years of deferred maintenance. Same city, very different service calls.
+
+  The 90403 corridor — Main Street up through Pico — sits somewhere in the middle. Bosch freestanding ranges in mid-century Spanish bungalows, LG slide-ins in flipped condos. One block can shift the whole job profile. We cover all of it.
+
+localContext: |
+  The housing stock splits sharply around Wilshire. North of it — 90402 — single-family homes from the 1920s through 1960s, most with kitchen rebuilds in the last decade. Bosch and Thermador went in during those renovations. South toward the beach (90405), it's mostly apartment buildings from the 1970s, often with 30-inch freestanding ranges squeezed into galley kitchens. Stairwells and permit parking near Main Street can complicate a service call.
+
+  Santa Monica's coastal air is a factor people overlook. Salt air accelerates rust on door hinges, corrodes igniter terminals, and shortens the life of broiler elements — especially in units where the kitchen windows face west. A Bosch range two blocks from the beach ages differently than the same model in Brentwood. We account for that when diagnosing failure patterns here. Same part, same brand, different wear rate depending on how close you are to Ocean Avenue.
+
+  Older buildings in the 90405 often have original 240V wiring that hasn't been touched since the Carter administration. That creates problems for modern ranges with digital control boards that are sensitive to voltage fluctuations. A GE or Samsung that keeps throwing F2 error codes isn't always a faulty board — sometimes it's the supply voltage.
+
+commonProblems:
+  - title: "Bake Element Burnout After Kitchen Renovations"
+    description: "Renovation dollars flowed into 90402 kitchens over the past decade — KitchenAid double wall ovens, new Thermador ranges, the works. Electrical panels often weren't upgraded to match. The bake element draws more current than old wiring expected, burns out faster than it should. Replacing the element fixes the immediate problem — we always check the breaker load too. On KitchenAid double wall ovens, the lower oven element tends to go first because it cycles more often. Part number matters here — aftermarket elements for Thermador units frequently fail early. We bring OEM stock."
+
+  - title: "Self-Clean Cycle Locking the Door Shut"
+    description: "The door latch assembly gets stuck in the locked position after a self-clean cycle — oven cools down, error code clears, but the latch motor doesn't retract. Bosch and Samsung both show this pattern on certain model years. It's usually the latch motor itself or the control board sending it the wrong release signal. On Bosch 800-series wall ovens, the specific failure is the wax motor inside the latch assembly losing responsiveness after repeated high-temp cycles. It's a $60 part, about 45 minutes of work. The oven is usable again the same visit."
+
+  - title: "Gas Broiler Not Igniting Near Lincoln Boulevard"
+    description: "Gas range broilers are common in Santa Monica rentals and older homes off Lincoln. The broil igniter is a separate component from the bake igniter — they fail independently. On LG and Bosch gas ranges, an aging broil igniter draws too little current to open the gas valve safely, so the flame never lights. Swap the igniter and it fires immediately. One diagnostic tell: if the broiler tries for 90 seconds and shuts off with no flame, that's almost always igniter resistance out of spec — usually measuring above 200 ohms when it should be under 100. Easy to confirm with a multimeter before ordering parts."
+
+  - title: "Temperature Calibration Issues in Older 90403 Kitchens"
+    description: "A range that bakes unevenly or consistently runs 25–50 degrees hot usually has a failed temperature sensor or a control board that's lost calibration. This shows up more in pre-2015 Bosch and KitchenAid models that have been in continuous use. The symptom is cookies burning on the bottom rack while the top stays pale — or meat taking 40% longer than the recipe says. Replacing the oven temperature sensor (typically a thin probe mounted at the back wall of the cavity) fixes this in most cases. On Bosch models, recalibration through the service menu is sometimes enough if the sensor tests within spec."
+
+faq:
+  - q: "How fast can you get to Santa Monica for oven repair?"
+    a: "We run West LA routes daily — Santa Monica is typically 30-45 minutes from our nearest tech. Same-day slots are usually open if you call before noon. Parking near the beach is the real variable. Call (323) 870-4790 and we'll confirm today's availability."
+
+  - q: "Do you repair Thermador and Bosch ovens in Santa Monica?"
+    a: "Yes. Thermador and Bosch are two of the most common brands we see in 90402 and 90403. Thermador wall ovens often need temperature sensor recalibration or control board replacement. Bosch ranges frequently have door latch assembly failures and gas igniter issues on dual-fuel models. We carry common Bosch and Thermador parts in the van — most repairs complete same visit."
+
+  - q: "What does oven repair cost and how does the process work?"
+    a: "Diagnostic visit is $75, which applies toward the repair. Most heating element or igniter replacements run $150–250 parts and labor. Control board replacements on premium brands like Thermador or KitchenAid can run $300–450 depending on the model. Evening slots are available most weekdays if same-day doesn't work. We stock common parts for Bosch, KitchenAid, and Samsung in the van — schedule at (323) 870-4790."
+
+  - q: "Can you work on built-in wall ovens in Santa Monica condos?"
+    a: "Built-ins are the majority of what we see in 90402 and parts of 90403. Access varies — some Thermador and KitchenAid installations require pulling trim panels before the oven can come out for service. We bring the tools for that. Condo buildings near 4th Street and Ocean Avenue sometimes require elevator reservations or building manager access, so it helps to mention that when you call. Same-day is still usually possible. Reach us at (323) 870-4790."

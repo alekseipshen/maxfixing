@@ -1,0 +1,25 @@
+title: "Mission Viejo Ice Maker — Hard Water Kills Fill Valves Fast"
+
+intro: |
+  Santa Margarita Water District pushes Colorado River blend into Mission Viejo at roughly 300–340 ppm total dissolved solids — hard enough to calcify a water inlet valve inside 18 months. Homes along the Olympiad corridors in 92692 regularly run Thermador column refrigerators or KitchenAid French-door units with built-in ice makers that see that mineral load every time they cycle. Add in Orange County's dry summer heat and those units work overtime from May through October — which is exactly when the fill valve decides it's done.
+
+localContext: |
+  The housing stock in Mission Viejo runs mostly 1970s through early 1990s planned-community builds — single-family ranches and townhomes where kitchens were originally sized for freestanding 30-inch refrigerators. Along the 92691 corridor near Oso Parkway and Crown Valley Parkway, a large portion of these kitchens have since been remodeled with Sub-Zero built-ins or panel-ready Bosch units. That creates a specific access problem: old framing, new appliance footprint, and typically a longer, more convoluted waterline run that picks up mineral scale in every elbow and fitting. Santa Margarita's water also sits on the harder end of Southern California's supply — harder than Irvine's Irvine Ranch Water District blend by about 30–40 ppm on average — so Mission Viejo appliances accumulate scale noticeably faster than comparable units a few miles south.
+
+commonProblems:
+  - title: "Mineral Scale Choking the Water Inlet Valve"
+    description: "Mission Viejo's water hardness sits consistently above 300 ppm, and the water inlet valve takes the full brunt of it. Calcium deposits build up on the valve screen and solenoid until flow drops too low to fill the mold tray completely — you get hollow cubes, misshapen output, or nothing at all. That Thermador column refrigerator may keep flashing its harvest cycle indicator for weeks before going fully silent. Flushing the supply line and testing inlet pressure before installing the replacement valve matters here; skip that step and the new valve starts scaling immediately. A new inlet valve and a line flush typically resolves the whole thing in a single visit."
+  - title: "Ice Maker Control Board Failure from Summer Heat Stress"
+    description: "Garages and utility alcoves in Mission Viejo's 1980s ranch-style homes can hit 100°F-plus on a July afternoon. Refrigerators positioned in those spots — or flush against south-facing kitchen walls — push their control board well beyond normal thermal range. KitchenAid and Bosch units are particularly sensitive here; the board develops intermittent relay faults that show up as sporadic production cycles or error codes that clear themselves and return. Error codes like F8 E1 on KitchenAid models point to harvest motor or sensor failures that get misread as software glitches. A proper diagnosis tests relay output voltages and motor continuity, not just error code resets."
+  - title: "Frozen Fill Tube Blocking the Ice Maker Assembly"
+    description: "A frozen fill tube accounts for a high share of calls in 92692. Sub-Zero built-in refrigerators — common in the higher-end kitchen remodels near Lake Mission Viejo — develop ice dams inside the fill tube when the freezer door gasket starts to lose its seal. Warm air bleeds in overnight, moisture condenses and freezes in the tube, and production stops within a day or two. Thawing the line and replacing the door gasket seal fixes it; skipping the gasket means it refreezes within weeks. On older Sub-Zero 600-series units, the gasket retainer clips also tend to fail — worth inspecting those at the same time."
+
+faq:
+  - q: "How fast can you get to Mission Viejo for ice maker repair?"
+    a: "From our South Orange County route, Mission Viejo typically runs 25–35 minutes depending on the 5/241 interchange. Same-day slots are available most weekdays — call (323) 870-4790 and we can confirm a 2-hour arrival window. Evening appointments are open most days if daytime doesn't work."
+  - q: "Do you repair Sub-Zero, Thermador, and KitchenAid ice makers?"
+    a: "Yes — those three brands dominate the remodeled kitchens in this area and we work on all of them. Sub-Zero fill valve and ice maker assembly replacements, Thermador control board diagnostics, KitchenAid sensor and harvest cycle repairs. Bosch and Miele panel-ready units too. Bring the model number when you call and we can usually confirm part availability before we arrive."
+  - q: "How much does an ice maker repair cost in Mission Viejo?"
+    a: "Diagnosis is a flat fee, credited toward the repair if you move forward. Most water inlet valve or fill tube jobs run $150–$280 in parts and labor. Sub-Zero and Thermador components cost more — a full assembly replacement typically runs $300–$500 on those brands. Same-day emergency availability most days — call (323) 870-4790 to check open slots."
+
+---

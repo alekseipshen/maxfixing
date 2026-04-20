@@ -1,0 +1,70 @@
+title: "West Covina Range Hood Repair — When the Kitchen Fills With Smoke"
+
+intro: |
+  Around Shadow Oak Park and the ranch-style homes off Sunset Avenue, kitchens see real cooking —
+  and the Bosch and KitchenAid hoods above those ranges take the hit daily. Grease-saturated blower
+  wheels, failed capacitors, ductwork clogged from years of buildup. A hood that won't clear smoke
+  isn't a cosmetic issue. It's a ventilation failure that gets worse every time you cook.
+
+localContext: |
+  Most of West Covina's housing stock went up between the late 1950s and early 1980s — decades of
+  original ductwork still running behind walls in 91791 and 91790. Homes in the Merced Hills area
+  often have tighter kitchen layouts with hoods routed through short soffit runs instead of straight
+  exterior vents. Shorter duct runs trap grease faster and choke airflow far quicker than a proper
+  exterior-exit setup. That geometry matters a lot in how these hoods fail.
+
+  The Hollencrest neighborhood and streets east of Citrus Avenue toward 91792 tend to have homes
+  with original galvanized ductwork — stiff, narrow, and lined with 40 years of oxidation and grease
+  residue that's nearly impossible to clean without pulling sections. On these houses, even a new hood
+  motor underperforms because the duct is the bottleneck, not the appliance. We check duct condition
+  as part of every diagnostic here. It changes the repair recommendation entirely.
+
+  Closer to West Covina Parkway and the grid streets near Vincent Avenue, you see more 1970s tract
+  homes where builders ran duct through interior soffits instead of exterior walls. Those setups have
+  zero ambient airflow to help the exhaust move — everything depends on fan static pressure. A
+  partially clogged blower wheel in one of these layouts loses efficiency immediately and noticeably.
+  Homeowners report the hood "feeling weaker" even though it's technically still running. That's
+  almost always a grease restriction, not a motor failure. Cleaning first, replacing second.
+
+commonProblems:
+  - title: "Blower Wheel Packed Solid With Hardened Grease"
+    description: "Heavy cooking in these West Covina ranch kitchens — lots of stir-fry, deep frying, long
+      simmers — sends grease particles straight into the blower wheel housing. Once buildup hardens on
+      the wheel blades, the motor strains, amperage spikes, and the thermal overload trips. On Samsung
+      and LG over-the-range models, this usually surfaces as intermittent shutoffs or a grinding noise
+      before the fan dies completely. Some LG units throw an error code before shutdown — if you're
+      seeing a flashing display with no fan response, that's usually it."
+
+  - title: "Duct Damper Failure Letting Summer Heat Back Into the Kitchen"
+    description: "San Gabriel Valley summers regularly push 95°F, and that changes attic duct pressure.
+      A worn damper flapper or stuck duct backdraft valve lets outside hot air reverse through the vent
+      into the kitchen instead of exhausting cooking fumes out. Homeowners usually notice a hot draft
+      and an odd smell from the hood even when it's off. The fix is a new damper assembly — a 45-minute
+      job if the ductwork is accessible."
+
+  - title: "Control Board Failure Killing All Functions at Once"
+    description: "Bosch wall-mount hoods and KitchenAid chimney-style units common near 91792 run on
+      electronic control boards managing fan speeds, lighting, and auto-shutoff timers. A power surge or
+      slow moisture infiltration can wipe the board entirely. Typical symptom: everything goes dead
+      simultaneously, or lights cycle on but the fan motor never responds. Bosch units in particular
+      sometimes show a partial failure — one speed setting works, the others don't — which points to a
+      relay fault on the board rather than the full board being gone. Partial failures like that are
+      usually repairable for less. These boards aren't cheap when a full swap is needed, but they're
+      usually the only thing between a fixable hood and a replacement."
+
+faq:
+  - q: "How fast can you get to West Covina for range hood repair?"
+    a: "Usually within 2 hours. The 10 freeway puts us straight into 91790 from our nearest tech, and
+      residential driveways here mean no parking headaches. Call (323) 870-4790 — same-day slots fill
+      by early afternoon, so earlier is better."
+
+  - q: "Do you repair Bosch and KitchenAid range hoods specifically?"
+    a: "Yes — Bosch, KitchenAid, and Samsung are the three we see most in West Covina. Bosch units
+      typically need blower motor or control board work. KitchenAid hoods often come in with failed
+      grease filter latches or a dead motor capacitor. We stock parts for all three brands on the van."
+
+  - q: "What does a range hood repair cost, and how does the process work?"
+    a: "Diagnostic is $75, applied toward the repair. A blower wheel cleaning plus motor capacitor swap
+      typically runs $150–$260 total. Control board replacements land around $200–$320 depending on the
+      model. Evening slots are available for urgent calls — schedule at (323) 870-4790 and we can usually
+      confirm a same-day window by noon."
