@@ -1,0 +1,33 @@
+title: "West Covina Freezer Repair — Built for San Gabriel Valley Heat"
+
+intro: |
+  Garages east of Cortez Park hit 100°F on a July concrete slab — 91790 is not a coastal city. That LG upright or KitchenAid chest freezer sitting out there isn't failing because it's old. It's failing because it's running flat-out against ambient heat the unit was never rated to handle indefinitely. Freezers in the San Gabriel Valley work harder than almost anywhere in Southern California, and the parts that take the punishment first are always the same ones.
+
+localContext: |
+  West Covina's housing is mostly ranch-style homes and split-levels built from the late 1950s through early 1970s, concentrated in 91790 and 91791. A lot of those garages were never insulated — standalone freezers sit on concrete, absorbing heat from the floor and walls all summer long. Shadow Oak Drive, Lark Ellen Avenue, and the blocks surrounding Cortez Park are full of these homes, and a garage freezer on Francisquito Avenue in August is fighting ambient temps that can exceed what the unit's condenser was designed to reject.
+
+  Water is another factor most people don't think about. The San Gabriel Valley draws from a mix of groundwater and imported MWD supply, and the hardness in 91790 and 91791 regularly runs above 300 mg/L. That calcification hits ice maker assemblies hard — the fill tube narrows, the water inlet valve clogs, and suddenly the freezer section reads fine but the ice maker stops producing. It's one of the most common service calls we run in this zip code, especially on LG and Samsung units.
+
+  The 91792 zip code, closer to the Walnut border, skews newer — tract homes and small HOA communities where Sub-Zero and Thermador column freezers show up regularly in kitchen build-outs. These are sealed cabinet installs with rear ventilation clearances that must be kept clear. When the condenser fan gets blocked by cabinet dust and pet hair, the unit runs hot and quiet until it doesn't.
+
+  The newer developments near Garvey Avenue and the Eastland Center corridor have townhomes with built-in Samsung and KitchenAid freezer columns, which come with their own access complications when service is needed. Parking a service van and carrying parts through a narrow side gate into a stacked townhome — sometimes just off the 10 freeway service roads — is a different job than rolling up to a ranch house with a clear driveway. Both happen in West Covina on the same day.
+
+commonProblems:
+  - title: "Compressor Overload from Unventilated Garage Heat"
+    description: "In a closed garage in 91790, ambient temps regularly exceed 100°F through August. The compressor overworks, trips its thermal overload protector, and the freezer stops cooling — often recovering at night when temps drop, then failing again by midday. LG compressors show this pattern constantly. Repeated thermal trips eventually shorten compressor life to the point where replacement is the only real fix. On LG linear compressors specifically, you'll sometimes see an Er FF or Er dH code on the display panel — that's the control board logging the thermal event before the unit shuts down."
+
+  - title: "Frost Buildup From Evaporator Coil Icing Over"
+    description: "Solid frost packed at the back wall means one thing: the defrost heater or defrost timer stopped cycling, the evaporator coil has iced over, and airflow is gone. Samsung french-door freezer sections and KitchenAid uprights both hit this failure mode in local homes. Defrosting manually buys a few days at best — the defrost heater assembly needs replacing to actually solve it. On Samsung models, the 5E or 8E error code often surfaces right before the coil fully blocks. KitchenAid uprights rarely throw a code — the first sign is frost creeping forward from the back panel while temps drift above 10°F."
+
+  - title: "Door Gasket Failure Letting Warm Air In Continuously"
+    description: "Dry San Gabriel Valley air degrades door gaskets faster than coastal climates do. Once a gasket cracks or warps, warm air gets pulled in every time the compressor cycles down. Frost starts forming right along the door edge, run cycles get longer, and temps drift up. Bosch integrated units and Samsung column freezers show this constantly — a new gasket usually closes it out in one visit. On Bosch, the gasket is clipped into a channel along the door liner; a warped one will show a visible light gap at the bottom corner when the door is closed."
+
+faq:
+  - q: "How fast can you get to West Covina for freezer repair?"
+    a: "Typically 30-45 minutes from our San Gabriel Valley base, coming off the 10 or 60 freeway. Same-day appointments are available most days — usually on-site within 2 hours of your call. Dial (323) 870-4790 to check today's open slots."
+
+  - q: "Do you service LG and KitchenAid freezers in West Covina?"
+    a: "Both, plus Samsung and Bosch — all four are common here. LG calls mostly involve compressor diagnostics or ice maker assembly failures. KitchenAid uprights almost always have defrost system issues. Samsung is usually door gaskets or control board faults. Sub-Zero and Thermador column units in the newer 91792 builds need brand-specific sealed-system tools — those are stocked too. Parts are on the van for all of them."
+
+  - q: "What does freezer repair typically cost, and how does the process work?"
+    a: "Parts and complexity drive the price — a door gasket swap costs far less than a compressor replacement. Diagnosis happens on-site, and you get a flat number before anything gets opened. Same-day and evening slots are available most days. Call (323) 870-4790 to book."
