@@ -1,0 +1,86 @@
+title: "Mar Vista Range Repair — Gas Igniters & Oven Fixes"
+
+intro: |
+  The gas ranges in Mar Vista's 1950s bungalows and the compact apartments stacked
+  along Palms Boulevard see genuine daily use — this neighborhood actually cooks. The
+  Sunday Farmers Market off Grandview Avenue isn't just scenery. Whirlpool and GE
+  freestanding models in these older homes usually show the first wear at the spark
+  igniter module, and aging supply lines running through pre-1960 construction often
+  mimic igniter failure by delivering inconsistent manifold pressure. Venice Boulevard
+  cuts straight through the middle of 90066, and the blocks east toward Centinela and
+  west toward the Mar Vista Recreation Center hold a dense mix of rental stock and
+  owner-occupied bungalows — most of it built before modern gas appliance standards
+  existed.
+
+localContext: |
+  Zip 90066 layers 1940s bungalows, 1960s wood-frame duplexes, and newer townhouse
+  infill — original kitchens in the older stock are tight, with 30-inch freestanding
+  ranges wedged between counters that weren't designed with service access in mind.
+  Streets near Beethoven and Grandview are narrow; parking a service van takes
+  planning. Pre-1960 gas supply lines in this part of West LA mean manifold pressure
+  testing is part of every range diagnostic here, not an optional step.
+
+  The rental density along Inglewood Boulevard and the blocks around Mar Vista
+  Elementary means property managers here handle appliance calls regularly — ranges
+  get heavier use, and deferred maintenance is common in multi-unit buildings. Landlords
+  in this zip often wait until a range completely stops working before calling, which
+  means we arrive to GE and Whirlpool units with multiple compounding failures instead
+  of one clean repair. Catching the oven igniter before the gas valve fails from
+  repeated strain saves the tenant a cold kitchen for three days. The proximity to
+  Santa Monica and the marine layer also matters: salt-air corrosion on control board
+  connectors is a West LA problem that inland technicians sometimes miss entirely.
+
+  The blocks between Centinela Avenue and Beethoven Street — roughly the core of the
+  90066 grid — are some of the densest rental territory in the Westside. These aren't
+  luxury buildings. They're 1960s and 1970s two-story apartment blocks with galley
+  kitchens and the original gas hookups still in place. Bosch and KitchenAid slide-ins
+  show up in the renovated units closer to the Palms and Mar Vista border at Alla Road;
+  the unrenovated stock is still running Whirlpool and GE freestanding models that are
+  fifteen to twenty years old. The Mar Vista Recreation Center on Beethoven serves as
+  a rough east-west dividing line: east of it, you're in tighter, older rental stock;
+  west toward Inglewood and the 90034 boundary, more owner-occupied SFRs with
+  better kitchen access and slightly newer appliances. Knowing which side of that line
+  a job is on changes how we load the van.
+
+commonProblems:
+  - title: "Spark Igniter Clicking Constantly — Or Won't Light at All"
+    description: "The spark igniter module is almost always the first failure on gas ranges in
+      these kitchens. On GE and Whirlpool models, carbonized grease builds up on the
+      ceramic igniter tip and the adjacent orifice port, causing endless clicking even
+      with the knob in the off position. Replacing the igniter module and cleaning the
+      port usually solves it. Persistent clicking after the repair points to a gas
+      pressure issue from the building's supply line, not the appliance."
+  - title: "Oven Won't Reach Temperature — Bake Element or Oven Igniter"
+    description: "Electric KitchenAid slide-ins — common in the kitchen renovations this
+      neighborhood saw heavily in the 2010s — typically crack the bake element around
+      year eight to ten. It shows as a visible scorch line on the coil, and the oven
+      just stops getting hot. Gas models fail differently: the oven igniter's resistance
+      climbs until it can't draw enough current to open the gas valve. That's a separate
+      component from the surface burner igniters, and the two get confused regularly."
+  - title: "Control Panel Locks Up — Coastal Moisture and Samsung, LG Boards"
+    description: "Mar Vista sits close enough to the ocean that salt-laden marine air gets into
+      kitchen electronics. Samsung and LG ranges in 90066 show higher-than-average
+      control board failures — the touchpad stops responding, or the display freezes
+      with error codes like F3 or SE. Salt air corrodes the ribbon cable connectors
+      between the touchpad assembly and the main board. Reseating the connector clears
+      it sometimes; other times the board itself needs replacement after proper testing."
+
+faq:
+  - q: "How fast can you get to Mar Vista for Range repair?"
+    a: "From our West LA base, Mar Vista is a straightforward run — twenty to thirty
+      minutes via the 405 or down Lincoln Boulevard depending on traffic. Same-day
+      appointments are available most weekdays, with evening slots on weekdays too.
+      Call (323) 870-4790; if there's a gas smell or a completely inoperative range,
+      say so and we'll prioritize."
+  - q: "Do you work on KitchenAid and Bosch ranges in Mar Vista?"
+    a: "Both are regular calls here. The Bosch 500 Series freestanding gas range has a
+      well-documented gas valve igniter failure that surfaces around year four or five.
+      KitchenAid slide-ins, Whirlpool, and GE are the other models we see most in
+      90066 — most common parts are in stock. Samsung and LG control boards are also
+      something we carry and replace regularly."
+  - q: "What does range repair cost in 90066, and is same-day service available?"
+    a: "Diagnostic visit is a flat fee, credited toward the repair. Spark igniter
+      replacement typically runs $150–$250 parts and labor. Bake element swaps are
+      similar. Control board replacements run $200–$450 depending on brand. Same-day
+      service is available most days — for gas-related issues, call (323) 870-4790
+      and we can often be there within 2 hours."
