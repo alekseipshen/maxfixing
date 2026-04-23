@@ -1,0 +1,27 @@
+title: "Santa Monica Ice Maker — Mineral Buildup & Same-Day Repairs"
+
+intro: |
+  MWD water delivered into Santa Monica runs around 230–260 ppm hardness — not brutal by LA standards, but enough to calcify a water inlet valve or clog a fill tube within 18 months. The Sub-Zero column units in the Wilshire-Montana corridor see this pattern constantly. KitchenAid French-door models in Ocean Park condos hit the same wall. First the cubes come out hollow. Then smaller. Then production stops entirely. The ice maker didn't break — it mineralized.
+
+localContext: |
+  Zip 90403 has a dense stretch of pre-1960 apartment buildings — narrow galley kitchens on 17th and 20th Streets where a counter-depth refrigerator sits wedged against tile with six inches of clearance on each side. Zip 90405 toward Sunset Park runs more 1970s–80s single-family homes with standard 36-inch side-by-side units in dedicated alcoves. In older buildings, the plastic supply line behind the fridge is often the original install. Brittle, calcified, years past when it should have been replaced.
+
+  North of Montana in 90402, the housing stock is mostly 1950s–60s ranch homes that have been substantially upgraded — Sub-Zero and Thermador column refrigerators are standard here, not exceptions. These kitchens have the room for proper service access. The Pico neighborhood in 90405 is a different situation: smaller bungalows, older Samsung and LG French-door units, a lot of deferred maintenance. Owners there tend to call later in the failure cycle, after the ice maker has been running without cubes for weeks.
+
+  Ocean Park's newer condo towers along Main Street, a few blocks from the beach, bring their own logistics. Building management requires advance notice for service vans. Parking on 4th Street during meter hours means a longer carry on tools and parts. We've done the route enough to plan around it. Zip 90401 near the Third Street Promenade corridor is similar — high-rise residential, mostly Bosch and LG built-ins, and hard water that hits coastal humidity on top of the mineral load.
+
+commonProblems:
+  - title: "Mineral-Choked Water Inlet Valve"
+    description: "Santa Monica's 240 ppm municipal blend runs through a solenoid-gated water inlet valve dozens of times every day. Calcium deposits narrow the orifice gradually — no error code fires, no obvious warning. The unit just stops filling the ice mold. Bosch and LG refrigerators account for the majority of these calls here. Replacing the failed valve and flushing the supply line typically restores full production in a single visit."
+  - title: "Frozen Fill Tube in Tight Freezer Compartments"
+    description: "Samsung French-door units are everywhere in Santa Monica condos, and those narrow freezer compartments will ice over the fill tube solid if the thermostat is dialed even a degree too cold — something that happens often when owners pre-chill for summer. The ice maker sensor still reads normal temps. No water reaches the mold tray. Defrosting the line and recalibrating the thermostat fixes it the same day."
+  - title: "Optical Sensor Failure in Sub-Zero and Thermador Built-Ins"
+    description: "North of Montana Avenue in zip 90402, Sub-Zero and Thermador column refrigerators are standard equipment. Both use optical sensors to detect ice bin level, and coastal humidity accelerates moisture ingress into the sensor housing over time. A failed sensor either triggers nonstop production until the ice maker assembly jams, or reads the bin as full and kills the cycle entirely. Diagnosing it correctly requires Sub-Zero's proprietary service tool — not a standard appliance call."
+
+faq:
+  - q: "How fast can you get to Santa Monica for an ice maker repair?"
+    a: "We dispatch from West LA, so we're typically at your door within 2 hours. Morning slots beat the 10 Freeway traffic entirely. Call (323) 870-4790 to lock in same-day service — we cover all Santa Monica zip codes from 90401 to 90405, including Ocean Park and Wilshire-Montana."
+  - q: "Do you service Sub-Zero, Bosch, and KitchenAid refrigerators in Santa Monica?"
+    a: "All three are common here. Sub-Zero requires brand-specific diagnostic software and factory ice maker components — we carry both. Bosch and KitchenAid parts usually ship same-day from our LA supplier. Samsung and LG units in the area's condo buildings are also on the regular repair list."
+  - q: "What does an ice maker repair typically cost, and how does the visit work?"
+    a: "Diagnosis is flat-rate and credited toward the repair. Most water inlet valve swaps or fill tube clears run $150–$250 parts and labor. Sub-Zero and Thermador sensor replacements are higher — factory parts alone can hit $200. Same-day slots are usually open, evening appointments too. Call (323) 870-4790 and don't run a full LA summer without a working ice maker."

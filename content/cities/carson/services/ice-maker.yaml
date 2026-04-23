@@ -1,0 +1,29 @@
+title: "Carson Ice Maker — Hard Water Kills Fill Valves Fast"
+
+intro: |
+  Tract homes along Del Amo Boulevard and Central Avenue in Carson were never plumbed for ice makers — and now that LG french-door refrigerators and KitchenAid built-ins fill those updated kitchens, the original copper supply lines are showing their age. Cal Water delivers into 90745 at roughly 250–275 ppm hardness. That mineral load calcifies a water inlet valve in under two years, sometimes faster on low-flow lines. Come August, South Bay heat pushes compressors into full-time overdrive, and a slow ice maker becomes a dead one fast.
+
+localContext: |
+  Most of the housing stock in 90746 went up between 1966 and 1978 — stucco-sided, single-story ranches with decent square footage but cramped kitchen layouts and original copper supply plumbing still behind the walls. Refrigerators in these kitchens often push flush against cabinetry, leaving almost no clearance to pull the unit out and reach the ice maker assembly or water inlet valve from behind. Newer Bosch and Samsung models with in-door ice dispensers add a complication: the water line has to loop through the door hinge assembly, and that connection develops hairline cracks after a few years of daily door cycles.
+
+commonProblems:
+  - title: "Calcified Water Inlet Valve — Mineral Scale Chokes Flow Before You Notice"
+    description: |
+      Cal Water's 250–275 ppm mineral load doesn't announce itself — it quietly coats the water inlet valve screen with calcium deposits until flow drops to a trickle. LG LRMVS-series and KitchenAid KRFC-series units in the Dominguez Hills area are the models we pull clogged valves from most often, usually after the homeowner has already cleaned the ice maker tray. That fix does nothing if the valve screen is the actual bottleneck. Ice production first slows, cubes go small and hollow, then stop.
+  - title: "Frozen Fill Tube — South Bay Summer Cycles Create This Counterintuitive Problem"
+    description: |
+      Counterintuitive, but South Bay heat actually freezes ice maker fill tubes. Refrigerators cycling hard all summer overcool the freezer compartment between runs — and if the fill tube has even a partial mineral restriction, it ices solid at the entry point. Samsung RS-series and Bosch 800-series units are repeat offenders for this. The fill tube itself isn't expensive. Thawing it correctly without cracking the housing around the fill tube assembly is exactly where most DIY attempts fail.
+  - title: "Ice Level Sensor Drift — Control Board Gets a False 'Full Bin' Signal"
+    description: |
+      Samsung and Bosch models from the 2019–2022 production window have a documented pattern: the optical ice level sensor drifts out of calibration, sends a false "bin full" signal to the control board, and production halts completely. Homeowners in 90747 usually describe this as "it just stopped making ice." The fix is a sensor module swap — not a full ice maker assembly replacement. That distinction saves $150 to $200, and most repair shops don't bother making it.
+
+faq:
+  - q: "How fast can you get to Carson for ice maker repair?"
+    a: |
+      We run South Bay routes daily — Torrance, Carson, Long Beach, down toward the harbor. Calls in 90745 or 90746 typically get same-day service, 2–3 hours out. Evening slots open most weekdays for people who can't take time off work. Call us at (323) 870-4790 or schedule online.
+  - q: "Do you repair LG, Bosch, and Samsung ice makers specifically?"
+    a: |
+      Yes — LG french-door, Bosch 800-series, and Samsung RF and RS-series are the most common ice maker calls we get in the South Bay. KitchenAid and Maytag built-ins too. We stock water inlet valves, sensor modules, fill tube assemblies, and control boards for all of them in the van — no waiting on parts orders.
+  - q: "How much does ice maker repair cost in Carson, and do you quote before starting?"
+    a: |
+      Always. We diagnose on-site and quote before any work starts. Water inlet valve replacement typically runs $130–$185 all-in. Sensor module or control board swaps land at $190–$260 depending on the model. Same-day service available most days, emergency slots when you really can't wait. Bosch and LG parts come from van stock, so no shipping delays.

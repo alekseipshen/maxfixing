@@ -1,0 +1,101 @@
+title: "Westminster Double Oven — Fixed Fast in 92683 and 92684"
+
+intro: |
+  Homes along Trask Avenue and through the older tracts near Sid Goldstein
+  Freedom Park have gone through a lot of kitchen updates over the decades.
+  A double wall oven was usually the centerpiece — often a KitchenAid or GE
+  unit dropped into a cavity originally framed in the 1970s. That tight fit
+  leaves almost no margin when something fails. "One oven works, one doesn't"
+  is the call we get most from Westminster residents. We cover 92683 and 92684
+  daily, usually on-site within two hours of a morning call.
+
+localContext: |
+  Most of Westminster's single-family housing was built between 1960 and
+  1980, especially east of Magnolia in the 92683 zip code. Those kitchens
+  were never engineered for modern wall ovens, yet that's exactly what got
+  retrofitted during renovation waves in the 2000s. Tighter-than-spec cabinet
+  openings and original 240V wiring running at the edge of rated capacity —
+  these details matter when diagnosing a control board failure versus a
+  straight wiring fault.
+
+  Westminster also has a large share of households that upgraded to mid-range
+  brands like Bosch and KitchenAid during those renovation years without
+  touching the underlying electrical. Running a 4,800-watt double wall oven
+  on a circuit that was marginal in 1975 is a setup for nuisance tripping and,
+  eventually, control board damage from voltage irregularities. We check wire
+  gauge and breaker ratings at every visit — not because it's required, but
+  because it changes the diagnosis.
+
+  The area around Bolsa Avenue near Little Saigon sees heavy kitchen use in
+  many households. Heavy cycling — multiple bake sessions daily — shortens
+  heating element life faster than the manufacturers' estimates assume.
+  Westminster's climate is mild compared to the San Fernando Valley, but
+  summer ambient temps in garages and semi-enclosed kitchens still push
+  appliances harder than specs suggest.
+
+commonProblems:
+  - title: "One Cavity Dead — Upper or Lower Oven Stops Heating Entirely"
+    description: "The most common Westminster call. Usually a burned-out
+      heating element — the bake or broil element fails after years of
+      heavy cycling. On GE double wall ovens, the lower bake element tends
+      to go first. Before replacing it, we verify with a continuity test
+      that the element is actually open-circuit rather than a control board
+      issue feeding it. Swapping the element on a GE JK3800 or similar
+      27-inch unit takes roughly 45 minutes on-site, including the
+      functional bake test before we leave."
+
+  - title: "Temperature Mismatch — One Oven Runs 40 Degrees Off"
+    description: "Both cavities set to 350°F, but one bakes fine while
+      the other scorches or undercooks. That split usually points to a
+      failed temperature sensor (the RTD probe near the back wall) or a
+      thermostat that's drifted out of calibration. Whirlpool and KitchenAid
+      share a similar sensor design across several model lines — the swap
+      takes about 20 minutes once the correct part is confirmed. If the
+      sensor tests good, the next check is the relay board: a stuck relay
+      can hold a heating element on past setpoint, which reads as
+      overheating rather than element failure."
+
+  - title: "Door Hinge Broken — Gap at the Seal, Heat Escaping Constantly"
+    description: "A bent or fatigued door hinge assembly lets hot air bleed
+      out, which means longer preheats and food that never quite bakes
+      evenly. Samsung's wall oven line has a known hinge bracket that wears
+      through after heavy use — Westminster customers with the Samsung
+      NV51K6650 series report this around the five-year mark. The door
+      gasket almost always needs replacement at the same visit. A new hinge
+      with a compromised gasket still leaks; doing both at once saves a
+      second trip and a second diagnostic fee."
+
+faq:
+  - q: "How fast can you get to Westminster for wall oven repair?"
+    a: "Westminster is a regular stop on our Orange County route — 92683
+      and 92684 both get daily coverage. Same-day slots are usually open
+      before noon. Call (323) 870-4790 to check what's available this
+      morning. For urgent situations we can often reach you the same
+      afternoon, even with evening arrival if that works better."
+
+  - q: "Do you repair Samsung, KitchenAid, and Whirlpool double ovens?"
+    a: "All three, regularly. Samsung units often come in with control board
+      faults or hinge failures. KitchenAid 27-inch wall ovens usually need
+      a heating element or temperature sensor — the RTD probe is a common
+      wear item on models installed during Westminster's 2000s renovation
+      wave. Whirlpool units commonly show thermostat drift after five-plus
+      years of daily use, and the relay board is worth testing before
+      ordering a new thermostat."
+
+  - q: "What does the repair cost, and how long does the job take?"
+    a: "Most repairs run $150–$350 depending on the part. Control board
+      replacements push higher — a genuine KitchenAid board for a 30-inch
+      built-in runs $180–$240 for the part alone. We bring common heating
+      elements and sensors in the van, so if your unit takes a standard
+      part we can often complete the repair same-day without a return trip.
+      Evening slots are available if daytime doesn't work. Call (323) 870-4790
+      to confirm what we have in stock for your model."
+
+  - q: "My oven is showing an F3 or F9 error code — what does that mean?"
+    a: "F3 on most Whirlpool and KitchenAid models means the temperature
+      sensor is reading out of range — either open circuit or shorted.
+      F9 typically flags a door latch assembly fault, which matters more
+      on self-cleaning models that lock the door during the cycle. Both
+      codes are diagnosable on-site. If you're seeing either of these on
+      a Westminster home's wall oven, schedule a visit and we'll confirm
+      the exact fault before ordering parts."
