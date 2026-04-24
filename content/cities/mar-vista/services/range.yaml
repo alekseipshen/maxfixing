@@ -1,86 +1,93 @@
-title: "Mar Vista Range Repair — Gas Igniters & Oven Fixes"
+title: "Mar Vista Range Repair — Gas & Electric, Same-Day"
 
 intro: |
-  The gas ranges in Mar Vista's 1950s bungalows and the compact apartments stacked
-  along Palms Boulevard see genuine daily use — this neighborhood actually cooks. The
-  Sunday Farmers Market off Grandview Avenue isn't just scenery. Whirlpool and GE
-  freestanding models in these older homes usually show the first wear at the spark
-  igniter module, and aging supply lines running through pre-1960 construction often
-  mimic igniter failure by delivering inconsistent manifold pressure. Venice Boulevard
-  cuts straight through the middle of 90066, and the blocks east toward Centinela and
-  west toward the Mar Vista Recreation Center hold a dense mix of rental stock and
-  owner-occupied bungalows — most of it built before modern gas appliance standards
-  existed.
+  The 1950s bungalows along Beethoven Street and the postwar duplexes tucked near the
+  Mar Vista Recreation Center were all plumbed for gas decades ago — and most still run
+  on the same basic igniter assemblies they shipped with. That GE or Whirlpool freestanding
+  range in your kitchen has probably outlasted two refrigerators. A burner that clicks without
+  lighting or an oven stuck 50°F cold is usually a straightforward fix if you catch it before
+  the gas valve seizes up completely. The stretch of Mar Vista between Centinela and Beethoven
+  has more aging gas appliances per block than almost anywhere else in West LA.
 
 localContext: |
-  Zip 90066 layers 1940s bungalows, 1960s wood-frame duplexes, and newer townhouse
-  infill — original kitchens in the older stock are tight, with 30-inch freestanding
-  ranges wedged between counters that weren't designed with service access in mind.
-  Streets near Beethoven and Grandview are narrow; parking a service van takes
-  planning. Pre-1960 gas supply lines in this part of West LA mean manifold pressure
-  testing is part of every range diagnostic here, not an optional step.
+  Most of the housing stock in 90066 dates from the 1940s through the late 1970s — galley
+  kitchens, original gas lines, and ranges wedged against cabinetry with barely an inch to
+  spare on either side. The newer condos and mixed-use buildings along Venice Boulevard lean
+  toward 240V electric slide-ins. Older single-family homes on the east side of Mar Vista,
+  closer to Palms and Culver City, still run on 30-amp gas setups where line pressure can
+  affect burner performance before any part even fails.
 
-  The rental density along Inglewood Boulevard and the blocks around Mar Vista
-  Elementary means property managers here handle appliance calls regularly — ranges
-  get heavier use, and deferred maintenance is common in multi-unit buildings. Landlords
-  in this zip often wait until a range completely stops working before calling, which
-  means we arrive to GE and Whirlpool units with multiple compounding failures instead
-  of one clean repair. Catching the oven igniter before the gas valve fails from
-  repeated strain saves the tenant a cold kitchen for three days. The proximity to
-  Santa Monica and the marine layer also matters: salt-air corrosion on control board
-  connectors is a West LA problem that inland technicians sometimes miss entirely.
+  The blocks between Braddock Drive and Washington Boulevard are especially dense with 1960s
+  construction — kitchens remodeled once, maybe in the early 1990s, with a new Samsung or GE
+  freestanding unit dropped in but no changes to the original gas risers. Over near the Mar Vista
+  Farmers Market on Venice, many rentals still have aging cooktops fed through iron pipes installed
+  when the neighborhood was brand new. Newer builds closer to Marina del Rey (90292) and the
+  Lincoln Boulevard corridor lean electric, but the core residential streets of 90066 are
+  overwhelmingly gas.
 
-  The blocks between Centinela Avenue and Beethoven Street — roughly the core of the
-  90066 grid — are some of the densest rental territory in the Westside. These aren't
-  luxury buildings. They're 1960s and 1970s two-story apartment blocks with galley
-  kitchens and the original gas hookups still in place. Bosch and KitchenAid slide-ins
-  show up in the renovated units closer to the Palms and Mar Vista border at Alla Road;
-  the unrenovated stock is still running Whirlpool and GE freestanding models that are
-  fifteen to twenty years old. The Mar Vista Recreation Center on Beethoven serves as
-  a rough east-west dividing line: east of it, you're in tighter, older rental stock;
-  west toward Inglewood and the 90034 boundary, more owner-occupied SFRs with
-  better kitchen access and slightly newer appliances. Knowing which side of that line
-  a job is on changes how we load the van.
+  The transition zone along Inglewood Boulevard — where 90066 bleeds into Venice (90291) toward
+  the west and into Palms (90034) toward the east — tells the full story of Mar Vista's appliance
+  mix. Landlords managing 1960s duplexes near the Douglas Park area replaced original O'Keefe &
+  Merritt cooktops with whatever Whirlpool or LG freestanding was on sale at Home Depot. Those
+  units are now 15-plus years old themselves. Meanwhile, the renovated bungalows closer to the
+  Mar Vista Greenway trail corridor — the stretch running roughly parallel to Walgrove Avenue —
+  often got KitchenAid or Bosch slide-ins during gut renovations, sitting on original gas risers
+  that were never upsized. That mismatch between a modern range and a 1955 gas line shows up as
+  weak flame output and burner regulation problems that look like valve failure but are really
+  a supply pressure issue. It's a common Mar Vista-specific scenario that requires checking the
+  meter pressure before condemning any part.
 
 commonProblems:
-  - title: "Spark Igniter Clicking Constantly — Or Won't Light at All"
-    description: "The spark igniter module is almost always the first failure on gas ranges in
-      these kitchens. On GE and Whirlpool models, carbonized grease builds up on the
-      ceramic igniter tip and the adjacent orifice port, causing endless clicking even
-      with the knob in the off position. Replacing the igniter module and cleaning the
-      port usually solves it. Persistent clicking after the repair points to a gas
-      pressure issue from the building's supply line, not the appliance."
-  - title: "Oven Won't Reach Temperature — Bake Element or Oven Igniter"
-    description: "Electric KitchenAid slide-ins — common in the kitchen renovations this
-      neighborhood saw heavily in the 2010s — typically crack the bake element around
-      year eight to ten. It shows as a visible scorch line on the coil, and the oven
-      just stops getting hot. Gas models fail differently: the oven igniter's resistance
-      climbs until it can't draw enough current to open the gas valve. That's a separate
-      component from the surface burner igniters, and the two get confused regularly."
-  - title: "Control Panel Locks Up — Coastal Moisture and Samsung, LG Boards"
-    description: "Mar Vista sits close enough to the ocean that salt-laden marine air gets into
-      kitchen electronics. Samsung and LG ranges in 90066 show higher-than-average
-      control board failures — the touchpad stops responding, or the display freezes
-      with error codes like F3 or SE. Salt air corrodes the ribbon cable connectors
-      between the touchpad assembly and the main board. Reseating the connector clears
-      it sometimes; other times the board itself needs replacement after proper testing."
+  - title: "Spark Igniter Failure in Older Mar Vista Gas Ranges"
+    description: "Food debris is the usual suspect. It packs into the igniter ports over months
+      of cooking, the ceramic tip cracks, and the burner clicks endlessly without catching a
+      flame. On a Whirlpool or GE freestanding model, a new igniter module plus a thorough
+      cleaning of the burner caps typically runs under $150 in parts. Ignoring it long enough
+      means the igniter wire shorts against the burner bowl and you're into a bigger fix.
+      The F9 or F2 error codes on GE models usually point here — don't clear the code without
+      inspecting the igniter harness first."
+
+  - title: "Oven Won't Hold Temperature — Bake Element or Gas Safety Valve"
+    description: "An oven running 40-50°F cold shows up as pale cookies on one side and
+      burned on the other. Electric KitchenAid and Bosch ranges usually have a failing bake
+      element — the coil develops a hairline crack and trips the thermal fuse on its way out.
+      Gas models point to a degraded safety valve that partially restricts the burner even
+      when the thermostat calls for full heat. A calibration offset is worth checking too —
+      on KitchenAid dual-fuel models, the oven sensor (RTD probe) drifts over time and reads
+      30-40°F warmer than the actual cavity temperature, which looks exactly like a valve problem
+      but costs $40 to fix instead of $200."
+
+  - title: "Control Panel Lockout on Samsung and LG Slide-Ins"
+    description: "Power surges on the Mar Vista grid — especially after summer storm events
+      — knock out the control board on Samsung and LG slide-in ranges. The touch panel goes
+      dark or flashes error codes like SE or C-d0. Usually it's the control board itself,
+      not the display glass. A loose ribbon connector is worth checking first; that's a
+      $0 fix versus $200-$300 for a full board swap."
+
+  - title: "Gas Burner Venturi Tube and Valve Wear on High-Use Ranges"
+    description: "On ranges that get heavy daily use — which describes most Mar Vista households
+      cooking on Bosch or GE Café models — the venturi tubes clog with grease and mineral
+      deposits. The flame goes yellow-orange instead of blue, burns unevenly, or only fires
+      on high. This is distinct from an igniter problem: the burner lights fine, it just won't
+      regulate properly. Cleaning or replacing the venturi tube and checking the valve orifice
+      typically runs $80-$120 and resolves it entirely. Left alone, a venturi problem can
+      stress the gas valve and turn a $100 service call into a $300 one."
 
 faq:
   - q: "How fast can you get to Mar Vista for Range repair?"
-    a: "From our West LA base, Mar Vista is a straightforward run — twenty to thirty
-      minutes via the 405 or down Lincoln Boulevard depending on traffic. Same-day
-      appointments are available most weekdays, with evening slots on weekdays too.
-      Call (323) 870-4790; if there's a gas smell or a completely inoperative range,
-      say so and we'll prioritize."
-  - q: "Do you work on KitchenAid and Bosch ranges in Mar Vista?"
-    a: "Both are regular calls here. The Bosch 500 Series freestanding gas range has a
-      well-documented gas valve igniter failure that surfaces around year four or five.
-      KitchenAid slide-ins, Whirlpool, and GE are the other models we see most in
-      90066 — most common parts are in stock. Samsung and LG control boards are also
-      something we carry and replace regularly."
-  - q: "What does range repair cost in 90066, and is same-day service available?"
-    a: "Diagnostic visit is a flat fee, credited toward the repair. Spark igniter
-      replacement typically runs $150–$250 parts and labor. Bake element swaps are
-      similar. Control board replacements run $200–$450 depending on brand. Same-day
-      service is available most days — for gas-related issues, call (323) 870-4790
-      and we can often be there within 2 hours."
+    a: "We run a regular route through Culver City and West LA — Mar Vista is usually
+      15-20 minutes out. Street parking on the residential blocks off Centinela Ave is
+      generally fine for the van. Call (323) 870-4790 before noon and same-day service
+      is very likely, sometimes within 2 hours."
+
+  - q: "Do you work on KitchenAid and Bosch ranges, or just the basic brands?"
+    a: "KitchenAid, Bosch, and GE are actually the most common brands we pull calls for
+      in this neighborhood. KitchenAid dual-fuel models frequently need oven thermostat
+      or igniter module work. Bosch slide-ins tend to have door latch assembly issues
+      and the occasional control board failure."
+
+  - q: "What does a typical range repair cost in Mar Vista, and do you quote upfront?"
+    a: "Diagnosis happens on-site, and we quote the full price before touching anything —
+      parts plus labor. Most repairs land between $120 and $280. Evening slots are
+      available if daytime doesn't work. Schedule online or call (323) 870-4790 for
+      emergency same-day availability."

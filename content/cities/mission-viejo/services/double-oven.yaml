@@ -1,51 +1,80 @@
-title: "Mission Viejo Double Oven — When One Cavity Goes Dark"
+title: "Mission Viejo Double Oven — When One Chamber Goes Cold"
 
 intro: |
-  The kitchens lining Marguerite Parkway — and inside the gated communities backing up to Lake Mission Viejo — are full of Thermador double wall ovens installed during the remodel boom of the early 2000s. These are solid, long-lived units. But the control board's upper relay has a documented failure pattern that shows up around year 8 to 10, leaving one cavity completely dark while the lower oven bakes normally.
-
-  That exact fault is the most common double oven service call from zip codes 92691 and 92692.
+  Lake Mission Viejo homeowners do a lot of entertaining. Big dinners, holiday spreads — that's
+  exactly why so many kitchens in the 92692 zip code got upgraded with Thermador or Wolf double
+  wall ovens during the 2010-2018 renovation wave. Those units are now 8-15 years old, and the
+  most common call we get: upper oven stopped heating, lower runs fine. That split failure is
+  almost always the upper heating element or a failed control board relay — not the whole unit.
+  The neighborhoods north of Crown Valley Parkway — Aegean Hills, Painted Trails — run a heavy
+  concentration of these Wolf and Thermador installations. Same story in the gated tracts along
+  Olympiad Road where full kitchen remodels were common in that same renovation window.
 
 localContext: |
-  Mission Viejo was built in phases. The original tracts near Olympiad Road and Trabuco Road date to the mid-1970s; the gated communities off La Paz Road and around Oso Creek came together in the late 1980s. Kitchen renovations in those older homes peaked in the mid-2000s — exactly when homeowners pulled out the original ranges and installed 30-inch built-in double wall ovens.
+  Mission Viejo's housing stock is largely planned-community single-family homes built between
+  the late 1960s and early 1990s — think Deane Homes construction along Marguerite Parkway and
+  the older tracts near Jeronimo Road. Kitchens in these homes run 30-inch cavities, and many
+  were remodeled with built-in wall ovens. The 92691 zip sees a lot of KitchenAid 27-inch
+  units in tighter galley layouts. Access is usually straightforward; parking a service van is
+  never an issue in these neighborhoods.
 
-  The 92691 side, particularly the neighborhoods around Crown Valley Parkway and Casta del Sol, runs heavy on Wolf and KitchenAid. Newer construction in 92692 — especially the tracts east of Jeronimo Road — often came spec'd with Thermador straight from the builder. Two very different service profiles, same city.
+  The homes near The Shops at Mission Viejo and along Los Alisos Boulevard tend to be the
+  larger floor plans — four-bedroom models where kitchen remodels went full Wolf or Thermador
+  built-in setups. Casta del Sol, the senior community off Melinda Road in the 92692 zip,
+  runs a different profile: smaller kitchens, more Bosch and KitchenAid, but those appliances
+  need just as much attention after 15 years. Oso Creek Trail cuts through the middle of the
+  city, and the neighborhoods east of it — mostly 1980s construction — are exactly where we
+  see the most deferred maintenance on wall ovens. The planned-community grid also means a
+  service van can reach almost any address in Mission Viejo within 20 minutes from the I-5
+  interchange at Crown Valley Parkway. No hunting for parking, no gated-community delays.
 
-  Homes in the Aegean Hills and Painted Trails tracts are a third category. Late 1990s builds that used KitchenAid double wall ovens as the builder-grade premium option. Those units are now approaching 25 years old — squarely in the window where bake elements, door hinges, and control boards all start failing around the same time rather than one at a time.
+  Portola Hills and the tracts bordering Aliso Viejo along the 92692 boundary have a younger
+  housing stock — mid-1990s builds with original Whirlpool or Maytag double ovens still in
+  place, often getting their first major repair. Different job profile entirely from a Wolf
+  E-series in a remodeled Deane Home, but we carry parts for both.
 
 commonProblems:
-  - title: "Upper Cavity Dead, Lower Still Running — The Classic Double Oven Split"
-    description: |
-      The upper heating element is almost always the first component to fail on a double wall oven. On Thermador's MED302JS and similar models spec'd into 92692 new-builds, a burned-out bake element or a blown thermal fuse kills the upper cavity entirely — no error code, no warning, just a cold oven.
-
-      Replacing the element is about an hour of work. But if the relay on the main control board has failed instead, swapping the element alone won't restore that cavity. This is a common misdiagnosis throughout Mission Viejo's 92691 neighborhoods — the symptoms look identical from the outside. Getting the diagnosis right matters as much as getting there fast.
-
-      Upper cavity went cold overnight? Call (323) 870-4790. Same-day diagnosis is available most weekdays and we're usually in Mission Viejo within 2 hours.
-
-  - title: "Both Cavities Power On But Temperatures Are Way Off"
-    description: |
-      Both ovens preheat. Both beep ready. Food still comes out wrong.
-
-      The upper runs 50 degrees too hot and the lower barely holds temperature. On Wolf and KitchenAid double wall ovens, this almost always traces to a failed RTD temperature sensor — each cavity has its own probe, and they fail independently. The sensor is inexpensive, usually under $40. The risk is misdiagnosis: a dying probe mimics a control board fault exactly, and replacing a $450 board when you needed a $35 sensor is a frustrating, avoidable mistake. Homes in the Painted Trails and Pacific Hills neighborhoods of 92692 see this pattern regularly on mid-2000s Wolf installations.
-
-      Bosch built-ins in the Oso Viejo area throw a nearly identical symptom when the door gasket has partially delaminated — hot air bleeds out of the cavity, the RTD sensor reads ambient temperature, and the oven over-compensates.
-
-  - title: "Broken Door Hinge Turning a Manageable Repair Into a Safety Issue"
-    description: |
-      Double wall oven doors weigh 35 to 45 pounds depending on the model. The hinge assemblies on Bosch and Miele built-in units wear through faster when the oven sits in 1970s or 1980s cabinetry that mounted it slightly low — each full-open swing puts extra torque on the pivot point beyond what the hardware was rated for. This is especially common in the older single-story homes along Alicia Parkway and the original Casta del Sol tracts near Marguerite Parkway where cabinet boxes were never shimmed up during remodels.
-
-      Once a hinge breaks, the door tilts and gaps at one corner. Heat leaks out, the door gasket warps unevenly, and the inner glass panel will eventually crack from repeated thermal stress. On Miele double wall units in the gated communities north of La Paz Road, this repair requires a factory hinge kit — aftermarket hardware doesn't carry the load rating and will fail again inside a year.
+  - title: "Upper Oven Dead, Lower Runs Fine — Separate Control Boards Are Why"
+    description: "Thermador double wall ovens use independent control boards for each cavity.
+      When the upper stops responding — no preheat, no display, nothing — the board's relay
+      circuit has usually failed. Not a wiring issue. Replacing just that upper board
+      restores full function without touching the lower cavity at all. We stock common
+      Thermador board part numbers and can usually complete the repair same visit. The F34
+      fault code on Thermador MED302 models points directly to this relay failure — if
+      that code is showing, the board swap is almost certainly the fix, not a sensor or
+      element. We see this most in the 92692 zip, in kitchens renovated between 2012 and 2016."
+  - title: "Temperature Mismatch Between Cavities After 10+ Years"
+    description: "Wolf double ovens in Mission Viejo kitchens hit a specific problem around
+      the 10-12 year mark: the lower oven runs 25-40°F hotter than set. The bake element
+      isn't the culprit — it's the oven thermostat sensor drifting out of calibration.
+      A quick resistance check confirms it. New sensor, recalibrate, done. Cookies stop
+      burning on the bottom rack. This pattern shows up frequently in the larger homes
+      along Olympiad Road and the Montanoso tract where Wolf installations were common
+      in the 2008-2014 remodel cycle."
+  - title: "Broken Door Hinge Lets Heat Escape — and Warps the Frame Over Time"
+    description: "KitchenAid wall ovens see hinge failure more than most brands. The lower
+      door drops slightly, seals don't contact evenly, and you lose 15-20% of heat
+      efficiency. Run it long enough with a bad door gasket and the door frame itself
+      warps. Mission Viejo's summer heat doesn't help — units in south-facing kitchens
+      cycle harder during July and August. Fix the hinge before it becomes a door
+      replacement. In the 92692 zip we've seen this pattern repeatedly on 2009-2014
+      KitchenAid models where the hinge spring tension degrades faster than the rest
+      of the assembly. Catches every time."
 
 faq:
-  - q: "How fast can you get to Mission Viejo for double oven repair?"
-    a: |
-      Service routes through Laguna Niguel and Rancho Santa Margarita run daily, so Mission Viejo is a natural stop — typically there within 2 hours of your call. Same-day slots open most weekdays. For something urgent, call (323) 870-4790 directly and we'll find the earliest window, including evening appointments.
+  - q: "How fast can you get to Mission Viejo for an oven repair?"
+    a: "We run a regular service route through South Orange County — Mission Viejo, Lake
+      Forest, Laguna Hills. Most calls in 92691 or 92692 get same-day slots, usually within
+      2-3 hours. Call (323) 870-4790 to check availability; evening slots often open too."
+  - q: "Do you work on Thermador and Wolf double wall ovens?"
+    a: "Yes — those are actually our most common calls in Mission Viejo. Thermador's MED302
+      series and Wolf's E-series both have specific control board and thermal fuse failure
+      patterns we've diagnosed dozens of times. Bosch units too. Have the model number
+      ready when you call and we can usually pre-order parts before arriving."
+  - q: "What does an oven repair typically cost, and is it worth it over replacing?"
+    a: "A control board swap runs $280-420 in parts and labor. Heating element replacement
+      is cheaper, usually $150-250 all-in. On a $3,000+ Thermador or Wolf unit, repair
+      almost always beats replacement. We diagnose on-site and give you the number before
+      touching anything. Same-day emergency slots available — call (323) 870-4790."
 
-  - q: "Do you repair Thermador and Wolf double wall ovens in Mission Viejo?"
-    a: |
-      Yes — both brands are fixtures in the 92691 and 92692 zip codes. Thermador units in Mission Viejo most often need control board work, heating element replacement, or door gasket service. Wolf repairs usually come down to RTD temperature sensors, and on gas Wolf models common in the Crown Valley Parkway corridor, gas valve igniter failures are the other frequent call — that igniter sits behind the lower broiler burner and takes about 90 minutes to properly access. Bosch and Miele built-ins from the gated communities near Lake Mission Viejo are in the regular mix as well.
-
-  - q: "What does double oven repair cost in Mission Viejo, and how quickly can you respond?"
-    a: |
-      A heating element replacement typically runs $150 to $300 parts and labor combined. Control board failures land between $350 and $600 depending on brand and board availability. Hinge assembly replacements on Miele or Bosch built-ins — common in the older 92691 tracts along Alicia Parkway — run $200 to $400 depending on part lead time.
-
-      Diagnosis happens on-site first — we quote before touching anything. Same-day service is available most days, and evening slots are open for repairs that can't wait until tomorrow. Call (323) 870-4790 to schedule.
+---

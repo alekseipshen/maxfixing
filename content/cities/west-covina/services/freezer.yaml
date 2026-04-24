@@ -1,29 +1,95 @@
-title: "West Covina Freezer Repair — Built for SGV Summer Heat"
+title: "West Covina Freezer — SGV Heat Pushes Compressors to the Limit"
 
 intro: |
-  Garage freezers in West Covina's 1960s and '70s tract homes take a real beating every July. Unventilated attached garages off Glendora Avenue and around the South Hills neighborhood push ambient temps past 105°F during peak summer — that kind of sustained heat forces the compressor to run nearly nonstop for weeks. An LG upright freezer under that load will show temperature drift before summer ends. By the time most homeowners notice, the evaporator coil is fully frosted over and the condenser fan motor has already burned out.
+  Galster Wilderness Park sits on the north edge of town, but the real story
+  in West Covina summers is the heat radiating off the 10 Freeway corridor.
+  Zip codes 91790 and 91791 regularly see July highs above 100°F — and that
+  ambient temperature goes straight into every garage where a chest freezer
+  lives next to the water heater. That Samsung upright near the drywall? It's
+  running almost continuously by August. Most calls we get start the same way:
+  "it's been running all day but nothing's actually frozen."
 
 localContext: |
-  The 91790 zip code around the Eastland Center shopping corridor holds dense rows of attached-garage homes built between 1958 and 1972. Chest and upright freezers in those garages typically sit pressed up against water heaters and storage shelving, which kills airflow and speeds up condenser coil clogging with dust and lint. Over in 91791, the South Hills area runs newer construction with Samsung and KitchenAid units as the norm — but even those mid-range appliances struggle when a sealed, unventilated garage doubles as year-round storage space.
+  The bulk of West Covina's housing stock dates to the 1950s and 1960s —
+  ranch-style homes with attached garages that double as heat traps in summer.
+  The Merced Avenue and Sunset Avenue corridors in 91791 are typical: original
+  builds with tight garage layouts, sometimes a gas dryer and a chest freezer
+  sharing the same wall. Newer two-story builds from the 1980s in 91792 tend
+  to have built-in refrigerator-freezer combos — KitchenAid and Bosch show up
+  frequently in those kitchens.
 
-  The 91792 corridor along Amar Road and near the West Covina Parkway strip sees a mix of townhomes and older single-family lots — many of those kitchens were designed for compact 18-cubic-foot uprights, and accessing the rear condenser on those units means pulling appliances out past tight cabinetry. Cameron Highlands, the hillside neighborhood just north of Amar Road, runs a noticeably higher share of KitchenAid and Bosch built-ins than the flatland tracts closer to the 10 freeway — homeowners up there tend to hold onto appliances longer, which means we're often the first technician to open a unit that's been running since 2009.
+  Further east, toward the Covina Hills area off Garvey Avenue, the homes are
+  larger and the appliances more premium. Sub-Zero and Thermador built-ins are
+  common there — units installed during kitchen remodels in the early 2000s
+  that are now hitting the 15-to-20-year mark on original compressors. The
+  91723 zip sees more of those calls. Parking a service van in those
+  neighborhoods is easy; getting to a built-in freezer behind custom cabinetry
+  takes an extra 20 minutes of panel work before the actual repair even starts.
 
-  San Gabriel Valley Municipal Water District serves most of West Covina, and that water tests consistently hard — above 300 mg/L total dissolved solids in parts of the 91790 and 91791 zones. That mineral load accelerates scale buildup on defrost heaters and ice maker fill valves faster than homeowners expect. A freezer installed here without a dedicated inline filter will show ice maker slowdowns within two to three years, sometimes less.
+  The South Hills neighborhood — the elevated section near Shadow Oak Drive and
+  South Hills Drive — runs different appliances than lower West Covina. Houses
+  built in the late 1970s through mid-1980s up there often have Viking or
+  Thermador refrigerator-freezers that came in during 2000s renovations. Same
+  aging-compressor pattern as Covina Hills. Cameron Avenue south of the 10 is
+  another cluster we visit regularly — post-war tract homes, tighter kitchens,
+  more compact LG and Samsung upright freezers crammed into laundry alcoves off
+  the kitchen.
 
-  Vincent Avenue running north from the 10 interchange marks roughly the dividing line between the denser older housing stock to the west and the slightly newer subdivisions heading toward Covina city limits. Service van access along the east side of West Covina — especially off Sunset Avenue near the San Jose Hills — is easier than in parts of West LA or the South Bay, which means faster response and no guesswork about parking logistics.
+  West Covina's water is consistently hard — the San Gabriel Valley basin pulls
+  from groundwater sources with high mineral content. That matters for
+  combination refrigerator-freezers with ice makers: mineral scale blocks the
+  water inlet valve filter over two or three years, restricts flow, and the
+  ice maker assembly stops cycling properly. Homeowners usually think the ice
+  maker failed. Often it's just scale buildup on a $12 filter screen.
 
 commonProblems:
-  - title: "Compressor Overwork from Sustained Garage Heat"
-    description: "San Gabriel Valley summers push unventilated garage temps to 100-110°F for months straight. A Whirlpool or GE upright freezer in that environment runs the compressor at near-full capacity continuously. That constant strain burns out the start relay and overload protector — symptoms show up as loud humming, early cycling shutoff, and a cabinet that climbs past 10°F while appearing to run normally. On LG linear compressor models, the failure mode is slightly different: the unit throws an error before total shutdown, and the compressor housing gets noticeably hot to the touch near the base panel."
-  - title: "Frost Buildup from Hard Water and Door Gasket Failure"
-    description: "SGV municipal water is calcium-heavy, and that mineral scale coats the defrost heater and packs into drain lines inside chest freezers over time. Add a cracked door gasket on an older Samsung or Frigidaire model and ambient moisture seeps in, refreezes against the walls, and eventually locks the defrost timer out of its normal cycle — the evaporator coil ices over solid. Replacing the gasket alone won't fix it at that stage; the drain line needs to be cleared and the defrost heater tested before reassembly."
-  - title: "Ice Maker Assembly Failures in Built-In Upright Freezers"
-    description: "KitchenAid and Bosch upright freezers with integrated ice makers are especially common in the South Hills 91791 area. West Covina's hard water clogs the water inlet valve and ice maker assembly within three to four years without filter maintenance. Ice production stalls first. Then the water lines freeze solid inside the door panel and you start hearing a grinding tick from behind the interior liner. On Bosch units specifically, that tick usually means the harvest motor is binding — it's a straightforward part swap once the liner panel is off, but it requires pulling the entire ice maker assembly to get to it."
+  - title: "Compressor Running Nonstop, Freezer Still Won't Hold Temperature"
+    description: "SGV summer heat pushes compressors past their design limits. On LG and
+      Samsung upright freezers, the condenser fan motor tends to fail first —
+      the compressor overheats without airflow, then trips its overload relay.
+      Clean the condenser coils, swap the fan motor, and the compressor usually
+      recovers. Catch it late — after the relay fails repeatedly — and you're
+      looking at a full compressor replacement, which on a 10-year-old LG runs
+      $350–500 in parts alone. In garage setups along the 91790 corridor where
+      ambient temps hit 110°F by mid-afternoon, that overload relay is often
+      the first part we carry on the truck."
+
+  - title: "Thick Frost Packed Around the Evaporator Coil"
+    description: "Frost that keeps building even after defrost cycles means the defrost
+      timer has stopped signaling the defrost heater — ice accumulates around
+      the evaporator coil until airflow is completely blocked and temps climb.
+      KitchenAid and Bosch upright freezers in 91792 show this pattern
+      regularly on units 8–10 years old. You'll know it's happening when the
+      freezer feels warm but the motor is still running loud."
+
+  - title: "Temperature Swings That Ruin Food Quality"
+    description: "A freezer that cycles between 5°F and 22°F usually has a cracked door
+      gasket letting warm air in repeatedly. The thermostat overcorrects, the
+      compressor works overtime, and food gets that frost-burn texture. Sub-Zero
+      built-ins, popular in the Covina Hills area, have model-specific door
+      gaskets with tight tolerances — a generic replacement won't seat correctly.
+      We stock the common Sub-Zero sizes and carry a torque spec sheet for
+      the hinge realignment those units often need."
 
 faq:
-  - q: "How fast can you get to West Covina for freezer repair?"
-    a: "We cover the San Gabriel Valley corridor daily — typically 1-2 hours from first call. The 10 and 60 freeways feed directly into the 91790 and 91792 zips with no detours. If food is actively thawing, call (323) 870-4790 right now and we'll slot you into today's route."
-  - q: "Do you repair LG and Samsung freezers in West Covina?"
-    a: "Yes — both are among the most common units we see here. On LG models we most frequently replace the evaporator fan motor or address linear compressor failures. Samsung french-door freezer drawers usually come in for drain pump or ice maker assembly work. KitchenAid and Bosch built-ins are equally routine for us."
-  - q: "What does freezer repair cost, and can you come the same day?"
-    a: "Most repairs fall between $150 and $350 for parts and labor — a compressor replacement runs higher. Same-day service is available across West Covina zip codes. Call (323) 870-4790 and we can usually be at your door within 2 hours. Evening slots are open for anyone who can't break away before 5."
+  - q: "How fast can you get to West Covina for a freezer repair?"
+    a: "Regular SGV routes keep us close — usually 20–30 minutes from wherever
+      we're working. Same-day slots are open most weekdays, and evening
+      appointments are available if you can't be home until after 5. Call
+      (323) 870-4790 to check today's availability before the food situation
+      gets critical."
+
+  - q: "Do you repair LG, Samsung, and Bosch freezers in West Covina?"
+    a: "All three, regularly. LG bottom-freezer units are the most common call
+      in this zip code — usually a drain pump clog or a failed ice maker
+      assembly. Samsung french-door freezer drawers come in second. Bosch
+      and KitchenAid we handle too, though European brand parts can have
+      longer lead times on specialty components."
+
+  - q: "How do I know if my freezer is worth repairing or should be replaced?"
+    a: "Flat-rate diagnosis first — that fee applies toward repair if you move
+      forward. A defrost heater or door gasket swap typically runs $150–$250
+      parts and labor. Compressor replacement is the bigger decision, usually
+      $400+, and on units over 10 years old we'll give you a straight answer
+      on whether the math works. Same-day emergency service is available if
+      you have a full chest freezer and no time to wait."

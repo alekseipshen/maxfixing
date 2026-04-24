@@ -1,51 +1,97 @@
-title: "Mission Viejo Range Hood — Quiet Kitchen, Clear Venting"
+title: "Mission Viejo Range Hood — Fix Fans, Dampers & Vent Ducts"
 
 intro: |
-  Hood calls in Mission Viejo usually come from the same neighborhoods — hillside homes off Olympiad Road and the estates near Lake Mission Viejo where Wolf and Thermador ranges are the norm. The blower wheel gets packed solid with grease over a few years of real cooking, and what was a quiet 600-CFM hood becomes a rattling, barely-functional box.
+  Kitchens near Lake Mission Viejo run hot — literally. The Wolf and Thermador
+  chimney hoods above gas ranges in these 92692 homes see daily cooking, and
+  when the blower wheel seizes or the grease baffle stops drawing, smoke backs
+  into open-plan living rooms fast. Built-in hoods in this neighborhood are
+  rarely quick swaps; the ductwork and the unit both need a proper look before
+  any part gets ordered.
 
-  Call (323) 870-4790. Same-day service available most weekdays, usually there within 2 hours.
+  Mission Viejo kitchens are not interchangeable. Homes in Aegean Hills and
+  Pacific Hills — the planned tracts north of Alicia Parkway built through the
+  late 1970s — have completely different duct configurations than the semi-custom
+  builds in the Casta del Sol corridor near Marguerite Parkway. Casta del Sol's
+  older ranch-style homes in 92691 often have original aluminum flex duct that
+  was never meant to handle the 600-CFM Bosch or KitchenAid inserts owners
+  dropped in during kitchen refreshes. The homes off Jeronimo Road tell a
+  different story again — larger footprints, larger hoods, larger problems when
+  something quits mid-dinner.
 
 localContext: |
-  Most of the housing in 92692 was built between 1970 and 1995 — planned community construction with tract kitchens not designed for the high-BTU gas ranges people have installed since. Duct runs are often surprisingly long before hitting an exterior wall, which creates backpressure and stresses the hood motor. Around Melinda Road and near the Crown Valley Parkway corridor, Bosch and KitchenAid hoods added during kitchen remodels show this pattern most often.
+  Mission Viejo was built out mostly between 1971 and 1990 — solidly
+  constructed, but ductwork from that era was sized for cheap builder-grade
+  hoods, not the high-CFM Bosch or KitchenAid inserts homeowners have since
+  upgraded to. The 92691 side, particularly the tracts off Marguerite Parkway
+  near Oso Creek Trail, frequently has 4-inch vent runs where modern hoods
+  require 6-inch minimum. That mismatch shows up as backpressure, motor
+  strain, and noise — symptoms that look like a bad motor but aren't.
 
-  Two-story wall cavities along Marguerite Parkway trap grease condensate. That causes damper corrosion faster than a straight horizontal run ever would.
+  The 92692 zip runs along the eastern edge of the city toward Trabuco Road
+  and up toward the Saddleback Valley corridor. Homes here tend to be larger
+  — more of the custom builds and semi-custom tract models with Thermador and
+  Wolf range hoods installed during kitchen remodels in the 2000s and 2010s.
+  Those remodels sometimes brought new hoods without bringing new ductwork,
+  which means we still find undersized flex runs stuffed into original chases
+  behind cabinets that haven't been opened since Clinton was in office.
 
-  In the Casta del Sol area, smaller galley kitchens with original exhaust systems often run ductwork undersized for anything above 400 CFM. Owners who upgraded to a Bosch or Viking after a remodel are frequently surprised how quickly the motor starts laboring against the restriction. Thirty-year-old sheet metal, tight duct bends, and Southern California's dry summer heat combine in ways we diagnose constantly in 92691 — the motor isn't always failing; sometimes the installation just never had enough airflow to begin with. The same duct restriction problem shows up in townhomes near the Oso Creek Trail corridor where exterior venting paths were compromised during landscaping renovations.
-
-  Near the Mission Viejo Mall and along La Paz Road, mid-2000s remodels commonly retrofitted island hoods over open-plan kitchens — a configuration where recirculating mode won't cut it and an undersized duct chase makes the motor work twice as hard.
+  La Paz Road splits the two zip codes roughly down the middle. South of
+  La Paz near the Oso Parkway interchange, the homes run smaller and older —
+  that's where original dampers and original motors are most likely still
+  in service. North of it toward the 241 corridor, kitchens got remodeled
+  and upgraded. Different problems, different parts, same general duct
+  headaches.
 
 commonProblems:
-  - title: "Grease-Packed Blower Wheel Cuts Airflow in Half"
-    description: |
-      The blower wheel is the spinning component that pulls smoke and steam through the filter and into the duct. In Mission Viejo kitchens with gas ranges — especially homes off Olympiad Road cooking on Wolf 36-inch ranges — that wheel gets coated in a thick grease layer within a year or two.
-
-      On Thermador and Wolf hoods, a clogged blower wheel is the most common reason a unit runs loud but barely moves air. The fan motor strains against it and the noise escalates fast. Cleaning or replacing the wheel usually restores full CFM within an hour.
-
-  - title: "Exhaust Damper Stuck Closed — Odors Linger After Cooking"
-    description: |
-      The exhaust damper is a flap that opens when the hood runs and seals shut when it stops. Grease and grime lock it in place over time. A jammed damper means cooking odors back-draft into the kitchen instead of venting outside.
-
-      On Bosch and Miele hoods the damper seal is tight enough that when it's stuck, the unit barely vents at all — even running at full speed. In older 92692 homes along Trabuco Road where the duct run passes through an attic before hitting the exterior, a stuck damper also lets hot attic air drop back into the kitchen in July and August.
-
-  - title: "Hood Lights Keep Failing — Often the Socket Assembly, Not the Bulb"
-    description: |
-      Halogen and LED hood lights run hot and vibrate every time the fan cycles. The light socket assembly on KitchenAid and Viking units degrades from sustained use — socket contacts corrode from grease vapor or the retaining clip cracks from thermal cycling. Swapping just the bulb won't fix it when the socket itself is the failure point. We carry common socket assemblies in the service van for most major brands.
-
-  - title: "Touch-Panel Control Board Failures on Newer Miele and Bosch Units"
-    description: |
-      Touch-panel hoods — common on Miele and Bosch installs in recently remodeled kitchens off Marguerite Parkway — have control boards that degrade from grease vapor infiltration over time.
-
-      Error codes like F1 or speed buttons that stop responding usually point to a board issue, not the motor. Replacing the board on a Miele DA series or a Bosch wall-mount runs $180–$280 in parts. Misdiagnosing it as a motor failure and swapping the wrong component is a common and expensive mistake on these models. We see it often in Casta del Sol kitchens where a well-meaning handyman already swapped the motor before calling us.
+  - title: "Blower motor failure in Wolf and Thermador inserts — capacitor goes first"
+    description: "South Orange County afternoons get hot, and west-facing Mission Viejo
+      kitchens bake by 3 PM. Sustained heat degrades the motor capacitor inside
+      Wolf and Thermador hood inserts faster than manufacturers expect. The hood
+      hums but the blower wheel won't spin. Nine times out of ten it's the
+      capacitor, not the full motor — a $90 part versus a $400 one. Wolf
+      inserts on the 36-inch gas ranges common in 92692 are especially prone
+      to this; the motor sits closer to the cooking surface than most homeowners
+      realize. In Pacific Hills and the larger Aegean Hills builds, the
+      Thermador chimney-style hoods have a secondary issue: the LED driver
+      board and the capacitor are on the same thermal path, so when one goes
+      the other usually follows within six months. Diagnose both before
+      ordering parts."
+  - title: "Grease-packed baffle filters throwing the blower wheel off-balance"
+    description: "Viking and Bosch hoods in 92691 commonly go 18 months between filter
+      cleanings. By then grease isn't just coating the baffle — it's migrated
+      into the blower wheel housing, building up unevenly and creating the
+      low-frequency rattle homeowners blame on loose ductwork. Cleaning the
+      filter at that point isn't enough; the blower wheel itself needs
+      inspection and usually replacement. Miele hood owners in the newer
+      Stoneridge and Canyon Crest tracts near Trabuco Road see this pattern
+      too — premium filters on these units still clog if cooking is heavy.
+      The blower wheel on a Miele DA 6996 W is a two-hour job that most shops
+      won't touch in-home. We do."
+  - title: "Seized wall-cap damper — the hood runs but vents nothing outside"
+    description: "Homes off Felipe Road and around the older Oso Creek tracts, and
+      especially in Casta del Sol's 1970s-era ranch stock, often still have
+      original aluminum wall-cap dampers. Grease and age lock the flapper
+      closed. A KitchenAid or Miele hood appears completely functional — light
+      on, motor spinning — but all that exhaust recirculates inside. It shows
+      up as persistent cooking smell and greasy film on cabinet faces above
+      the hood. Swapping the exterior damper assembly takes under an hour and
+      costs a fraction of what people expect. Call (323) 870-4790 before
+      assuming the hood itself needs replacing — this fix runs well under
+      $200 in most cases."
 
 faq:
-  - q: "How fast can you get to Mission Viejo for a range hood repair?"
-    a: |
-      South Orange County is on our daily route. From the 5 or the 241, most addresses in 92691 or 92692 are a quick drive — typically there within 2 hours of your call. Ring (323) 870-4790 to check morning availability; same-day slots usually open by 9 AM.
-
-  - q: "Do you repair Wolf and Thermador hoods? Those seem to be in most kitchens around here."
-    a: |
-      Yes — Wolf, Thermador, and Miele are the three we see most in Mission Viejo. Wolf hoods commonly need blower wheel cleaning or capacitor replacement after a few years of regular cooking. Thermador island-mount models have a specific damper assembly we stock parts for. For homes near Casta del Sol or along Trabuco Road where kitchen remodels are frequent, we also regularly service Bosch wall-mount units with stuck speed selectors or corroded damper linkages.
-
-  - q: "What does a repair usually cost, and is the diagnostic included?"
-    a: |
-      Diagnostic is included in the service call fee. Most blower wheel cleanings or motor replacements run $120–$220 depending on parts. Control board work on Miele or Bosch touch-panel units typically runs $180–$280. Evening and emergency slots are available — if the hood goes out the night before you're hosting, call (323) 870-4790 and we'll work it in same-day.
+  - q: "How fast can you get to Mission Viejo for Range Hood repair?"
+    a: "We run regular routes down the 5 corridor through South Orange County.
+      Mission Viejo is typically a same-day call — usually on-site within 2
+      hours of booking. Call (323) 870-4790 to check today's open slots or
+      schedule online. Evening appointments are available for urgent cases."
+  - q: "Do you repair Wolf, Thermador, and Viking range hoods?"
+    a: "Those are the three we see most in this part of OC. Wolf inserts
+      typically need a blower motor or control board. Thermador chimney hoods
+      commonly have LED driver board failures. Viking wall-mounts usually need
+      blower wheel replacement or a new motor capacitor. All diagnosed in-home."
+  - q: "What does range hood repair cost in Mission Viejo, and how does it work?"
+    a: "Flat-rate diagnostic visit — no surprise fees. Common repairs like damper
+      replacement, blower wheel swap, or motor capacitor run $140 to $340
+      depending on brand and part. We stock Bosch and Wolf components in the
+      van. Same-day service is available most days — (323) 870-4790 to confirm."
