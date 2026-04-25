@@ -1,0 +1,87 @@
+title: "Westminster Range Repair — Gas & Electric, Same-Day OC Service"
+
+intro: |
+  Bolsa Avenue runs through the center of Westminster, and the kitchens on
+  those residential side streets do real cooking every day. That volume
+  shows up in the spark electrodes first — grease-coated tips, cracked
+  ceramic insulators, igniters clicking through a full dinner prep without
+  catching once. That LG ProBake slide-in with one dead burner and an F9
+  error on the display? Common call out here. Gas valve igniter issues on
+  older freestanding units are almost as frequent — especially in kitchens
+  that haven't been serviced since the original install. Ring us at
+  (323) 870-4790 and we can usually be there same day.
+
+localContext: |
+  Most of Westminster was built between 1965 and 1982. On the west side
+  near Goldenwest Street and Springdale Avenue — zip 92683 — single-story
+  ranch homes still run gas lines that feed the original range location.
+  Older flex connectors and low under-cabinet clearances make reaching the
+  burner manifold and gas valve assembly slower than a newer kitchen would.
+  Some of those original units have never had a service call, so when
+  something fails, we usually find wear on two or three components at once,
+  not just one.
+
+  The east side near Brookhurst Street sees more remodeled kitchens —
+  slide-in Samsung and LG ranges replaced the old freestanding units
+  sometime in the 2010s. Those installs look clean until the control board
+  starts throwing codes. Anti-tip bracket access and tight countertop
+  cutouts slow the job down compared to a standard freestanding pull-out.
+
+commonProblems:
+  - title: "Gas burner won't ignite — clicks but no flame"
+    description: "Cooking grease builds up on the spark electrode ceramic and eventually
+      cracks the insulator. Once it's cracked, the igniter module fires voltage
+      into the air instead of across the gap. Cleaning buys a week, maybe two.
+      On older Whirlpool and GE freestanding ranges, the electrode housing
+      corrodes separately — we usually replace the full igniter switch assembly
+      rather than just the tip. On gas ranges with a standing pilot, a dirty
+      or worn thermocouple can mimic the same symptom — pilot lights fine,
+      main burner won't stay on."
+
+  - title: "Oven temperature is way off — burns or undercooks"
+    description: "The RTD temperature sensor probe mounted at the back wall of the oven
+      cavity slowly drifts out of resistance spec. The control board trusts
+      whatever reading it gets, so a lying probe means your food pays for it.
+      KitchenAid and Bosch slide-in ranges are common in Westminster kitchens
+      that were remodeled in the 2000s — both use the same style probe, and
+      both drift the same way after eight to ten years. Electric ranges with
+      a dual bake element can mask the problem longer — the lower element
+      compensates until it can't, and then you're getting 50-degree swings
+      mid-bake."
+
+  - title: "Control panel stops responding or throws error codes"
+    description: "F3, F9, and SE error codes on Samsung and LG ranges usually trace
+      back to a failing keypad membrane or the main control board. The membrane
+      delaminates at the edges from repeated heat cycling — phantom touches,
+      burners activating on their own, or buttons that require hard pressing
+      to register. Sometimes swapping just the membrane resolves it. When the
+      board itself is gone, we source OEM replacements, not aftermarket.
+      On GE and Whirlpool models, F3 almost always points to the oven sensor,
+      not the board — worth diagnosing correctly before ordering parts."
+
+faq:
+  - q: "How fast can you get to Westminster for range repair?"
+    a: "Westminster is on our regular Orange County route — typically 1 to 2
+      hours from a morning call. Goldenwest, Bolsa, and Beach Boulevard are
+      all straightforward to navigate, and parking at residential addresses
+      is rarely a problem. Call (323) 870-4790 before noon and same-day
+      service is usually available. Evening slots work too — just say so
+      when you book."
+
+  - q: "Do you repair Samsung and LG ranges in the 92683 and 92684 areas?"
+    a: "Yes — Samsung and LG are the most common brands we see in Westminster
+      right now. Control board swaps, burner igniter modules, and cracked
+      glass cooktop panels are the usual jobs. We also handle Whirlpool, GE,
+      and KitchenAid regularly, including the older freestanding units in the
+      original ranch-home kitchens. Bosch slide-ins from the mid-2000s
+      remodels come up occasionally — parts availability is good, repair
+      usually makes sense over replacement."
+
+  - q: "What does a range repair visit actually involve — and how long does it take?"
+    a: "First visit is diagnosis. We identify the failed component — whether
+      that's a burned heating element, a drifted oven sensor probe, or a
+      delaminated keypad — and give you a flat price before touching anything.
+      Most parts for Samsung, LG, GE, and Whirlpool ship overnight from our
+      Orange County supplier — many are in stock same day. Second visit is
+      the fix, usually under an hour once parts are on hand. Evening slots
+      are available if daytime doesn't work. Just mention it when you book."

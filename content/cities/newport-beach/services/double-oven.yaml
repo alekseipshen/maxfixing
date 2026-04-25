@@ -1,0 +1,23 @@
+title: "Newport Beach Double Oven Repair — Wolf, Thermador, Sub-Zero"
+
+intro: |
+  Custom builds along Pelican Hill Road and throughout Newport Coast loaded up on Wolf and Thermador double wall ovens between 2015 and 2021 — a building wave that put serious equipment into these kitchens. Six to eight years of daily cooking, plus Orange County's hard mineral water degrading steam-assist features, and those ovens start breaking in predictable ways. Upper cavity stops heating. Thermador throws an E109 fault. Door hinges sag enough to wreck the gasket seal and bleed heat on every bake cycle.
+
+localContext: |
+  The 92657 zip covers Newport Coast — large custom homes built mostly after 2000, almost all with integrated high-end appliance packages from original construction. Sub-Zero and Wolf dominate out there. Dover Shores and the Balboa Peninsula, a few miles west, run older 1950s and 60s-era homes where kitchens are tighter from decades of remodels stacked onto original layouts. Both areas now run premium appliances. Van parking and access logistics differ significantly between them, and scheduling around Balboa Island's narrow streets is something we plan for.
+
+commonProblems:
+  - title: "Upper Cavity Won't Reach Temperature"
+    description: "The top oven runs 60–80°F below setpoint while the lower cavity works fine. On Wolf and Thermador double wall units, this usually traces to a burned-out upper heating element — each cavity has its own, so the lower unit keeps working while the upper one is completely dead. A failing control board can produce identical symptoms when it's outputting weak power. Both components need testing before ordering parts, because replacing the wrong one adds days to the repair and a second trip."
+  - title: "Both Ovens Set the Same, But Cook Differently"
+    description: "You dial both cavities to 350°F and food in one comes out underdone every time. The RTD temperature sensor probe in one cavity drifts after years of high-heat use — especially common in KitchenAid double wall ovens past the 5-year mark. The probe reports a higher temperature than the cavity actually reaches, so the thermostat never drives the heating element to full output. Recalibration through the service menu rarely holds when the probe itself is reading wrong. The sensor needs replacement."
+  - title: "Oven Door Sags and Won't Seal"
+    description: "A misaligned door that doesn't close fully loses 20–30% of its heat and throws off every bake and roast. The door hinge assembly on built-in units like Miele and Sub-Zero wears out after years of daily open-close cycles — the spring bracket cracks or bends, and the door tilts. A broken hinge puts constant pressure on the door gasket, which tears along the bottom edge and lets heat escape around the entire frame. Both parts usually need replacement in the same visit."
+
+faq:
+  - q: "How fast can you get to Newport Beach for a double oven repair?"
+    a: "Newport Beach sits on our Orange County service route — typically there within 2 hours of your call. Newport Coast homes in 92657 can add a few minutes depending on Pelican Hill Road and MacArthur traffic. Same-day appointments are available most days. Call (323) 870-4790 to check availability or book online. Evening slots run Tuesday through Saturday if daytime doesn't work."
+  - q: "Do you repair Wolf and Thermador double wall ovens?"
+    a: "Wolf and Thermador are the most common double wall units we see in Newport Beach. Also Viking, Sub-Zero Integrated column ovens, and KitchenAid. On Wolf, heating elements and relay boards fail most often — an F1 error code usually points straight to the control board. Thermador tends to develop RTD probe failures and E-code faults after 6–8 years of heavy use. Sub-Zero built-ins sometimes combine door gasket failures with control panel issues. We stock common parts for all of them."
+  - q: "What does a double oven repair typically cost in Newport Beach?"
+    a: "Diagnostic runs $75–$95 and applies toward the repair if you go forward. Parts for a heating element typically run $80–$180; a control board for Wolf or Thermador is usually $200–$400. Same-day service is available in Newport Beach most days — call in the morning and a technician is usually out the same afternoon. Emergency evening appointments are available when the oven is completely down."

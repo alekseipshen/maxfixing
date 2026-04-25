@@ -1,0 +1,71 @@
+title: "Westminster Oven Repair — Little Saigon to South 92683"
+
+intro: |
+  Bolsa Avenue kitchens get used hard. Households across Westminster's Little Saigon
+  corridor cook multiple meals daily — that workload accelerates wear on heating elements
+  and control boards faster than manufacturers plan for. Samsung and LG slide-in ranges
+  replaced older Whirlpool coil tops in a lot of these homes over the past decade. Now
+  those units are hitting the age where bake elements burn out mid-roast and thermostat
+  sensors start drifting 30 or 40 degrees off actual temperature without any warning.
+
+localContext: |
+  Most of Westminster's residential stock was built between 1960 and 1975, concentrated
+  in the 92683 zip running from the Golden West Street corridor south toward Hazard
+  Avenue. Kitchens in these tract homes are compact — standard 30-inch gas cutouts,
+  original cabinetry still intact in many of them. Gas ranges dominate throughout the
+  area; electric ovens are the exception rather than the rule. That means oven repairs
+  here almost always involve igniter diagnostics and gas valve checks on top of any
+  standard element or sensor replacement.
+
+  The stretch along Westminster Boulevard between Goldenwest and Magnolia sees a denser
+  mix of rental units and older single-family homes — many of those kitchens still have
+  the original 1970s gas line configuration. Appliance clearances get tight. Getting a
+  range pulled cleanly for a control board swap sometimes takes longer than the repair
+  itself. North of the 22 freeway near the Westminster Mall corridor (92684 side), the
+  housing stock skews slightly newer — more KitchenAid and Bosch installations, more
+  electric wall ovens than you'd find south of Bolsa. Repairs there lean toward door
+  gasket failures and control panel diagnostics rather than igniter work.
+
+commonProblems:
+  - title: "Temperature Drifts 40 Degrees Low — Corroded Oven Sensor in Daily-Use Ranges"
+    description: "A Whirlpool or GE range that hits the preheat chime but still undercooks food usually
+      has a degraded oven temperature sensor. These probes corrode and drift out of resistance
+      spec after years of daily heat cycling. Swap the sensor — typically a $15-30 part — and
+      calibration returns within 5-10 degrees. Quick diagnosis, same-visit fix in most cases."
+  - title: "Self-Clean Locks the Door and Won't Release — Bi-Metal Latch Assembly Warped"
+    description: "Samsung and KitchenAid ranges with self-clean cycles sustain 900°F for 2-3 hours per
+      run. The bi-metal door latch assembly warps after repeated high-heat exposure. Once warped,
+      the control board throws a door lock error and won't release — even after full cooldown.
+      No software reset fixes a physically deformed latch. The assembly needs replacement outright.
+      On Samsung ranges this often shows up alongside an SE or tE error code that clears temporarily
+      but keeps returning — that's the latch, not the board."
+  - title: "Broiler Lights for Two Seconds Then Dies — LG Gas Valve Igniter Drawing Low Current"
+    description: "That LG broiler pattern — ignites briefly, then cuts out — almost always traces to a
+      worn igniter. A healthy igniter pulls around 3.2 amps; once resistance climbs and current
+      drops below 2.5 amps, the safety gas valve can't stay open. Not a supply pressure issue.
+      New igniter restores correct current draw, valve holds, broiler runs normally. Common in
+      LG LRG and LSG series units that have been in daily use for 5-plus years in the 92683 area."
+
+faq:
+  - q: "How fast can you get to Westminster for oven repair?"
+    a: "Westminster sits on our regular Orange County route — typical arrival is within 2 hours on
+      same-day calls. Morning slots move fastest; the 405 near Goldenwest backs up by early
+      afternoon and can add 20-30 minutes. Call (323) 870-4790 to check today's availability or
+      book a morning window online."
+  - q: "Do you repair Samsung, LG, and KitchenAid ovens in Westminster?"
+    a: "All three, yes — and they show up constantly here. Samsung ranges typically need bake
+      element or control board replacements. LG gas units mostly come in for igniter swaps.
+      KitchenAid wall ovens — a few installs in the newer Westminster builds — usually need door
+      gasket seals or control panel work. Bosch and GE come up regularly too."
+  - q: "How much does oven repair cost, and is same-day service available in Westminster?"
+    a: "Diagnostic fee is $75, credited toward the repair. Sensor or element jobs run $150-250
+      total. Control board replacements on GE or Samsung units typically land at $200-350.
+      Same-day and evening appointments are available most weeks. Call (323) 870-4790 — we can
+      usually confirm a time slot within the hour."
+  - q: "Do you service the rental units and older homes off Westminster Boulevard?"
+    a: "Yes — the older housing stock between Westminster Blvd and Hazard Avenue is familiar
+      territory. Tight kitchen access, aging gas lines, ranges pushed hard against cabinetry.
+      Service vans park on side streets off Golden West when meters are full. Bring tools sized
+      for the job. If your building manager needs a repair window confirmed, we can work around
+      that too. Call (323) 870-4790 and mention the address — evening slots are open most
+      weekdays if daytime access is a problem."

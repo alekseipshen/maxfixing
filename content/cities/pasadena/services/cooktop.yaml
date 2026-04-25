@@ -1,111 +1,38 @@
-title: "Pasadena Cooktop Repair — Craftsman Kitchens, Modern Fixes"
+title: "Pasadena Cooktop Repair — Craftsman Kitchens, Modern Appliances"
 
 intro: |
-  The 1920s Craftsman kitchens in Bungalow Heaven near Mentor Avenue weren't
-  designed for five-burner Thermador ranges. Retrofitting premium cooktops into
-  those tight footprints is common here — and so are the problems that follow.
-  Pasadena's water supply runs hard enough to leave white calcium deposits inside
-  burner ports within months, especially on Bosch gas units where the burner cap
-  sits flush against the igniter assembly. Most calls we get from 91103 start
-  with "it clicks but won't light."
-
-  That calcium issue isn't random. The Foothill Municipal Water District serves
-  much of northwest Pasadena with water clocking in above 300 mg/L hardness —
-  roughly three times what you'd see in coastal Santa Monica. Gas cooktops take
-  the worst of it because condensation from cooking cycles pulls minerals directly
-  into the burner ports.
+  Bungalow Heaven (91103) has seen a wave of full kitchen remodels over the last decade — original 1920s layouts now stuffed with Thermador induction or KitchenAid five-burner gas cooktops that don't quite match the older gas lines behind the walls. Those installs look sharp until a spark module fails or a ceramic surface cracks from Pasadena's summer heat cycling. August in the San Gabriel Valley means 95°F+ days, and cooktops in south-facing kitchens near the Rose Bowl area run hotter than the appliance was designed for. That thermal stress hits ceramic glass on smooth-top units hardest — Bosch and KitchenAid owners in 91103 see hairline fractures appear near the rear element zone within the first two summers.
 
 localContext: |
-  Zip codes 91103 and 91105 are packed with pre-1940 bungalows and 1960s ranch
-  homes where kitchen footprints are tight and original gas lines are narrower
-  than current code. Madison Heights and San Rafael Hills see heavy KitchenAid
-  and Bosch installations in remodeled kitchens — quality cooktops dropped into
-  old cabinetry that wasn't built for the heat output.
+  Along San Rafael Avenue and up into Linda Vista (91105), most homes date from the 1920s through the 1950s — many gut-renovated with premium cooktops dropped into original cabinet cutouts. That gap between old gas infrastructure and modern dual-fuel appliances creates specific failure patterns you don't see in newer builds. SoCalGas supply pressure on these older lateral lines runs inconsistent, which compounds burner modulation problems on Wolf and Thermador dual-fuel units that expect tight BTU tolerances.
 
-  The gas supply situation matters here more than people realize. Original iron
-  pipes in older Craftsman homes can restrict BTU delivery to the burners, which
-  shows up as low, uneven flames even when the cooktop itself is fine. Before
-  diagnosing the appliance, we check supply pressure at the manifold.
+  Over in Hastings Ranch (91107), construction skews newer, but the San Gabriel Valley's notoriously hard water — regularly testing above 350 ppm at the tap — attacks igniter ports and water-cooled induction components equally. The strip along Foothill Boulevard through east Pasadena into Arcadia sees the same mineral load: homeowners here tend to run LG and Samsung five-burner cooktops without water softeners, then wonder why the burner caps corrode out every 18 months.
 
-  The Foothill Municipal Water District water here registers notably high mineral
-  content, which means igniter ports and burner caps need cleaning more often
-  than homeowners expect. On Colorado Boulevard corridor homes that have been
-  through multiple kitchen remodels, it's common to find Thermador or Wolf
-  cooktops installed over electrical configurations that predate current NEC
-  standards — that combination creates headaches for any technician who isn't
-  familiar with the neighborhood's renovation history.
+  Down in the South Lake District (91101), close to Colorado Boulevard, the housing stock mixes mid-century condos with fully renovated Craftsman homes — compact kitchens with tight clearances where a cooktop swap requires pulling the range hood before anything else gets touched. Around Caltech (91106), faculty housing tends to hold on to older Sub-Zero and Thermador appliances for 15+ years, running them hard on Pasadena's mineral-heavy tap water until the induction coils or gas valve stems give out.
+
+  The San Marino border (91108) is its own situation entirely — single-story ranch homes on large lots, many with full kitchen rebuilds featuring Miele and Wolf cooktops installed on island configurations. Island installs create a specific access problem: the gas or 240V electrical run is longer, and any control board swap means tracing wiring back through the island base. Up near the Huntington Library on Allen Avenue, the neighborhood age and income bracket push every call toward premium brand territory. These homeowners paid $3,000+ for their cooktops and expect a technician who's actually opened one before.
+
+  The Arroyo Seco corridor adds another layer: homes backing the dry riverbed sit in micro-climates that push dust and debris into cooktop vent channels and burner housings faster than properties further inland. SCE's distribution grid in the 91106 and 91101 zip codes also shows voltage sag during peak summer draw — a real problem for sensitive induction electronics.
 
 commonProblems:
-  - title: "Calcium Buildup Blocking the Igniter Electrode"
-    description: |
-      Pasadena's hard water leaves calcium deposits around the igniter electrode
-      and inside burner caps — particularly on Bosch five-burner gas cooktops
-      where the cap design traps moisture. The spark fires fine, but the gas path
-      is partially obstructed, so you hear continuous clicking with no ignition.
+  - title: "Ceramic Glass Cracks From Thermal Stress in Summer Heat"
+    description: "Pasadena's temperature swings are severe enough that ceramic glass on smooth-top cooktops expands and contracts repeatedly each season. Bosch and KitchenAid models with wide single-surface glass show micro-fractures first around the rear burner zones. Once the ceramic glass cracks, the heating element beneath becomes a live exposure hazard — this is a repair, not a wipe-down-and-ignore situation. A cracked panel also triggers E1 or surface sensor error codes on newer Bosch units, locking the cooktop out entirely until the glass is swapped."
 
-      Cleaning the electrode and soaking the cap in white vinegar clears it
-      temporarily. But a corroded igniter module needs full replacement to hold.
-      The Bosch part number matters here — generic replacements don't seat
-      correctly against the sealed burner collar and you end up with the same
-      clicking problem six months later. We stock OEM igniter modules for the
-      most common Bosch 30" and 36" cooktop configurations.
+  - title: "Gas Igniter Clicks Endlessly But Won't Catch"
+    description: "Hard San Gabriel Valley tap water leaves calcium deposits directly inside igniter ports. On LG and Samsung five-burner gas cooktops, this reads as a burner that clicks 10 times before lighting, or won't light at all without a match. Swapping the igniter electrode tip sometimes helps short-term, but a clogged or corroded spark module usually needs full replacement to hold. On units near the Arroyo Seco side of 91103, mineral-crusted burner caps compound the problem — the flame spreader plate underneath needs descaling too, or a new igniter fails within weeks."
 
-  - title: "Cracked Glass-Ceramic Surface After Temperature Shock"
-    description: |
-      A cold splash on a hot KitchenAid or Samsung glass-ceramic surface causes
-      thermal fracture — the crack usually runs from a burner ring toward the
-      edge. Beyond the obvious hazard, a cracked panel lets moisture reach the
-      heating element beneath, eventually causing arcing and a dead zone.
+  - title: "Rotary Knob Assembly Fails on Thermador and Wolf Units"
+    description: "Thermador and Wolf gas cooktops use a sealed valve stem beneath the knob that controls both gas flow and ignition timing. In Pasadena's older renovated kitchens, cooking grease and dust work into the valve assembly over time — knobs turn but nothing happens, or the gas won't modulate properly. Replacing the cosmetic knob cap alone won't fix it; the valve assembly itself needs service. On Thermador Pro Harmony models specifically, that fix means pulling the full burner frame, not just the surface hardware."
 
-      That means replacing both the heating element and the glass panel as a
-      unit, not just the surface. Samsung induction models in particular use a
-      two-piece element assembly under the glass that can't be separated without
-      risk. On a KitchenAid 36" glass-ceramic, expect the job to run 90 minutes
-      minimum just for safe disassembly — the trim ring on those units is
-      notoriously easy to crack if you rush the clips.
-
-  - title: "Gas Valve Knob Assembly Worn to Unsafe Tolerance"
-    description: |
-      On early 2000s Thermador cooktops — common in San Rafael Hills kitchen
-      remodels — the knob valve shaft wears down until the burner won't close
-      fully. You catch a faint gas smell even with everything turned off.
-
-      Don't ignore that.
-
-      The fix is a valve assembly swap, not just the knob cap. Given it's a
-      gas-adjacent repair, this one shouldn't sit on a to-do list. The valve
-      shaft on these Thermador units is a proprietary diameter — a hardware
-      store replacement won't seal correctly. If you're in the 91105 or 91107
-      zip and smell gas near a cooktop that's supposedly off, call us before
-      you do anything else. We can usually get there same day.
+  - title: "Induction Cooktop Control Board Errors After Power Fluctuations"
+    description: "Several blocks around Old Town Pasadena (91101) and the 91106 zip sit on aging electrical infrastructure that delivers uneven voltage during high-load summer afternoons. Thermador and KitchenAid induction cooktops are sensitive — a brief voltage spike corrupts the control board and throws persistent F5 or E6 error codes that won't clear with a reset. The board needs bench testing before replacement; sometimes it's just a loose ribbon connector behind the panel. Either way, reset-and-hope doesn't work here."
 
 faq:
-  - q: "How fast can you get to Pasadena for cooktop repair?"
-    a: |
-      Most days we can reach the 91103, 91105, and 91107 zip codes within
-      two hours. The 210 is straightforward from our usual route north.
-      Same-day slots fill fast — call (323) 870-4790 in the morning to lock
-      one in. Evening appointments are available for households that can't do
-      a midday window.
+  - q: "How fast can you get to Pasadena for a cooktop repair?"
+    a: "Usually there within 2 hours. We run the 210 corridor regularly and cover 91101 through 91108 without the mid-day traffic delays that hit the 10 or 405. Call (323) 870-4790 — same-day slots are available most weekdays."
 
-  - q: "Do you work on Bosch and Thermador cooktops specifically?"
-    a: |
-      Both are common here. Bosch gas cooktops use brand-specific igniter module
-      part numbers that generic shops often don't stock. Thermador sealed burners
-      need a different disassembly approach than standard open-burner units —
-      the star-shaped burner caps require a specific torque sequence or you'll
-      strip the brass fitting underneath.
+  - q: "Do you repair Thermador and Wolf cooktops in Pasadena?"
+    a: "Yes, both show up constantly in the Linda Vista and San Rafael Hills renovations we service, and increasingly in the San Marino border area where island installs are common. Thermador induction control boards and Wolf gas valve assemblies are the most frequent calls. Bosch, KitchenAid, LG, and Samsung are all handled too."
 
-      We carry parts for both, plus KitchenAid and Samsung glass-ceramic panels.
-      For Sub-Zero and Wolf cooktops, which show up occasionally in the larger
-      San Rafael Hills homes near the Arroyo, we can usually source parts
-      within 24 hours if we don't have them on the van.
-
-  - q: "What does cooktop repair typically cost, and do you do same-day service?"
-    a: |
-      A gas igniter switch replacement runs $85–150 installed. A glass-ceramic
-      panel on a KitchenAid or Samsung is usually $200–360 depending on the
-      model. Thermador valve assembly work runs $175–250 for parts and labor.
-      You get a firm quote before any work starts — no surprises after the
-      fact. Evening and emergency slots are available. Schedule at
-      (323) 870-4790.
+  - q: "What does a cooktop repair cost in Pasadena, and will it be fixed same-day?"
+    a: "Most repairs land between $150 and $350 parts and labor. Ceramic glass replacement on a Bosch or Thermador runs higher — typically $200-450 just for the glass panel. Common parts ride on the van, so same-day completion is the norm. Evening emergency slots available — call (323) 870-4790 to check."

@@ -1,0 +1,45 @@
+title: "Carson Double Oven — South Bay Ranch Kitchens, Real Failure Patterns"
+
+intro: |
+  Kitchens in the 90745 and 90746 zip codes went through a heavy remodel wave in the early 2000s. That's when Carson's rows of 1970s ranch-style homes got their first double wall ovens — mostly KitchenAid and GE Profile installations put in during those years. Twenty-plus years later, those units are hitting the age where control boards fail and heating elements burn out. Two cavities means two of everything that can break. The pattern repeats every week across these zip codes.
+
+localContext: |
+  Carson incorporated in 1968 and built out fast — most of the housing stock in 90745 and 90746 sits on streets platted through the 1970s and early 1980s. Single-family ranch homes dominate the residential blocks around Dominguez Hills and along Carson Street. Kitchens in these houses were retrofitted for dual-cavity wall ovens during the late 1990s and early 2000s remodel boom.
+
+  Cabinet cutouts in these older builds often don't match current appliance dimensions exactly. That adds install time and sometimes means trimming surrounding cabinetry before a replacement even starts. A Bosch or KitchenAid unit that looks like a standard 30-inch fit on spec sheets can still take two hours of carpentry prep before the electrical hookup even begins.
+
+  The South Bay's proximity to the coast keeps interior temperatures moderate year-round, but Carson's inland blocks along Figueroa Street and near the 405 see more heat cycling — and that thermal stress accelerates door gasket wear faster than most homeowners expect.
+
+commonProblems:
+  - title: "Upper Cavity Dead, Lower Running Fine"
+    description: |
+      The single most common call from Carson homes. On KitchenAid and Bosch double wall units, each cavity runs its own separate heating element — but both typically share one control board. The upper element tends to burn out first: it handles broiling and runs at higher temperatures more often than the lower cavity.
+
+      The lower side keeps baking like nothing happened.
+
+      Identifying the failed element takes about 10 minutes with a multimeter. The replacement itself is usually same-day, and common elements for KitchenAid 700-series units are typically already on the truck.
+
+  - title: "Temperature Mismatch Between Upper and Lower Cavities"
+    description: |
+      Both set to 350°F but one runs at 315°F and the other hits 390°F. That spread points to a failing thermostat or a degraded RTD temperature sensor probe — distinct components in most dual-cavity configurations. Samsung double ovens have shown up heavily in Carson kitchen upgrades over the past decade. The RTD sensor in these units drifts noticeably after five to seven years of daily cooking, producing exactly this kind of uneven temperature behavior. Recalibration fixes some cases; sensor replacement fixes the rest.
+
+  - title: "Control Board Failure After Power Events"
+    description: |
+      Carson sits near the freight corridors running along Avalon Boulevard and the 405, and the power quality in these residential pockets isn't always stable. Thermador double wall units are particularly sensitive to voltage fluctuations — the electronic control boards can fail silently after a single strong surge.
+
+      LG units show the same vulnerability. Post-event, the appliance typically throws F1 or F7 error codes, or the display goes completely dark and stops responding to any input. Not a fixable reset — the board itself needs replacement, and on Thermador that part requires ordering ahead.
+
+faq:
+  - q: "How fast can you get to Carson for a double oven repair?"
+    a: |
+      Carson sits squarely in our South Bay coverage zone. From the 110 corridor we can typically reach 90745 or 90746 within 90 minutes outside peak commute hours. Call (323) 870-4790 to check real-time availability — same-day slots are usually open. Evening appointments available most weekdays. We also cover 90747 addresses near the Cal State Dominguez Hills campus.
+
+  - q: "Do you service KitchenAid and Bosch double wall ovens in Carson?"
+    a: |
+      Both come through consistently. KitchenAid units in Carson homes most often need new heating elements or control board replacements somewhere between year 8 and 12. Bosch more typically develops door hinge failures or a worn door latch assembly that prevents the cavity from sealing and holds temperature. Common parts for both brands are usually already on the truck.
+
+  - q: "What does a double oven repair in Carson usually cost — and can you come today?"
+    a: |
+      Heating element replacements run $160-$280 in parts and labor, depending on the brand. Control board jobs typically land between $320-$480 — Thermador and Bosch parts run on the higher end of that range. Same-day service is available for 90745 and 90746 residents. Call (323) 870-4790 before noon and we can usually fit you in that same afternoon.
+
+---
