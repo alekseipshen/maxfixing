@@ -102,7 +102,32 @@ export default async function CityApplianceRepairPage({ params }: PageProps) {
           </div>
         </section>
       )}
-      
+
+      {/* Other appliance services in this city — same-city service cluster cross-links */}
+      <section className="py-12 bg-white">
+        <div className="container mx-auto px-4 md:px-6 lg:px-8">
+          <h2 className="text-3xl font-bold text-center mb-8">
+            Other Appliance Services in {city.name}
+          </h2>
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 max-w-5xl mx-auto">
+            {appliances
+              .filter((a) => a.slug !== cleanApplianceSlug)
+              .map((other) => (
+                <Link
+                  key={other.slug}
+                  href={`/cities/${citySlug}/services/${other.slug}-repair`}
+                  prefetch={false}
+                  className="text-center p-4 bg-gray-50 rounded-lg hover:shadow-md hover:bg-gray-100 transition"
+                >
+                  <span className="text-gray-900 font-medium">
+                    {other.name} Repair
+                  </span>
+                </Link>
+              ))}
+          </div>
+        </div>
+      </section>
+
       <Reviews />
 
       <SEOContent city={citySlug} appliance={cleanApplianceSlug} county={city.county} uniqueContent={loadPageContent({ city: citySlug, service: cleanApplianceSlug })} />

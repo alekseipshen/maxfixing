@@ -8,6 +8,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
       url: `${baseUrl}/sitemap-phase1.xml`,
       lastModified: new Date(),
     },
+    {
+      url: `${baseUrl}/sitemap-phase2.xml`,
+      lastModified: new Date(),
+    },
+    {
+      url: `${baseUrl}/sitemap-phase3.xml`,
+      lastModified: new Date(),
+    },
 
     // Content sitemap: ACTIVE — only pages with unique SEO content
     {

@@ -18,6 +18,28 @@ export default function Footer() {
     { name: 'Orange County', slug: 'orange-county' },
   ];
 
+  // Top LA/OC cities — site-wide internal links to push PageRank to pipeline pages
+  const topCities = [
+    { slug: 'santa-clarita', name: 'Santa Clarita' },
+    { slug: 'pasadena', name: 'Pasadena' },
+    { slug: 'glendale', name: 'Glendale' },
+    { slug: 'burbank', name: 'Burbank' },
+    { slug: 'torrance', name: 'Torrance' },
+    { slug: 'inglewood', name: 'Inglewood' },
+    { slug: 'downey', name: 'Downey' },
+    { slug: 'pomona', name: 'Pomona' },
+    { slug: 'anaheim', name: 'Anaheim' },
+    { slug: 'santa-ana', name: 'Santa Ana' },
+    { slug: 'irvine', name: 'Irvine' },
+    { slug: 'huntington-beach', name: 'Huntington Beach' },
+    { slug: 'fullerton', name: 'Fullerton' },
+    { slug: 'costa-mesa', name: 'Costa Mesa' },
+    { slug: 'orange', name: 'Orange' },
+    { slug: 'garden-grove', name: 'Garden Grove' },
+    { slug: 'north-hollywood', name: 'North Hollywood' },
+    { slug: 'west-hollywood', name: 'West Hollywood' },
+  ];
+
   return (
     <footer className="bg-gray-900 text-gray-300">
       <div className="container mx-auto px-4 py-12">
@@ -143,6 +165,28 @@ export default function Footer() {
                 </Link>
               </li>
             </ul>
+          </div>
+        </div>
+
+        {/* Top Service Cities — site-wide links to push PageRank to pipeline pages */}
+        <div className="border-t border-gray-800 mt-8 pt-8">
+          <h4 className="text-white font-semibold mb-4 text-sm">Top Service Cities</h4>
+          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-x-4 gap-y-2 text-xs">
+            {topCities.map((city) => (
+              <Link
+                key={city.slug}
+                href={`/cities/${city.slug}`}
+                className="text-gray-400 hover:text-white transition"
+              >
+                {city.name}
+              </Link>
+            ))}
+            <Link
+              href="/service-areas"
+              className="text-gray-300 hover:text-white transition font-semibold"
+            >
+              View All →
+            </Link>
           </div>
         </div>
 

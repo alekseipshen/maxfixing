@@ -13,6 +13,22 @@ import { getBestImageForBrand, getApplianceImage } from '@/lib/data/applianceIma
 import { generatePageMetadata } from '@/lib/seo/metadata';
 import { generateLocalBusinessSchema, generateServiceSchema, generateBreadcrumbSchema } from '@/lib/seo/schema';
 
+// Top LA/OC cities for brand → city cluster linking
+const TOP_BRAND_CITIES = [
+  { slug: 'santa-clarita', name: 'Santa Clarita' },
+  { slug: 'pasadena', name: 'Pasadena' },
+  { slug: 'glendale', name: 'Glendale' },
+  { slug: 'burbank', name: 'Burbank' },
+  { slug: 'torrance', name: 'Torrance' },
+  { slug: 'inglewood', name: 'Inglewood' },
+  { slug: 'anaheim', name: 'Anaheim' },
+  { slug: 'santa-ana', name: 'Santa Ana' },
+  { slug: 'irvine', name: 'Irvine' },
+  { slug: 'huntington-beach', name: 'Huntington Beach' },
+  { slug: 'fullerton', name: 'Fullerton' },
+  { slug: 'costa-mesa', name: 'Costa Mesa' },
+];
+
 interface PageProps {
   params: Promise<{
     brand: string;
@@ -176,7 +192,33 @@ export default async function BrandRepairPage({ params }: PageProps) {
       
       {/* SEO Content */}
       <SEOContent brand={cleanSlug} />
-      
+
+      {/* Top Cities for this Brand — cluster linking from brand → city/brand pages */}
+      <section className="py-12 bg-gray-50">
+        <div className="container mx-auto px-4 md:px-6 lg:px-8">
+          <h2 className="text-3xl font-bold text-center mb-8">
+            {brand.name} Repair Near You
+          </h2>
+          <p className="text-center text-gray-600 mb-8 max-w-2xl mx-auto">
+            We service {brand.name} appliances across LA County, Orange County, and Ventura County. Tap a city for local repair details.
+          </p>
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 max-w-5xl mx-auto">
+            {TOP_BRAND_CITIES.map((city) => (
+              <Link
+                key={city.slug}
+                href={`/cities/${city.slug}/brands/${cleanSlug}-repair`}
+                prefetch={false}
+                className="text-center p-4 bg-white rounded-lg hover:shadow-md transition"
+              >
+                <span className="text-gray-900 font-medium">
+                  {brand.name} Repair {city.name}
+                </span>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* Reviews Section */}
       <Reviews />
     </>
