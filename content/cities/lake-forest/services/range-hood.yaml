@@ -1,0 +1,89 @@
+title: "Lake Forest Range Hood — Hard Water Kills Blower Motors Fast"
+
+intro: |
+  Foothill Ranch kitchens in Lake Forest are hitting the 20-to-25-year mark now — and the
+  Bosch and KitchenAid hoods installed in those 1990s and early-2000s builds are starting
+  to show it. OC tap water runs around 350 ppm hardness. That mineral scale accumulates on
+  the blower wheel and grease filter housing in ways that regular surface cleaning can't
+  touch. First you notice reduced suction. Then a grinding noise mid-cook. Eventually the
+  motor stops starting altogether, or the control board throws an error and locks the unit.
+  The fix is rarely the whole hood — usually it's a blower wheel swap or motor assembly
+  replacement, and the unit runs like new again.
+
+localContext: |
+  Most of Lake Forest's housing stock sits in zip codes 92630 and 92610 — planned
+  communities like Serrano and Foothill Ranch, built out between 1988 and 2006 with
+  standard 6-inch round duct runs exiting through ceiling soffits above the range.
+  Townhomes along Bake Parkway tend to have longer duct runs with extra bends. More bends
+  means more grease traps, faster vent duct restriction, and a blower motor working harder
+  than it should.
+  
+  Portola Hills and the custom-home sections off Glenn Ranch Road run larger kitchens with
+  island hoods — sometimes 48-inch Thermador or Wolf units ducted through two-story ceilings.
+  Those longer vertical runs need annual inspection. Grease accumulates at every elbow,
+  and a partially blocked duct can double the static pressure load on the blower motor.
+  Serrano homes built around 2002 to 2005 often have the original hoods still running —
+  parts availability on those older KitchenAid and Broan units is tighter, so confirming
+  the motor shaft diameter and mounting pattern before the visit saves a second trip.
+
+commonProblems:
+  - title: "Blower Motor Seized from Mineral Scale and Grease Polymerization"
+    description: "Hard water leaves calcium deposits on the blower wheel shaft, and cooking
+      grease polymerizes into a hard varnish on the wheel itself. On Thermador and
+      KitchenAid units in Lake Forest's larger homes, the motor seizes gradually — reduced
+      suction first, then intermittent starts, then nothing. At that stage the motor
+      windings are usually burned out from running under load too long. Replacing the blower
+      motor assembly typically takes 1.5 to 2 hours once the correct part is confirmed.
+      On older KitchenAid models, the motor and wheel come as a paired assembly — ordering
+      just the motor won't work. Worth confirming the model number off the label inside
+      the filter cavity before calling."
+
+  - title: "Vibration and Rattling at High CFM Settings"
+    description: "Grease doesn't coat the blower wheel evenly — it accumulates on one side
+      and throws the balance off. At 600-plus CFM you feel it through the cabinet. Samsung
+      and LG hoods with baffle-style grease filters are particularly prone because those
+      heavier cartridges get skipped during cleaning longer than mesh filters do. A new
+      blower wheel usually fixes it permanently. If the vibration is coming from the duct
+      connection rather than the wheel, it's often a loose takeoff collar or a missing
+      flexible duct connector — a 20-minute fix that makes a huge difference in noise."
+
+  - title: "Ductless Units Overheating and LED Light Assembly Failures"
+    description: "Several condos and newer townhomes in the 92630 zip code run ductless
+      configurations — charcoal recirculating filters instead of an exterior vent. When
+      the charcoal filter saturates, heat backs up and the control board runs hot. Bosch
+      ductless units especially see early LED light driver failures in these setups —
+      the driver board sits directly above the cooking zone, and sustained heat cycling
+      degrades the capacitors fast. Filter replacement is every 3 to 6 months, not
+      annually. If the lights are already flickering or the board is throwing a fault
+      code, the driver usually needs replacing along with the filter."
+
+  - title: "Control Board Failures and Unresponsive Touch Controls"
+    description: "LG and Samsung slide-in ranges in Lake Forest often pair with matching
+      under-cabinet hoods that share a Bluetooth or infrared sync for auto-speed control.
+      When the control board fails on those hoods, the auto-sync drops first, then manual
+      speed selection starts misfiring. Touch panels on Bosch units sometimes stop
+      registering after moisture gets behind the membrane — usually from steam buildup
+      when the ductless filter is clogged. Replacing the control board on a Bosch 500
+      series takes about 45 minutes and brings full panel response back."
+
+faq:
+  - q: "How fast can you get to Lake Forest for range hood repair?"
+    a: "Lake Forest is right off the 241 and I-5 — we reach homes in 92630 and 92610 within
+      90 minutes of booking, often less. Same-day slots are open most weekdays and Saturday
+      mornings. Call (323) 870-4790 to lock in a time. Evening slots available most days
+      for homeowners who can't take time off work."
+
+  - q: "Do you repair Bosch, Thermador, and KitchenAid range hoods specifically?"
+    a: "Those are the three we see most in Lake Forest. Thermador jobs are usually a blower
+      motor replacement or a worn duct baffle gasket — the rubber gasket around the duct
+      collar deteriorates in heat and lets exhaust backdraft into the soffit cavity. Bosch
+      units typically come in with LED driver failures or a grease filter sensor fault.
+      KitchenAid is often the control board or a cracked fan blade. We stock common parts
+      for all three, so most repairs close on the first visit."
+
+  - q: "What does range hood repair cost in Lake Forest, and how long does it take?"
+    a: "Diagnostic visit is $75 — credited toward the repair. Most range hood jobs run
+      $150 to $350 depending on parts. Blower motor replacements land around $200 to $280.
+      Common Bosch and KitchenAid parts stay on the truck, so same-day completion is typical.
+      Thermador parts sometimes need to be ordered, but we can usually get them next-day
+      from the local distributor in Irvine. Schedule at (323) 870-4790."

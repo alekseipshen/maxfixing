@@ -1,0 +1,23 @@
+title: "Hawthorne Cooktop Repair — Igniters, Ceramic & Gas Lines"
+
+intro: |
+  Doty Ave, Prairie Ave, the blocks between El Segundo and Rosecrans — Hawthorne's residential core is dense 1950s bungalow territory where kitchens have been renovated more than once. Samsung and GE drop-in cooktops are common in these updated homes, most of them installed into cutouts originally sized for a freestanding range. By the time a cooktop hits 12–15 years in the 90250 zip, the igniter assemblies are worn, the ceramic glass has taken hard drops, and the gas connections have aged out.
+
+localContext: |
+  Most of Hawthorne's housing stock sits in a tight grid between El Segundo Blvd and 120th Street — 1950s ranch homes and stucco bungalows built for freestanding ranges. Drop-in cooktop retrofits in the 90250 zip are common, and kitchen cutouts often needed custom trimming to fit modern units. Gas supply lines in homes this age corrode and restrict flow over time. That pressure drop makes even a newer Bosch or KitchenAid unit underperform — burners that light slowly or won't hold a simmer are often a line issue, not the cooktop itself. Hard water from the LA municipal supply also builds mineral deposits inside gas burner ports over time, choking output on cap-style burners.
+
+commonProblems:
+  - title: "Igniter Clicks Continuously After the Burner Is Off"
+    description: "A spark module that keeps firing after the flame is out usually means moisture got into the igniter well, or the igniter tip cracked from heat cycling — common in kitchens that get wiped down after every cook. On Samsung gas cooktops, the spark module wiring runs directly alongside the drip pan and shorts when any cleaning liquid seeps in. Replacing the full igniter assembly fixes it cleanly, and the job is almost always done in the same visit."
+  - title: "Ceramic Glass Panel Cracked Near a Burner Ring"
+    description: "Thermal shock is the typical cause — a cold pot dropped onto a still-hot surface, or hard contact right at the outer edge of the heating element ring. On LG and GE smooth-top models, a crack running across an active burner zone creates a genuine shock hazard and the unit shouldn't be used at all. The glass panel itself is replaceable, though sourcing the correct OEM size for older 30-inch GE models typically takes 5–7 business days."
+  - title: "One Burner Zone Runs Weak or Shuts Off Mid-Cook"
+    description: "Weak output on a single zone almost always points to a failing radiant heating element — the coil develops a partial break that still carries current but can't sustain full wattage. GE Profile and KitchenAid smooth-top models hit this pattern after 8–12 years of regular use. The control board relay can cause the same symptom by under-powering one specific zone. Swapping the element is a one-hour job; if the board is the culprit, an extra 30-minute diagnostic step confirms it before ordering parts."
+
+faq:
+  - q: "How fast can you get to Hawthorne for a cooktop repair?"
+    a: "South Bay routes run daily — Inglewood, Hawthorne, Lawndale all in one loop. Same-day or next-morning arrival is standard for most addresses in 90250. Residential streets here are no trouble for a service van. Call (323) 870-4790 in the morning and we can usually lock in a same-afternoon window."
+  - q: "Do you repair Samsung and LG cooktops in Hawthorne?"
+    a: "Yes — Samsung and LG are the most common cooktop brands we see in this area. Samsung NX-series igniter assembly failures and LG smooth-top ceramic panel replacements are both routine calls in the 90250 zip. Bosch induction units too, when the control board starts behaving erratically or the touch panel stops registering. Parts availability is solid on all three, and Samsung in particular has good aftermarket igniter modules."
+  - q: "How does the repair visit work, and can you come the same day?"
+    a: "Diagnosis happens on-site — usually 20–30 minutes to identify whether it's the heating element, igniter module, or control board. If the part is in the van, same-visit repair is typical. A cracked ceramic panel or completely dead burner qualifies as an emergency appointment. Evening slots are available. Book at (323) 870-4790."

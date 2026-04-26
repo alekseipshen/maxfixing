@@ -1,0 +1,104 @@
+title: "Alhambra Freezer Repair — SGV Hard Water & Summer Heat"
+
+intro: |
+  Hard water from the San Gabriel Basin quietly destroys ice maker assemblies
+  and evaporator coils — most homeowners in Alhambra don't notice until the
+  freezer stops holding 0°F. That GE upright running in a 91803 garage since
+  2008 has mineral scale caked inside the drain line right now. Around
+  Almansor Park, summer service calls spike every June: compressors running
+  constantly, temps drifting up to 18°F, food starting to soften.
+
+  Mineral deposits accelerate every failure mode. The drain pan fills with
+  chalky buildup, the evaporator coil frosts unevenly, and the defrost timer
+  starts misfiring — all from water the city delivers at 300+ mg/L hardness.
+  Alhambra sits in one of the harder water zones in the SGV, and that matters
+  a lot if you've had the same freezer for more than five years.
+
+localContext: |
+  Most of Alhambra's residential blocks — 91801 and 91802 especially — are
+  1940s and 1950s California bungalows with small kitchens and detached
+  garages. Chest freezers and standalone uprights almost always end up in
+  those garages, sitting through 95–100°F summers with zero insulation.
+  Post-war construction also means aging electrical panels that create voltage
+  swings, which burn out control boards on newer Samsung and LG units faster
+  than the units were built to handle.
+
+  The stretch along Valley Boulevard near Atlantic Boulevard sees denser
+  housing — older apartment stock, shared laundry areas, and kitchens where
+  a full-size freezer was never really planned for. Compact units get squeezed
+  into tight corners with almost no clearance behind the condenser coil.
+  Blocked airflow is the number-one reason those models run hot and cycle into
+  thermal cutoff by August. Parking a service van on those narrower residential
+  streets takes coordination, but we've been running this area long enough to
+  know which blocks have alleys and which ones don't.
+
+commonProblems:
+  - title: "Compressor Overload From Garage Heat in 91801"
+    description: >
+      A freezer parked in an uninsulated garage hits thermal limits fast once
+      outdoor temps climb past 90°F. The condenser fan can't pull enough heat
+      away, so the compressor runs nonstop and temps drift to 15–20°F instead
+      of 0°F. Samsung french-door models with rear-mounted condensers are
+      especially vulnerable — dust and garage grime clog that coil within a
+      season, cutting airflow by half. Left too long, the compressor start relay
+      burns out and the unit won't restart at all. At that stage you're looking
+      at a relay swap plus a full coil cleaning, not just a service call — catch
+      it early when the freezer is still running but temps are climbing.
+
+  - title: "Frost Buildup That Keeps Coming Back"
+    description: >
+      Persistent frost walls on the interior almost always point to a failed
+      defrost heater or defrost timer, not the thermostat most people assume.
+      Whirlpool uprights from the early-to-mid 2000s show this repeatedly —
+      the defrost cycle stops firing, the evaporator coil ices over completely,
+      and airflow chokes off. The repair is usually a $35–$50 heater element,
+      not a full replacement. LG inverter-compressor models throw an Er FF error
+      code when the fan is blocked by ice — that's your signal the defrost
+      system has already been failing for days. Manually defrosting buys time,
+      but the heater element still needs replacing or it comes back in two weeks.
+
+  - title: "Door Gasket Failure Causing Temperature Swings"
+    description: >
+      Rubber door gaskets on older GE chest freezers crack and pull away from
+      the frame after years of compression in the same spot. Warm air gets in,
+      the compressor compensates by running almost continuously, and eventually
+      the start relay burns out. Test it yourself — close the door on a dollar
+      bill and try to slide it free. If there's no resistance, the gasket is gone.
+      KitchenAid uprights from the mid-2010s have a similar issue: the magnetic
+      strip inside the gasket loses strength before the rubber itself cracks, so
+      the door looks fine but seals poorly. A replacement gasket on those runs
+      $40–$70 in parts and takes about 30 minutes on-site.
+
+faq:
+  - q: "How fast can you get to Alhambra for freezer repair?"
+    a: >
+      Alhambra is a regular stop on our SGV route — we run the 10 and 710
+      corridors daily. Call (323) 870-4790 and we'll tell you where the tech
+      is right now. Usually on-site within 2 hours. Evening slots available
+      most weekdays.
+
+  - q: "Do you repair Samsung and LG freezers in Alhambra?"
+    a: >
+      Yes — Samsung uprights with ice maker assembly failures and LG models
+      with control board or compressor issues are among our most common SGV
+      calls. We also handle Whirlpool, GE, and KitchenAid. Have the model
+      number ready and we can often pre-order the part before arriving.
+
+  - q: "What does a freezer repair call cost, and is same-day service available?"
+    a: >
+      Diagnostic is $75–$95, applied to the repair if you move forward.
+      Same-day appointments are available most weekdays — call (323) 870-4790
+      before noon and we can typically be there the same evening. Weekend
+      emergency slots too, no extra trip fee for Alhambra.
+
+  - q: "Is hard water really causing my freezer problems?"
+    a: >
+      In the SGV — yes, more often than people expect. Alhambra's tap water
+      comes out of the San Gabriel Basin at hardness levels that leave visible
+      scale inside ice maker assemblies within two to three years of regular
+      use. The water inlet valve screens clog first, then the ice mold heater
+      starts misfiring because calcium bridges form across the contacts.
+      Bosch counter-depth models are particularly sensitive to this because
+      the ice maker is tightly packaged and hard to access for cleaning.
+      Schedule a same-day appointment and we'll check the inlet valve and
+      drain line while we're diagnosing the main issue — no extra charge.
