@@ -1,0 +1,37 @@
+title: "Buena Park Range Repair — Gas & Electric, Same Day"
+
+intro: |
+  Tract homes from the early 1970s pack the blocks around Holder Street and the residential grid east of Beach Boulevard in 90620. Gas ranges are standard in these kitchens — almost none converted to electric when the appliance market shifted. That LG or Samsung slide-in you had installed five years back is sitting on a gas supply line that's been in the slab since this neighborhood was new.
+
+  Something eventually gives.
+
+  A burner that won't light, an oven that stalls at 300°F instead of climbing to 425°F, a control knob that stopped registering. These aren't random failures — they follow patterns we see repeatedly across Buena Park homes. Grease buildup around igniter electrodes. Thermal fuses that finally give up after a decade of summer heat radiating off Beach Boulevard asphalt. Call (323) 870-4790 and we can usually have someone at your door the same day.
+
+localContext: |
+  Buena Park's housing stock in 90620 and 90621 leans heavily toward single-family homes built between 1955 and 1985. Kitchens in these houses tend to run compact — fine for a standard freestanding range, but tighter when homeowners swap in a Bosch 800 Series slide-in or a commercial-depth KitchenAid during a remodel. The corrugated flex lines supplying gas to these ranges are worth checking whenever we pull a unit. Most are fine; some have been under there for forty years and show it.
+
+  The blocks south of La Palma Avenue near the Stanton border have seen a wave of kitchen gut-remodels over the last five years. Homeowners are dropping Thermador and KitchenAid pro-style ranges into spaces originally built for Maytag freestanding units. That means anti-tip brackets that don't match the new footprint, gas connections that need rerouting, and control boards with diagnostics modes the original installer never walked the homeowner through. We see the results of those installs regularly.
+
+commonProblems:
+  - title: "Igniter Clicks Constantly But No Flame — 90620's Most Common Range Call"
+    description: "That rapid clicking without a flame usually means the spark electrode tip is cracked or the igniter cap is packed with baked-on grease. On Samsung and LG ranges, the electrode sits close to the burner bowl and picks up residue fast. A cracked porcelain tip can't hold the charge needed to jump the gap.
+
+    Clean the cap first. If the electrode body shows visible damage — a hairline crack, a chipped tip — the whole assembly needs replacing. About a 30-minute fix on most models. If you're also seeing an error code on the display (Samsung ranges often throw a specific fault for ignition failures), note it before you call us — it tells us exactly which circuit to pull first."
+
+  - title: "Uneven or Lazy Flame on One Burner"
+    description: "A lopsided flame almost always traces to clogged burner ports — the small holes around the burner head that meter the gas flow. Food debris packs them in over years of cooking. On KitchenAid dual-fuel ranges, if two or more burners run weak at the same time, we also check the gas pressure regulator — that's a supply-side issue, not just dirty ports, and it points to a different repair path entirely.
+
+    Worth noting: in Buena Park homes where the gas meter is on the older side, pressure fluctuations can mimic a dirty burner. We carry a manometer specifically because this comes up — and it changes the diagnosis."
+
+  - title: "Gas Oven Lights Then Cuts Off Before Reaching Temperature"
+    description: "This symptom almost always means a failing hot surface igniter — the flat, sandstone-colored component that glows orange right before the burner kicks on. Bosch ranges use an igniter with tighter resistance tolerances than generic aftermarket parts. A wrong-spec igniter causes the gas safety valve to close prematurely, so the oven fires briefly and dies at around 200°F.
+
+    We stock OEM-spec igniters for the Bosch and KitchenAid units that show up most in Buena Park kitchen remodels. Thermador pro-style ranges have a similar issue — the gas valve solenoid coil wears before the igniter does, which reverses the usual repair order. Getting the diagnosis right saves a second visit."
+
+faq:
+  - q: "How fast can you get to Buena Park for range repair?"
+    a: "We run an Orange County route that covers Buena Park regularly — typical arrival window is 1.5 to 2 hours from your call. Beach Boulevard and La Palma are both corridors we travel constantly. Call (323) 870-4790 to check today's open slots; same-day availability is usually good on weekdays."
+  - q: "Do you repair Bosch and KitchenAid ranges?"
+    a: "Both are common in Buena Park after kitchen remodels. Bosch slide-ins frequently need igniter replacement or control board work. KitchenAid dual-fuel models often come in for bake element failure or a seized convection fan motor. We carry OEM parts for both and usually close the job in one visit."
+  - q: "What does a typical range repair cost, and can you come the same day?"
+    a: "Most repairs land between $150 and $350 parts and labor. Diagnostic fee is $75 and gets credited toward the repair if you proceed. Same-day appointments are available most weekdays — evening slots too if daytime doesn't work. Call (323) 870-4790 or book online; we can usually confirm a time window within the hour."
