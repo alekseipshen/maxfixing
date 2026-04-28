@@ -1,75 +1,43 @@
-title: "Santa Monica Double Oven — 90402 Built-Ins Repaired Fast"
-
 intro: |
-  The renovation wave that rolled through the blocks north of Montana Avenue in 90402
-  between 2008 and 2018 put a lot of Thermador and KitchenAid double wall ovens into
-  these kitchens. Those appliances are now hitting the 8–18 year mark — right when
-  control boards start glitching, door hinges begin to sag, and temperature mismatches
-  between the upper and lower cavities become a real headache. MaxFixing covers all of
-  Santa Monica, from the compact bungalows near Bergamot Station to the larger homes
-  along San Vicente Boulevard.
+  Santa Monica double ovens fail in predictable ways. The Thermador double wall units in homes along Montana Ave run into false open-door lockouts — the oven shuts down mid-roast, throws an error code, and won't restart until you pull the control board. It's not the door. It's usually a door latch microswitch worn past its contact threshold. We carry the replacement on the truck.
+
+  Most double ovens in this zip — 90402, 90403 — are 5 to 12 years old. That's exactly when bake elements start cracking at the bend, when thermal fuses blow after a self-clean cycle, and when the control board starts misreading the RTD probe temperature. We diagnose the actual failed component. You get a fixed oven, not a parts-swapped guess.
 
 localContext: |
-  The 90403 and 90404 zip codes are a mix of 1950s–1970s apartment buildings and
-  post-war bungalows, many with compact kitchens where a 30" wall oven was retrofitted
-  in rather than designed in from the start. Street access near 20th Street and 26th
-  Street can be tight for a service van — parking sometimes adds 10–15 minutes, and we
-  build that into scheduling. North of Montana in 90402 is a different situation: larger
-  homes with full-size Bosch and Thermador built-ins, most of them installed during
-  2005–2015 complete kitchen gut-outs.
+  Santa Monica kitchens are compact. Most homes west of Lincoln have 30-inch double wall ovens, not ranges — and getting a service van parked on 14th Street or Ocean Park Boulevard during the day takes planning. We account for that.
 
-  Santa Monica's marine layer is not just a nuisance — it pushes humidity into kitchens
-  year-round, even with the windows closed. That moisture accelerates corrosion on
-  control boards and wiring harnesses faster than you'd see in Pasadena or the Valley.
-  Built-in units here tend to show electrical faults earlier in their lifespan than the
-  same model installed fifteen miles inland.
+  The older craftsmans and Spanish colonials near Palisades Park have original cabinet cutouts sized for discontinued 27-inch units. KitchenAid and Bosch both made those sizes, and both still have available parts. The hinge assemblies and door gaskets differ from the 30-inch models, so a technician who hasn't worked on them before will order wrong. We've been in enough of these kitchens to know the difference.
+
+  Coastal air accelerates corrosion on broil elements and igniter connectors. If your oven is within six blocks of the beach — zip 90401 or the west end of 90405 — oxidation is probably part of the problem even if the failure looks purely electrical.
 
 commonProblems:
-  - title: "Lower Cavity Dead, Upper Still Running — Bake Element or Temperature Sensor Failure in Thermador Double Ovens"
+  - title: "Upper oven not heating, lower oven works fine"
     description: |
-      Thermador wall ovens from the 2012–2020 production years commonly lose the lower
-      cavity first. The bake element burns out while the upper oven keeps running — you
-      notice it when the bottom rack comes out pale or undercooked. Sometimes it is only
-      the bake element. Other times the temperature sensor has drifted out of spec and
-      needs replacing too. Diagnosing both takes about 30 minutes on-site, and most
-      Thermador parts are available for same-day delivery from local distributors serving
-      Santa Monica and the Westside.
-  - title: "F3E1 and F4E0 Fault Codes on KitchenAid Double Ovens — Marine Layer Accelerates Board Failure"
+      This split failure points to the upper bake element or its dedicated control relay — not a shared component. On Thermador double wall units, the upper and lower cavities run on separate control boards in older models. An element that reads open on a multimeter needs replacement. One that reads correct resistance but still fails to heat usually has a relay stuck open on the board.
+
+      Error code F1 or F3 on the upper display narrows it further. F3 typically means the RTD probe is reading out of range — either the probe drifted or there's a wiring harness issue between the probe and board. The upper cavity of a Santa Monica Thermador built into a 2008-era remodel will have had that harness bent repeatedly during the original install.
+
+  - title: "Self-clean cycle trips the thermal fuse"
     description: |
-      KitchenAid wall ovens — especially the KODE500ESS and KODE507ESS models —
-      regularly throw F3E1 or F4E0 fault codes when the control board starts degrading.
-      Santa Monica sits close enough to the Pacific that the marine layer drives consistent
-      humidity indoors, speeding up board corrosion compared to inland LA cities. A control
-      board swap clears the fault codes and restores normal heating on both cavities. No
-      other parts usually required.
-  - title: "Sagging Door, Broken Seal — Door Hinge Assembly Wear on Bosch Double Wall Ovens"
+      Self-clean runs the cavity to 900°F. The thermal fuse is a one-shot safety device rated for a specific cutoff temperature — once it blows, the oven goes completely dead. Bosch wall ovens mount the thermal fuse near the control housing rather than in the cavity, so it's accessible without full disassembly.
+
+      Replacing just the fuse misses the point. If it blew, the cavity exceeded its rating. That usually means a blocked exhaust vent, a failing door gasket letting heat migrate, or a control board that didn't terminate the cycle on time. Fix the root cause or the new fuse blows on the next clean cycle.
+
+  - title: "Door hinge sags — oven won't seal properly"
     description: |
-      Bosch wall oven doors are heavy — triple-pane glass and solid steel frames. The
-      door hinge assembly takes a lot of cycles over the years, especially after heavy
-      holiday cooking. Once a hinge wears, the door sags slightly, the door gasket loses
-      compression, and heat escapes. Oven temperature can run 25–40°F below the set point
-      as a result, which shows up fast in anything precision-sensitive: bread, soufflé,
-      layered pastry. Santa Monica homes with Bosch built-ins installed pre-2015 are the
-      most likely candidates for hinge replacement at this point.
+      A sagging oven door is a hinge assembly failure, not a cosmetic issue. On KitchenAid double ovens, the hinge arms are held by a retaining bracket that fatigues after years of the heavy door cycling open and closed. Once that bracket cracks, the door drops 3–5 millimeters. That gap breaks the gasket seal and the oven loses 40–60°F off its actual cavity temperature.
+
+      The door has to come completely off to replace the hinge assembly — it's a two-person job on larger units. Trying to swap hinges with the door in place bends the retaining bracket channel and makes the new hinge fail faster.
 
 faq:
-  - q: "How quickly can you get to Santa Monica for a double oven repair?"
-    a: |
-      From our nearest base, Santa Monica is 20–40 minutes depending on the 10 freeway
-      or Lincoln Boulevard. Same-day service is available most days — evening slots
-      included. Call (323) 870-4790 and we'll lock in a two-hour arrival window. Most
-      Santa Monica calls get covered the same day.
-  - q: "Do you repair Thermador, Bosch, and KitchenAid double wall ovens in the 90402 and 90403 zip codes?"
-    a: |
-      Yes — Thermador, Bosch, KitchenAid, and LG wall ovens make up the bulk of our
-      Santa Monica calls. Thermador work is typically bake elements, temperature sensors,
-      or control boards. Bosch calls are mostly door hinge assemblies and door gasket
-      replacements. KitchenAid is usually control board faults tied to the F3E1 or F4E0
-      codes. LG units occasionally show heating element failures or door latch issues.
-  - q: "What does a double oven repair cost in Santa Monica, and is same-day service available?"
-    a: |
-      Most repairs land between $150 and $450 depending on the part. Control board
-      replacements tend to run higher — sometimes $300–$500 all-in. Same-day
-      appointments are available most weekdays, and evening slots fill quickly. Call
-      (323) 870-4790 early if the issue is urgent — a technician can typically be there
-      within two hours of booking.
+  - question: "Do you repair both gas and electric double ovens?"
+    answer: |
+      Yes. Gas double ovens have igniter assemblies, gas valve solenoids, and flame sensors that electric units don't — and they fail differently. The igniter on a Viking double range weakens before it fails completely: you'll hear repeated clicking, the burner lights late, then one day it doesn't light at all. Electric units fail at the element or the control board. Both types, covered.
+
+  - question: "Can you get here the same day?"
+    answer: |
+      Usually yes. Call (323) 870-4790 and we'll tell you what's open. Most Santa Monica appointments in the 90401–90405 area get same-day or next-morning slots. If your oven is completely dead before a dinner, say that — evening slots are available for situations that can't wait.
+
+  - question: "Is it worth repairing a 10-year-old double oven?"
+    answer: |
+      Depends on the brand and the failure. A Thermador or Bosch double wall oven needing a bake element or thermal fuse is worth fixing — parts are available and these units are built to run 20 years. A Samsung or LG unit with a failed control board at year 10 is closer to a coin flip. We quote the part cost before touching anything so you can make the call yourself.
