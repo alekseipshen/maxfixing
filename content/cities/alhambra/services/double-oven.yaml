@@ -1,0 +1,31 @@
+intro: |
+  Double oven stopped heating evenly? One cavity works and the other doesn't? In Alhambra, we see this most often with KitchenAid and GE double wall ovens that have been installed since the house was built — sometimes 15 or 20 years back. The lower oven usually goes first. Most failures trace to a burned-out bake heating element, a faulty oven temperature sensor, or a control board that stopped reading the sensor correctly. We carry common parts for the brands we see most in the 91801–91803 zip codes and are typically at your door within two hours.
+localContext: |
+  Alhambra has a mix of older single-family homes and apartment buildings, many with kitchens that haven't changed since the 1980s or early 90s. GE Profile and Whirlpool built-in double wall ovens are the most common units in these homes. Getting to the lower oven cavity often means removing the door assembly and pulling the unit partway out of the cabinet — tight clearances in older Alhambra kitchens can stretch a 45-minute repair to 90 minutes.
+
+  Newer builds and remodeled kitchens near Valley Boulevard and along the Marengo Avenue corridor tend to have Samsung and LG slide-in ranges with double oven configurations. Those units throw F3 error codes fairly often — that's the oven temperature sensor reading out of range. It's a straightforward part swap, but you have to reset the control board afterward or the error code comes right back.
+
+  Gas double ovens are common throughout Alhambra. When the lower burner won't ignite, the igniter is usually the first suspect. Igniters degrade gradually — they start drawing too little current to open the gas valve. We keep Whirlpool and GE gas igniter assemblies stocked in the van for most service calls here, so there's no waiting on a part order.
+commonProblems:
+  - title: Lower Oven Won't Heat
+    description: |
+      On a GE or Whirlpool double wall oven, the bake heating element in the lower cavity burns out more often than the upper because it runs hotter and longer. You can sometimes spot a visible crack or blister in the coil. The replacement itself takes about 45 minutes — pulling the unit out to reach the rear wiring harness is the slow part. Some Alhambra kitchens with tight cabinet cutouts require removing the countertop support corbels first.
+  - title: One Oven Reads the Wrong Temperature
+    description: |
+      A Bosch or KitchenAid double oven that runs 25–40°F cold isn't necessarily broken — the oven temperature sensor has drifted. Each cavity has its own sensor, so you can have one accurate zone and one that reads completely wrong, often with no error code at all. We calibrate and replace sensors for all major brands in one visit. A probe thermometer confirms the actual cavity temp before we close the job.
+  - title: Door Won't Seal Properly
+    description: |
+      The door gasket and hinge assembly wear out at different rates. A cracked hinge lets the door hang at an angle; the gasket can't compress evenly and you lose 30–50°F through the gap. KitchenAid double ovens have a spring-loaded hinge tab that cracks under stress — most homeowners don't notice until the door starts wobbling mid-bake. We stock common KitchenAid and GE door hinge assemblies for same-day repair.
+  - title: Touchpad or Control Board Failures
+    description: |
+      Samsung and LG double ovens in Alhambra rental units take heavy use. The membrane touchpad delaminates after a few years — buttons stop registering or randomly repeat. An F3 code points to the oven temperature sensor reading out of range; F4 indicates an open sensor circuit. We test the sensor first before assuming the control board has failed, because boards cost significantly more. Call (323) 870-4790, describe the error code, and we can usually tell you what to expect before we arrive.
+faq:
+  - question: How fast can you get to Alhambra for a double oven repair?
+    answer: |
+      Same-day service covers the 91801, 91802, and 91803 zip codes. We're usually there within two hours of booking. Evening appointments are available for households where someone can't be home during the day. Call (323) 870-4790 to check what's open today.
+  - question: How long does a double oven repair typically take?
+    answer: |
+      Heating element replacements take 30–60 minutes once we're on site. Temperature sensor swaps are faster — usually under 30 minutes if the part is in the van. Control board replacements run 60–90 minutes depending on the model. Bosch and KitchenAid parts sometimes need to be ordered, but next-day availability is common. One visit handles diagnosis and repair in most cases.
+  - question: Is a 15-year-old double oven worth repairing?
+    answer: |
+      Usually yes, if it's a single failed part. A heating element or sensor replacement on a 15-year-old GE double wall oven that otherwise works well is straightforward — parts run $40–$180, labor included in the service fee. Where the math gets harder is when the control board fails on an older Samsung or LG unit: those boards cost $200–$350, and if other components are also worn, a replacement oven starts making more sense. We'll give you a straight answer after the diagnostic. No pressure either way.

@@ -1,0 +1,57 @@
+intro: |
+  Cooktop down in Alhambra? Gas burner clicking but not lighting, or the induction surface throwing an E1 error — these are fixable same-day. Call us at (323) 870-4790 and we're usually there within 2 hours.
+
+  Alhambra has a mix of housing stock: 1960s ranch homes off Fremont Ave still running old GE gas cooktops, and newer condos near Main St with Samsung or Bosch induction units. The repair approach is totally different between those two. Gas igniter replacement on a 20-year-old Whirlpool is straightforward. Diagnosing a control board fault on a Bosch FlexInduction requires specific test equipment. We carry parts for both.
+
+  Gas cooktops in this city work hard. With 84,000+ residents packed into a relatively small footprint, kitchens get heavy use — igniters, burner caps, and gas valves wear out faster than manufacturers estimate.
+
+localContext: |
+  Alhambra spans three zip codes — 91801, 91802, and 91803 — and each has its own appliance profile. The 91803 zip (closer to San Gabriel) tends to have older rental units with basic LG or GE gas cooktops that haven't been serviced in years. Near Almansor Park in 91802, we see more owner-occupied homes where people invested in KitchenAid or Bosch mid-range cooktops.
+
+  Hard water is a real issue here. Alhambra municipal water runs around 250 ppm hardness — enough to clog burner ports on gas cooktops within 18 months of regular use. If one burner has a weak, uneven flame, mineral buildup on the burner cap is often the culprit before anything mechanical fails.
+
+  Parking access near the denser apartment complexes on Garfield Ave can add 10–15 minutes to arrival. Worth mentioning if you're in one of those buildings — text us the address ahead of time and we'll sort it.
+
+  Commercial kitchens on Valley Blvd occasionally call us for cooktop work too. High-BTU commercial burners have different ignition systems than residential units, and we handle both.
+
+commonProblems:
+  - title: Gas Burner Won't Light
+    description: |
+      The igniter clicks but no flame. Usually it's a cracked igniter electrode or a clogged burner port. On Samsung gas cooktops, there's also a common failure where the spark module shorts out — you'll hear continuous clicking even with the knob turned off.
+
+      Cleaning the burner cap and port fixes maybe 40% of these calls. The other 60% need a new igniter or spark module replaced. Parts for Samsung and LG units are typically in stock; older Kenmore or Amana igniters sometimes need a 1-day order.
+
+  - title: Induction Cooktop Error Code
+    description: |
+      Bosch and KitchenAid induction units throw E1, E2, or F codes when the control board detects a temperature sensor fault or coil issue. An E1 on a Bosch Serie 800 usually means the surface temperature sensor failed — the unit shuts down as a safety measure.
+
+      Don't ignore those codes. Running an induction cooktop with a faulty sensor can burn out the coil assembly, which is a $300+ part. Catching it at the sensor stage costs a fraction of that. Call (323) 870-4790 — we can usually diagnose induction faults same-day in Alhambra.
+
+  - title: Weak or Uneven Flame
+    description: |
+      One burner producing separated small flames instead of a solid blue ring. In Alhambra specifically, this is almost always mineral scale inside the burner ports. The city's 250 ppm water hardness means steam and boil-overs deposit calcium directly into the burner cap holes.
+
+      A proper cleaning with the right tools takes about 30 minutes on-site. If the burner cap is warped from heat, it needs replacement — GE and Whirlpool caps are inexpensive and available next-day.
+
+  - title: Surface Element Not Heating
+    description: |
+      On older electric coil cooktops — common in Alhambra apartment units — a dead burner is usually a failed infinite switch or a burned coil element. Both are inexpensive repairs.
+
+      For induction, a non-responsive zone sometimes means the coil itself failed, but more often it's a loose ribbon cable connecting the control board to the induction module. We check the simple stuff first before quoting parts.
+
+faq:
+  - question: Do you repair both gas and induction cooktops in Alhambra?
+    answer: |
+      Yes. Gas and induction are completely different systems — gas needs igniter, valve, and burner work; induction involves control boards, coils, and temperature sensors. We handle both. Most Alhambra homes west of Valley Blvd have gas; newer construction toward San Gabriel tends toward induction or electric. Same-day appointments available — call (323) 870-4790.
+
+  - question: How long does a cooktop repair usually take?
+    answer: |
+      Most residential cooktop repairs run 45 to 90 minutes on-site. A gas igniter swap is 30 minutes. Replacing a control board on a Bosch induction unit takes closer to an hour. We'll give you a time estimate when you call so you're not waiting around all day.
+
+  - question: Is it worth repairing an older cooktop or just replacing it?
+    answer: |
+      Depends on the failure. If the cooktop is 8+ years old and the control board died, replacement often makes more economic sense. But if it's an igniter, a gas valve, a burner cap, or a thermal fuse — repair almost always wins. A $150 repair on a 10-year-old KitchenAid gas cooktop beats a $600 replacement. We'll tell you straight which way it goes.
+
+  - question: Can you come the same day?
+    answer: |
+      Usually yes for Alhambra. We cover the San Gabriel Valley corridor daily, and the 91801 and 91802 zip codes are on our regular route. Evening slots are available if daytime doesn't work. Call (323) 870-4790 or schedule online.

@@ -1,0 +1,35 @@
+intro: |
+  Wine coolers are deceptive appliances. Everything looks fine on the display panel — 55°F, humidity stable — until you pour a glass and realize something's been off for days. Buena Park summers amplify this problem. From June through September, ambient temps in OC's inland corridors push past 95°F, forcing the compressor into longer cycles. The condenser coil collects lint and kitchen grease faster. Control boards start sending erratic voltage to the cooling relay. The unit just can't keep up.
+
+  Around the 90621 zip, we see a lot of LG and Samsung freestanding wine coolers in homes off La Palma Ave and the Beach Blvd corridor. The Samsung RW-series has a specific drain tube routing failure that's easy to misread — condensation backs up into the evaporator compartment, the owner notices temperature drift, and assumes it's a compressor issue. It's not. Misdiagnosed, that repair costs three times more than the actual fix.
+
+localContext: |
+  OC hard water is genuinely aggressive. Mineral content in Buena Park runs 300–400 ppm — high enough to scale the inlet valve and block the evaporator drain within 18 months on units running humid cycles. KitchenAid dual-zone columns in the newer tract homes near Knott's Berry Farm show this pattern regularly: lower zone drifts warm, owner suspects a failing thermistor, but it's actually a mineral-blocked drain line. Clean the drain, descale the evaporator, problem solved.
+
+  The higher-income pockets off Orangethorpe Ave trend toward built-in Sub-Zero and Thermador wine columns. Those are a different job. The Sub-Zero CL3050 series requires a proprietary service manifold to access the sealed system — most generalist shops don't stock it. Buena Park homeowners with built-in units have been burned before by techs who didn't have the right equipment and improvised. We carry the correct tools and calibration gear for Sub-Zero, Thermador, and Bosch built-in columns.
+
+commonProblems:
+  - title: Temperature Won't Hold
+    body: |
+      Most common call out of Buena Park. The display reads 57°F but the Pinot is sitting at room temperature. On LG units, the CH error code points toward a thermistor fault — before ordering that part, though, check whether the evaporator coil has frost buildup. Ice on the evaporator (caused by a failed defrost timer or a seized condenser fan) mimics a thermostat failure almost perfectly. Misread that, and you replace a $40 thermistor when the real issue is a $90 defrost timer.
+
+  - title: Compressor Running Nonstop
+    body: |
+      A compressor that never cycles off is chasing a temperature it can't reach. Samsung french-door wine coolers are the worst offenders here — the condenser is rear-mounted and people push them flush against the wall. No airflow means the condenser coil overheats. Sometimes adding 2 inches of clearance and cleaning the coil is the entire fix. Other times it's a slow refrigerant leak at the compressor fitting, and the unit needs a recharge. Either way, running it indefinitely in this state will burn the compressor out entirely.
+
+  - title: Standing Water Inside the Unit
+    body: |
+      You open the door and there's a puddle at the bottom. In Buena Park specifically, this is almost always the hard water drain-block scenario. Condensation off the evaporator coil has nowhere to go because the drain tube is scaled shut with mineral deposits. The LG CH error code sometimes accompanies this — but not always. Bosch 24-inch columns are particularly prone because the drain tube routes under the compressor housing and is harder to clear. If the evaporator itself has pitted from prolonged mineral contact, replacement is necessary.
+
+faq:
+  - question: How quickly can you get to Buena Park?
+    answer: |
+      Same-day service, most days. Call (323) 870-4790 before noon and we're usually there the same afternoon. Evening slots available if daytime doesn't work.
+
+  - question: Do you repair built-in wine coolers, not just freestanding?
+    answer: |
+      Yes. Sub-Zero, Thermador, Bosch, and KitchenAid built-in columns are part of our regular work in Buena Park and surrounding OC cities. Built-ins need different access procedures and in some cases proprietary tools — Sub-Zero sealed-system work especially. Let us know the model when you call so we bring the right equipment.
+
+  - question: My wine cooler is only 4 years old. Repair or replace?
+    answer: |
+      Repair, almost certainly. A 4-year-old Bosch or LG unit has 8–10 years of life remaining. The typical repairs at that age — thermostat, drain pump, control board relay — run $150–$320. Replacement starts at $800 for a comparable unit, often $1,500+. The math strongly favors repair unless it's a sealed-system compressor failure on a budget-tier model. We'll tell you straight which situation you're in. Call (323) 870-4790 and describe the symptoms — we can usually give a ballpark estimate before even scheduling. If you have a dinner party or event coming up, mention it. We do have same-day and emergency slots.

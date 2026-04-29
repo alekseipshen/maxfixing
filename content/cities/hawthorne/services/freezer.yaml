@@ -1,0 +1,53 @@
+intro: |
+  Freezers in Hawthorne take a beating in summer — especially chest freezers sitting in garages off Goffle Road or Lafayette Avenue where temps push past 90°F in July. When the unit starts cycling too long, running loud, or food in the back turns to mush, something is actually wrong. Usually it's a condenser fan motor caked with dust, or a defrost heater that burned out six months ago and the evaporator coil finally froze solid.
+
+  Most of the calls we get from Hawthorne are Samsung french-door units throwing the 40E error code, or older Whirlpool uprights where the compressor keeps running but the temperature climbs to 20°F instead of holding at 0°F. The 40E on Samsung points to an ice maker assembly fault — often just a cracked water inlet valve that let a slow drip freeze the entire fill tube. Fixable same day in most cases.
+
+  Call (323) 870-4790 to check availability. Hawthorne is on our regular Passaic County route, and evening slots are open Tuesday through Saturday.
+
+commonProblems:
+  - title: Freezer Not Freezing — Compressor Still Running
+    description: |
+      The motor hums, the unit feels warm on the sides, but nothing freezes. In these Hawthorne homes, nine out of ten times the condenser coils are blocked. Dust, pet hair, lint from adjacent dryers — it accumulates behind and underneath the unit. The compressor keeps firing but can't shed heat, so the refrigerant loop stalls.
+
+      KitchenAid and Bosch models with bottom-mount condensers are especially prone to this where forced-air heat circulates at floor level. Coil cleaning plus a thermal cutout check is standard before leaving the job.
+
+  - title: Heavy Frost on the Evaporator Coil
+    description: |
+      A thick ice sheet on the back wall means the defrost system quit. Either the defrost heater burned out, the defrost thermostat opened and won't reset, or the defrost timer stuck in cooling mode. LG units in the 07506 zip have a documented issue with defrost thermostat failure — the freezer frosts over completely and the temperature reading goes unreliable.
+
+      Defrost heaters and thermostats for LG and Samsung are stocked in the van. Newer models that run the defrost cycle through a control board get a full board diagnostic before we order parts.
+
+  - title: Ice Maker Stopped Producing Ice
+    description: |
+      Passaic County water hardness runs 150–180 mg/L depending on which municipal supply feeds your block. That mineral load destroys ice makers over time. Water inlet valve orifices scale up and restrict flow. The ice maker assembly accumulates calcium on the mold heater, slowing the harvest cycle. GE and Whirlpool models are common in Hawthorne's older split-levels, and both have inlet valves that scale up fast.
+
+      Flushing the water line, testing inlet valve flow rate, and swapping the valve if pressure dropped below spec — that's the standard fix. Ice maker assembly replacement takes about 45 minutes on site.
+
+  - title: Door Gasket Failure and Temperature Creep
+    description: >
+      A torn or compressed gasket lets warm, humid air in constantly. The freezer runs nonstop to compensate. Maytag and older Frigidaire chest freezers have gaskets that dry-crack after 8–10 years, especially units sitting in unheated garages that swing between cold NJ winters and humid summers. Test with a dollar bill — close the door on it and pull. Slides out easily means the seal is gone. New gaskets run $40–$80 in parts, and the swap takes under an hour.
+
+faq:
+  - question: How fast can you get to Hawthorne for a freezer repair?
+    answer: >
+      Usually within 2 hours for calls placed before 2 PM. Hawthorne sits on our regular Passaic County circuit. Evening appointments are available Tuesday through Saturday. Call (323) 870-4790 to check same-day openings.
+
+  - question: My LG freezer shows an Er FF error — what does that mean?
+    answer: >
+      Er FF is LG's fault code for evaporator fan motor failure. That motor circulates air across the coil — when it stops, the coil frosts over and the freezer warms up even though the compressor is still running. Fan motor assembly replacement takes about an hour on site, and we stock the part for most LG models.
+
+  - question: Is it worth repairing a 10-year-old freezer?
+    answer: >
+      Depends on the repair cost versus the unit's replacement value. Compressor work on a 10-year-old $400 Whirlpool upright probably doesn't pencil out — compressors run $200–$350 in parts alone. A defrost heater or inlet valve? That's an $80–$150 fix that buys another 5 years easily. You'll get a straight answer before we touch anything.
+
+  - question: Do you handle commercial freezers too?
+    answer: >
+      Yes. Walk-in condensers, reach-in display units, prep table freezers for restaurants and delis — Hawthorne has food businesses along Wagaraw Road we've serviced. Book through (323) 870-4790.
+
+localContext: |
+  Hawthorne's housing stock runs mostly 1950s-to-1970s colonials and ranches with kitchens that weren't designed for today's 36-inch french-door units. Accessing the back of a built-in or maneuvering a large appliance out requires some improvisation, and tight driveways off Goffle Road don't help with van parking.
+
+  The municipal water supply drawing from the Wanaque Reservoir system delivers hard water that quietly calcifies ice makers and water inlet valves over years. A freezer ice maker that has never been serviced and is more than five years old likely has a partially blocked inlet valve orifice — common enough that we check it on almost every Hawthorne call.
+
+  Summers along the Route 208 corridor push garage temperatures high enough that a chest freezer rated for 110°F ambient is barely holding. Condenser fan motors and compressor starting components wear faster under sustained heat load. What looks like a refrigerant issue is often a condenser that can't dissipate heat in a 95°F garage — and that's a $90 fix, not a $400 recharge.

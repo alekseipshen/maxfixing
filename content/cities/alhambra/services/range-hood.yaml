@@ -1,0 +1,45 @@
+intro: |
+  Range hoods in Alhambra work harder than most people realize. Stir-fry, fish sauce, high-heat wok cooking — that's a lot of grease cycling through a blower wheel and baffle filters every single week. When the fan starts humming strange or stops pulling air, call us at (323) 870-4790. Same-day slots are usually open.
+
+  A lot of homes along Valley Blvd and Atlantic Ave were built in the 1950s and 1960s. Many still have original ductwork — or no duct at all, just a recirculating hood with a charcoal filter nobody's swapped since 2015. Ducted or ductless, the repair process is completely different and the parts don't cross over. We handle both setups.
+
+localContext: |
+  Alhambra's housing stock skews older — post-war bungalows in the 91801 and 91803 zip codes, apartment buildings near Main Street, some newer condos close to the 10 freeway. Older kitchens often have hoods mounted tight to the cabinet, sometimes only 24 inches above the cooktop. That creates airflow problems even when the hood itself is fine — grease hits the baffle filters twice as fast.
+
+  Hard water is a real issue here. SGV tap water runs around 300–400 ppm mineral content. That load clogs the motor capacitor's cooling path over time and causes the motor to overheat and cut out mid-cooking. We've pulled blower assemblies out of GE and Whirlpool hoods in this area that looked clean on the outside but had scale buildup packed around the motor windings.
+
+  Parking near Almansor Park on the narrower residential streets can be tricky, but we know the access routes. Usually there within 2 hours on weekday calls.
+
+commonProblems:
+  - title: Fan runs but no suction
+    description: |
+      Usually a blockage in the duct collar or a duct that's come loose inside the wall. KitchenAid wall-mount hoods show up a lot in Alhambra kitchen remodels — they look sharp, but the telescoping duct section separates from the ceiling cap over time. Air recirculates inside the cabinet instead of exhausting outside. The blower wheel spins, sounds totally normal, but CFM drops to almost nothing. Takes about 45 minutes to pull and reseat.
+
+  - title: Motor hums but fan won't spin
+    description: |
+      Failed motor capacitor or seized bearing. LG and Samsung under-cabinet models see this a lot after 5–7 years, especially if the filters haven't been cleaned regularly. Grease gets past the baffle filter, coats the bearing housing, eventually locks it up. The capacitor tries to fire the motor, draws current, trips the thermal fuse. Now the hood is completely dead. Common capacitors and thermal fuses for these models stay in the van.
+
+  - title: Control board errors, lights flashing
+    description: |
+      Bosch 300 and 500 series hoods with touchpad controls occasionally throw error codes after a power surge — board logs a fault and locks out the fan entirely. A Bosch 800-series near 91802 had a fried relay from a June power fluctuation. New board, 90-minute visit, back in service same day. Reprogramming fixes it sometimes; board swap when it doesn't.
+
+  - title: Loud grinding or rattling
+    description: |
+      Nine times out of ten it's a loose blower wheel or debris caught in the fan housing. Whirlpool and GE hoods accumulate grease on the wheel fins, and eventually a chunk breaks off and bounces around inside. Gas range setups — common throughout Alhambra — run hotter and accelerate that buildup. We clean and rebalance the wheel or swap it depending on wear.
+
+faq:
+  - question: How long does a range hood repair take?
+    answer: |
+      Most are done in one visit, 45 minutes to 2 hours depending on the problem. Thermal fuses, motor capacitors, blower wheels for GE, Whirlpool, LG, and Bosch — we carry those in the van. Less common control boards sometimes get ordered same-day and we return next morning. Call (323) 870-4790, describe the symptom, and we'll tell you upfront if it's a one-trip fix.
+
+  - question: Is it worth repairing an older hood?
+    answer: |
+      Depends on the unit. A KitchenAid or Bosch hood that cost $400–800 is worth fixing almost every time — repair runs $120–220 and the unit goes another decade. A builder-grade hood that came with the apartment? Sometimes replacement makes more sense. Honest answer when we're looking at it in person.
+
+  - question: Do you work on ducted and ductless hoods?
+    answer: |
+      Both. Ductless recirculating hoods just have different filter and motor setups. Apartments near Main Street in Alhambra often have ductless installs because the building was never designed with exhaust runs. Charcoal filter replacements for common models stay in stock — usually swap them the same visit.
+
+  - question: Hood stopped working after a power outage — can you fix it?
+    answer: |
+      Yes. Surge damage usually takes out the control board or trips the thermal fuse. Both are repairable. Evening slots available if you need the hood working before dinner. Just call.

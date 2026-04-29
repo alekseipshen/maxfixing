@@ -1,0 +1,55 @@
+intro: |
+  Tustin runs a mix of 1970s ranch homes in Old Town and newer condos in Tustin Legacy built after 2000. Both have oven problems — different brands, different failures. The Legacy townhomes near Greenwood and Patriot often have KitchenAid or Bosch wall ovens tucked into tighter kitchen layouts. Older homes around Prospect Ave and Red Hill tend to have LG or Samsung ranges that are five to eight years old now — right in the window when control boards start acting up.
+
+  Same-day service covers 92780 and 92782. Call (323) 870-4790 to book — most calls get a technician there within two hours.
+
+localContext: |
+  Tustin Ranch homes near Newport Ave and Bryan Ave frequently have Thermador double ovens built into custom cabinetry. Pulling those out requires removing cabinet trim and working around tight clearances. That kind of job happens every week in this neighborhood.
+
+  The District at Tustin Legacy draws newer residents with Samsung and LG slide-in ranges. Those units see the same igniter and control board failures as anywhere in Orange County — just in smaller kitchens with less room to maneuver.
+
+  Off Warner Avenue, near the old WWII blimp hangars still standing on the former Marine Corps Air Station property, the housing stock shifts. Homes from the 1960s and 70s in the 92780 zip run older GE and Maytag gas ranges. Gas valve igniter failures are common here — a part most homeowners have never heard of until the oven stops lighting. Along McFadden and Bryan Ave, many kitchens have never been updated. Original appliances, original wiring, original headaches.
+
+commonProblems:
+  - title: "Oven won't reach temperature or takes forever to preheat"
+    description: |
+      This is the most common call from Tustin Ranch homes. A KitchenAid double wall oven that used to preheat in 12 minutes suddenly takes 35. Nine times out of ten it's a failed bake element — the coil cracks and loses continuity. Sometimes it's the temperature sensor drifting out of spec. Either way, the control board is getting bad data and throttling the heat.
+
+      On Thermador models, a failed concealed bake element under the oven floor is harder to spot because nothing looks visibly broken. Resistance gets checked with a multimeter before ordering parts. The diagnostic visit rolls into the repair cost.
+
+  - title: "Control board showing F3-E0 or F3-E1 error codes"
+    description: |
+      LG and Samsung ranges throw these codes when the temperature sensor circuit fails. F3-E0 usually means an open sensor — the probe has lost continuity. F3-E1 means a shorted sensor. Both codes make the oven unusable until resolved.
+
+      Replacing the sensor alone fixes it about 70% of the time. The other 30%, the control board itself has burned a relay and needs replacement. Common sensor harnesses for LG and Samsung models ride in the service van. If the board needs ordering, most parts arrive next-day to Tustin.
+
+  - title: "Gas oven igniter glows but burner won't light"
+    description: |
+      The igniter glows orange but the gas never catches. Classic weak igniter. Igniters need to draw enough current to open the gas valve — when the element weakens with age, it glows but doesn't pull enough amperage. GE and Maytag gas ranges in older 92780 homes see this constantly.
+
+      Fix is straightforward — new igniter, test gas valve operation, verify flame pattern. Usually done same visit. If the gas valve itself has failed (rare on units under 15 years), that adds time but the job still makes sense on a solid range.
+
+  - title: "Oven door won't close fully or heat escapes around the seal"
+    description: |
+      A damaged door gasket lets heat escape and throws off cooking times. On Bosch wall ovens in Tustin Legacy condos, the door hinge mechanism can also bend slightly from daily heavy use — a misaligned hinge means the door never fully compresses the gasket.
+
+      The door switch circuit also gets checked. A failing switch can make the control board think the door is open mid-cycle, cutting the bake element entirely. That failure mimics a heating problem and gets misdiagnosed constantly.
+
+faq:
+  - question: "How fast can you get to Tustin?"
+    answer: |
+      Same-day appointments are available most days. Call (323) 870-4790 before noon and a technician can usually be there the same afternoon. Evening slots are open for residents who can't be home during work hours. Both 92780 and 92782 are covered.
+
+  - question: "Do you repair built-in Thermador and KitchenAid wall ovens?"
+    answer: |
+      Yes. Built-ins in Tustin Ranch cabinetry require extra access time, but that's a routine job here. Thermador and KitchenAid use proprietary door hinge systems and specific torx fasteners — the right tools matter. A general handyman attempting a built-in Thermador risks cracking the oven liner or bending a hinge arm, turning a $300 repair into a $1,200 problem.
+
+  - question: "My LG oven is showing an F9 error code. What does that mean?"
+    answer: |
+      F9 on LG ranges typically points to a door latch motor failure or a stuck door lock mechanism. Most common after a self-clean cycle — the latch motor overheats and seizes, leaving the oven locked and unusable. This shows up regularly in LG slide-in units in The District at Tustin Legacy. The fix involves replacing the door lock assembly and sometimes clearing the control board memory. Schedule a same-day visit at (323) 870-4790 and it's usually resolved in one trip.
+
+  - question: "Is it worth repairing a 10-year-old oven or should I replace it?"
+    answer: |
+      Depends on the brand and the failure. A 10-year-old KitchenAid or Bosch with a bad temperature sensor or bake element — repair it. Those platforms are built to last and parts are available. A 10-year-old Samsung with a failed control board is closer to the line — boards run $200-400 and labor adds another $150, which approaches half the cost of a new unit.
+
+      If a repair doesn't make financial sense, that's what gets said. No upselling a $500 fix on a range worth $600.
