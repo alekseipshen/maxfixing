@@ -1,0 +1,90 @@
+title: "Redondo Beach Oven Repair — Hollywood Riviera to King Harbor"
+
+intro: |
+  The Hollywood Riviera side of Redondo Beach (90277) has some of the nicest
+  renovated kitchens in the South Bay — original 1950s bungalows that got full
+  gut-remodels with Thermador 30-inch wall ovens and KitchenAid ranges sitting
+  where old Roper units used to be. When that Thermador broiler stops firing mid-
+  roast or the oven stalls at 275°F instead of climbing to 400°F, you need someone
+  who actually knows the appliance — not a generalist reading a service manual for
+  the first time in your kitchen.
+
+localContext: |
+  The housing split in Redondo Beach is real. South Redondo (90277) runs older,
+  character-heavy homes — many on narrow lots near the beach where kitchen access
+  is tight and pulling a range out means maneuvering around an island that wasn't
+  in the original 1962 floor plan. North Redondo (90278) trends newer: townhome
+  stacks along Artesia Boulevard where slide-in ranges are the standard fit. Bosch
+  and LG slide-ins dominate those buildings; the Hill Section houses tend toward
+  built-in wall ovens, mostly KitchenAid and Thermador.
+
+  Then there's the beach factor. Properties along The Esplanade and streets
+  running perpendicular to PCH in 90277 see consistent salt air year-round — it
+  accelerates oxidation on igniter terminals and bake element wire connections
+  faster than anything inland. A KitchenAid gas range that runs fine for six years
+  in Torrance might show igniter failure at four in a Riviera Village home. We
+  account for that during diagnosis, not just the obvious symptom.
+
+  Parking is its own conversation in South Redondo. The narrow streets below
+  Palos Verdes Boulevard mean service vans sometimes stage parts on the curb near
+  the King Harbor side of town. Not a dealbreaker — just something a local tech
+  knows going in rather than figuring out on arrival.
+
+commonProblems:
+  - title: "Oven heats but won't reach set temperature — common in renovated bungalows"
+    description: |
+      A baking element that's partially burned out will let the oven warm up, just
+      not fully. It hits 260°F and stalls. On KitchenAid wall ovens, the bake
+      element tends to fail at a bend point near the bottom — sometimes you can
+      spot the char mark. Replacement usually takes under two hours, and the part
+      is almost always in stock.
+
+      On Thermador units with a concealed bake element under the oven floor, there's
+      sometimes no visible sign at all — just an F3 or temperature-sensor error
+      cycling the display before the unit shuts itself down. If you're seeing that
+      code, call before the control board decides to log it as a bigger fault.
+      Schedule same-day at (323) 870-4790.
+
+  - title: "Self-clean lock won't release after the cycle finishes"
+    description: |
+      The door lock mechanism on Bosch and Thermador ovens can stick if the
+      thermal limiter trips before the cycle fully resets. Control board logs an
+      error, door stays locked, oven is unusable. On Thermador models the display
+      typically throws an E031 or F-door fault. That limiter needs to be tested
+      before assuming the door latch assembly itself is the problem — misdiagnosis
+      here is expensive.
+
+      And don't keep cycling the breaker trying to force a reset. Repeated power
+      cuts can corrupt the board's latch counter and make the fault harder to clear
+      later. It's a $90 part fix that becomes a $400 board replacement if pushed
+      the wrong way.
+
+  - title: "Uneven baking — burnt edges, raw center, hot spots on one side"
+    description: |
+      Usually a convection fan motor failing or a cracked fan blade wobbling
+      inside the cavity. Samsung and LG slide-in ranges in the North Redondo
+      townhomes show this pattern after four to six years of use — the blower
+      wheel spins but doesn't circulate air evenly. A five-minute inspection
+      confirms it either way.
+
+faq:
+  - q: "How fast can you get to Redondo Beach for oven repair?"
+    a: |
+      Redondo Beach sits squarely in our South Bay route — we run calls in 90277
+      and 90278 regularly, and King Harbor is a familiar landmark for us. Same-day
+      slots are usually open. Call (323) 870-4790 to check morning availability;
+      we're typically there within 2 hours.
+
+  - q: "Do you repair Thermador and KitchenAid wall ovens in the Hill Section?"
+    a: |
+      Yes — Thermador and KitchenAid wall ovens are a big part of our South
+      Redondo work. Common fixes include failed bake elements, control board
+      faults, and door gasket replacements. Bosch and LG slide-ins in the North
+      Redondo townhomes are just as familiar to us.
+
+  - q: "What does oven repair cost, and do you handle same-day emergency calls?"
+    a: |
+      Most oven repairs run $150–$350 depending on the part. Heating element
+      swaps land on the lower end; control board replacements push higher. Evening
+      and same-day emergency slots are available — call (323) 870-4790 or schedule
+      online and a technician is usually out within 2 hours.

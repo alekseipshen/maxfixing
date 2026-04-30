@@ -1,0 +1,71 @@
+title: "Lakewood Range Repair — Postwar Gas Lines Meet Modern Kitchens"
+
+intro: |
+  Lakewood went from orange groves to 17,000 homes in roughly three years — the entire city
+  was platted and built between 1950 and 1953. Gas was run to every house from day one. Those
+  same supply lines are still under the slabs around Del Valle Park and Mayfair Park today, now
+  feeding KitchenAid dual-fuel slide-ins and Bosch freestanding ranges that homeowners installed
+  during kitchen remodels. Seventy-year-old infrastructure paired with modern control electronics
+  creates a predictable set of failures. We see them constantly in these zip codes.
+
+  Some of the Thermador and Sub-Zero ranges that showed up in Lakewood remodels over the last
+  decade add another layer. Those appliances need calibrated tools and brand-specific diagnostic
+  sequences that a general handyman isn't going to have. We stock parts and carry the service
+  documentation for them.
+
+localContext: |
+  The 90712 and 90713 grids are almost entirely 1950s ranch — 1,100 to 1,400 square feet,
+  compact kitchen layouts, original gas hookups. Many homeowners in the blocks between Lakewood
+  Boulevard and Bellflower Boulevard have kept the gas lines and upgraded the range itself to a
+  Samsung or LG freestanding model. Tight cabinet clearances and low-clearance overhead cabinets
+  mean access for range service can be awkward, but these are standard residential installs —
+  nothing we haven't worked around dozens of times.
+
+  Hard water hits Lakewood harder than people expect for an inland suburb. The LA municipal
+  supply running through the 90715 side registers around 300 ppm — that's calcification building
+  up inside burner valves and around gas orifices over three to five years. A range that ran
+  fine for years starts behaving like the gas supply is weak, but the actual problem is mineral
+  restriction at the burner head itself. Cleaning the orifice and port tubes fixes it without
+  replacing any parts.
+
+commonProblems:
+  - title: "Burner Ignition Failure — Corroded Spark Igniter Tips Near the Coast"
+    description: "Lakewood's proximity to the coast means salt-laden air settles on burner caps and
+      corrodes the spark igniter tips faster than inland areas. The click fires but no flame catches.
+      On KitchenAid 5-burner gas ranges, the spark module itself often needs replacement alongside
+      a thorough cleaning of each burner cap port. The igniter electrode gap matters too — anything
+      over 4mm and the arc won't bridge reliably. Usually a single-visit fix once you confirm
+      whether it's the module or just the electrodes and caps."
+  - title: "Oven Not Reaching Temperature — Bake Element Partial Failure on Electric Models"
+    description: "Partial bake element failure is sneaky — the oven preheats, the indicator light
+      shuts off, but actual temp runs 40-50 degrees low. Samsung and LG freestanding ranges with
+      hidden bake elements show this pattern after four or five years. The element draws current
+      but doesn't reach full resistance. You might also see an F3 or E0 error code before the
+      element fails entirely. Swap it out and calibrate the temperature sensor — that sensor
+      drifts independently and needs verification even after the element is replaced."
+  - title: "Control Board Lockout After Voltage Fluctuation"
+    description: "SCE's distribution in 90715 sees occasional surges during summer peak-demand
+      hours. A Bosch range control board can lock into an error state — unresponsive panel, error
+      codes that won't clear on their own. E118 and E119 are the codes we see most on Bosch
+      Series 800 ranges after a surge event. A hard reset clears it sometimes. A control board
+      replacement is the call when it doesn't, and we carry Bosch-compatible boards on the van."
+
+faq:
+  - q: "How fast can you get to Lakewood for range repair?"
+    a: "From our South Bay base, Lakewood is 20-30 minutes depending on the 605. Same-day
+      appointments are available most weekdays, usually within a 2-hour arrival window. Evening
+      slots open up most nights too, which works well for homeowners near the Lakewood Center
+      corridor who can't be home during business hours. Call (323) 870-4790 and we'll tell you
+      what's open today."
+  - q: "Do you repair KitchenAid, Bosch, and Samsung ranges specifically?"
+    a: "All three, yes. KitchenAid spark module and igniter work, Bosch control board diagnostics,
+      Samsung bake element and temperature sensor replacements — parts for all of them ride in
+      the van for Lakewood calls. LG is common here too. For Thermador dual-fuel models in the
+      remodeled homes off South Street, those need factory service documentation and calibrated
+      gas pressure tools, which we carry."
+  - q: "What does a range repair typically cost, and can I get service the same day?"
+    a: "Most range repairs in Lakewood land between $140 and $380 depending on the part. Spark
+      igniters and bake elements are on the low end; control boards push higher. Gas valve
+      igniter replacements on older Bosch and KitchenAid gas ranges sit in the middle of that
+      range — usually $200-$250 parts and labor. Evening slots available most days. Schedule
+      online or call (323) 870-4790 — we can usually confirm a same-day window within the hour."

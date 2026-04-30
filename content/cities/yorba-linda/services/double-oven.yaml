@@ -1,0 +1,31 @@
+title: "Yorba Linda Double Oven — Wolf & Thermador Wall Oven Repair"
+
+intro: |
+  The Nixon Presidential Library sits a few blocks from where Yorba Linda Boulevard cuts through the city center, and the hillside developments stretching east past Weir Canyon have been landing serious kitchen upgrades since the early 2000s. Built-in Thermador double wall ovens are a fixture in the 92887 zip — particularly in custom homes off Bastanchury Road. Those installs are 15 to 20 years old now. Control boards, heating elements, and door hinge assemblies are starting to go, and the repair timeline matters when both cavities are down.
+
+localContext: |
+  The city splits into two distinct construction eras. Ranch homes from the 1970s and 1980s line the flatlands around Lakeview Avenue and Imperial Highway — most of those kitchens were remodeled between 2000 and 2015, and KitchenAid or Bosch double wall ovens were the standard upgrade during that window. The hillside neighborhoods in 92886 came later, with custom builds from 1995 through 2010, where Wolf and Thermador showed up at install. Both generations are hitting their first serious component failures at roughly the same time.
+
+  Gas is the dominant utility in Yorba Linda — the city has unusually high natural gas penetration for Orange County, which means a significant share of double wall oven calls involve gas-specific components: igniter assemblies, gas valve solenoids, and the glow bar igniters Wolf uses in its E-Series line. Those parts behave differently from standard electric heating circuits and need a different diagnostic approach entirely.
+
+commonProblems:
+  - title: "Lower Cavity Stops Heating While Upper Oven Works Fine"
+    description: |
+      Double wall ovens run completely independent heating circuits for each cavity, so a lower bake element can burn out without affecting the upper side at all. Wolf M-Series installs in the Yorba Linda hills tend to hit this failure between years 10 and 13. The repair means pulling and testing the lower bake element, but also checking the bake relay on the control board — both can fail together, and skipping the board check means a second callback two months later. A failed bake relay usually shows up as an E1 or E6 fault code before the cavity goes completely cold, so if you've been dismissing intermittent error codes, that's the warning sign.
+  - title: "Temperature Gap of 25-40°F Between Upper and Lower Cavities"
+    description: |
+      The RTD temperature sensor — a thin probe mounted inside the oven cavity — degrades gradually, so your oven tracks a phantom reading for weeks before baking results go obviously wrong. Thermador Masterpiece Series units from 2013 through 2018 are particularly prone to this, and they usually throw an F3 error code right before the readings become fully erratic. Swapping the probe takes about 45 minutes. If the probe tests clean, the control board is misreading the signal and needs replacement.
+  - title: "Door Hinge Failure Pinching the Door Gasket"
+    description: |
+      Glass-heavy oven doors on Bosch and KitchenAid built-ins wear through their spring-loaded door hinge assemblies faster than most homeowners expect. A soft hinge lets the door droop a few degrees off square. The door gasket gets pinched unevenly, heat leaks out the gap, and baking results go inconsistent — all before anyone suspects the door itself. Homes with kids in the kitchen accelerate hinge wear considerably. The gasket almost always needs replacing alongside the hinge hardware. On Bosch HBL series models, the hinge bracket is a separate serviceable part — you don't have to replace the full door assembly, which keeps the repair cost reasonable.
+
+faq:
+  - q: "How fast can you get to Yorba Linda for a double oven repair?"
+    a: |
+      The 91 freeway puts Yorba Linda squarely in our regular service loop — most calls in 92886 and 92887 get same-day scheduling. If you're trying to get an oven working before a holiday or dinner event, call (323) 870-4790 early and we'll prioritize the slot. Evening appointments are available most weekdays.
+  - q: "Do you repair Wolf and Thermador double wall ovens?"
+    a: |
+      Those are the two most common premium brands we see in Yorba Linda. Wolf M-Series and E-Series, Thermador Masterpiece and Professional Series — parts stocked, diagnostic equipment on board. KitchenAid and Bosch come up just as often in the older remodeled homes off Lakeview Avenue. All covered on a single service call, diagnosis included.
+  - q: "What does the repair process look like, and is same-day service realistic?"
+    a: |
+      Diagnosis comes first, then a quoted price before anything gets touched. Heating elements, RTD sensor probes, thermal fuses, door hinge kits, and igniter assemblies are parts we carry in the van, so same-trip repairs happen on the majority of calls. Control boards occasionally need to be ordered, but that's the exception. For urgent situations, call (323) 870-4790 or schedule online. Evening slots are available if daytime doesn't work.

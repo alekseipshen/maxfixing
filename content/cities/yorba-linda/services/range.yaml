@@ -1,0 +1,83 @@
+title: "Yorba Linda Range — Gas & Oven Repair, 92886/92887"
+
+intro: |
+  Carbon Canyon Road heads north toward Chino Hills State Park, and the custom homes
+  tucked into those foothills run serious appliances. Wolf rangetops, Viking dual-fuel
+  ranges, the occasional Thermador 36-inch oven. Service calls from 92887 rarely involve
+  simple fixes — igniter electrode failure, intermittent spark module faults, or an oven
+  cavity that can't hold temperature are the typical culprits. These ranges are worth
+  repairing. Most jobs take one visit. The gas lines and high-BTU burners that come with
+  Wolf and Viking equipment mean diagnostics require a different approach than a standard
+  residential repair — pressure testing the supply line and checking valve actuation
+  current are part of the first visit, not an afterthought.
+
+localContext: |
+  The 92886 zip covers older Yorba Linda — 1970s and 1980s ranch-style homes near
+  Imperial Highway and the blocks south of the Nixon Presidential Library on Yorba Linda
+  Boulevard. Gas supply lines in those homes are original, never updated. Forty-five-year-
+  old ranges have cycled through decades of heat, and igniter wiring and spark modules
+  show their age. Corrosion on terminal connectors is common; so is brittle insulation on
+  the spark module wiring harness. East Yorba Linda in 92887 is newer construction from
+  the 1990s onward, where kitchen remodels brought in premium slide-in ranges. Two
+  different problem sets depending on which zip you're calling from. The Savi Ranch area
+  near Weir Canyon Road sees a lot of KitchenAid and Bosch slide-ins from early-2000s
+  tract builds alongside Vikings installed during full kitchen renovations.
+
+commonProblems:
+  - title: "Burner Won't Ignite — Cracked or Fouled Igniter Electrode"
+    description: |
+      That rapid clicking with no flame almost always points to the igniter electrode.
+      On Wolf and Viking ranges, the ceramic insulator around the electrode tip cracks after
+      repeated heat exposure — especially near rear burners where heat concentration is
+      highest. Once cracked, the spark grounds out instead of jumping the gap. Grease
+      buildup from boilovers accelerates the breakdown. Electrode replacement usually
+      takes under an hour. Spark module output voltage gets checked at the same time — a
+      weak module putting out under 15kV will crack the next electrode just as fast, so
+      skipping that step means a callback in six months.
+  - title: "Oven Runs 40–50°F Cold — Gas Valve Igniter Wearing Out"
+    description: |
+      A Thermador double oven set to 375°F that tops out at 325°F is a gas valve igniter
+      problem. The igniter glows but doesn't generate enough current draw to open the
+      bimetal valve, so gas flow stays restricted. Thermador 30-inch and 36-inch models
+      from the 2015–2020 production window show this pattern after heavy use. Measuring
+      igniter current draw takes five minutes and confirms it before you order anything.
+      Amperage below 3.2A means the valve won't open reliably — oven temperature will
+      keep drifting lower over time until the oven stops heating altogether. That's a
+      same-day fix with the right igniter in stock.
+  - title: "Control Board Errors After Power Outages — F2 and E1 Codes"
+    description: |
+      Thermador and Wolf ranges that display F2 or E1 codes after a power event have
+      lost board calibration — or taken surge damage. A hard reset clears it about half
+      the time. If the main control board has shorted traces, resetting does nothing.
+      Running a full diagnostic cycle takes about 20 minutes and tells you whether you
+      need a software reset or a board replacement. Yorba Linda sits in an area with
+      occasional summer grid fluctuations off the SCE distribution network; a surge
+      protector on the dedicated 240V circuit is worth adding after a board replacement
+      to avoid the same failure repeating.
+
+faq:
+  - q: "How fast can you get to Yorba Linda for Range repair?"
+    a: |
+      Routes through the 91 and 57 corridors are part of the daily schedule, so Yorba
+      Linda is typically under 45 minutes from dispatch. Same-day slots are available
+      most weekdays — call (323) 870-4790 before noon and we can usually be there that
+      afternoon. Evening appointments work for households where midday doesn't.
+      Completely dead ranges get priority scheduling, including emergency slots most
+      evenings.
+  - q: "Do you repair Viking, Wolf, and Thermador ranges in Yorba Linda?"
+    a: |
+      Yes — those three brands cover most of the service calls in 92887 and the newer
+      sections of 92886. Viking dual-fuel igniter assemblies and Wolf gas valve components
+      are stocked in the van. Thermador control boards can usually be sourced same-day
+      locally. Bosch and KitchenAid slide-ins come up regularly in this area too. Miele
+      gas ranges are less common in Yorba Linda but do appear in the higher-end custom
+      builds off Carbon Canyon — parts for those have a 24-to-48-hour lead time from
+      local supplier stock.
+  - q: "What does a range repair cost, and how does the process work?"
+    a: |
+      Diagnostic is a flat fee applied toward repair if you move forward. Most igniter
+      electrode and gas valve igniter jobs are same-day — parts are either in the van or
+      sourced locally the same morning. Control board replacements on Thermador or Wolf
+      typically need a 24-to-48-hour lead time. Call (323) 870-4790 or schedule online
+      and we'll confirm parts availability before showing up. No surprise charges after
+      the diagnostic quote is accepted.

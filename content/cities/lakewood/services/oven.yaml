@@ -1,0 +1,29 @@
+title: "Lakewood Oven Repair — Tract Home Kitchens, Modern Range Fixes"
+
+intro: |
+  Lakewood went up in a hurry — 17,500 nearly identical homes built between 1950 and 1952, spreading block after block east of the 605 and south of Del Amo Boulevard. Those original kitchens were bare-minimum: coil-top ranges, small oven cavities, nothing fancy. Current owners have pushed KitchenAid slide-ins and Samsung convection ovens into those same 30-inch cutouts, often on wiring that was never designed for modern load demands. Uneven heating, bake elements that arc out, broilers that fail to light, self-clean locks that won't release — these are the calls we field constantly out of the 90713 zip.
+
+localContext: |
+  The 90712 and 90713 zips are dense post-war single-family housing: three bedrooms, galley kitchens, concrete slabs. Most panels have been updated at least once, but dual-fuel and induction ranges sometimes push right up against breaker limits. Lakewood Village streets off Del Amo Boulevard see plenty of Bosch wall ovens installed into cabinetry that wasn't framed for European clearance specs — tight fits that make service access tricky. Near Heartwell Park, the 1960s builds tend to have original gas lines still active, with a mix of GE, KitchenAid, and Thermador ranges that current owners upgraded into. Gas shutoff valves on those older lines can be stiff or corroded, so we come prepared with the right tools before touching the appliance.
+
+commonProblems:
+  - title: "Bake Element Failure on Samsung and LG Electric Ranges"
+    description: |
+      The bake element — the lower coil sitting in the floor of the oven cavity — is the most common failure we see in Lakewood. On Samsung and LG models, the coil develops a crack or burns through, throwing an E0 or F-30 error before going dark completely. The oven won't hold temperature after that. Replacement has to spec the exact wattage: install the wrong element and the control board starts throwing faults again within days, not weeks.
+  - title: "Gas Broiler Igniter Failure on KitchenAid Dual-Fuel Ranges"
+    description: |
+      KitchenAid dual-fuel ranges use a separate broiler igniter from the main bake burner — most people don't know this until broiling stops working. Classic sign: clicking with no flame, or the broiler catches for 10–20 seconds and then cuts out. The igniter glow bar usually tests within acceptable ohm range, so it's not the obvious culprit. More often, it's the gas valve solenoid losing its ability to hold the valve open past the initial ignition window.
+  - title: "Self-Clean Door Latch Seized on Bosch 800-Series Wall Ovens"
+    description: |
+      Bosch 800-series wall ovens have a recurring failure that shows up in Lakewood's remodeled kitchens: after self-clean finishes, the door latch assembly doesn't release. The latch motor completes its travel, but the thermal interlock doesn't send the all-clear to the door lock switch — and the oven stays sealed. Homeowners often assume it's a control board problem. It isn't. It's a $55–$80 latch-mechanism part and roughly a two-hour labor job.
+
+faq:
+  - q: "How fast can you get to Lakewood for oven repair?"
+    a: |
+      South Bay routes run every day. From our closest tech, Lakewood is typically 30–45 minutes, which puts us on-site within 2 hours of your call most of the time. Parking on residential streets off Del Amo or Centralia is no issue for a service van. Call (323) 870-4790 and we'll lock in a same-day slot.
+  - q: "Do you fix Bosch and Thermador ovens in Lakewood?"
+    a: |
+      Yes — Bosch wall ovens, Thermador ranges, and KitchenAid slide-ins are the top brands we see in Lakewood's renovated kitchens. Door latch assemblies for Bosch and temperature sensor probes for Thermador stay on the truck. Samsung and LG bake elements are stocked as well. Most premium-brand parts we carry same-day; specialty items ship next day.
+  - q: "What does oven repair cost in Lakewood, and is same-day service available?"
+    a: |
+      Single-part repairs — bake element, thermal fuse, broiler igniter — typically land between $150 and $280 parts and labor. Control board replacement runs $300 to $450 depending on brand. Most jobs wrap in one visit. Same-day slots are available most days, evening appointments too. Call (323) 870-4790 or book online to confirm availability.
