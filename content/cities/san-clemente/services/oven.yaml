@@ -1,0 +1,29 @@
+title: "San Clemente Oven — Talega Built-Ins to Coastal Gas Ranges"
+
+intro: |
+  Talega's newer builds in 92673 come with Bosch wall ovens built right into the kitchen plan — and when those stop reaching 375°F, the E1 error code usually points to a failed heating element or a faulty oven temperature sensor. Down near the coast, in the Spanish Colonial homes around Avenida del Mar and the streets above the pier, it's older KitchenAid freestanding ranges showing the same story: uneven baking across the rack, a broiler that won't engage. Both ends of San Clemente keep us busy. The mix of coastal salt air and hard water from the municipal supply accelerates wear on igniter assemblies and temperature sensor probes faster than most homeowners expect.
+
+localContext: |
+  The coastal side — zip 92672, around Avenida Palizada and the hillside lots above the San Clemente Pier — holds Spanish Colonial and Mediterranean-style homes from the 1960s and early 70s. Kitchens in these houses run compact: original footprints, tiled backsplashes, ranges tucked tight with six inches of clearance on either side. Pulling a wall oven for bake element access takes real patience in those spaces. Getting a service van parked on the narrower hillside streets near the pier adds another 10 minutes to every call — something dispatchers in other areas don't account for. The 92673 side in Talega is open-plan and newer, but built-in appliances there use proprietary mounting brackets and dedicated 240V circuits that add time to any repair. Thermador wall ovens are common in the larger Talega floor plans — those units use a separate convection fan motor that tends to fail before the bake element does, and replacement requires removing the entire oven cavity from the cabinet stack.
+
+commonProblems:
+  - title: "Bake Element Failure — Oven Preheats Forever, Never Hits Temperature"
+    description: |
+      Most common oven call we get from San Clemente kitchens. The oven runs 20-plus minutes and still reads 100°F below the set point, or there's a visible burn spot on the element coil itself. Bosch wall ovens in Talega use a proprietary bake element bracket — a generic part won't seat correctly. Confirming the exact model number before the visit means one trip, not two. Some Bosch units in this area also show E3 instead of E1 when the oven temperature sensor itself has drifted out of spec; those read within range on a cold test but fail once the cavity gets above 300°F. Swapping the element without testing the sensor first leads to a callback.
+  - title: "Gas Broiler Won't Light — Igniter Draws Current But Valve Won't Open"
+    description: |
+      Most older 92672 homes run gas ranges, and a broiler that clicks without igniting almost always means a cracked igniter. Looks fine visually, but it isn't drawing enough current to trigger the gas valve solenoid. Samsung NX series ranges have a documented weak igniter on the broiler circuit. Full replacement — igniter, spark electrode, and a valve function check — runs about 45 minutes on a properly accessible gas range. The coastal humidity near the pier accelerates igniter degradation; units in 92672 tend to need this service sooner than identical models in inland ZIP codes.
+  - title: "Self-Clean Cycle Locks the Door Permanently — Latch Motor Seized"
+    description: |
+      Run a self-clean cycle, get an F7 error on a KitchenAid or E0 on a Thermador, and suddenly the door won't open. The door latch assembly motor overheats and seizes at cleaning temperatures. A hard reset clears it maybe a third of the time. The rest of the time the latch motor needs replacing, and occasionally the control board takes damage too. Forcing a locked oven door risks cracking the inner frame — not worth attempting. If you're seeing this on a KitchenAid double wall oven in Talega, call (323) 870-4790 before trying anything; we carry the latch motor assembly for the most common KODE and KOCE series in stock.
+
+faq:
+  - q: "How fast can you get to San Clemente for oven repair?"
+    a: |
+      San Clemente sits about 25 to 30 minutes from our main South OC coverage area via I-5 south. Same-day appointments are usually available — call (323) 870-4790 before noon and we can often arrive the same afternoon. Evening slots are open most weekdays if daytime doesn't work.
+  - q: "Do you repair Bosch and Thermador ovens in San Clemente?"
+    a: |
+      Yes — those two brands make up the bulk of our calls in this ZIP. Bosch wall ovens with E1 or E3 errors, burned bake elements, and door latch failures. Thermador ranges with igniter faults and convection fan noise. KitchenAid double wall ovens with failed oven temperature sensors round out the top three. Parts for all of them travel with us on the first visit. Sub-Zero and Wolf combination units show up occasionally in the larger Talega homes — those require calibrated tools for the dual-fan convection system, and we carry them.
+  - q: "What does oven repair cost in San Clemente, and is same-day service available?"
+    a: |
+      Diagnosis is $85, applied toward the repair if you proceed. Heating element replacements typically run $150 to $250 in parts and labor; gas igniter jobs land in a similar range. Latch motor replacements on KitchenAid and Thermador wall ovens usually fall between $180 and $280 depending on parts availability. Same-day service is available most days — if we're already working the 92672 or 92673 corridor, arrival within 2 hours is realistic. Schedule online or call (323) 870-4790.
