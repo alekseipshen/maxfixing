@@ -1,73 +1,25 @@
-title: "Laguna Niguel Ice Maker Repair — Crown Valley Hard Water Fix"
+title: "Laguna Niguel Ice Maker — Repair for 1980s–90s Planned-Community Homes"
 
 intro: |
-  Homes built along Crown Valley Parkway and Bear Brand Ranch Road through the late 1980s still
-  run their original built-in refrigerators — KitchenAid and Sub-Zero units now pushing 30 years.
-  The ice maker assembly wears out long before the compressor does. South OC tap water feeding
-  92677 tests consistently above 300 mg/L total dissolved solids. That mineral load quietly packs
-  calcium scale inside the water inlet valve until ice production drops to nothing — and the only
-  symptom is an empty bin with no error code on the display. Laguna Niguel's tap water ranks
-  among the hardest in Orange County, which makes routine maintenance more critical here than in
-  coastal communities closer to the coast.
+  Planned in the late 1970s and built through the 1990s, most of 92677 is hitting the age bracket where ice makers quietly fail. The KitchenAid and Sub-Zero built-ins common in Crown Valley and Bear Brand Ranch neighborhoods run hard during OC's nine-month warm season — fill valves are typically the first component to go. A frozen water line or dead sensor can knock out a unit that otherwise looks and sounds completely fine, so most Laguna Niguel homeowners don't catch it until the bin runs dry. Moulton Niguel Water District water runs notoriously hard — TDS often above 400 mg/L — and that mineral load accelerates component wear across every brand faster than you'd expect in most other cities.
 
 localContext: |
-  Most of 92677 developed between 1985 and 2005 as master-planned tracts — two-story stucco homes
-  with recessed kitchen alcoves built specifically for integrated refrigerator units. Pulling a
-  Sub-Zero or Thermador column for service usually means removing trim panels and partially
-  clearing the enclosure, which adds real time to the job. The Marina Hills neighborhood in
-  Laguna Niguel has a high concentration of these built-in configurations — homeowners here
-  invested in premium appliances and expect technicians who actually know the difference between
-  a Sub-Zero 700 series and a 600. Condos near Pacific Island Drive tend toward LG and Samsung
-  side-by-sides, different failure modes, same hard water problem.
+  92677 covers a wide mix — newer estates near Aliso Viejo Parkway, older ranch-style homes off Niguel Road, and the tight cul-de-sac clusters that define most of Laguna Niguel's interior neighborhoods. Homes built in the 1980s frequently have refrigerators tucked into custom cabinetry, which complicates access to internal components and the water inlet valve. We carry extra fittings for the quarter-inch copper and plastic supply lines that were standard in Laguna Niguel builds of that era. Bear Brand Ranch runs a high concentration of Thermador and Sub-Zero column refrigerators — these require a different set of service tools than the LG and Samsung french-door models more common near Crown Valley Pkwy. Getting a service van through some of the gated entries off Niguel Road takes a few extra minutes, but we run South OC daily and know the routing well.
 
 commonProblems:
-  - title: "Mineral Scale Seizes the Water Inlet Valve — Ice Stops With No Warning"
-    description: |
-      Hard water deposits are the number one failure mode in south Orange County. Calcium and
-      magnesium accumulate inside the water inlet valve solenoid until the orifice can't pass
-      enough flow. KitchenAid french-door models are especially prone here — the valve sits behind
-      the lower kick plate in a cramped spot that needs specific tools to reach. Water flow drops
-      below the threshold, the unit cycles but produces nothing, and no fault code appears on the
-      control board. Laguna Niguel homes built before 2000 rarely have whole-house filtration
-      installed, so this repair shows up on our schedule multiple times a week in 92677 alone.
-
-  - title: "Water Line Freezes Inside the Door Panel or Behind the Wall"
-    description: |
-      A frozen water line is easy to overlook — the refrigerator cools normally, but production
-      stops and you might hear a faint hissing when the door seals shut. Usually the cause is a
-      thermostat calibrated too cold, or a worn door gasket letting warm humid air in and driving
-      freeze-thaw cycles right at the feed line connection. Sub-Zero built-ins in Bear Brand Ranch
-      are the most common call we get for this in Laguna Niguel — frequently misdiagnosed as a
-      dead ice maker module when the actual fix is far simpler and considerably cheaper.
-
-  - title: "Sensor and Harvest Module Failures on Samsung and LG"
-    description: |
-      Samsung french-door units — the RF28 series in particular, which shows up in a lot of
-      Laguna Niguel homes — will stop cycling entirely when the harvest sensor inside the ice maker
-      assembly fails. Test before condemning: sometimes it's just the sensor reading incorrectly,
-      not a full mechanical failure. LG's LRMVS column fridges have a near-identical pattern with
-      the optical level sensor in the storage bin. Both brands are repairable same-day if the
-      part is stocked on the van.
+  - title: "Fill Valve Failure in Aging KitchenAid and LG Units"
+    description: "The water inlet valve is the single most common failure point on refrigerators pushing 15-plus years. On KitchenAid french-door models — a lot of Crown Valley homes have them — Moulton Niguel Water District mineral load slowly restricts flow until the valve stops opening entirely. No error code appears. Just an empty bin. Direct valve replacement, usually done in under an hour on-site. Laguna Niguel's hard water accelerates this failure more than homeowners realize; a unit that looked fine eighteen months ago can be completely choked by now."
+  - title: "Frozen Supply Line Caused by Improper Refrigerator Clearance"
+    description: "A frozen supply line looks identical to a clogged fill valve from the outside — the unit cycles but nothing comes through. Samsung and LG french-door models are prone to this when the refrigerator sits even slightly away from the wall, exposing the quarter-inch line to cold air bleeding from the freezer compartment. Thawing, insulating, and rerouting the line correctly is the actual fix. This comes up constantly in Laguna Niguel kitchens where built-in cabinetry surrounds were added after the original refrigerator installation, pushing the unit forward just enough to create the problem."
+  - title: "Optical Sensor Drift Producing Small or Hollow Ice"
+    description: "The optical sensor inside the module controls tray fill time and the release cycle. On Bosch and Thermador units common in the newer Laguna Niguel estates near Crown Cove, sensor drift causes the tray to underfill — producing cloudy, hollow, or undersized cubes without triggering any error code on the display. Replacing the sensor module is usually all it takes; the full assembly is typically fine and does not need to come out."
+  - title: "Mineral Scale Blocking the Harvest Mechanism on Sub-Zero Column Units"
+    description: "Sub-Zero column refrigerators in 92677 accumulate calcium deposits inside the harvest mechanism and water distribution tubes faster than most homeowners expect. Hard water from Moulton Niguel runs through those narrow passages and leaves buildup that gradually chokes flow — the machine starts producing wet, clumping ice before stopping altogether. A thorough descaling of the distribution system plus a new inlet screen usually restores full output without pulling the entire harvest assembly. On a Sub-Zero, that distinction matters a lot to the repair bill."
 
 faq:
-  - q: "How fast can you get to Laguna Niguel for ice maker repair?"
-    a: |
-      Usually within 2 hours from when you call. We run daily routes between Irvine and Dana Point
-      — Laguna Niguel sits right in the middle of that corridor, and the 73 toll road makes the
-      drive from either direction fast. Call (323) 870-4790 or book online. Evening slots are
-      available most days.
-
-  - q: "Do you repair Sub-Zero and Thermador units in Laguna Niguel?"
-    a: |
-      Yes. Sub-Zero built-ins and Thermador column units require specific diagnostic equipment and
-      OEM-grade parts — generic substitutes cause calibration problems on these machines. We
-      regularly handle Sub-Zero ice maker assembly replacements, Thermador water inlet valves, and
-      KitchenAid module jobs throughout 92677. Call before assuming a full unit replacement is
-      the only option.
-
-  - q: "What does ice maker repair typically cost in Laguna Niguel?"
-    a: |
-      Flat diagnostic fee, credited toward the repair. Most water inlet valve and sensor
-      replacements run $150–$280 parts and labor combined. Full ice maker module replacement on a
-      Sub-Zero or Thermador runs higher depending on part sourcing. Same-day appointments
-      available — call (323) 870-4790 and we can usually be there the same day.
+  - q: "How fast can you get to Laguna Niguel for an ice maker repair?"
+    a: "South OC routes run daily — Crown Valley Parkway corridor through to Aliso Creek Road. Most Laguna Niguel calls get same-day service, usually within 2 hours of your call. Dial (323) 870-4790 and we'll confirm a firm arrival window. Evening slots are available most days."
+  - q: "Do you repair Bosch and Sub-Zero units in Laguna Niguel?"
+    a: "Bosch, Sub-Zero, and Thermador are the three brands we see most often in Crown Valley and Bear Brand Ranch. Sub-Zero's modular assembly requires proprietary tools — we keep them stocked on the truck, not back at a shop. KitchenAid and Samsung we handle just as regularly. If the display is showing an error code or a blinking cube icon, note it before the call — that alone can cut diagnosis time in half."
+  - q: "What does a repair typically cost, and how long does the visit take?"
+    a: "Most Laguna Niguel repairs run $150–$350 — fill valve and sensor swaps land on the lower end, full assembly replacements higher. Diagnosis happens on the first visit and we carry common parts for the brands most common in 92677. Evening slots available; call (323) 870-4790 or schedule online for next-day."

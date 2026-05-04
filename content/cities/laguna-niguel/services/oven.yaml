@@ -1,33 +1,100 @@
-title: "Laguna Niguel Oven Repair — Built for Homes Off Crown Valley"
+title: "Laguna Niguel Oven Repair — Wall Ovens & Ranges, 92677"
 
 intro: |
-  Planned communities off Crown Valley Parkway tend to have kitchens that saw serious upgrades sometime between 2005 and 2015 — original 1980s tract homes gutted and rebuilt with Bosch 30-inch wall ovens or KitchenAid dual-fuel ranges. The Beacon Hill and Marina Hills neighborhoods especially show this pattern. When a heating element burns out mid-preheat, or an oven stops climbing past 300° no matter how long it runs, that's not an appliance you replace on impulse. These are $2,000-plus installations. MaxFixing covers 92677 and surrounding Orange County zip codes with same-day residential service. Two techs, direct routes, usually on-site within two hours of your call on most weekdays.
+  Bear Brand Ranch and the Crown Valley corridor have some of the most
+  consistently upgraded kitchens in South Orange County — 1980s and 90s
+  tract homes where the original range got swapped out for a KitchenAid
+  or Bosch wall oven during a full kitchen remodel. Those appliances run
+  great for years, until the bake element burns out or the control board
+  starts throwing fault codes.
+
+  That's where we come in.
+
+  Laguna Niguel is a regular stop on our route. We're on the 5 corridor
+  frequently, and 92677 is one of the more consistent parts of our South
+  OC schedule — enough Thermador and KitchenAid double-wall ovens in this
+  zip to keep us busy year-round. If something stopped working last night,
+  there's a real chance we can be at your door today.
 
 localContext: |
-  Most of 92677 went up between 1975 and 1995 — Spanish Colonial and Mediterranean-style tract homes with original gas appliance lines that owners have since upgraded more than once. Kitchen layouts near Laguna Niguel Regional Park and along Aliso Creek Road tend toward galley or peninsula configurations where pulling a built-in wall oven means working inside tight soffits with limited side clearance. Rancho Niguel homes frequently have stacked Thermador wall ovens and Sub-Zero refrigerators — built-in setups requiring specific tools and a plan before you start pulling anything. Access logistics are part of every estimate. We account for all of it before the truck rolls.
+  Most of 92677 is single-family homes on standard residential lots —
+  built in phases from the mid-1970s through the late 1990s as the city
+  developed around Crown Valley Parkway. Built-in wall ovens are common,
+  usually 30-inch double units installed during 2000s or 2010s kitchen
+  renovations. Freestanding slide-in ranges show up in the older sections
+  near Rancho Niguel.
+
+  Access is straightforward here. Detached garages, driveway parking, no
+  urban van-logistics headaches. We can pull up, unload tools, and get
+  straight to the diagnostic — which matters when the job is a built-in
+  double wall oven that takes 40 minutes to pull out of a cabinet stack.
+
+  The income profile in Laguna Niguel means appliances skew toward the
+  upper tier. Samsung and LG slide-ins in newer builds. KitchenAid
+  double-ovens in the mid-range remodels. Thermador and the occasional
+  Bosch 800 Series in the more recent renovations near the Aliso Viejo
+  border. Each brand has its own failure quirks, and we stock parts
+  accordingly rather than ordering everything after the diagnostic visit.
 
 commonProblems:
-  - title: "Bake Element Fails — Oven Heats Unevenly or Won't Reach Temperature"
-    description: |
-      Bosch and KitchenAid wall ovens are the standard in most 92677 kitchens, but the bake element is typically the first component to fail. Early symptoms: one rack browning noticeably faster than the other, or the oven cycling off before ever reaching 375°. Newer Bosch models will throw an F3 error code at this stage. Most bake elements for these brands are locally stocked — diagnosis takes about 15 minutes, and the majority of repairs close on the first visit.
+  - title: "Bake and broil element burnout after years of regular cooking use"
+    description: "The bake element — lower coil in electric ovens — cracks or
+      shorts after repeated thermal cycles, leaving the bottom cavity cold.
+      On KitchenAid double-wall ovens this often shows up as no heat with
+      no error code at all, or an intermittent F1. The broil element fails
+      the same way, just less often. Both are straightforward swaps with
+      the correct OEM part.
 
-  - title: "Self-Clean Locks Door Shut — Control Board Won't Release the Latch"
-    description: |
-      Samsung and LG ranges with self-clean cycles lock the door latch assembly hard during the 900°+ cleaning process — and sometimes the control board never fires the release command once the oven cools back down. The door stays sealed with no obvious manual way in. You can't cook, can't access the oven at all. Mechanical override exists on most models and doesn't require ordering parts. We clear this fault on first visits consistently, typically in under an hour.
+      One thing worth checking on the KitchenAid units: the control board
+      sometimes takes secondary damage when an element shorts hard. A meter
+      test on the element takes two minutes. If the board is pulling the
+      wrong resistance reading, that gets diagnosed the same visit."
+  - title: "Oven runs cold or heats unevenly — temperature sensor failure"
+    description: "A failing thermistor (the temperature probe mounted near
+      the back wall) causes the oven to undershoot or overshoot by 25–50
+      degrees without triggering a clear error. Bosch wall ovens and LG
+      slide-in ranges in Laguna Niguel see this regularly. The sensor reads
+      wrong, the control board never hits target temp, and food comes out
+      half-cooked. Inexpensive fix, easy to diagnose with a meter.
 
-  - title: "Gas Broiler Ignites Briefly, Then Shuts Off on Its Own"
-    description: |
-      Thermador and Viking gas ovens in Laguna Niguel's hillside homes use a gas valve igniter that weakens gradually over years of daily broiling. The symptom is specific: you hear the igniter click, a flame appears for 20-30 seconds, then the burner cuts out. Usually a degraded igniter module or a failing thermocouple — not the gas line itself. These parts are model-specific, so we verify fitment before ordering rather than making a second trip with the wrong component.
+      On Bosch units, this sometimes pairs with an E-118 or E-132 fault code
+      logged in the service menu — codes that don't display on the user panel
+      but show up when you pull diagnostics. Worth checking before assuming
+      the control board needs replacement."
+  - title: "Self-clean cycle locks the door and won't release — latch assembly wear"
+    description: "After a self-clean cycle finishes, the door latch assembly
+      sometimes stays locked even after the oven cools. Thermador built-in
+      ovens are particularly prone to this — the latch motor wears or the
+      release mechanism binds. Forcing it bends the frame.
+
+      The fix is replacing the latch assembly, not the door, and it typically
+      runs under two hours on-site. Thermador parts availability is decent for
+      the PODMW301J and similar 30-inch models common in this area. If you
+      ran a self-clean cycle and the door hasn't opened after two hours of
+      cooling, don't keep pressing buttons — call us first."
 
 faq:
-  - q: "How quickly can you get to Laguna Niguel for an oven repair?"
-    a: |
-      South OC is our regular territory. From our coverage area, Laguna Niguel is 30-45 minutes depending on the time of day — Crown Valley Parkway gives us a direct route from either direction. Same-day slots are open most weekdays, and evening appointments are available if you can't take time off work. Call (323) 870-4790 or book online and we'll confirm a two-hour arrival window by text.
+  - q: "How fast can you get to Laguna Niguel for oven repair?"
+    a: "We run the 5 corridor daily — from our typical positions in the
+      service area, Laguna Niguel is usually 20 to 35 minutes out. Same-day
+      appointments are available most weekdays and Saturdays. Call us at
+      (323) 870-4790 to check today's open slots."
+  - q: "Do you repair Bosch, Thermador, and KitchenAid ovens?"
+    a: "Yes — those three are the most common brands we see in 92677. Bosch
+      wall ovens typically need control boards or temperature sensors.
+      Thermador units often have door latch or gas igniter issues. KitchenAid
+      double ovens usually come in with element failures or control board
+      faults. All stocked parts for each.
 
-  - q: "Do you service Bosch and Thermador wall ovens in this zip code?"
-    a: |
-      Yes — Bosch, Thermador, KitchenAid, and Samsung cover the vast majority of calls we get in 92677. Bosch service typically comes in as a control board reset or a hardened door seal after years of heat cycling. Thermador work is most often the gas valve igniter or a failing temperature sensor probe. KitchenAid bake element replacements close same-day almost every time.
+      Gas oven diagnostics are part of the job too. Thermador and KitchenAid
+      gas ranges with igniter problems — weak spark, delayed ignition, burner
+      that clicks constantly — are straightforward once you get to the igniter
+      assembly and gas valve. We carry common igniters for both brands."
+  - q: "What does oven repair cost in Laguna Niguel, and how soon can you come?"
+    a: "Element replacements typically run $120–$180 parts and labor. Control
+      boards are $200–$350 depending on brand. Temperature sensor swaps are
+      usually under $130. We give a firm quote before touching anything —
+      diagnostic fee applies toward the repair if you move forward.
 
-  - q: "What does oven repair typically cost in Laguna Niguel?"
-    a: |
-      The diagnostic visit runs $75, credited to the repair if you go ahead. Heating element replacement on most ovens is $150-250 parts and labor combined. Control board work on Bosch or Thermador runs higher — we give you the exact number before touching anything, so there are no surprises after the fact. Evening and weekend slots available. No premium for same-day service.
+      Evening slots are available if daytime doesn't work. Call (323) 870-4790
+      and we can usually confirm a same-day or next-morning window on the spot."

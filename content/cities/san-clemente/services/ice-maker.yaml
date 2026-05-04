@@ -1,64 +1,75 @@
-title: "San Clemente Ice Maker — South Coast Water & Summer Heat Repairs"
+title: "San Clemente Ice Maker Repair — Hard Water Hits First"
 
 intro: |
-  South Coast Water District's supply into 92672 picks up enough dissolved minerals along
-  the way to steadily scale up ice maker fill valves — usually before any other part
-  in the machine gives out. That KitchenAid counter-depth unit in a Shorecliffs home
-  might already be running short fill cycles and dropping hollow crescents because the
-  water inlet valve is losing flow. Coastal heat in summer pushes refrigerators harder
-  than their specs assume, especially in kitchens without great ventilation. We cover
-  San Clemente and stock parts for the brands most common out here.
+  Talega subdivision homes off Avenida Pico see heavy use all summer — and that's exactly
+  when the Samsung or KitchenAid ice maker in the refrigerator decides it's done. The
+  Metropolitan Water District supply feeding 92673 runs consistently hard, and mineral scale
+  is the first thing a tech finds when pulling a fill valve on a San Clemente call. Hot
+  summers push these units harder than most owners realize. The appliance doesn't fail all
+  at once — it slows down first, then stops. By the time guests arrive for a beach weekend,
+  you're running to the gas station for a bag of ice.
 
 localContext: |
-  Talega (92673) is mostly 2000s–2010s construction — Standard Pacific and Shea homes
-  that shipped with Samsung and LG French-door refrigerators, all with built-in ice makers
-  now hitting the 15–20 year service mark. The older beach-side streets in 92672, near
-  Avenida del Mar and down toward the pier, went through a kitchen remodel surge from
-  roughly 2005 to 2015 that brought in a lot of KitchenAid and Sub-Zero built-ins. Both
-  generations are showing up on our service calls now, and both fail in predictable ways
-  tied to San Clemente's water supply and summer workload.
+  The older Spanish Colonial homes near the pier in 92672 were built mostly from the 1920s
+  through the 1950s — original plumbing that makes water line access genuinely tricky and
+  refrigerator placement tight against tiled walls. Newer Talega and Marblehead developments
+  in 92673 trend toward built-in KitchenAid and Sub-Zero refrigerators with integrated
+  ice makers that require brand-specific diagnostic tools and OEM parts. Two very different
+  service calls, same county water supply. San Clemente's coastal location adds another
+  variable: salt air accelerates corrosion on condenser coils and compressor terminals in
+  garages and side-yard installations, which compounds whatever else is failing inside the unit.
+  We've opened Sub-Zero panels in San Clemente where the evaporator coil terminals were
+  corroded enough to affect sensor readings — something you don't see as often in inland valleys.
 
 commonProblems:
-  - title: "Mineral Scale Slowly Choking the Water Inlet Valve"
-    description: "South Coast Water District's supply isn't the hardest in Orange County, but
-      the dissolved calcium content is high enough to gradually deposit scale on the water
-      inlet valve solenoid over several years of daily ice production. A partially blocked
-      solenoid restricts water flow inconsistently — some fill cycles complete, most don't,
-      and you end up with undersized or hollow ice cubes rather than a clean outage. Samsung
-      French-door models are especially vulnerable here because their narrow-bore inlet tubing
-      clogs faster than the wider inlets on KitchenAid or LG units."
-  - title: "Frozen Fill Line Locking Up the Freezer Door Unit"
-    description: "Marine layer humidity rolls through San Clemente's beach neighborhoods in 92672
-      most nights, and that moisture finds its way into kitchen spaces where refrigerators are
-      already working overtime through the summer months. When a fill cycle fails partway through,
-      residual water sitting in the supply line freezes solid inside the freezer door and blocks
-      the next cycle completely. LG door-mounted ice maker units see this most often — the
-      exposed fill line ices over when the thermostat cycles inconsistently across a few days,
-      and production stops with no error code to show for it."
-  - title: "Optical Sensor Drift in Sub-Zero and KitchenAid Built-Ins"
-    description: "Sub-Zero refrigerators installed during Talega's early 2000s build-out are now
-      20-plus years into service, and the ice maker's optical sensor is one of the first
-      components to drift out of spec. When the sensor fails, the machine reads a full bin
-      even when it's empty — production shuts down completely and the unit looks fine from
-      the outside. KitchenAid built-ins fail the same way, though their ice maker module is
-      a bolt-on swap we carry in the van. Sub-Zero's sensor assembly requires proprietary
-      calibration tooling after replacement, so this isn't a parts-store job."
+  - title: "Hard Water Scale Kills the Fill Valve First"
+    description: |
+      San Clemente tap water deposits calcium carbonate inside the water inlet valve within
+      two to four years of regular use. The solenoid can't open fully, flow drops, and the
+      unit cycles with nothing to work with. Samsung french-door models show this as
+      error code 1E or simply stop producing ice with no warning light. Replacing the valve
+      clears it immediately — but if the appliance has been running five-plus years on hard
+      water, check the ice maker assembly for secondary scale buildup before calling it done.
+      Bosch integrated models often throw an E24 fault code when the inlet valve is partially
+      blocked — misread as a drain problem until someone pulls the valve and actually looks at
+      the screen.
+  - title: "Supply Line Freezing Behind the Door Hinge"
+    description: |
+      The water supply line freezes where it passes through the door hinge area — a known
+      weak point in LG and Bosch refrigerators where insulation on that path is thin. Production
+      stops entirely, sometimes with a rhythmic clicking as the assembly attempts to cycle
+      against empty. A hair dryer thaw plus a foam insulation sleeve on the rerouted line
+      fixes this properly. Skip the sleeve and it refreezes in a few weeks. San Clemente's
+      temperature swings — coastal marine layer at night, genuine inland heat by afternoon —
+      make this particular failure more common here than in areas with steadier overnight temps.
+  - title: "Heat-Triggered Sensor Shutdown in South-Facing Kitchens"
+    description: |
+      South-facing kitchens in Marblehead and Forster Ranch absorb serious heat gain through
+      summer afternoons. The ice level sensor — the optical or thermostat-based component
+      that tells the unit when to stop making ice — reads a false high and shuts the system
+      down. KitchenAid and Sub-Zero built-ins both show this pattern in San Clemente homes
+      along the ridgeline above the 5. Recalibrating or swapping the ice level sensor resolves
+      it. Replacing the whole module is rarely needed and costs three times as much for no
+      additional benefit.
 
 faq:
   - q: "How fast can you get to San Clemente for ice maker repair?"
-    a: "From our Orange County base we're in San Clemente within 60–90 minutes depending on
-      I-5 through San Juan Capistrano — that corridor can add 20 minutes during afternoon
-      commute hours, so morning calls get the fastest arrival. Same-day slots are usually
-      open. Call (323) 870-4790 and we'll lock in a window."
-  - q: "Do you repair KitchenAid, Sub-Zero, Samsung, and LG ice makers?"
-    a: "Yes — all four show up regularly on our San Clemente calls. KitchenAid built-ins most
-      often need a water inlet valve or ice maker module swap. Sub-Zero requires proprietary
-      parts we stock in advance. Samsung French-door units usually fail at the inlet valve
-      or optical sensor. LG door-mounted units typically have a frozen fill line or
-      thermostat issue driving the problem."
-  - q: "What does ice maker repair cost, and is same-day service available?"
-    a: "Diagnostics run $85–95 and credit toward the repair. A water inlet valve replacement
-      typically lands between $150–220 all-in. Sensor or module repairs on Sub-Zero and
-      KitchenAid built-ins can run higher — we quote before opening anything up. Same-day
-      service is available Monday through Saturday. Call (323) 870-4790 before noon or
-      schedule online for same-day availability."
+    a: |
+      We run calls down the 5 through South OC most days — San Clemente is typically a
+      30-to-40-minute drive from our nearest dispatch point. Same-day slots are open most
+      weekdays, and we hold a few for emergency calls. Call (323) 870-4790 to check
+      today's availability or schedule online.
+  - q: "Do you work on KitchenAid and Sub-Zero built-ins in San Clemente?"
+    a: |
+      Yes — KitchenAid, Sub-Zero, LG, and Samsung are the four brands we see most in this
+      area. Sub-Zero built-ins need factory OEM parts for the ice maker assembly and fill
+      valve; universal substitutes don't seat correctly in the housing. LG's craft ice models
+      run a separate dual-evaporator setup that off-brand parts definitely won't fit. Bring
+      your model number when you call and we'll confirm part availability before the visit.
+  - q: "What does ice maker repair cost in San Clemente, and can I get same-day service?"
+    a: |
+      Most repairs run $150–$350 depending on what failed. A water inlet valve swap lands
+      on the low end; a full assembly replacement is higher. We diagnose on the same visit,
+      quote before touching anything, and don't add a separate diagnosis fee when you book
+      the repair. Evening slots available Tuesday through Saturday. If you're in 92672 or
+      92673, we can usually get someone out same day if you call before noon.

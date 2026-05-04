@@ -1,29 +1,38 @@
-title: "Laguna Niguel Freezer — Crown Valley Homes & Built-In Units"
+title: "Laguna Niguel Freezer — Hard Water & OC Mineral Buildup"
 
 intro: |
-  Most of the 92677 housing stock went up between 1978 and 1993 — master-planned tracts around Crown Valley Parkway and the Laguna Sur hillsides where freezers have spent three to four decades cycling through 90°F-plus summers. That KitchenAid undercounter unit below the kitchen island, or the Sub-Zero 700 column freezer fitted into custom cabinetry, both develop the same failure patterns over time: softening door gaskets, compressor noise kicking in around year 12, frost accumulating on the back wall. We cover South OC regularly and can usually arrive within 2 hours of your call.
+  Hard water in the 92677 zip does real damage to ice maker assemblies over time — Orange County water hardness regularly hits 300-400 ppm, which is enough to calcify water inlet valves and fill tubes until your freezer stops producing ice entirely. Crown Valley and Bear Brand Ranch homes tend to run Sub-Zero column freezers or KitchenAid french-door units, both of which develop distinct failure patterns under these conditions. Frost buildup on the evaporator coil and rising compressor noise are the two symptoms we see most often here.
+
+  Slow damage until it isn't. By the time the ice maker goes quiet, the inlet valve membrane is often already cracked — a descaling flush alone won't fix it, and the whole valve assembly needs to come out.
 
 localContext: |
-  Bear Brand Ranch and Beacon Hill carry a lot of custom-built homes with integrated Sub-Zero or Thermador column freezers — flush-mounted units where you need specific access panels just to reach the evaporator coil or service the sealed system. The 1980s corridor homes along Crown Valley Parkway near Laguna Niguel Regional Park run Samsung and LG french-door models with bottom-mount freezer drawers far more often. Orange County municipal water in 92677 tests at 300–400 ppm total hardness — enough to coat water inlet valve screens and ice maker assembly tubing with calcium scale within two to three years of regular use.
+  Most of Laguna Niguel's housing went up between 1975 and 1995 during the master-planned development push — tract-style single-family homes off Crown Valley Parkway and Chapparosa Park Road, most with attached garages and good van access. That 1980s kitchen layout sometimes leaves minimal clearance around built-in freezer columns, restricting airflow to condenser coils and forcing the compressor to run longer cycles. Zip 92677 is almost entirely detached homes, so getting to the appliance is straightforward compared to the apartment-heavy cities north of here.
+
+  Garage placement deserves its own callout. A lot of households near Aliso Creek Road and down toward the Bear Brand area run a secondary chest freezer in the garage — older Frigidaire or GE models that still function but are working against the heat all summer. Uninsulated SoCal garages routinely hit 95-100°F by July, well past the rated ambient limit printed on most of those units. The condenser fan cycles constantly, the compressor runs longer, and the door gasket softens and starts to gap at the corners. By August we see a clear uptick in calls from 92677 specifically because of this — freezers that ran fine all winter suddenly can't hold temperature. A gasket swap and a coil cleaning usually gets them back, but units 12+ years old sometimes have a compressor that's just worn down from years of fighting the heat.
 
 commonProblems:
-  - title: "Frost Buildup on Evaporator Coil — Heat Cycling Degrades Door Gaskets"
+  - title: "OC Hard Water Blocking Ice Maker Water Lines"
     description: |
-      The door gasket on a 15-year-old freezer softens after years of California heat cycling. Laguna Niguel garage temps hit 95°F in August, and that warmth infiltrates any gap in the seal. Humid air meets the cold evaporator coil and turns to ice, crusting over the fins until airflow collapses and internal temperature starts drifting up. Samsung and LG bottom-freezer units usually flash a blinking error code before the frost fully blocks the evaporator fan — easy to overlook if you're not watching the display.
-  - title: "Compressor Short-Cycling or Running Loud Through Summer"
+      Orange County's mineral load calcifies water inlet valves fast — usually within 18-24 months of heavy use. That LG or Samsung french-door freezer stops making ice not because the ice maker assembly failed, but because scale blocked the fill tube feeding it. Descaling the valve and flushing the line fixes most cases. If the valve membrane is cracked from buildup pressure, we swap the whole inlet valve assembly.
+
+      One detail that consistently trips people up: Samsung and LG french-door models use a dual-port inlet valve — one port feeds the ice maker, the other feeds the door dispenser. Scale can block the ice maker port while the dispenser port stays clear. So you get water from the door but zero ice. Most homeowners assume the ice maker assembly is dead. It almost never is. The blocked port needs physical clearing or the valve needs full replacement, and the job takes about 45 minutes once the freezer is pulled.
+
+  - title: "Frost Packed Against the Evaporator Coil"
     description: |
-      A freezer compressor runs longer cycles when ambient heat rises. Dust and pet hair on the condenser coil and fan slow airflow, head pressure climbs, and the compressor starts short-cycling — running 60 seconds, kicking off, repeating. Left alone, the compressor overheats and fails. Sub-Zero column units use variable-speed compressors requiring OEM-matched parts. A generic compressor that doesn't match the original pressure specs will fail within a season, so brand-specific sourcing matters here.
-  - title: "Ice Maker Stopped Producing — Mineral Scale on Water Inlet Valve"
+      Thick frost on the back wall of your freezer compartment means the defrost cycle stopped running. A failed defrost timer or defrost heater lets ice accumulate until it presses against the evaporator coil and cuts off airflow — at that point the freezer won't cool even with the compressor running. Sub-Zero and Thermador built-ins in 92677 show this in units 8-12 years old. Catching it early avoids a full coil replacement.
+
+      Sub-Zero column models throw an EC 24 alarm when evaporator blockage trips the high-temp sensor. If that code appears alongside visible frost on the back panel, the defrost heater element has failed — not the control board, despite what some shops will quote you first. The heater element runs $60-$90 in parts. A control board replacement is $400+. Those are very different repair bills, and the diagnostic matters.
+
+  - title: "Compressor Rattling on Bosch and KitchenAid Freezers"
     description: |
-      Orange County's hard water leaves calcium carbonate deposits on the water inlet valve screen and inside the ice maker assembly fill tube. Flow drops below the minimum fill threshold, production stops, and the unit goes quiet. Bosch and KitchenAid freezers typically log an LED fault code before shutting down completely — that's your window to call before the valve seizes and requires full replacement instead of a simple descale and flush.
+      A grinding noise at startup — especially in garage-stored units — usually traces back to a failed compressor relay or a worn condenser fan motor, not the compressor itself. That distinction matters: a relay is a $15-$30 fix, while a compressor replacement runs $400+. Bosch and KitchenAid bottom-freezer models in Laguna Niguel show this failure pattern after 8-10 years, particularly in garages where summer temperatures push ambient heat past 90°F.
+
+      Bosch 800 series bottom-freezer drawers have a specific failure mode worth knowing: the condenser fan bracket loosens over time, and the blade starts clipping the housing. The noise is nearly identical to a failing compressor at startup. If caught before the blade cracks, it's a 40-minute fix. If the blade fragments into the fan housing, the repair scope changes considerably. Either way — call (323) 870-4790 before assuming you need a compressor. A proper diagnosis takes 20 minutes and costs far less than an unnecessary part swap.
 
 faq:
   - q: "How fast can you get to Laguna Niguel for freezer repair?"
-    a: |
-      South OC is a regular route — down the 73 toll road or Crown Valley Parkway depending on where in 92677 you are. Most weekday calls we're at the door within 2 hours. Call (323) 870-4790 to check same-day availability. Evening slots open most days if daytime doesn't work.
-  - q: "Do you repair Sub-Zero and KitchenAid freezers in Laguna Niguel?"
-    a: |
-      Both come up constantly in this zip. Sub-Zero column freezers in Bear Brand Ranch and Beacon Hill homes often need sealed-system diagnostics or evaporator coil work — we carry the tools and OEM-compatible parts for those. KitchenAid panel-ready undercounter models usually come in with door latch assembly failures or thermostat drift. Samsung and LG french-door freezer drawers round out most of our South OC calls.
-  - q: "What does freezer repair cost, and is there a diagnostic fee?"
-    a: |
-      Diagnostic runs $75–$95 and applies toward the repair if you move forward. Most jobs land between $180–$450 depending on the part — compressor and sealed-system work sits at the higher end, inlet valve and gasket replacements at the lower. You get a firm quote before we touch anything. Same-day service available most days; call (323) 870-4790 or book online to lock in a window.
+    a: "We run an Orange County route that covers the 92677 area — typically on-site within 2 hours of your call. Crown Valley Parkway and the 73 toll road both feed right into the service zone. Call (323) 870-4790 for same-day availability or evening slots."
+  - q: "Do you repair Sub-Zero and Thermador freezers in Laguna Niguel?"
+    a: "Yes — those are the most common premium calls we get in this area. Sub-Zero column freezers require specific refrigerant handling and proprietary door gasket sourcing. Thermador units often fail at the control board. Both brands need diagnostic tools that most generalist shops skip, and we carry them."
+  - q: "What does a freezer repair call typically cost here?"
+    a: "Diagnosis runs $75-$90 and applies toward the repair if you proceed. Most common jobs — defrost heater replacement, water inlet valve swap, compressor relay — land at $150-$350 parts and labor combined. Same-day and emergency evening appointments are available; call (323) 870-4790 to confirm your slot."

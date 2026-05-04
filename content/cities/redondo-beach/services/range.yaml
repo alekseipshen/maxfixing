@@ -1,74 +1,74 @@
-title: "Redondo Beach Range — South Bay Gas Repair, Same Day"
+title: "Redondo Beach Range Repair — Coastal Air, Gas Lines, Real Fixes"
 
 intro: |
-  The Hollywood Riviera bluffs sit maybe a mile from the waterfront, and kitchen remodels
-  in that pocket lean heavily toward KitchenAid slide-ins and dual-fuel Bosch ranges.
-  Salt air off King Harbor moves through 90277 year-round — it hits spark electrodes harder
-  than anything 20 miles inland. A burner that clicked reliably through winter can start
-  misfiring by June. Dual-fuel setups add another layer — the electric bake element and
-  gas burners need separate diagnosis when both throw symptoms at once, and that's a
-  different workflow than a straight gas range. We run South Bay routes daily and almost
-  always have a same-day opening.
+  Hollywood Riviera sits at the southern edge of 90277, where the marine layer cycles in off
+  the Pacific every night and does quiet damage to igniter electrodes on gas ranges. Ran a
+  call on a KitchenAid slide-in out there — homeowner thought the burner just needed cleaning.
+  The spark electrode housing had pitted from salt-moisture exposure. Coastal neighborhoods
+  do that to gas ranges faster than any landlocked zip. That same air hits Viking and Thermador
+  pro-style units just as hard — premium materials don't exempt the igniter module from
+  salt-air corrosion. The failure just costs more to ignore.
 
 localContext: |
-  South Redondo's 90277 is packed with 1950s and 1960s beach bungalows — galley kitchens,
-  tight clearances, 30-inch ranges shoehorned into spots that weren't designed for today's
-  deeper appliances. Getting a range out for access takes patience in these layouts. North
-  Redondo (90278) runs more 1970s ranch homes where original gas supply lines are still
-  active and igniter modules are hitting end of service life. The condo buildings along
-  Esplanade and the newer construction near Aviation Boulevard lean toward LG and Samsung
-  slide-ins — those kitchens have anti-tip bracket requirements that change how you pull
-  the unit without damaging the floor or cabinetry. Both zones are fully gassed, so we
-  work everything from basic Whirlpool freestanding units to dual-fuel Thermadors in
-  renovated homes near the pier.
+  North Redondo in 90278 is mostly 1960s ranch homes and newer townhouse clusters stacked
+  along Aviation Boulevard — tight kitchens with 30-inch slide-ins crammed into original
+  cabinetry, sometimes with barely two inches of clearance behind the unit. South Redondo
+  near Riviera Village trends toward remodeled bungalows and newer construction: Thermador
+  pro-style ranges, Bosch dual-fuel models, the occasional Sub-Zero suite. Gas supply lines
+  in older 90278 blocks date to original build, which shows up as pressure inconsistencies
+  on dual-fuel diagnostics. The blocks south of Herondo Street toward the Esplanade tend to
+  have updated kitchens with 36-inch freestanding or pro-style ranges — KitchenAid and
+  Samsung French-door setups in the mid-range, Thermador and Viking where full remodels
+  happened post-2015. Each layout has its own access challenge. Getting a 48-inch
+  freestanding range out of a galley kitchen near the pier for a repair visit is a different
+  job than a standard pull-and-check in a newer townhouse off Prospect Avenue.
 
 commonProblems:
-  - title: "Spark Electrode Failure From Coastal Air Corrosion"
-    description: |
-      Salt air off the Pacific corrodes spark electrodes faster in Redondo Beach than
-      anywhere 20 miles inland. On Bosch and KitchenAid gas ranges, the ceramic electrode
-      tip accumulates mineral residue and the gap between tip and burner cap widens —
-      click-click-click, no flame. The igniter wire harness connector also oxidizes in
-      coastal conditions; sometimes a dead connection mimics a bad electrode until you
-      pull the harness and check resistance. Swapping the electrode module, inspecting
-      the harness, and clearing the igniter port usually resolves it same visit. Coastal
-      homes see this failure two to three times faster than the San Fernando Valley.
-  - title: "Oven Won't Reach Temperature — Weakened Glow-Bar Igniter"
-    description: |
-      Older Whirlpool and GE gas ranges from the late 1990s and early 2000s use a
-      glow-bar igniter that degrades over time. When the igniter draws less current than
-      the gas valve safety circuit requires, the valve stays closed or barely opens —
-      oven runs 50°F low or won't light at all. Diagnosing a bad igniter takes about
-      five minutes on the bench. It's a clean fix and the part is usually in stock.
-  - title: "Control Board Failures on Samsung and LG Slide-Ins"
-    description: |
-      Samsung and LG ranges in Redondo Beach's condo buildings along Artesia Boulevard
-      regularly throw F3, F5, or E0 error codes — signs the control board's PCB is
-      corroding from humidity exposure. These models hit this failure window around the
-      6-to-9-year mark in coastal zip codes. Board replacement fixes it. We stock the
-      most common LG and Samsung control boards for the slide-in configurations that
-      sold heavily in 90278 over the past decade.
+  - title: "Marine Layer Destroying Igniter Electrodes"
+    description: "The moisture cycling in off King Harbor Marina every night tracks into the
+      spark module housing on burners. Carbon deposits form on the ceramic electrode tip, and
+      the burner starts clicking 20 times before it catches — or doesn't catch at all. On
+      Samsung and LG freestanding ranges, this usually means replacing the full igniter
+      assembly, not just wiping the ports. The clicking-without-ignition pattern is the
+      giveaway. If the burner lights only on the second or third try and you can smell gas
+      briefly before it catches, the electrode gap has widened from corrosion — that's not
+      a cleaning job, and ignoring it means unburned gas is venting into the kitchen."
+  - title: "Oven Running 50 Degrees Low or Refusing to Heat"
+    description: "Gas valve igniter glow bars degrade gradually on dual-fuel models. The oven
+      fires but tops out well below your set temperature, or shuts off mid-cycle. Bosch and
+      KitchenAid ranges in this income bracket show this failure regularly after five to seven
+      years. A resistance check on the igniter element confirms in ten minutes whether it's
+      the glow bar or the gas valve solenoid itself. Thermador 36-inch dual-fuel units
+      sometimes display an F1 or F3 fault code before the oven refuses to hold temp — if
+      you're seeing that code, don't reset and ignore it. The bake element or gas valve
+      assembly needs testing before the control board fails next and doubles the repair cost."
+  - title: "Control Board Locking Up After a Power Surge"
+    description: "Older circuits in 90277 — especially blocks that haven't been rewired since
+      original construction — see more voltage spikes than homeowners expect. Modern ranges
+      don't recover from surges the way older mechanical units did. Thermador and GE models
+      both use proprietary control boards that have to be sourced before the visit; call ahead
+      so we order the part and don't waste your afternoon. Samsung smart ranges lock into
+      error mode and display codes like SE or 8E after a surge — those aren't fixable by
+      unplugging and waiting. The main PCB has to be swapped, and on Samsung that board
+      usually ships next-day if we catch it before noon."
 
 faq:
-  - q: "How fast can you get to Redondo Beach for a Range repair?"
-    a: |
-      South Bay is a daily route — Redondo Beach runs 30 to 50 minutes depending on
-      where we're coming from. Parking near the Pier District and Harbor Drive condos
-      gets tight, so flag it when you book. Call (323) 870-4790 and we'll lock in
-      a same-day window before noon most days.
-  - q: "Do you repair KitchenAid and Bosch ranges in Redondo Beach?"
-    a: |
-      Both are extremely common in 90277 and we stock parts for them. KitchenAid calls
-      usually mean a failed spark switch assembly or a worn bake igniter. Bosch dual-fuel
-      models more often come in with a faulty gas valve thermostat or a control board
-      issue. Thermador calls come up occasionally in the Hollywood Riviera — those we
-      handle too, though parts lead time is sometimes a day longer.
-  - q: "What does a Range diagnostic cost, and do you handle gas smell calls?"
-    a: |
-      Diagnostic is $89 flat, credited toward the repair if you move forward. Most
-      range repairs land between $150 and $350 all-in. The diagnostic covers burner
-      output pressure, igniter draw current, and a visual check of the gas valve and
-      supply connection — not just a symptom read. Gas smell is a different
-      category — call (323) 870-4790 directly rather than booking online. We treat
-      those as emergency calls and can usually be there within two hours. Evening
-      slots are available most weekdays for standard repair calls.
+  - q: "How fast can you get to Redondo Beach for range repair?"
+    a: "South Bay is a regular run for us — Torrance, Hawthorne, Lawndale all sit on the same
+      route. Redondo Beach is typically 30 to 45 minutes from dispatch. Same-day slots are
+      open most mornings. Call (323) 870-4790 and we'll tell you exactly what's available
+      today."
+  - q: "Do you work on Bosch and Thermador ranges specifically?"
+    a: "Yes, both. Bosch slide-ins in Redondo Beach commonly come in with worn thermal fuses
+      and failing door gasket seals on the oven cavity. Thermador pro-style burners need
+      specific cap and electrode parts — we stock the common failures. KitchenAid and Samsung
+      freestanding models are high-volume for us across the 90277 and 90278 zip codes. Viking
+      freestanding units in the Riviera Village area come through occasionally — the
+      dual-stacked burner assemblies on older Viking models need brand-specific spark module
+      replacements, not generic aftermarket parts, or the ignition cycle stays erratic."
+  - q: "What does range repair cost, and is the diagnostic included?"
+    a: "The diagnostic fee gets applied to the repair if you proceed — no separate charge just
+      for showing up. Most single-part jobs, a heating element swap or gas valve igniter
+      replacement, run $150 to $280 parts and labor. Control board replacements on Thermador
+      or Bosch run higher depending on part sourcing, but we quote before touching anything.
+      Evening slots are available. Schedule online or call (323) 870-4790."

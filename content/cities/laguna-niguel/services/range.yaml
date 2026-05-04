@@ -1,93 +1,87 @@
-title: "Laguna Niguel Range Repair — Gas & Built-In Specialists, 92677"
+title: "Laguna Niguel Range Repair — 30-Year Gas Lines, Real Fixes"
 
 intro: |
-  The housing grid built out along Crown Valley Parkway through the late 1970s and 80s
-  put gas ranges in nearly every kitchen in 92677 — and a lot of those original GE
-  and Whirlpool units have since been replaced with KitchenAid dual-fuel models or
-  Bosch 800-series ranges. Marina Hills and Laguna Sur homeowners especially went heavy
-  on upgrades. Same address, different appliance, different failure points — but the
-  repair calls keep coming.
+  Bear Brand Ranch and the Pacific Island neighborhoods hold some well-kept homes,
+  most of them built between 1985 and 1995. Those KitchenAid dual-fuel and Thermador
+  rangetops are now pushing 30 years old — and igniter electrodes don't last that long.
+  The gas valve coils weaken, surface burners click without catching, and homeowners in
+  92677 usually assume it's the igniter when half the time it's the spark module wiring
+  behind the panel.
+
+  Laguna Niguel kitchens tend to run full-size ranges — 30-inch or 36-inch — because
+  the floor plans allow it. That means more burners, more igniter electrodes, and more
+  chances for one bad spark module to take down half the cooktop. On dual-fuel models,
+  the gas side and the electric oven circuit are essentially two separate repair jobs
+  sharing one chassis. When the bake element fails on a KitchenAid dual-fuel, the gas
+  burners keep working fine, so homeowners sometimes cook on the stovetop for weeks
+  before calling. By then the oven igniter glow bar is usually gone too.
 
 localContext: |
-  Most homes in 92677 were built between 1975 and 1995, during Laguna Niguel's primary
-  development push. The Bear Brand Ranch and Laguna Sur neighborhoods skew premium —
-  Thermador Pro Harmony and Viking dual-fuel ranges are common there. Older sections
-  near Alicia Pkwy have tighter kitchen layouts, and pulling a range fully out for
-  access sometimes means removing a lower cabinet panel first. Gas is standard
-  throughout the city; electric-only setups are the exception.
+  Crown Valley Parkway cuts through the middle of the city, and the neighborhoods on
+  either side — Marina Hills to the west, Beacon Hill to the east — are mostly two-story
+  planned developments from the late 1980s. Gas ranges were standard in virtually every
+  floor plan. Many kitchens have been remodeled since, which means a Bosch slide-in or
+  an LG freestanding range sitting on a gas line that's never been touched since 1991.
+  Zip code 92677 covers most of this housing stock.
 
-  Bear Brand Ranch homes with Viking 36-inch pro-style ranges present a specific
-  challenge: the grates and burner caps are heavy cast iron, and the igniter modules
-  sit deeper in the chassis than on standard residential units. Getting to the gas
-  valve on these models without the right torx bits means a wasted trip. That's why
-  we stock Viking-specific igniter components before heading out to that part of 92677.
-  Thermador Pro Harmony installations in the Laguna Sur hillside homes often have
-  custom cabinetry built tight around the range — accessing the broiler drawer or rear
-  burner manifold requires pulling the unit forward carefully to avoid damaging
-  surrounding millwork. We've done enough of these to know the clearances.
+  The Laguna Niguel Regional Park area and the subdivisions running south toward Aliso
+  Viejo are slightly newer — early-to-mid 1990s construction — but the appliance
+  situation is similar. Thermador and KitchenAid were popular builder upgrades in this
+  income bracket. Those original ranges are hitting the age window where gas valve
+  solenoids fail, control boards start dropping zones, and thermal cutoffs trip without
+  obvious cause. Orange County's relatively hard water doesn't affect ranges directly,
+  but homes here often have the same-age dishwashers and refrigerators showing parallel
+  wear — something to keep in mind if multiple appliances are acting up at once.
 
 commonProblems:
-  - title: "Surface Burner Igniter Keeps Clicking After the Flame Catches"
-    description: |
-      Cooking residue — boiled-over liquid, oil splatter — packs into the spark electrode
-      assembly and triggers constant clicking even with the burner running. On KitchenAid
-      six-burner gas ranges this is one of the most common calls we get in this area.
-      The fix is usually a thorough electrode cleaning or a direct swap, but if the
-      igniter module itself shorts out, adjacent burners lose spark too.
-
-      The igniter switch mounted beneath the control knob is a separate failure point.
-      A cracked switch housing lets moisture in, and then you get clicking on a burner
-      you're not even using. Replacing the switch assembly — not just the electrode tip —
-      stops it permanently. On KitchenAid dual-fuel models, the spark module is shared
-      across four burners, so one failed switch can kill ignition on the entire left side.
-
-  - title: "Oven Temperature Running 25–30 Degrees Off from the Set Point"
-    description: |
-      Thermador Pro Harmony ovens in 92677's custom homes frequently develop a worn gas
-      valve igniter that produces a weak, inconsistent flame — the oven heats, just
-      never accurately. Before ordering parts, we always run a calibration check first.
-      A drifted oven thermostat is cheaper to fix, and it's more common than most
-      homeowners expect after ten-plus years of daily use.
-
-      On Bosch 800-series slide-in ranges, the oven sensor probe is the usual culprit.
-      It sits near the back wall of the cavity and reads resistance — when it drifts
-      out of spec, the control board compensates wrong and you end up baking at 325
-      when you set 350. A sensor swap confirmed with an independent oven thermometer
-      before we leave. Fast fix, usually same visit as the diagnostic.
-
-  - title: "Control Panel Goes Dark or Throws Fault Codes"
-    description: |
-      Samsung and LG slide-in ranges throw SE or F9 error codes when the main control
-      board overheats or takes a voltage spike. The board is the most expensive component
-      on either unit. We check the wiring harness connections before condemning the
-      board — a loose connector produces identical symptoms and costs a fraction of
-      a full board replacement.
-
-      KitchenAid dual-fuel units sometimes show an F2-E0 code, which points to the
-      keypad ribbon cable separating from the control board interface. Ignored, the
-      entire control board eventually fails from arcing at the connector. Worth
-      checking the ribbon first on any KitchenAid with intermittent panel behavior —
-      it's a much cheaper repair than a full board swap.
+  - title: "Surface Burner Clicks But Won't Light After Years of Daily Use"
+    description: "On KitchenAid and Thermador gas ranges built in the 1990s, the igniter
+      electrode gets coated with grease and eventually cracks or loses its ground path.
+      Cleaning helps early on, but a failed spark module is a different repair — usually
+      a 45-minute job we can handle same-day with parts on the truck. The spark module
+      sits behind the control panel and feeds all four or six electrode positions; when
+      one burner stops lighting, the module is often the first thing to test before
+      assuming the electrode itself is cracked. We carry common spark modules for
+      KitchenAid and Thermador on the van."
+  - title: "Oven Temperature Runs Hot or Cold — Baking Comes Out Wrong"
+    description: "A partially burned-out bake element still glows but doesn't distribute
+      heat evenly — one rack scorches while another undercooks. Gas ovens show the same
+      symptom from a weak oven igniter glow bar that lights but can't sustain flame.
+      Bosch wall ovens in Laguna Niguel kitchens hit this failure point around the
+      10-year mark more often than most brands. The fix is usually a direct glow bar
+      swap, which takes under an hour. If the oven thermistor is also drifting — common
+      when a range has been running hot for a while — we recalibrate or replace it at
+      the same visit so the oven temperature actually matches what the dial reads."
+  - title: "Touch Control Panel Stops Responding or Throws Error Codes"
+    description: "Samsung and LG ranges with flat-panel controls develop membrane
+      delamination from heat cycling — keys stick, error codes like SE or UE flash,
+      and eventually the control board stops registering any input. That's a board
+      replacement, not a range replacement. Call (323) 870-4790 before ordering parts
+      yourself — board revisions vary by production run and the wrong one won't pair.
+      LG in particular has released multiple board variants for the same model number
+      across different production years, and the part numbers look similar enough to
+      cause confusion when ordering online."
 
 faq:
-  - q: "How fast can you get to Laguna Niguel for Range repair?"
-    a: |
-      Usually there within 2 hours from your call. Crown Valley Pkwy and the 5 make
-      routing clean from Irvine down through San Clemente. Call (323) 870-4790 to book
-      — same-day slots fill fast on weekends and through the summer months.
-
-  - q: "Do you work on Thermador and Bosch ranges specifically?"
-    a: |
-      Yes, regularly. Thermador Star Burner and Pro Harmony units have gas valve and
-      burner cap configurations that differ from standard residential ranges — we carry
-      those parts. Bosch 800-series comes in most often with control board and heating
-      element failures. KitchenAid dual-fuel we handle constantly. If you're in Bear
-      Brand Ranch or Laguna Sur with a built-in premium range, call (323) 870-4790
-      and describe the model — we'll confirm parts availability before booking the visit.
-
-  - q: "What does range repair usually cost in Laguna Niguel?"
-    a: |
-      Diagnostic runs $75–$95 and applies toward the repair. Single-component jobs —
-      gas valve igniter, heating element, bake element — typically run $150–$350 parts
-      and labor. Viking and Thermador parts run higher. You get a firm quote before we
-      touch anything. Evening appointments available for urgent calls.
+  - q: "How fast can you get to Laguna Niguel for range repair?"
+    a: "Routes down the 5 into south Orange County are part of our regular schedule.
+      Laguna Niguel is typically 45-60 minutes out. Same-day slots are usually open —
+      call (323) 870-4790 by noon and we can often be there that afternoon. Evening
+      appointments are available for homeowners who can't be home during the day."
+  - q: "Do you repair Thermador and KitchenAid ranges specifically?"
+    a: "Both show up constantly in this part of OC. Thermador dual-fuel models frequently
+      need gas valve igniter module work. KitchenAid ranges develop bake element failures
+      and faulty spark modules. Bosch and LG are also in the regular rotation — no
+      referrals, no outsourcing. For older Thermador units where parts are discontinued,
+      we'll tell you upfront before the visit turns into a dead end."
+  - q: "What does a range repair visit cost, and how does the process work?"
+    a: "Diagnostic fee covers the visit; we quote the repair before touching anything.
+      Most igniter and heating element jobs run $150–$300 parts and labor. Gas smell
+      calls get emergency priority — same-day, no waiting around for a slot."
+  - q: "My range is from 1992 — is it worth repairing?"
+    a: "Usually yes, if the repair is mechanical rather than a control board issue.
+      A Thermador rangetop from the early 1990s with a failed gas valve solenoid is a
+      $180-$220 fix and the unit will run another decade. The same rangetop with a
+      failed proprietary control board is a different conversation — parts availability
+      is the real variable. We check part availability before quoting so you're not
+      paying diagnostic on a repair that can't be completed."
