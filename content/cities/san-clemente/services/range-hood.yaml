@@ -1,68 +1,71 @@
-title: "San Clemente Range Hood — Salt Air Wears Out Hoods Fast"
+title: "San Clemente Range Hood Repair — Salt Air, Grease, and Talega Kitchens"
 
 intro: |
-  Salt air off the Pacific doesn't just rust your car — it works into range hood components too.
-  In neighborhoods near the San Clemente Pier, blower wheels accumulate a hardened salt-and-grease
-  compound that no amount of cleaning removes once it sets. The Bosch hood above your gas range
-  pulls humid, ocean-tinged air through its motor housing every single time you cook. That motor
-  was not designed for those conditions long-term. Coastal kitchens in San Clemente run their
-  hoods harder than anywhere else in Orange County — windows stay closed half the year to keep
-  the salt breeze out, so the hood is doing all the work alone.
+  Talega's open-concept floor plans in 92673 practically demand a powerful island hood above
+  the range — and those units take abuse. Cooking grease and marine humidity make a nasty
+  combination on blower wheel bearings. That KitchenAid chimney hood above a 36-inch gas
+  range might run fine for years, then suddenly sounds like it's chewing gravel. Salt air
+  off the Pacific accelerates that whole process — metal fatigue on the motor shaft, grease
+  baked into bearings, corrosion on fasteners you'd never expect to fail. Call us at
+  (323) 870-4790 and we're usually in San Clemente within 2 hours.
 
 localContext: |
-  Spanish-style homes in the Pier Bowl and downtown area date to the 1950s and 60s, many with
-  galley kitchens and undersized 4-inch ductwork that was never meant for today's high-output
-  burners. Short straight-through-wall vent runs are common in 92672 — actually preferable to
-  the alternative. Over in 92673, Rancho San Clemente tract homes from the early 2000s typically
-  have KitchenAid or Thermador hoods ducted through attic chases, with longer runs that trap
-  grease at every elbow. The gap between these two zones matters a lot for diagnosis — a hood
-  losing suction in a Pier Bowl galley kitchen almost always points to duct liner buildup, while
-  the same symptom in a Rancho San Clemente two-story usually means a disconnected attic joint.
-  Samsung and LG under-cabinet hoods show up frequently in the mid-2000s Talega neighborhood
-  tract builds along Avenida Talega, where builder-grade installations left short, kinked duct
-  runs that compound grease accumulation.
+  The Spanish Colonial homes off Avenida Del Mar in 92672 were mostly built between the 1940s
+  and 1960s. Tight galley kitchens, low ceilings, and ductwork routed through interior walls
+  make access genuinely awkward — sometimes we're pulling a cabinet panel just to reach the
+  motor housing. Talega and Marblehead (92673), by contrast, have newer construction with
+  recirculating or externally-ducted island hoods — Bosch and Thermador show up constantly
+  in those remodeled kitchens. San Clemente's coastal exposure adds another layer: mineral
+  deposits and salt residue accumulate on exterior wall caps, restricting airflow even when
+  the internal components test clean. Different neighborhoods in San Clemente, different
+  failure modes, different tools required.
 
 commonProblems:
-  - title: "Blower Motor Failure from Coastal Salt-and-Grease Buildup"
-    description: "Salt air combines with cooking grease inside the blower wheel housing and hardens into
-      a residue that throws the wheel off balance. You'll hear it first as rattling that worsens
-      over weeks before the motor seizes entirely. Bosch wall-mount hoods in the 92672 beach
-      neighborhoods typically hit this failure by year six or seven — the corrosive environment
-      shortens the timeline significantly compared to inland units. Replacing just the blower wheel
-      without inspecting the motor shaft for corrosion pitting is a mistake we see undone repairs
-      leave behind. The shaft has to spin true or the new wheel fails fast too."
-  - title: "Grease Filter Saturation Causing Loss of Suction in Compact Kitchens"
-    description: "A saturated grease filter forces the motor to work harder and cuts suction noticeably.
-      In compact galley kitchens near Avenida Del Mar, the duct lining gets coated too — swapping
-      the filter alone won't restore full airflow. LG and KitchenAid hoods in these tight layouts
-      need both the filter replaced and the duct liner cleaned. Skip the duct step and the clog
-      returns in half the normal time. Mesh filters on KitchenAid models catch grease aggressively,
-      which is by design, but in high-use coastal kitchens they saturate in four to six weeks
-      instead of the three months the manual assumes."
-  - title: "Vent Duct Separation in Rancho San Clemente Attic Runs"
-    description: "Long horizontal duct runs in 92673 tract homes sag and separate at joints over time,
-      sending grease-laden air into the attic instead of outside. The kitchen stays smoky even
-      with the hood running — that's usually the first sign. Thermador chimney hoods are common
-      in the newer Rancho San Clemente builds, and vibration from a worn blower bearing accelerates
-      joint separation. Reconnecting the duct often means pulling the hood to access the upper chase.
-      Once we're up there, we also check the backdraft damper — a stuck-open damper lets cold
-      ocean air flow back through the duct when the hood is off, which accelerates corrosion inside
-      the motor housing from both directions."
+  - title: "Blower Motor Failure Accelerated by Coastal Humidity"
+    description: "Salt-laden air off the Pacific corrodes blower wheel bearings faster than
+      inland areas. A failing motor shows up as grinding noise or no airflow even at max
+      speed. On that Bosch wall-mount unit, the motor assembly is sealed — partial failures
+      look like intermittent speed loss before full shutdown. Replacement requires matching
+      the CFM rating exactly. In the older beach-area homes near 92672, the mounting
+      brackets often need replacement too because corrosion works into the fasteners over
+      decades of coastal exposure. We stock motor assemblies for common Bosch and KitchenAid
+      configurations in the van, which means no second trip for parts on most San Clemente
+      jobs."
+  - title: "Grease Filter Clogging in High-Use Gas Kitchens"
+    description: "Gas ranges produce heavier grease vapor than electric. Baffle filters on
+      Thermador and KitchenAid units trap that grease efficiently — until they don't get
+      cleaned monthly. Saturated filters push grease past the mesh into the duct liner and
+      motor housing itself. Once grease reaches the blower wheel, cleaning alone won't fix
+      the balance problem. The blower throws off vibration at higher speeds, and that
+      vibration eventually cracks solder joints on the control board. Homes in San Clemente
+      with Viking or Thermador professional ranges tend to see this faster — those burners
+      push significantly more BTUs, and the ventilation system pays for it."
+  - title: "Vent Duct Backpressure from Long Duct Runs"
+    description: "Several Talega builds routed exhaust through 14–18 feet of flex duct
+      before hitting an exterior wall cap. Long runs plus 90-degree bends cut effective CFM
+      dramatically — the appliance runs loud but barely clears smoke. On LG and Samsung
+      models, the control board interprets high static pressure as a sensor fault and throws
+      error codes before reducing fan speed automatically. The fix is rarely the appliance
+      itself; it's the duct run. Replacing flex duct with rigid aluminum and reducing bend
+      count can recover 30–40% of rated airflow. That's a recurring issue in the multi-story
+      Talega homes where the exhaust path navigates around second-floor framing."
 
 faq:
-  - q: "How fast can you get to San Clemente for range hood repair?"
-    a: "We service South OC regularly. From our nearest tech, the I-5 drive to San Clemente is
-      about 20-30 minutes depending on time of day. Same-day appointments are usually available —
-      call (323) 870-4790 and we'll find a slot. Evening appointments on weekdays are often open
-      if daytime doesn't work."
-  - q: "Do you repair Bosch and Thermador range hoods in San Clemente?"
-    a: "Yes, both are common here. Bosch hoods typically come in for blower wheel cleaning or motor
-      replacement. Thermador chimney hoods more often have a failed thermal fuse or a control board
-      fault — the board on a Thermador HMWB series throws a flashing error light before it stops
-      responding entirely, which at least gives some warning. KitchenAid shows up regularly too,
-      usually a bad light socket or a grease filter assembly that's seized up and won't release."
-  - q: "What does a range hood repair cost, and how quickly can you come?"
-    a: "Most repairs run between $120 and $280 depending on the failed part. Blower motor replacement
-      is on the higher end; cleaning and filter work is less. We quote on-site before starting
-      anything. Same-day service is usually available in San Clemente — call (323) 870-4790 or
-      schedule online and we'll typically be there within a few hours."
+  - q: "How fast can you get to San Clemente for Range Hood repair?"
+    a: "Running the I-5 corridor daily from Irvine toward Dana Point, we're typically in
+      San Clemente within 90 minutes to 2 hours. Street parking near the 92672 beach areas
+      can be tight mid-day; we carry short ladders and compact tool kits for exactly that
+      reason. Evening slots are available if daytime doesn't work. Call (323) 870-4790 to
+      confirm same-day availability."
+  - q: "Do you repair Bosch and Thermador range hoods specifically?"
+    a: "Yes — both brands are common in Talega and the newer Marblehead homes. Bosch units
+      often need blower motor replacements or grease filter bracket repairs. Thermador island
+      models frequently develop control board faults or grease-damaged speed selector
+      switches. We stock parts for both, and for most repairs we don't need to special-order
+      — motor assemblies, control boards, and filter brackets are already in the van."
+  - q: "What does a range hood repair visit typically involve, and how much does it cost?"
+    a: "Diagnosis takes 20–30 minutes on-site. Most repairs — motor swap, duct resealing,
+      filter bracket fix — finish same visit. Parts for a KitchenAid or LG blower assembly
+      usually run $80–$160; labor varies by access difficulty. Access in the older 92672
+      homes can add time when the unit is mounted inside a tight soffit or tucked behind
+      custom cabinetry. Evening slots available. Schedule online or call (323) 870-4790."

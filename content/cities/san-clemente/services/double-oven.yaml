@@ -1,104 +1,72 @@
-title: "San Clemente Double Oven — Fixed Right Along the Coast"
+title: "San Clemente Double Oven Repair — Coastal Kitchens, Fast Turnaround"
 
 intro: |
-  Talega's newer tract homes and the older Spanish-tile bungalows along Avenida Del Mar
-  were both built with serious kitchens in mind. A lot of those kitchens landed a KitchenAid
-  or Bosch wall oven — and when one cavity stops holding temperature while the other runs fine,
-  the issue almost always traces to a failed bake element or an individual oven control board.
-  Salt air off the Pacific accelerates terminal corrosion on sensors and relays faster than
-  inland cities see. We cover all of San Clemente, from 92672 to 92673.
+  Talega's planned-community builds in 92673 shipped with KitchenAid double wall ovens
+  straight from the factory — and those 2002-2008 installs are now hitting the age where
+  control boards start failing mid-dinner. Over near Avenida del Mar and the San Clemente
+  Pier, Thermador and Bosch units from 2010s gut-rehab kitchens are throwing error codes
+  on holiday weekends. Two completely different housing eras, same result: one cavity
+  works, the other doesn't. And since these are typically the centerpiece of San Clemente
+  kitchens, the toaster oven isn't a real substitute.
 
 localContext: |
-  San Clemente splits into two distinct housing worlds: the master-planned Talega development
-  (zip 92673) with homes built from the late 1990s through the 2010s, and the older coastal
-  areas along El Camino Real and Avenida Pico in 92672, where 1960s and 1970s ranch-style
-  houses still hold retrofit oven installations in tighter cabinet openings. Talega homes
-  routinely came with KitchenAid and Thermador double ovens built in during construction.
-  Those units are now 15–25 years old and hitting predictable failure points.
+  Rancho San Clemente (92672) has a solid mix of 1980s and early-1990s tract homes where
+  double ovens got retrofitted during kitchen expansions — original KitchenAid and Maytag
+  units in cabinet cutouts that don't always accommodate modern replacement dimensions
+  without some carpentry. Talega (92673), the master-planned development built between 2000
+  and 2008, is now hitting that 15-20 year window where electronic components start going.
 
-  The older beach-side neighborhoods add clearance challenges when swapping units. Sometimes
-  the only access is through a side panel, not the front face.
-
-  Marine layer off Doheny State Beach rolls in most mornings and deposits humidity that
-  accelerates circuit board corrosion — especially in 92672 homes without consistent climate
-  control. It is one reason San Clemente appliances corrode faster than units sitting 30 miles
-  inland in Irvine or Mission Viejo. Bosch and KitchenAid boards that would last 12 years
-  in the Inland Empire sometimes fail at 7 or 8 years here near the coast.
+  Ocean air from the coast accelerates corrosion on control board terminals and door hinge
+  pivot points noticeably faster than comparable homes even 15 miles inland toward Mission
+  Viejo. That's not a generalization — it's consistent across San Clemente service calls
+  in the 92672 zip. Homes along Avenida Pico and the streets that run down toward the
+  beach take the worst of it. A Talega install from 2004 behaves differently than a
+  Rancho San Clemente retrofit from 1991, and diagnostics need to account for that. Salt
+  air corrosion on terminal connectors often mimics a full board failure on first look —
+  cleaning and reseating can sometimes resolve what seems like a $300 part swap.
 
 commonProblems:
-  - title: "Upper oven goes cold while the lower cavity works normally"
+  - title: "Control Board Failure — One Oven Dead, the Other Running Fine"
     description: |
-      Each cavity runs its own bake element and broil element independently. A cold upper oven
-      almost always means a burned-out bake element or a failed oven temperature sensor — not
-      a full board replacement.
-
-      KitchenAid double wall ovens in the Talega neighborhood commonly hit this failure after
-      8–10 years of regular use. The bake element shows visible burn marks or a clean break
-      when you pull the unit apart — straightforward to confirm before ordering parts.
-      San Clemente homes with gas ranges but electric wall ovens see this failure most often
-      in the upper cavity, where heat cycles are more intense.
-
-  - title: "Temperature reads correctly but baking results are completely off"
+      KitchenAid double wall ovens dominate the Talega builds, and the control board is
+      the most common single failure point we see. It manages both cavities independently —
+      when it fails, one cavity simply stops responding, typically displaying an F1, F3, or
+      E0 error code. Boards for the KODE500 and KODE507 series run $200-350 in parts.
+      Diagnosis is fast; sourcing the specific board occasionally takes a day.
+  - title: "Salt Air Corrosion Destroying Door Hinge Assemblies Near the Pier"
     description: |
-      A 40–50 degree swing between set and actual temperature usually points to a drifted
-      RTD temperature sensor or a miscalibrated control board. Thermador double ovens in
-      San Clemente's hillside homes along Calle Frontera show this pattern more than average —
-      coastal humidity accelerates the sensor terminal corrosion that causes the drift.
-
-      Testing takes about 20 minutes with a calibrated probe thermometer at three rack
-      positions. If the sensor reads within spec on a multimeter but temperatures are still
-      off, the control board calibration has drifted and needs a reset or replacement.
-
-  - title: "Control board failure locks both cavities out at once"
+      Homes within a mile of the San Clemente Pier in 92672 get consistent salt air
+      year-round. On Thermador and Bosch double wall ovens, the door hinge assembly corrodes
+      at the pivot points — the door starts sagging or won't seal flush against the door
+      gasket. Once that seal breaks down, heat bleeds out, temperature accuracy drops, and
+      you'll notice uneven cooking long before the unit fails completely.
+  - title: "Lower Oven Heating Element Burnout Causing a Temperature Gap Between Cavities"
     description: |
-      Both cavities going dark simultaneously — no display, no heat, no response — almost
-      always means the main control board has failed. Bosch double ovens typically show an
-      E-series error code before complete shutdown.
-
-      Circuit boards in San Clemente homes close to the shoreline corrode faster than average
-      due to salt air, especially in 92672. A board living near a kitchen window facing the
-      ocean rarely reaches the manufacturer's rated service life. This is not a Bosch-specific
-      problem — any brand's control board takes the same hit from marine air exposure.
-
-  - title: "Convection fan runs but heat distribution is uneven across the cavity"
-    description: |
-      Uneven browning — dark on one side, pale on the other — with convection mode on usually
-      traces to a worn fan motor bearing or a bent blade. The motor draws extra amperage as
-      the bearing degrades, which sometimes trips the thermal fuse before the motor fully fails.
-
-      San Clemente sees this repair frequently in KitchenAid and Bosch units past 10 years old.
-      Replacing the convection motor assembly is a two-hour job. Call (323) 870-4790 if you
-      are seeing hot spots — it is almost never a calibration problem when convection is involved.
+      The lower cavity's bake heating element takes more thermal cycles and tends to burn
+      out first. In LG double ovens — common in Talega's newer builds — this shows up as a
+      100-150°F gap between the two cavities: upper holds temp, lower undershoots
+      consistently. Most homeowners assume it's a calibration issue. It isn't. The heating
+      element needs replacing, typically a 45-minute job with the right part on hand.
 
 faq:
-  - q: "How fast can you get to San Clemente for a double oven repair?"
+  - q: "How fast can you get to San Clemente for double oven repair?"
     a: |
-      South Orange County routes run daily. From our nearest technician, San Clemente is
-      typically 25–35 minutes out. Same-day slots are usually available — call (323) 870-4790
-      before noon and we can generally get there that same afternoon. Evening appointments
-      are also open most weekdays.
-
-  - q: "Do you repair Bosch and Thermador double ovens in San Clemente?"
+      San Clemente sits about 25 miles south of Irvine via the 5. Most weekday calls get
+      same-day service — usually a tech out within 2-3 hours of booking. Morning calls
+      get the best slots; traffic near San Juan Capistrano backs up hard after 2pm and
+      can push afternoon appointments into evening. Call (323) 870-4790 to check what's
+      available today.
+  - q: "Do you repair Thermador, KitchenAid, and LG double ovens?"
     a: |
-      Yes — both regularly. Bosch units usually need control board resets or door latch
-      assembly replacements. Thermador built-ins in the hillside homes near Avenida Pico
-      typically come in with heating element failures or temperature sensor issues. Common
-      parts for both brands ride on the van.
-
-  - q: "What does a double oven repair cost in San Clemente?"
+      All three are regular calls in San Clemente. Thermador units typically need oven
+      temperature sensor work or igniter service on gas-assisted models. KitchenAid most
+      often comes in with control board failures or door gasket wear on the upper cavity.
+      LG usually shows heating element burnout or control panel issues — all diagnosable
+      and fixable on the first visit.
+  - q: "What does double oven repair typically cost, and can you fix it same day?"
     a: |
-      Diagnosis runs $89, credited toward the repair. A bake element, door hinge, or
-      temperature sensor replacement usually lands at $150–280 all-in. Control board work
-      runs $300–450 depending on the model. Evening slots available — schedule at
-      (323) 870-4790.
-
-  - q: "Do you carry KitchenAid and Bosch parts on the van?"
-    a: |
-      Most common failure components — bake elements, RTD temperature sensors, door gaskets,
-      convection fan motors — for KitchenAid and Bosch ride with the technician. Thermador
-      and Sub-Zero parts sometimes require a next-day order, but we diagnose same-day and
-      return with the part within 24 hours.
-
-      San Clemente is on our regular South OC route, so a return visit is never a week-long
-      wait. Call (323) 870-4790 to check availability for your specific model before
-      scheduling.
+      Most repairs get diagnosed and fully quoted on the first visit — no second trip just
+      to deliver a number. Heating element replacements run $150-250 all-in. Control board
+      swaps on KitchenAid or Thermador models land in the $300-500 range depending on the
+      specific board. Common parts are stocked on the truck, so same-day fixes are the norm.
+      Schedule online or call (323) 870-4790 to get on the calendar.
