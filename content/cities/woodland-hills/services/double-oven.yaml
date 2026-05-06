@@ -1,0 +1,70 @@
+title: "Woodland Hills Double Oven Repair — Valley Heat Demands It"
+
+intro: |
+  Ranch homes along Oxnard Street and the remodeled split-levels backing up toward
+  Topanga State Park are packed with double wall ovens installed during the kitchen
+  renovation wave of the early 2000s. KitchenAid and Bosch were the go-to upgrades
+  back then — solid appliances that have been running daily in 100°F Valley summers
+  for 15-plus years now. Control boards and bake elements don't last forever.
+
+  Most calls from 91367 involve units that were working fine right up until the day
+  they weren't. LA's hard water mineral buildup doesn't help either, especially on
+  models with steam-assist functions. Hard water leaves calcium deposits on heating
+  elements and inside door gasket channels — a slow failure most homeowners don't
+  notice until the oven starts reading temperature wrong or a cycle takes twice as long.
+
+localContext: |
+  The 91367 zip is dominated by 1960s and 1970s single-story ranch homes — layouts
+  where nobody planned for a 30-inch double wall oven cutout. Walnut Acres and the
+  neighborhoods around Warner Center saw heavy retrofit activity through the 1990s
+  and 2000s: custom cabinetry built around wall cavities, new 240V electrical runs,
+  tight clearances on both sides of the oven stack. That original construction means
+  service vans sometimes park mid-block and carry tools a stretch. Consistent Valley
+  heat pushing internal electronics year-round makes these units age noticeably faster
+  than the same models do in coastal zip codes.
+
+commonProblems:
+  - title: "Lower Oven Dead While the Upper One Still Works"
+    description: "The bake element in the lower cavity cycles on every single cook — it
+      accumulates far more hours than the upper broil element, which most households use
+      less often. On GE and Whirlpool double wall ovens common in Woodland Hills's older
+      housing stock, a failed bake element shows as a visible burn or break in the coil,
+      or triggers an F3 or F5 error code on the display. Parts run $80–140 for most model
+      years, and the swap takes under an hour once the unit is pulled from the wall."
+  - title: "Two Ovens, Two Completely Different Temperatures"
+    description: "Each cavity runs its own RTD temperature sensor — a small probe that
+      feeds live readings back to the control board continuously. When one drifts or
+      develops a fault, one cavity bakes 30–50°F off target while the other reads
+      completely normal. Samsung and LG double ovens are common throughout the Warner
+      Center-adjacent neighborhoods, and sensor drift is one of the most frequent calls
+      we field on those models. Worth pulling the error log before assuming the worst —
+      Samsung units often throw an SE code or a C-d0 fault well before the temperature
+      reading goes fully off, which confirms the RTD sensor is the issue rather than the
+      main control board. LG models on the same failure pattern usually surface an F3
+      code. Either way, the sensor swap itself takes about 20 minutes once the right part
+      is on hand. Repair lands in the $60–90 parts range, which makes this one of the
+      more affordable double oven fixes."
+  - title: "Door That Won't Seal — Hinge Failure on Wall Ovens"
+    description: "A door that hangs low or won't close flush bleeds heat every cook cycle,
+      forcing the control board to extend run times and tearing through the door gasket
+      faster than normal. Bosch and KitchenAid double wall ovens both use spring-loaded
+      hinge assemblies that fatigue under regular use. Heavy-use kitchens in Woodland Hills
+      — multigenerational households, frequent holiday cooking — tend to hit this failure
+      at the 8–12 year mark."
+
+faq:
+  - q: "How fast can you get to Woodland Hills for a double oven repair?"
+    a: "Routes along the 101 and Ventura Blvd put us anywhere in Woodland Hills —
+      Warner Center, Oxnard Street, the residential blocks up toward the hills — usually
+      within 2 hours of your call. Same-day slots fill by noon most days, especially in
+      summer. Call (323) 870-4790 first thing to lock in a spot."
+  - q: "Do you repair KitchenAid and Samsung double wall ovens?"
+    a: "Both are common here. KitchenAid double ovens typically need bake element or
+      hinge assembly work by year 10. Samsung units run toward RTD sensor drift and
+      control board failures — we stock parts for both on the van. Bosch shows up
+      regularly too."
+  - q: "What does a double oven repair typically cost in Woodland Hills?"
+    a: "A bake element swap usually runs $150–250 parts and labor combined. Control board
+      replacements on GE or Whirlpool units land in the $280–430 range depending on the
+      model. Flat quote before any work starts — no invoice surprises. Evening and Saturday
+      slots available, or call (323) 870-4790 to check same-day openings."

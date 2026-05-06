@@ -1,0 +1,92 @@
+title: "Gardena Double Oven — South Bay Same-Day Repair"
+
+intro: |
+  Post-war bungalows and early 1970s tract homes stretching along Vermont Avenue
+  and south toward 182nd Street saw a heavy kitchen remodel wave in the late 1990s
+  — that's when double wall ovens started showing up here in serious numbers. That
+  GE Profile or KitchenAid 30-inch wall unit retrofitted into the cabinet run is now
+  pushing 20-plus years old. One cavity stops heating, the door hinge starts sagging,
+  and half the oven becomes an expensive cabinet.
+
+  Twenty-five years is a long time for a bake element.
+
+localContext: |
+  Gardena's 90247 and 90249 zip codes are dense with owner-occupied homes built
+  between 1945 and 1975. Kitchen layouts in this housing stock tend to be compact —
+  galley setups are common on the side streets off Figueroa and through the Marine
+  Avenue corridor near Ken Malloy Harbor Regional Park. Double wall ovens got
+  retrofitted into tight cabinet openings during those late-90s remodels, so pulling
+  the unit for service requires knowing how the older framing was built. The tech
+  needs to arrive prepared with the right extension harnesses and panel-pulling tools.
+
+  There's also a voltage issue worth knowing about. Gardena's older grid sections —
+  especially near the 110 corridor around Redondo Beach Boulevard — see occasional
+  brownouts and spikes that shorten control board life on mid-range units faster than
+  manufacturers expect. That's a recurring theme in this zip code specifically.
+
+commonProblems:
+  - title: "Lower Cavity Dead While Upper Runs Fine — Bake Element Failure"
+    description: |
+      The lower bake element takes the most punishment in daily use. On GE and
+      Whirlpool double wall ovens installed in the late 1990s, that element burns
+      out cleanly — the upper cavity keeps working and the lower goes cold. Visible
+      scarring on the coil or an F2 error code on the control panel usually confirms
+      it. Threading a replacement element through the back panel typically takes
+      under an hour if the part is already on the service truck.
+
+      Older GE Profile models add a step: the oven floor panel has to come out and
+      two wire harnesses disconnect before the element pulls free. Adds maybe 20
+      minutes. Still a same-day fix.
+
+  - title: "Upper and Lower Ovens Running at Different Temperatures"
+    description: |
+      Both cavities heat, but they're off by 25–40°F from each other. The usual
+      culprit is a drifting oven temperature sensor probe — the thin metal rod clipped
+      to the oven wall — not the control board. Samsung double wall ovens see this
+      drift regularly after year five or six, and the NV51K series is especially
+      prone. Recalibrating or swapping the RTD sensor resolves it without a
+      board replacement in most cases.
+
+      Bosch double wall ovens in this price range show a different pattern: the
+      sensor reads correctly but the relay on the lower cavity control board sticks
+      intermittently, causing temperature swings that look like a sensor problem.
+      Running a cavity calibration cycle first is how you tell the two apart before
+      ordering parts.
+
+  - title: "Control Board Failure — No Heat, No Display on Either Oven"
+    description: |
+      A shorted control board kills both cavities at once: no heat, no display, and
+      sometimes a faint electrical smell near the unit. KitchenAid's KODE500E series
+      sees this after power surges, and Gardena's older grid sections — particularly
+      around the 110 corridor — make surge events less uncommon than in newer
+      developments. Board replacement runs $250–$400 in parts; bring that number to
+      the tech visit so there are no surprises.
+
+faq:
+  - q: "How fast can you get to Gardena for a double oven repair?"
+    a: |
+      Running out of the South Bay, we can reach most Gardena addresses in 30 to
+      45 minutes. The Vermont and Figueroa exits off the 110 drop us straight into
+      the residential corridors. Call (323) 870-4790 — same-day slots are open most
+      weekdays, and we keep a few evening slots available for jobs that can't wait.
+
+  - q: "Do you repair KitchenAid and Samsung double wall ovens?"
+    a: |
+      Both are common in Gardena kitchens. On KitchenAid units the work is usually
+      control board replacement or door hinge assembly wear on the lower door. Samsung
+      double wall ovens tend to throw sensor probe errors and touchpad failures.
+      Whirlpool built-ins come up frequently too — element and thermal fuse stock for
+      all three brands typically rides on the truck.
+
+      LG double wall ovens have been showing up more in the 90247 zip as households
+      replace aging units. The LG LE error before a full display blackout almost
+      always points to a relay on the PCB rather than the full board — catching it
+      early cuts the repair cost roughly in half.
+
+  - q: "What does a double oven repair cost, and can you come the same day?"
+    a: |
+      Diagnostic visit is $65, applied toward the repair if you move forward. Heating
+      element or thermal fuse swaps usually run $120–$200 installed. Control board
+      jobs land between $280 and $450 depending on the model. Same-day and emergency
+      appointments are available — call (323) 870-4790 and we can quote the range
+      before the tech heads out.

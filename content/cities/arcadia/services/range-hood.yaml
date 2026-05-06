@@ -1,0 +1,47 @@
+title: "Arcadia Range Hood Repair — High-Heat Kitchens, Real Fixes"
+
+intro: |
+  Homes tucked east of the LA County Arboretum along Altura Road and the older ranch tracts in 91006 run their range hoods hard — and Arcadia kitchens actually cook. That Bosch wall-mount hood above a high-BTU burner handles more rendered grease per week than most manufacturers test for, and eventually the blower strains, the baffles saturate, and the whole system stops doing its job. Most calls we get here aren't emergencies — just years of buildup that finally crossed a threshold.
+
+  The tell is usually smell before smoke. Grease-laden air that used to get pulled outside now lingers over the cooktop because the blower can't move enough CFM through clogged channels. By the time you notice, the fan wheel is often coated and the damper barely moves. That's a two-hour repair, not a replacement.
+
+localContext: |
+  Arcadia's housing stock spans from 1950s post-war builds to early 2000s tract homes, and the kitchen configurations vary just as much. In north Arcadia near 91007, many homes had kitchen additions that introduced recirculating hood setups or island-mounted units — systems that fail differently than standard wall-ducted hoods. Older cabinetry in the original 1960s floor plans often means tight clearances above the range, which complicates filter removal and makes servicing the blower assembly genuinely awkward.
+
+  Homes along Baldwin Avenue and in the Santa Anita Oaks pocket tend to have higher-end builds — Thermador and Sub-Zero show up regularly in kitchens that were renovated in the 2010s. Those hoods have more sophisticated electronics: variable-speed blower controls, automatic sensor modes, integrated lighting circuits. When one component fails, others can throw false fault signals. Diagnosing those correctly requires the right schematic, not just a parts swap.
+
+commonProblems:
+  - title: "Grease Baffle Filters Saturated Past What Cleaning Can Fix"
+    description: |
+      High-heat cooking pushes rendered grease through stainless baffle channels faster than occasional cleaning cycles can clear. On KitchenAid wall-mount hoods, once grease migrates past the baffle into the blower housing, it coats the fan wheel and cuts airflow by half — even when the motor still runs. Cleaning just the filter at that stage doesn't restore performance; the blower housing needs degreasing and the fan wheel needs a hands-on inspection.
+
+      Arcadia's Asian-cuisine cooking patterns — wok-style high-heat with lots of oil — accelerate this faster than the manufacturer's maintenance schedule accounts for. A hood designed for American cooking loads may need filter service every 4–6 weeks in a household using that style of prep daily. Most homeowners find out the hard way when the motor starts smelling hot.
+
+  - title: "Blower Motor Hums but Won't Spin — Failed Start Capacitor"
+    description: |
+      The start capacitor is the component nobody knows exists until the fan hums but won't turn. It's a common failure on Thermador and Bosch hoods that have been running 8–12 years. The motor itself is usually fine — the capacitor just can't deliver startup current anymore. A meter reading confirms it in minutes, and replacing the capacitor alone costs a fraction of a full blower assembly swap.
+
+      Some homeowners reset the circuit breaker twice before calling, thinking it's electrical. It's not — the breaker trips because the stalled motor draws full locked-rotor current. Each reset like that degrades the motor windings slightly. Catching the capacitor failure early saves the motor.
+
+  - title: "Backdraft Damper Pinned Shut — Exhaust Going Nowhere"
+    description: |
+      The duct damper sits at the wall or ceiling exit and flaps open when the blower runs. Grease accumulation or warped plastic blades pin it shut on older installations, so the hood sounds normal but nothing vents outside — smoke and steam recirculate back into the kitchen. Samsung built-in range hoods with vertical damper assemblies are especially prone to this after a few years of heavy daily use.
+
+      The fix depends on where the damper is. Ceiling-exit installs in Arcadia's two-story additions often route through a short duct run to a roof cap — accessible but requires ladder work and occasionally a damper plate replacement if the original plastic warped from heat cycling. Wall-exit setups are faster. Either way, venting restored same day.
+
+faq:
+  - q: "How fast can you get to Arcadia for range hood repair?"
+    a: |
+      Usually there within 2 hours of your call. From our nearest dispatch point, Santa Anita Avenue is a straight shot north — no freeway bottlenecks mid-day. Same-day slots are available most days. Call (323) 870-4790 to lock in a window.
+
+  - q: "Do you repair Bosch and Thermador range hoods specifically?"
+    a: |
+      Both brands are common in Arcadia — Bosch hoods typically need blower motor or control board work after 7–10 years, Thermador built-ins more often show damper and grease trap failures. LG and KitchenAid are in the rotation too. Parts stocked for all four. Sub-Zero integrated hoods (the ones that tuck into custom cabinetry) are less common but not unusual in the Baldwin Avenue corridor — those need brand-specific blower cassettes that we carry.
+
+  - q: "What does range hood repair cost, and is same-day service realistic?"
+    a: |
+      Most repairs run $150–$350 depending on the part. Diagnostic visit is $85, credited toward the repair if you proceed. Same-day and evening slots open up regularly — call (323) 870-4790 or schedule online, and we'll aim to arrive before the dinner rush.
+
+  - q: "My hood light works but the fan is completely dead — is that the control board?"
+    a: |
+      Not always. A dead fan with working lights usually points to a blown thermal fuse on the blower circuit — not the board. The fuse trips when the motor overheats from restricted airflow or a seized bearing. Replacing the board first is the expensive mistake. A proper diagnostic traces the circuit before touching parts. If it is the board, we'll confirm that with a schematic test, not a guess.

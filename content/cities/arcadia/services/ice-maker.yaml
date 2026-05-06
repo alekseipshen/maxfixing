@@ -1,0 +1,23 @@
+title: "Arcadia Ice Maker Repair — Built-Ins, Hard Water, Same Day"
+
+intro: |
+  Santa Anita Park sits about two miles from some of the nicer streets in the 91007 zip, where Sub-Zero columns and Thermador side-by-sides are standard fixtures in renovated kitchens. Those units produce great ice — until they stop. The optical ice level sensor fogs up, or the water inlet valve silts in from SGV mineral load, and suddenly the bin stays empty for days. Built-ins are not diagnosed the same way as a freestanding Whirlpool; the failure modes differ entirely, and guessing wastes time.
+
+localContext: |
+  South of Huntington Drive, Arcadia shifts into tight 1960s ranch-style homes on lots that were not built for today's 36-inch counter-depth refrigerators. Reaching the ice maker assembly or the rear water line means pulling the unit through cabinet surrounds that sometimes leave less than an inch of clearance on either side. The 91006 zip has more of this than 91007 does. Streets here are wide and residential — parking a service van directly in front is rarely an issue, unlike the permit zones you deal with closer to Pasadena or Monrovia.
+
+commonProblems:
+  - title: "Water Inlet Valve Clogged by SGV Hard Water"
+    description: "San Gabriel Valley tap water tests above 200 mg/L in dissolved calcium and magnesium across most of Arcadia. That mineral load coats the water inlet valve screen and eventually restricts flow enough to stop ice production entirely. LG french-door models show this failure mode often — the valve orifice runs narrow by design and clogs faster than a comparable Bosch or GE unit. Replacing the valve fixes it, but ignoring the inlet screen on the back of the fridge means the replacement fails just as fast."
+  - title: "Frozen Water Supply Line Despite Summer Heat"
+    description: "SGV temperatures in July push indoor ambient temps high enough that refrigerators cycle aggressively to hold freezer temps. During the recovery phase, the water supply line running through the freezer door cavity can ice over completely — no water reaches the ice maker, no ice gets made. It reads exactly like a fill valve problem, but the valve is fine. The real culprit is usually a defrost timer that stopped cycling on schedule. Samsung models with rear-mounted ice makers show up with this more than most."
+  - title: "Optical Sensor Failure on Sub-Zero and Thermador Units"
+    description: "Homes near the Arcadia Arboretum have a high concentration of Sub-Zero and Thermador built-ins, and both use optical ice level sensors instead of the mechanical bail arm you would find on a standard KitchenAid. Mineral film or condensation on the sensor lens causes the unit to read the bin as full and halt production. Cleaning the lens fixes it short-term. If output stops again within a few weeks, the control board has developed a fault in the sensor input circuit — the lens is not the problem at that point."
+
+faq:
+  - q: "How fast can you get to Arcadia for an ice maker repair?"
+    a: "From our Van Nuys service hub, Arcadia is 35 to 45 minutes on the 210 depending on traffic. Same-day service is available most weekdays — call (323) 870-4790 before noon and we can usually have a technician out that afternoon. Evening slots are available too; just ask when you book."
+  - q: "Do you repair KitchenAid, Sub-Zero, and Samsung ice makers in Arcadia?"
+    a: "Yes — all three show up regularly here. KitchenAid typically needs the water inlet valve or ice maker assembly replaced. Sub-Zero built-ins usually point to the optical sensor lens or a control board fault. Samsung french-door units most often come in with frozen water lines or a failed ice maker module. Parts for all three are stocked in the van."
+  - q: "What does ice maker diagnosis and repair typically run?"
+    a: "The diagnostic visit is $85, credited toward the repair if you proceed. Most jobs — fill valve swap, sensor cleaning, or a full ice maker assembly replacement — run between $150 and $300 parts and labor combined. We stock common parts on the truck, so same-day completion is typical. Emergency appointments are available; mention it when you call (323) 870-4790."

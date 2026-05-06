@@ -1,0 +1,25 @@
+title: "Arcadia Oven — KitchenAid & Bosch Fixed Same Day"
+
+intro: |
+  Right off Baldwin Avenue, a few blocks north of the LA County Arboretum, sits a stretch of Arcadia that tells you exactly what the local kitchen market looks like — 1960s ranch homes remodeled into open-concept layouts, Bosch and KitchenAid ranges where old drop-in coil units used to live. The 91007 zip skews heavily toward updated mid-century housing, and premium appliances are the norm in these kitchens, not the exception. Thanksgiving Eve with a Thermador wall oven stuck in preheat mode is not a hypothetical here. Call (323) 870-4790 — same-day service is almost always available.
+
+localContext: |
+  Most of Arcadia's residential stock is 1950s–1970s construction — solid bones, but kitchens updated once or twice over the decades. The 91006 zip along Camino Real and up toward Foothill Boulevard has seen steady remodeling since 2010: original galley layouts opened up, and in went built-in wall ovens the space wasn't designed to hold. Access can be tight. Parking a service van on residential side streets, then extracting a wall oven from a freshly renovated alcove — we've done that job a hundred times in this area.
+
+  The stretch east of Santa Anita Avenue near Live Oak is particularly common for us. Kitchens there were updated in the 2000s with slide-in ranges on 30-inch cutouts that now house Samsung or LG models people brought from bigger homes. Older gas shutoff valves behind the range sometimes need attention before we can even start the igniter diagnosis. That's not a problem — it's just Arcadia kitchen reality, and we bring the right tools for it.
+
+commonProblems:
+  - title: "Oven Won't Reach Temperature — Bake Element or Gas Igniter Gone"
+    description: "A Bosch or KitchenAid oven stalling at 300°F instead of climbing to 425°F is almost always a dead bake element. On gas models, it's usually a cracked gas valve igniter — it won't glow long enough to light the burner, so the oven fires briefly, loses temperature, and kicks off. Control boards get blamed by other shops first. Rarely the actual issue. That F7 or F9 error you see is usually the heat sensor reacting to the failed element. Replacing the bake element on a Bosch HBL8453UC runs about 45 minutes on-site. On KitchenAid double-wall units, the lower cavity element tends to fail first — the upper cavity keeps working fine, which confuses homeowners into thinking it's a wiring problem. It's not."
+  - title: "Uneven Baking — One Rack Burns, the Other Undercooks"
+    description: "Bottom rack burns dark, top rack comes out pale — that pattern almost always traces back to a failing convection fan motor. It slows gradually, stops circulating air through the oven cavity evenly. Samsung slide-in ranges in the 91006 zip show this after 5–7 years of heavy use. Some throw an F10 code first. Others just bake badly for months until someone notices. Calibration won't touch the root cause. The motor needs to come out and get replaced."
+  - title: "Self-Clean Lock Jams — Door Won't Open After the Cycle"
+    description: "The door latch assembly on KitchenAid and Thermador wall ovens can jam locked after the self-clean cycle finishes. A thermal cutoff inside the latch motor sticks, particularly in San Gabriel Valley summers when kitchen ambient temps already run high going into the cycle. Arcadia sits inland enough that summer kitchen temperatures regularly push 85–90°F before the oven even turns on — that thermal stress accelerates latch wear noticeably faster than coastal zip codes. Don't force it — prying that latch will break the door switch too, turning a $180 job into a $350 one. We carry replacement latch assemblies for the most common KitchenAid and Thermador units."
+
+faq:
+  - q: "How fast can you get to Arcadia for Oven?"
+    a: "We cover the 210 corridor daily — Santa Anita Park is a regular landmark on the route between Pasadena and El Monte. Call (323) 870-4790 before noon and we can typically arrive same afternoon. Evening slots available if daytime doesn't work."
+  - q: "Do you repair Bosch and Thermador ovens in Arcadia?"
+    a: "Yes. Bosch wall ovens and Thermador double units are the most common premium calls from the 91006 and 91007 zip codes. Heating elements, door latch assemblies, igniter kits, and convection fan motors for both brands travel on the van. No waiting on supplier orders."
+  - q: "What does oven repair cost in Arcadia, and how does the process work?"
+    a: "Diagnostic visit is $85, applied toward the repair if you move forward. Most heating element replacements and door latch repairs run $150–$280, parts and labor included. We quote before touching anything. Same-day emergency slots open most days — call (323) 870-4790 or schedule online."

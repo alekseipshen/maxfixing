@@ -1,0 +1,83 @@
+title: "Arcadia Range Repair — Gas Lines, Aging Homes, Real Fixes"
+
+intro: |
+  Tucked behind Santa Anita Park, the 1950s ranch blocks in 91007 still run on original
+  gas supply lines — and now they're feeding KitchenAid dual-fuel ranges and Bosch
+  freestanding units those pipes were never designed for. A burner that clicks but won't
+  light, or an oven that reads 350°F while your roast burns, points to something specific:
+  a faulty gas valve igniter, a failing spark module, or a control board glitch. We can
+  usually get there the same day. Gas ranges in this zip also see premature igniter wear
+  because residents run high-BTU burners hard — the electrode tips corrode faster, and
+  the spark module cycles more often than the rated service interval assumes. That mismatch
+  between how these homes were built and what's sitting on the range now is the root
+  cause of most calls we get in 91007.
+
+localContext: |
+  Most of Arcadia's residential stock sits across the 91006 and 91007 zip codes — a mix
+  of mid-century ranches near Baldwin Avenue and newer two-story builds closer to Duarte
+  Road. Older homes tend to have rough-in hookups sized for freestanding models; retrofitting
+  a 36-inch Thermador slide-in or a KitchenAid pro range into a tight cabinet cutout takes
+  patience and the right adapters. Hard water from the San Gabriel Basin also cakes mineral
+  deposits onto sealed burner caps, making ignition problems look like gas pressure issues
+  when they're not. The blocks east of Santa Anita Avenue near the racetrack tend to have
+  original 1-inch black iron supply lines — adequate for a basic freestanding range but
+  undersized for a high-BTU professional unit running multiple burners at once. Pressure
+  drop shows up as lazy, yellow-tipped flames on rear burners, which homeowners often
+  mistake for a failing regulator or dirty orifice. Check the line pressure first before
+  ordering parts. Homes along Longden Avenue and in the Peacock Village area skew newer
+  and tend to have Samsung and LG freestanding ranges — different failure patterns than
+  the older KitchenAid and Bosch units, but just as fixable.
+
+commonProblems:
+  - title: "Burner Won't Ignite — Mineral Buildup on Spark Igniters"
+    description: "LA's hard water leaves calcium scale on burner caps and igniter electrode tips.
+      The igniter clicks repeatedly but the flame never catches. Cleaning the electrode
+      buys time, but once the spark module itself corrodes, replacement is the only fix —
+      a 30-minute job on most KitchenAid and Bosch gas ranges. On Bosch 500-series units
+      specifically, the spark module sits behind the control fascia, so plan for 60 minutes
+      if the mounting hardware is frozen from age. LG ranges accumulate scale faster because
+      the sealed burner caps run tighter tolerances — even a thin calcium film disrupts the
+      spark gap enough to kill ignition completely. A quick calcium soak on the caps sometimes
+      buys another six months; a corroded electrode tip does not respond the same way."
+  - title: "Oven Temperature Running Off on Thermador and Mid-Range Units"
+    description: "A degraded temperature sensor probe sends false readings to the control board,
+      which leads to uneven baking or burned bottoms on Thermador ranges. The thermostat
+      calibration drifts first — you'll notice it before the board throws an error code.
+      Swapping the sensor probe resolves it cleanly without touching the board. On KitchenAid
+      dual-fuel models, the F3-E0 error code points directly at the sensor reading open
+      circuit. Replacement probe runs about $40 in parts, swap takes under an hour. Samsung
+      ranges show similar drift but usually display a SE or C-d0 code first, which at least
+      narrows down where to start."
+  - title: "Gas Smell Near the Range — Valve and Flex Connector Checks"
+    description: "Homes built along Arcadia's older corridors near Live Oak Avenue have aging
+      flexible gas connectors that develop micro-leaks near the valve body over time.
+      Even a faint gas smell near your Samsung or LG range means shut off the supply valve
+      immediately and call us. Worn gas valve assemblies and cracked flex lines are
+      straightforward repairs — just not ones to sit on. The corrugated stainless connectors
+      standard on mid-2000s installs are past rated service life in many of these homes.
+      A new AGA-certified connector, a pressure test, and a relight takes under an hour
+      and eliminates the guesswork. Call (323) 870-4790 — same-day response for anything
+      gas-related."
+
+faq:
+  - q: "How fast can you get to Arcadia for range repair?"
+    a: "From our central dispatch near the 210 corridor, Arcadia is typically 45–90 minutes
+      from booking. Same-day slots run Monday through Saturday. Call (323) 870-4790 and
+      we'll confirm your window within the hour — evening appointments usually available too."
+  - q: "Do you work on KitchenAid, Bosch, and Thermador ranges?"
+    a: "Those are three of the most common brands in this part of the San Gabriel Valley.
+      Typical calls: KitchenAid dual-fuel control board failures, Bosch spark module
+      replacements, Thermador temperature sensor swaps. Parts for all three usually
+      on the truck."
+  - q: "What does a range repair cost, and is there a diagnostic fee?"
+    a: "Diagnostic fee applies to the visit and gets credited toward the repair if you
+      proceed. Most range repairs in Arcadia run $150–$350 depending on the part and
+      labor. Same-day emergency slots are available — call (323) 870-4790 to check
+      today's schedule."
+  - q: "Can you repair a gas range that's only a few years old?"
+    a: "Yes. LG and Samsung gas ranges from 2018–2023 have a known pattern of igniter
+      switch failures around the 4–6 year mark — the switch contacts wear faster than
+      the igniter module itself. Replacing just the switch assembly runs about $80–$120
+      in parts on those models. Bosch and KitchenAid units in the same age range more
+      often need a spark module or a burner valve — both are stock items on the truck.
+      Schedule online or call (323) 870-4790 for same-day availability in Arcadia."

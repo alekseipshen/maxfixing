@@ -1,0 +1,33 @@
+title: "Arcadia Cooktop Repair — Gas & Induction, Hard Water Damage"
+
+intro: |
+  Santa Anita Avenue runs straight through the middle of 91006, and the homes lining the streets near the Arboretum are loaded with Thermador and Bosch cooktops installed during the big kitchen remodel wave of the early 2000s. LA County's notoriously hard water has been depositing mineral scale inside igniter ports and under ceramic surfaces ever since. That's the real reason so many Arcadia burners click endlessly but won't light — and why a quick cleaning only buys a few weeks before the problem comes back.
+
+  Hard water is the silent culprit behind most of our cooktop calls in this zip code.
+
+  Most failures — igniter corrosion, uneven gas flow, cracked ceramic from thermal shock — look like random breakdowns. They're not. The common thread is mineral accumulation and heat cycling stress on parts that weren't designed for Southern California's water chemistry. Knowing that changes the diagnostic approach: a tech who fixes the symptom without addressing the underlying buildup will be back at your door in two months. That's why the repair has to start with a proper assessment of what the hard water has already done before any parts get ordered.
+
+localContext: |
+  Housing in 91006 and 91007 runs from 1950s California ranch to 1980s custom builds, with newer infill along Baldwin Avenue that skews toward full induction setups. Older parcels near Live Oak Avenue mostly have gas cooktops — some original cast iron grate units, many replaced with KitchenAid or Samsung models that didn't always match the original cabinet cutout dimensions. Tight galley kitchens are common here, which means part access can slow a repair more than the actual fix.
+
+  The foothills neighborhoods north of Huntington Drive are a different story. Larger kitchens, professional-style built-ins — Thermador 36-inch gas cooktops, Wolf induction ranges, occasional Miele units in higher-end remodels. These aren't universal repairs. The manifold assemblies run differently, BTU ratings are higher, and the sealed spark modules require manufacturer-specific diagnostic steps to isolate a fault correctly. Showing up without the right tools means a second trip and a delayed repair.
+
+  Street parking on some of the narrower residential lanes off El Monte Avenue can be tight for a service van. Not a dealbreaker — just worth mentioning the address when you book so we can plan accordingly.
+
+commonProblems:
+  - title: "Burner clicks but won't ignite — mineral-clogged igniter electrode"
+    description: "Arcadia's municipal water builds up calcium deposits inside the igniter port and around the burner cap. The spark module fires, you hear rapid clicking, no flame appears. Cleaning gives temporary relief. Eventually the igniter electrode corrodes past usable tolerance and needs outright replacement. This is the most frequent call on Thermador gas cooktops in the 91006 zip — hard water accelerates it faster than most homeowners expect. A secondary failure point worth checking: the ceramic igniter cap can shift slightly out of alignment after years of heat cycling, disrupting the spark gap geometry. Misdiagnosing that as a faulty spark module means replacing a $180 part when a $30 electrode-and-cap swap would have solved it."
+  - title: "Cracked ceramic glass on induction and radiant electric cooktops"
+    description: "Bosch and KitchenAid induction tops use tempered ceramic glass that handles daily cooking fine but cracks from thermal shock — a cold pan set on a still-warm surface, or cast iron dropped from counter height. Not cosmetic. A cracked glass panel breaks the electrical insulation underneath, making the unit unsafe to run. The panel has to come out and a manufacturer-spec replacement gets bonded in. Bosch 500 and 800 series units require OEM glass specifically — generic panels don't seat correctly against the control board housing and can cause secondary faults that weren't there before the repair."
+  - title: "Uneven heat — sticky gas valve or blocked burner orifice"
+    description: "Samsung and LG gas cooktops sometimes develop a sticky gas valve that won't modulate properly at lower dial settings, so one burner runs far hotter than it should. A partially clogged orifice produces a similar symptom — gas flow is uneven, flame pattern goes lopsided. Both issues strain the ignition sequence over time and make consistent cooking impossible. Gas valve replacement resolves it in most cases. One often-missed cause: grease and spill residue packed into the venturi tube narrows the air-to-gas mix channel and mimics a valve problem exactly — but a 15-minute venturi cleaning fixes it without any parts order at all."
+
+faq:
+  - q: "How fast can you get to Arcadia for a cooktop repair?"
+    a: "Arcadia falls right on our San Gabriel Valley daily route. Most calls get a tech out within 2 hours of booking. Evening slots are available weekdays. Call (323) 870-4790 to check same-day openings — we usually have them."
+  - q: "Do you repair Bosch and Thermador cooktops in Arcadia?"
+    a: "Yes — those two brands account for a big share of our Arcadia service calls. Also handle KitchenAid, Samsung, LG, and GE. On Bosch induction the common failures are control board issues and cracked glass panels. On Thermador gas it's almost always igniter electrodes or the spark module."
+  - q: "What does a cooktop repair cost, and is same-day service available?"
+    a: "Depends on the part. Replacing an igniter electrode or thermocouple runs on the lower end. Swapping the ceramic glass on a Bosch induction unit costs more — but still well under a new cooktop. Same-day service is standard. We diagnose on-site and quote a flat price before anything gets touched."
+  - q: "My induction cooktop is showing an error code — what should I do?"
+    a: "Bosch induction units commonly throw E0 or E3 codes pointing to a temperature sensor failure or a control board fault — both diagnosable on-site. LG and Samsung induction models use different code sets, and Samsung in particular can be vague about the root cause. Call (323) 870-4790 with the model number and the exact code and we can usually give you a read before the appointment. Most of these don't need a new unit — just the right component swap."
