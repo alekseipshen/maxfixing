@@ -1,0 +1,23 @@
+title: "Aliso Viejo Range Repair — Tract Kitchens & Premium Gas Ranges"
+
+intro: |
+  Planned communities age in predictable ways. The ranges that came spec'd into 92656's original 1990s kitchens are hitting the 25-30 year mark, and the gas supply lines running behind those cabinets are original to the build. Pacific Ridge and Glenwood homeowners have been upgrading to KitchenAid dual-fuel and Bosch slide-in ranges over the past decade — different equipment, same problems. Burner ignition failures and oven temperature drift account for most of our calls in Aliso Viejo.
+
+localContext: |
+  The housing stock in 92656 is almost entirely 1990s-to-early-2000s planned construction — townhomes along Aliso Viejo Parkway and single-family tracts in Glenwood, Pacific Ridge, and neighborhoods backing up against Aliso and Wood Canyons Wilderness Park. Kitchens were built for standard 30-inch freestanding ranges on gas drops that haven't been serviced since the build-out. Slide-in models create access challenges in tighter townhome layouts near Aliso Viejo Town Center — parking a service van on those narrow interior streets takes planning. The mix of original spec ranges and newer premium upgrades means our van typically carries parts for both a basic Kenmore and a Thermador on the same run.
+
+commonProblems:
+  - title: "Hard Water Mineral Buildup Killing the Burner Igniter"
+    description: "Orange County tap water runs 300-400 ppm in dissolved calcium and magnesium, and Aliso Viejo is squarely in that hard-water zone. That mineral coat builds up on the spark igniter electrode and burner cap over time until the arc can't jump reliably to the gas. On KitchenAid and Bosch gas ranges, cleaning or replacing the igniter module solves it in most cases. If moisture has also reached the control board, the diagnosis gets more involved — but that's the exception."
+  - title: "Uneven Flame Tied to Original 1990s Gas Supply Lines"
+    description: "Many 92656 homes are still running on infrastructure roughed in during the original build, and inconsistent line pressure creates real problems at the burner. A worn gas valve or partially blocked burner orifice leaves one burner flaming high while the next barely catches. Samsung and LG ranges are more sensitive to pressure variation than older domestic brands — their gas valve assemblies are calibrated tighter. Line pressure check always comes before any parts swap."
+  - title: "Oven Temperature Dropping Out on KitchenAid and Thermador"
+    description: "Pacific Ridge and Glenwood kitchens frequently run KitchenAid or Thermador ranges where the igniter has been degrading quietly for months. The oven fires up, runs a few minutes, then stalls well below the set temperature. On gas models, a weak igniter glows but doesn't draw enough current to hold the gas valve open — the valve itself is fine. One igniter replacement typically resolves it, and we carry Thermador igniter assemblies stocked specifically for Orange County calls. Dual-fuel KitchenAid models add a layer: if the bake element on the electric oven side is also failing, you'll see the F2-E1 error code alongside the temperature drop. Two separate fixes, not one."
+
+faq:
+  - q: "How fast can you get to Aliso Viejo for a range repair?"
+    a: "Aliso Viejo sits on our regular Orange County service loop — typically 25-35 minutes out depending on the 73 corridor. Call (323) 870-4790 in the morning and same-day service is almost always available in 92656. Evening slots open up too. We cover the full stretch from Aliso Creek Road through Pacific Ridge."
+  - q: "Do you work on KitchenAid and Bosch ranges specifically?"
+    a: "Both are common calls in Aliso Viejo. KitchenAid dual-fuel models frequently show control board or igniter issues after the 10-year mark. Bosch slide-in units need model-specific igniter assemblies that most shops don't stock. Samsung and LG gas ranges come up a lot in the townhome complexes — F-codes on those usually trace back to the gas valve or control board."
+  - q: "What does a range repair typically cost, and can you come the same day?"
+    a: "Diagnostic visit is $75, applied toward repair if you proceed. Most igniter or burner fixes run $150-$250 parts and labor combined. Control board replacements on premium brands like Thermador or KitchenAid can push $350-$450 depending on the part. We quote on-site before starting anything. Same-day and emergency evening appointments available — call (323) 870-4790."
