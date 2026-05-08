@@ -1,0 +1,32 @@
+title: "La Habra Cooktop Repair — Gas & Induction, Same-Day 90631"
+
+intro: |
+  That Bosch five-burner gas cooktop gets used hard in the 90631 zip — families cooking every night until the igniter electrodes crust over with grease and carbon and nothing lights cleanly. La Habra's older ranch homes along Lambert Road and the remodeled colonials near Westridge run into the same pattern: solid appliances that just need someone who knows the parts. MaxFixing technicians cover La Habra daily, usually on-site within two hours of your call. Gas cooktops, induction surfaces, dual-fuel setups — same-day diagnosis, same-day fix when parts are on the van.
+
+localContext: |
+  Most of the housing stock in 90631 dates to the 1960s and 1970s, when gas cooktops were standard and kitchens were built around freestanding ranges. Remodels over the last decade swapped in slide-in KitchenAid and Samsung induction units, though the electrical circuits weren't always upgraded to match — induction pulls 40–50 amps and a 30-amp circuit will trip the breaker mid-cook. That mismatch shows up on service calls more than you'd expect.
+
+  Orange County hard water adds another layer: mineral deposits clog burner ports in Westridge and neighborhoods east of Beach Boulevard faster than most homeowners expect. La Habra sits at around 350–400 ppm hardness, which is high enough to leave visible calcium scale on cooktop grates and inside gas orifices within a year of normal use. KitchenAid induction surfaces develop white mineral hazing along the ceramic glass edges — looks like damage but usually cleans off with the right descaler. Bosch gas models get scale inside the burner cap channels, which throttles flame output on the rear burners first.
+
+commonProblems:
+  - title: "Gas Igniter Clicks Constantly but Won't Light — Fouled Electrodes in 1970s-Era Kitchens"
+    description: "Decades of cooking deposits grease directly onto the igniter electrode tip and the surrounding spark module housing. The clicking means the control board is firing correctly — the problem is the electrode can't produce a clean arc through the buildup. KitchenAid and GE gas cooktops in La Habra show this failure constantly. A thorough cleaning plus electrode swap usually solves it in one visit. If the spark module itself has shorted — which happens when grease gets into the wiring harness behind the cooktop frame — the control board needs to come out for testing. That's a longer repair, about 90 minutes, but still same-day when parts are standard SKUs."
+
+  - title: "Cracked Ceramic Glass Surface — Induction Units Failing Under Thermal Stress"
+    description: "La Habra summers push ambient kitchen temps past 90°F, and induction glass that's been scratched by cast iron or stoneware can fracture under repeated thermal cycling. Samsung and Bosch induction models share a similar ceramic glass panel design — replacement means removing the entire surface assembly and reseating the induction coil beneath. Most cracks compromise heating element efficiency, not just looks. An E1 or E3 error code on a Samsung induction unit after a crack usually means the coil is drawing uneven current through the damaged panel. Don't keep running it — the control board can burn out if the coil shorts. New glass panel plus coil inspection runs about two hours total."
+
+  - title: "One Burner Runs Weak — Blocked Orifice or Degrading Gas Valve"
+    description: "A Thermador or LG gas cooktop that flames low on one burner usually has a partially blocked burner cap orifice or a gas valve that's no longer opening fully. In La Habra homes with older gas lines off Imperial Highway, sediment accumulates in the valve body over time. Cleaning the orifice and pressure-testing the valve takes about 45 minutes and clears most uneven-flame complaints in a single call. If the valve itself is sticking — you can sometimes hear it hiss slightly when the burner knob goes to ignite position — replacement is the only reliable fix. Thermador gas valves are model-specific and we carry the common ones."
+
+  - title: "Induction Surface Shows No Power — Control Board or Ribbon Cable Failure"
+    description: "LG and Bosch induction cooktops that go completely dark — no display, no touch response — usually have a failed main control board or a disconnected ribbon cable between the board and the glass surface. This happens in La Habra homes where the cooktop sits above an oven drawer that gets opened constantly, vibrating the ribbon connection loose over months. The fix is pulling the cooktop, reseating or replacing the cable, and testing the board. If the board itself fried — common after a power surge on older 90631 circuits — replacement parts run $180–$240 depending on model. Call (323) 870-4790 with your model number and we can usually confirm part availability before the appointment."
+
+faq:
+  - q: "How fast can you get to La Habra for cooktop repair?"
+    a: "Lambert Road and Beach Boulevard are both clean routes into 90631 from our other Orange County stops. Most days, on-site within two hours. Morning calls get first pick on same-day slots — call (323) 870-4790 before 10am and we'll usually be there by noon. Evening appointments available most weekdays for jobs that run long."
+
+  - q: "Do you repair Bosch and KitchenAid cooktops in La Habra?"
+    a: "Both brands show up constantly on La Habra service calls. Bosch gas models usually need igniter module or burner cap work — the 500 and 800 series have slightly different electrode spacing, so the replacement part matters. KitchenAid induction units tend to come in with control board errors or damaged ceramic glass, sometimes both after a surge. LG and Samsung also covered — give us the model number and we'll confirm the likely fix and part availability upfront before we drive out."
+
+  - q: "What does a cooktop repair cost, and is same-day service actually available?"
+    a: "Flat-rate diagnostic fee, and you approve the repair cost before any work starts. Igniter electrode replacements and thermostat resets typically run $120–$180 parts and labor combined. Ceramic glass panel replacement on induction units runs higher — $220–$380 depending on brand and panel size. Same-day slots fill by mid-morning most days, so call (323) 870-4790 early. If you're in the Westridge area or near La Habra Heights, factor in that our van usually approaches from the Fullerton side — still within the two-hour window."

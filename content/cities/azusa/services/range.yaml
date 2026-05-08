@@ -1,0 +1,29 @@
+title: "Azusa Range Repair — Gas Ignition & Oven Fixes in 91702"
+
+intro: |
+  Gas ranges in 91702 take a beating — the dust and grit blowing off the San Gabriel foothills works into burner caps and clogs igniter tips faster than most homeowners realize. Much of the housing along Azusa Avenue and Foothill Boulevard dates to the 1955–1975 era, and the gas supply lines running behind those kitchen cabinets haven't always been serviced since. Samsung and GE freestanding ranges are the most common units we see out here, typically installed by landlords in the early 2000s when the original appliance finally gave out. Bosch slide-ins started showing up in the last decade as homeowners remodeled — those need different disassembly than a basic freestanding unit.
+
+localContext: |
+  The 91702 zip stretches from the 210 freeway corridor through older neighborhoods south of Foothill Boulevard, where 1950s bungalows sit alongside mid-century rental duplexes. Compact galley kitchens in those older builds mean the range often sits flush against cabinetry on three sides — reaching a gas valve or bake element behind a slide-in unit requires a full pull-out, which adds time to any repair. Rental units near Citrus College and Azusa Pacific University run mid-2000s Whirlpool or GE models hard, seven days a week, which accelerates part wear significantly. The stretch of Alosta Avenue between Todd and Barranca sees a fair number of these high-turnover rentals, and the ranges inside them rarely get cleaned properly between tenants — grease buildup around the burner ports compounds the ignition problems that dusty air creates.
+
+commonProblems:
+  - title: "Burner Won't Ignite After Foothill Grit Gets Into the Caps"
+    description: |
+      The igniter tip and burner cap on residential gas ranges collect airborne debris, and the San Gabriel Valley pushes fine grit through kitchen windows year-round in Azusa. On Samsung and LG gas models, a clogged burner orifice produces a clicking igniter that never catches — the electrode sparks, but the gas path is partially blocked by mineral and dust deposits. Clearing the orifice and checking the electrode gap typically resolves it without replacing any parts at all.
+  - title: "Oven Not Heating — Igniter Amp Draw or Failed Bake Element?"
+    description: |
+      Electric ranges show a failed bake element clearly: a burn mark or a clean break in the coil. Gas ovens are harder to read — the igniter glows orange but never opens the gas valve because it's pulling under 3.2 amps, and the valve won't trip below that threshold. GE and Whirlpool gas models in older Azusa kitchens hit this failure constantly past the 12-year mark. An amp draw test at the igniter cable confirms the diagnosis in two minutes. KitchenAid dual-fuel models sometimes throw an F2 error code alongside a no-heat symptom — that's usually the oven sensor, not the igniter, and the fix is different.
+  - title: "Faint Gas Smell Near the Range — Valve Stem or Supply Line?"
+    description: |
+      A soft gas odor near a KitchenAid or Bosch range almost always points to a worn valve stem o-ring or a burner cap that isn't seating flush after cleaning. Tighter kitchens in Azusa's older bungalows mean ranges get nudged out repeatedly — that movement can crack a supply line fitting or loosen the flex connector at the wall stub. Pressure-testing the full gas line is part of every range call we run here.
+
+faq:
+  - q: "How fast can you get to Azusa for Range repair?"
+    a: |
+      Azusa lands on our regular San Gabriel Valley rotation — we come up the 210 from the west side or down through the 57 interchange depending on where the day's calls are clustered. Most 91702 appointments get same-day availability, usually a 2-hour arrival window. Call (323) 870-4790 in the morning to lock in a slot for the same afternoon.
+  - q: "Do you repair Samsung and LG ranges in Azusa?"
+    a: |
+      Both are among the most common brands we work on in 91702. Samsung freestanding gas models typically come in for igniter electrode replacements or control board resets after a power surge. LG five-burner units develop worn valve stems and surface igniter failures on the back burners first. Parts for both stay stocked in the service van.
+  - q: "What does a range repair cost, and how quickly can you come?"
+    a: |
+      The diagnostic fee is flat and gets applied toward the repair if you approve the work. Most parts — bake elements, igniter assemblies, gas valve components — we carry on the truck, so there's usually no waiting on a parts order. Same-day repair is standard for igniter and element jobs. Evening slots are available. Call (323) 870-4790 or book online to get on the route today.

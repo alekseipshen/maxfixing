@@ -1,81 +1,97 @@
 title: "Tustin Double Oven Repair — Old Town to Tustin Ranch"
 
 intro: |
-  The Tustin Legacy development along Edinger Avenue brought a wave of new construction,
-  and those builds came stocked with KitchenAid and Bosch double wall ovens. Those installs
-  are now 10-15 years old. Upper cavity heating failures and control board errors are showing
-  up on a regular basis.
+  The old MCAS Tustin blimp hangars off Edinger Avenue are the landmark everyone
+  knows, and the neighborhoods that grew up around that base have been running
+  some serious kitchen equipment for decades. Tustin Ranch builds from the 1990s
+  commonly spec'd KitchenAid double wall ovens — units now hitting the age where
+  the upper cavity heating element quietly fails mid-roast. That's the call we
+  get most often out here.
 
-  Old Town Tustin is a different situation entirely. The 1950s and '60s homes that got kitchen
-  renovations in the early 2000s are running wall ovens that have logged thousands of hours
-  through every holiday season since. Door hinge failures in November, bake element burnouts
-  in December — it runs on schedule.
+  Bosch and Thermador show up in the newer Tustin Legacy builds. Different brands,
+  different failure modes — and knowing which parts to stock before the truck rolls
+  makes a real difference on first-visit fix rates.
 
 localContext: |
-  Tustin Ranch (92782) homes from the late 1990s and early 2000s typically have 27-inch
-  double wall ovens set into cabinet towers — KitchenAid and Thermador were the popular
-  choices in those higher-end builds along streets like Greenwood and Bent Tree.
+  Homes in the 92782 zip code — Tustin Ranch, Peters Canyon, and the Columbus
+  Square and Greenwood developments in Tustin Legacy — tend to be 1990s-to-2010s
+  planned construction with built-in double ovens on original cabinetry. Old Town
+  Tustin (92780) tells a different story: pre-war bungalows and 1960s ranch homes
+  with tighter kitchen footprints where wall oven cutouts are sometimes undersized
+  for modern units. Thermador and Bosch units show up frequently in the Legacy
+  new builds.
 
-  Over in 92780, near Red Hill Avenue and Old Town, kitchens run tighter. The oven is often
-  sandwiched between cabinets with minimal clearance on both sides, which adds real time to
-  any job requiring a pull-out to access the control board or replace a lower door hinge
-  assembly. Not a problem on Tustin Ranch streets where driveways are long — but the older
-  grid near El Camino Real sometimes means the van sits on the street while the tech carries
-  parts two houses down.
+  Older GE and Frigidaire models still run in apartments near the Tustin Marketplace corridor.
 
-  The Tustin Marketplace corridor off Jamboree Road sees a different appliance mix entirely.
-  Newer townhome developments in 92782 have gone with LG and Samsung double wall configurations
-  — stacked 30-inch units rather than traditional 27-inch built-ins. Connector corrosion from
-  OC coastal humidity cycling is a recurring issue in those kitchens, even 10 miles inland.
-
-  One thing that catches people off guard in this area: many Tustin Ranch homes were originally
-  plumbed for gas ranges but switched to all-electric kitchens during the 2000s remodels.
-  If your wall oven shares a 240V circuit with a microwave drawer, that circuit is often
-  undersized. We check breaker draw before diagnosing a control board — it avoids a $400 mistake.
+  The Tustin Ranch Road communities — Vidorra, Rancho Verano — were built to a
+  standardized kitchen layout across entire tracts. Same cabinet cutout dimensions,
+  same rough-in wiring, same 240V circuit configuration. A repair that works on one
+  unit in those neighborhoods almost always applies directly to the neighbor's. That
+  consistency means we can carry the right parts the first time instead of making a
+  second trip for a bracket or a specific harness connector.
 
 commonProblems:
-  - title: "Upper Oven Dead, Lower Still Works — Heating Element or Relay"
-    description: "Split-cavity units put independent heating elements in each compartment. The upper
-      bake element on KitchenAid wall ovens tends to fail first — it runs hotter and cycles more
-      often. An F2-E1 error code usually flags this. Sometimes the element itself is intact but
-      the relay on the control board that powers it has burned out. Replacing the relay is a $40
-      fix versus a $280 board replacement, so testing the circuit first matters. Tustin Ranch
-      kitchens with those 27-inch KitchenAid tower builds in 92782 see this failure pattern
-      regularly around the 12-15 year mark."
-  - title: "Temperature Mismatch — One Cavity Runs Hot or Cold"
-    description: "A drifting temperature sensor (the RTD probe mounted on the rear cavity wall)
-      causes one cavity to run 50-75°F off while the other reads accurately. Bosch wall ovens
-      in Tustin Ranch homes use a precision thermistor that loses calibration over time. The
-      symptom: cookies burn on the upper rack, bread is underdone on the lower. Swapping the
-      probe is a 20-minute job. Skipping calibration after the swap puts you right back to
-      the same problem."
-  - title: "Both Cavities Dead After a Power Surge — Shared Control Board"
-    description: "Thermador double wall ovens share a single control board between both cavities. A
-      voltage spike or brief outage can knock out both simultaneously. Before ordering a new
-      board — which runs $350-500 on these units — check the thermal fuse and relay contacts
-      first. A loose connector behind the board causes the same dead-panel symptom for a
-      fraction of the cost. Thermador units in Tustin Ranch's larger homes near Peters Canyon
-      Regional Park are worth diagnosing carefully before throwing parts at them."
+  - title: "Upper oven cavity stops heating while lower still works"
+    description: |
+      Each cavity runs its own heating element and thermal fuse —
+      when one goes dark, those are the two parts we check first. Bosch double
+      wall ovens in the 8-12 year range hit this pattern regularly. The thermal
+      fuse itself is a $15-40 part; the heating element costs more. Diagnosis
+      tells us which one before we order anything.
+
+      On Bosch 800 Series units specifically, a secondary relay on the control board
+      can cut power to just one cavity while leaving the other functional. That relay
+      failure mimics a dead heating element exactly. We test element continuity with
+      a multimeter before assuming it's the board — saves the customer $400 on an
+      unnecessary part.
+  - title: "Temperature gap — top oven runs 40 degrees off from the bottom"
+    description: |
+      Set both cavities to 375°F and one bakes at 330°, the other
+      at 415°. That spread almost always traces back to a drifting RTD
+      temperature sensor, not the control board. KitchenAid Superba double ovens
+      in Tustin Ranch see this after the 10-year mark, particularly after summer
+      heat cycles push the sensors past their calibration range.
+
+      Sensors run $30-80 depending on the model. After swapping one, we run a
+      test bake cycle and verify against a separate calibrated thermometer — that
+      confirmation step is what separates a real fix from a guess.
+  - title: "Blank display, buttons unresponsive — control board failure"
+    description: |
+      A dead control board shows up as a blank screen, error codes
+      that cycle randomly, or a keypad that registers nothing. Voltage spikes
+      during Tustin's summer peak-demand hours are a common trigger on Thermador
+      double wall ovens. We verify the door latch assembly and incoming power
+      before ordering a $400-600 replacement board.
+  - title: "Self-clean cycle locks the door and won't release"
+    description: |
+      After a self-clean cycle, the door latch assembly is supposed to release
+      once the cavity cools below 550°F. Sometimes the latch motor or thermal
+      interlock sticks and the oven stays locked even when completely cold.
+      Thermador and KitchenAid units in Tustin Ranch see this more in summer —
+      ambient kitchen heat slows the cooldown and the interlock doesn't reset correctly.
+
+      Locked oven is a complete loss-of-use situation. Call (323) 870-4790 and
+      we prioritize same-day service for this one — usually there within 2 hours.
+      The latch motor assembly runs $120-200 in parts if a reset cycle doesn't clear it.
 
 faq:
-  - q: "How fast can you get to Tustin for a wall oven repair?"
-    a: "Orange County routes run daily — Tustin sits right off the 55 and 5, so travel time is
-      predictable. Same-day slots are usually available, and getting to your door within 2 hours
-      of booking is typical. Call (323) 870-4790 to lock in a time. Evening appointments are
-      available if daytime doesn't work. Whether you're in 92780 near Old Town or out in 92782
-      off Tustin Ranch Road, same-day service applies."
-  - q: "Do you repair KitchenAid and Thermador double ovens specifically?"
-    a: "Yes — KitchenAid, Thermador, and Bosch are the three brands we see most in Tustin.
-      KitchenAid work typically involves door hinge assemblies and bake element replacements —
-      the KODE500 and KODE507 series have a known issue with the lower hinge bracket cracking
-      after years of thermal cycling. Thermador: control board diagnostics and thermal fuse
-      testing. Bosch: temperature sensor swaps and door gasket replacements on older 27-inch units.
-      LG wall ovens are also showing up in newer Tustin Legacy builds — the LWD3063 series throws
-      an F-3 code when the cavity sensor connector corrodes from humidity cycling."
-  - q: "What does a double oven repair typically cost in Tustin?"
-    a: "Heating element replacements usually land between $150-250 in parts plus the diagnostic
-      fee. Control board work on Thermador or KitchenAid can run $400 and up depending on parts
-      availability. Diagnosis is done on-site and quoted before any work starts. For urgent
-      situations — holiday weekend, oven down before a dinner party — call (323) 870-4790 and
-      ask about same-day emergency slots. Common elements and sensors for KitchenAid and Bosch
-      stay on the van, so most straightforward repairs close in a single visit."
+  - q: "How fast can you get to Tustin for double oven repair?"
+    a: "Daily routes run through the 55 and 5 corridors — Tustin is typically
+      30-40 minutes from dispatch. Same-day slots are available most weekdays.
+      Call (323) 870-4790 to check what's open today."
+  - q: "Do you repair KitchenAid and Bosch double wall ovens in Tustin?"
+    a: "Yes — KitchenAid (including the Superba series) and Bosch are the two
+      we see most in this area. Thermador and Samsung units are also common jobs.
+      Brand-specific parts are usually sourced within 24 hours of diagnosis."
+  - q: "What does double oven repair typically cost, and how soon can you come?"
+    a: "Diagnostic visit runs $75-95 and covers the full assessment. A heating
+      element or thermal fuse swap usually lands at $150-280 total. Control board
+      replacement can reach $400-700. Same-day and evening appointments available
+      — call (323) 870-4790."
+  - q: "My Thermador wall oven shows error code E118 — is that a control board issue?"
+    a: "E118 on Thermador usually flags a communication fault between the upper
+      cavity's control module and the main board. Not always a full board failure
+      — sometimes it's a ribbon cable that's worked loose at the connector, which
+      costs nothing to fix if caught early. We run a full diagnostic before
+      recommending any part replacement. Evening slots available in Tustin
+      — call (323) 870-4790."

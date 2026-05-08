@@ -1,0 +1,36 @@
+title: "Glendora Range Hood Repair — Foothills Kitchens Cook Hard"
+
+intro: |
+  Craftsman-era homes near Glendora Village and the 1960s ranch tracts along Foothill Boulevard run their range hoods hard — this part of the San Gabriel Valley actually cooks. That KitchenAid wall-mount unit above a six-burner gas range handles serious daily use, and when the blower stops pulling smoke, your kitchen fills fast. Grease buildup and summer heat don't make a forgiving combination up here.
+
+  Range hoods in 91741 fail in predictable patterns. Knowing which part is likely gone saves diagnostic time on-site.
+
+localContext: |
+  Much of 91741 is 1950s-to-1970s ranch housing where range hoods were retrofitted into kitchens that weren't originally designed for them — tight duct runs, sometimes flex duct that chokes airflow before it ever reaches the exterior. The older homes near Charter Oak State Park and along Lone Hill Avenue weren't built with serious ventilation in mind; a duct run making three 90-degree turns before hitting the exterior wall loses so much static pressure that even a brand-new blower can't compensate. That's why the motor hums, grease builds up faster than usual, and the homeowner assumes the hood is broken when the real problem is the ductwork it's attached to.
+
+  Hillside properties off Glendora Mountain Road lean toward built-in Thermador and Bosch wall-mount systems. Those require brand-specific mounting hardware and control boards, not generic parts pulled off a shelf. A 48-inch Thermador chimney hood in a Glendora Highlands new build is an entirely different job than a 1965 ranch house on Vermont Avenue with a Broan insert.
+
+commonProblems:
+  - title: "Blower Motor Burnout from Valley Summer Heat"
+    description: |
+      San Gabriel Valley summers push ambient indoor temps well above average, and hoods running longer hours wear out blower motors faster than the manufacturer's rated lifespan. A failed blower motor on a KitchenAid or Bosch unit means zero airflow — sometimes it hums but won't spin, sometimes it cuts out mid-use. Replacement means matching the exact RPM spec for that model, not just swapping in whatever fits.
+
+      The KitchenAid KVWB606DSS runs a specific two-speed motor that's different from the variable-speed units in the 900-series Bosch hoods. Wrong motor, wrong airflow curve — CFM drops around 30% even with a clean install.
+  - title: "Grease Filter and Backdraft Damper Buildup"
+    description: "LA hard water combines with cooking grease to form a thick paste that coats aluminum mesh grease filters and jams the backdraft damper flap shut. Restricted airflow follows — then noise, then odor. On Bosch recirculating hoods, a saturated charcoal filter compounds it: cooking smells push back into the kitchen instead of getting absorbed. Both parts need to be replaced on a schedule, not just rinsed. Most homeowners in 91741 find out the hard way after the damper seizes completely shut and the blower motor overheats trying to force air through a clogged path — at which point you're replacing both."
+  - title: "Control Board Failures on Thermador and Built-In Units"
+    description: |
+      Thermador wall-mount hoods in the hillside homes above 91741 depend on a control board that manages fan speed, lighting circuits, and auto-shutoff timing. Steam, power fluctuations, or just age corrode the board — fans lock to one speed or stop responding entirely, lights flicker or go dark. Exact model matching matters here; the wrong board revision won't communicate with the hood's sensor array, and Thermador's THUD36FS uses a different firmware revision than the THUD30FS even though they look identical on the outside.
+
+      LG island hoods in newer Glendora builds show error code F3 for a thermistor failure on the control board — not the motor, which is where most people start diagnosing. That's a two-hour difference in repair time.
+
+faq:
+  - q: "How fast can you get to Glendora for range hood repair?"
+    a: "From our coverage base, Glendora is typically 15-20 minutes out. Same-day slots run most weekdays — usually there within 2 hours of your call. Evening appointments are available if daytime doesn't work. Call (323) 870-4790 to check what's open today."
+  - q: "Do you repair Bosch and Thermador range hoods, or just basic brands?"
+    a: |
+      Both are regulars in Glendora. Bosch units usually need blower motor or charcoal filter work — the 500-series DUH30252UC is the most common call in this zip. Thermador repairs more often involve the control board or the exhaust fan assembly. LG and Samsung island hoods in newer builds are also on regular rotation; parts are stocked for all of them.
+
+      KitchenAid wall-mounts are the most frequent repair overall in this neighborhood — mostly blower motors and wiring harness failures from heat cycling. Call (323) 870-4790 to book same-day service on any of these.
+  - q: "What does range hood repair typically cost, and is same-day service available?"
+    a: "Most repairs land between $150-$350 depending on the part — a control board or blower motor runs more than a damper or filter swap. Same-day service is available most days, including some evenings. Schedule online or call (323) 870-4790 for an exact window."
