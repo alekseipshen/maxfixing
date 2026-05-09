@@ -1,23 +1,114 @@
-title: "Gardena Cooktop Repair — Gas & Induction Service | South Bay 90247"
+title: "Gardena Cooktop Repair — South Bay Same-Day Service"
 
 intro: |
-  Western Avenue runs through the heart of 90247, and the kitchens in those blocks tell a clear story — Whirlpool gas cooktops from the early 2000s sitting next to Samsung induction units dropped in during last year's remodels. Many of these homes went up right after the war, with gas stub-outs not sized for modern BTU loads. Pressure swings on older supply lines — common through the 90249 corridor — mess with igniter timing in ways that can look electrical at first glance. Cooktop issues in this part of South Bay almost always have a local angle. South Bay is on our regular route, and Gardena calls land on the schedule fast.
+  Drive down Vermont Avenue toward 90247 and you'll find block after block of post-war
+  bungalows with compact kitchens that have been running hard for decades. A lot of those
+  kitchens got upgraded at some point — swapped the old freestanding range for a GE or
+  Whirlpool gas cooktop — but the underlying rough-ins are still vintage.
+
+  MaxFixing covers Gardena from the South Bay route. Most calls get a technician on-site the same day.
 
 localContext: |
-  The housing stock around zip codes 90247 and 90249 skews heavily toward 1940s and 1950s post-war bungalows with compact galley kitchens. Cabinet cutouts were sized for 30-inch freestanding ranges, not the wider slide-in cooktops homeowners are dropping in now — tight clearances make some repairs more involved than they first appear. Garden apartments along Normandie Avenue run GE and LG electrics hard through large households. South Bay summers push kitchens past the thermal tolerance manufacturers design for — particularly glass-top units that have no ventilation clearance overhead. Many of these older homes also share a single gas supply line between the range, water heater, and dryer; when cooktop pressure drops mid-use, the answer sometimes starts at the meter shutoff on the side of the house, not the burner head.
+  The 90249 zip code around Denker Avenue and Marine Avenue is packed with 1950s
+  single-story homes retrofitted with modern cooktops, sometimes without upgrading the gas
+  flex line or the 240V circuit.
+
+  In 90247, the rental stock near Figueroa Street skews toward compact slide-in ranges and basic
+  Whirlpool units that see heavy daily use from multi-person households. Cast iron grates here go
+  years without deep cleaning, which accelerates burner port clogging on gas models.
+
+  Over in 90248, along the corridor near Normandie Avenue between Western Avenue and Crenshaw
+  Boulevard, there's a pocket of owner-occupied homes sitting next to light industrial parcels —
+  neat yards, remodeled kitchens, newer Samsung and Bosch cooktops. El Camino College sits just
+  west of that boundary, and the whole stretch has seen a wave of kitchen upgrades over the past
+  decade. Those mid-range units get used hard. The landlords in that area don't always keep up
+  with maintenance the way owner-occupants do.
+
+  Gardena sits in the South Bay where tap water hardness regularly tests above 300 mg/L. That
+  mineral load doesn't just hit dishwashers — it packs into burner ports on gas cooktops and
+  coats igniter electrodes with calcium deposits that look like grease but won't clean off.
+  On a Samsung or LG induction unit, the same buildup infiltrates control board ventilation
+  slots and causes relay failures that throw error codes before the surface element ever burns out.
+
+  Alondra Park draws the whole neighborhood out on weekends. Monday morning cooktop calls after
+  a heavy weekend of backyard cooking are predictable — cast iron grates soaked through, burner
+  ports fully plugged, igniters clicking without catching.
 
 commonProblems:
-  - title: "Gas Burner Won't Ignite — Common in Gardena's Post-War Homes"
-    description: "The igniter electrode is a ceramic pin that sparks each burner. Grease and food debris coat the tip over time and sparking stops — you hear clicking but nothing lights. On Whirlpool and GE gas cooktops, the spark module powering all burners can also fail outright; these units run every igniter off a single module, so one shorted electrode can kill ignition across the whole cooktop. Replacing the faulty electrode, cleaning the remaining tips, and bench-testing the module together in one visit is smarter than scheduling a second callback."
-  - title: "Cracked Ceramic Glass Surface on Induction Units"
-    description: "Samsung and LG induction cooktops use tempered ceramic glass that cracks when a heavy pan drops from counter height. The glass bonds directly over the heating element assembly beneath — there's no patching ceramic. We keep common 30-inch and 36-inch surface panels in the van for South Bay calls."
-  - title: "Uneven Heat Across Burners — Warped Burner Cap or Clogged Orifice Port"
-    description: "A shifted or warped burner cap forces the flame off-center — one side of the pan scorches while the other barely heats. Bosch and KitchenAid five-burner cooktops installed during Gardena kitchen renovations develop this after cleaning with excess water, which warps the cap or blocks the orifice port beneath it. The orifice itself is a small brass fitting; mineral deposits from South Bay's notoriously hard tap water can partially block gas flow and create the same uneven flame pattern even on a cap that looks undamaged. Clearing the deposit and reseating the cap correctly takes about twenty minutes on-site. If the orifice is beyond cleaning, replacement parts are standard stock on the van."
+  - title: "Igniter sparks but burner won't catch — gas line age is a factor"
+    description: |
+      A gas cooktop that clicks without lighting usually has a fouled igniter electrode or a
+      failing igniter module.
+
+      In Gardena's older homes, corroded gas valve orifices compound the problem — especially on
+      10-plus-year-old Whirlpool or GE units where the ceramic igniter tip has cracked from years
+      of heat cycling. The fix is almost always a new igniter electrode plus a port cleaning, not
+      a full burner replacement.
+
+      On a standard GE or Whirlpool four-burner gas cooktop, that whole job takes under an hour on-site.
+
+  - title: "Cracked ceramic glass on glass-top cooktops"
+    description: |
+      Samsung and LG glass-top cooktops are common in Gardena's mid-range housing, but the
+      ceramic glass surface cracks from impact or thermal shock. Cooking on a fractured surface
+      is a fire hazard that can't wait.
+
+      That typically means replacing the full glass panel — the heating element underneath usually
+      survives intact. On Samsung 30-inch slide-ins, the glass panel bonds to the frame with a
+      proprietary adhesive. Aftermarket panels on these units sometimes sit 1–2mm proud of the
+      trim and create a gap that throws off the heating element temperature sensor.
+
+      OEM glass fits correctly. The difference shows up the first time you boil water.
+
+      Common Gardena Samsung glass sizes stay on the truck, so this one usually gets done same visit.
+
+  - title: "Uneven heat and control knob failure on KitchenAid and Bosch units"
+    description: |
+      On KitchenAid and Bosch gas cooktops, a worn burner valve seat or cracked knob stem lets
+      one burner run at full flame even when the knob is turned to the lowest setting.
+
+      Replacing the valve alone usually runs about half the cost of swapping the full burner
+      valve assembly.
+
+      Bosch NGM8055UC gas cooktops have a known issue with the front-left burner valve O-ring
+      degrading after five or six years. The O-ring itself costs almost nothing, but reaching it
+      means pulling the cooktop out of the counter — a tight job in Gardena's older galley kitchens
+      where cabinets sit flush on both sides. In the narrow layouts common along Artesia Boulevard,
+      clearance is usually the limiting factor, and that's what drives the estimate up or down.
+      The valve seat wears unevenly when knobs get forced past their stops. Catching this early
+      saves the full burner assembly.
 
 faq:
-  - q: "How fast can you get to Gardena for a cooktop repair?"
-    a: "Gardena sits on our regular South Bay service loop — usually there within two hours of your call. Call (323) 870-4790 to lock in a slot. Same-day openings fill up fast, so morning calls have the best shot."
-  - q: "Do you repair Samsung and LG induction cooktops in Gardena?"
-    a: "Samsung and LG are two of the most common induction brands we see in South Bay — LG's F7 error code and Samsung's SE fault are practically routine calls in the 90247 area. We also handle Whirlpool, GE, KitchenAid, and Bosch. Gas or electric, sealed-burner or induction, the van is stocked for Gardena service without waiting on back-orders."
-  - q: "What does a cooktop repair cost in Gardena, and how does the process work?"
-    a: "Diagnosis is $75, applied toward the repair if you proceed. Most cooktop jobs — igniter electrode swap, burner cap fix, heating element replacement, gas valve repair — run between $150 and $320 depending on parts. Induction panel replacements on LG or Samsung models run higher, but we quote before touching anything. Evening slots are open for urgent situations. Call (323) 870-4790 and we'll usually get you on the schedule same day."
+  - q: "How fast can you get to Gardena for cooktop repair?"
+    a: |
+      South Bay route runs daily — Hawthorne through Gardena down to Torrance. Most calls
+      land a same-day slot, usually within 2 hours of booking. Street parking on Vermont and
+      Western is not an issue for the service van. Call (323) 870-4790 to check today's open slots.
+
+  - q: "Do you repair Samsung and LG cooktops in Gardena?"
+    a: |
+      Yes, both brands regularly. On Samsung glass-tops the common fixes are cracked ceramic
+      panels and control board relay failures — sometimes an E1 or E3 error code shows up
+      before there's any visible surface damage.
+
+      On LG, the burner igniter wire harness and surface element blocks are what usually fail first.
+      Also cover Whirlpool and GE on older Gardena properties, and KitchenAid in the newer
+      remodels along the 90248 corridor.
+
+  - q: "What does cooktop repair cost and how does the process work?"
+    a: |
+      Diagnostic visit is flat-rate and gets applied toward the repair if you proceed.
+
+      Most fixes — igniter swap, valve replacement, glass panel — run $150–$350 depending on
+      parts. Common components for Samsung, Whirlpool, and GE stay on the truck, so same-day
+      repair is realistic for most standard failures. Evening slots available for Gardena addresses.
+
+  - q: "What if the cooktop has no spark at all — not even a clicking sound?"
+    a: |
+      No click at all usually points to a failed spark module rather than a bad electrode.
+      On GE and Whirlpool models, the spark module mounts under the cooktop and swaps out quickly.
+      On KitchenAid units it's integrated into the main control board, which raises parts cost,
+      but labor stays the same.
+
+      Call (323) 870-4790 and describe exactly what the cooktop is doing — that helps figure out
+      whether parts need to be ordered before the visit or can come off the truck stock.

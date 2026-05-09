@@ -1,29 +1,91 @@
-title: "La Habra Range — Gas Igniter & Oven Repairs in 90631"
+title: "La Habra Range Repair — Old Gas Lines, Real-World Fixes"
 
 intro: |
-  Lambert Road cuts through La Habra's older ranch blocks, where 1960s homes near Euclid Street still run the original gas supply lines feeding KitchenAid and Bosch slide-ins. A burner that clicks repeatedly but won't catch, or an oven dropping to 300°F when you set it to 375°F — both trace back to a failed gas valve igniter or a drifting RTD temperature sensor. Call (323) 870-4790 and we're typically at your door in 90631 within two hours.
+  Along Lambert Road and the older tracts just south of the Whittier city line,
+  kitchens still run on mid-century gas stub-outs that weren't designed for the
+  BTU output of a modern KitchenAid dual-fuel range. Inconsistent line pressure
+  shows up as a front burner igniter that clicks but never catches. La Habra
+  homeowners hold onto appliances longer than most — and by the time we get a
+  call in 90631, the deferred maintenance has usually stacked up. That's not a
+  complaint. It means the diagnostics are thorough and the fixes are real, not
+  just a burner cap cleanup and a handshake.
 
 localContext: |
-  Most of the housing stock along Harbor Boulevard and the streets south of Lambert Road was built between 1958 and 1975 — single-story ranch homes with original gas connections, compact kitchens, and cabinet layouts that weren't designed around today's pro-style ranges. In 90631, mid-range LG and Samsung gas ranges dominate, but you'll also find KitchenAid and Bosch in homes that were remodeled in the 2000s. Supply lines in these older homes sometimes deliver inconsistent gas pressure, which shows up as ignition problems or weak burner output that's easy to misdiagnose. Tight cabinet openings also make pulling a freestanding range for a control board or valve repair a slower job than the parts cost suggests.
+  Most of the housing stock north of Imperial Highway in 90631 is 1950s and
+  1960s tract construction — shallow kitchens, original 30-inch cutouts, and
+  tile countertops that create tight quarters for any service work. Getting
+  under a slide-in range on those streets takes patience and the right tools.
+  The original gas supply piping in those homes is often black iron, which
+  develops scale internally over decades — that scale breaks loose and lodges
+  in burner orifices, creating weak flame on one side even after a full cleaning.
+  The newer builds near the La Habra Heights boundary closer to Westridge Road
+  are a different story. That's where the Bosch freestanding units and Thermador
+  pro-style installations live, and those require OEM parts ordered ahead and
+  a different diagnostic approach entirely. Thermador's Star Burner design has
+  a proprietary igniter harness that generic parts won't fit.
 
 commonProblems:
-  - title: "Gas Burner Clicks Constantly but Flame Won't Catch"
-    description: |
-      The igniter keeps sparking even after you release the knob — classic sign of a cracked igniter electrode or a spark module stuck in the on position. La Habra's late-summer humidity wicks moisture into the burner well and corrodes the ceramic insulator on Bosch and LG gas ranges. Some homeowners spray cleaner directly onto the burner trying to fix it, which saturates the igniter port and makes things worse. Replacing the electrode assembly, drying the socket thoroughly, and confirming the spark module output resolves it. Most calls like this close in under an hour.
-  - title: "Oven Temperature Drops Mid-Cook"
-    description: |
-      Set to 375°F, hits it briefly, then drifts down to 300°F by the time the food's inside — or cuts out entirely halfway through a roast. Either a failing RTD temperature sensor is losing its resistance signal, or the control board has stopped reading it accurately. KitchenAid dual-fuel models installed in La Habra's newer builds off Imperial Highway show this pattern consistently around the 8-12 year mark. Replacing the RTD probe and recalibrating the board gets the oven within 10 degrees of accurate. First-visit diagnosis confirms which component is at fault.
-  - title: "Uneven Flame — Orange Color Instead of Blue"
-    description: |
-      Orange-tinged flame instead of clean blue means incomplete combustion — usually a clogged gas orifice or a blocked burner port. In La Habra kitchens, boilover deposits and cooking steam push mineral residue into the burner head constantly, and the area's hard water speeds that buildup up considerably. Samsung and Frigidaire gas ranges are especially prone because of how their burner ports are spaced. Cleaning the burner cap, burner head, and orifice — then test-firing every port — confirms whether the parts need replacement or a proper deep clean is enough.
+  - title: "Cracked igniter electrodes from aging gas supply setups"
+    description: >-
+      Mid-century gas lines in La Habra can run low pressure during peak demand
+      hours, which stresses the igniter electrode on every lighting cycle. Carbon
+      tracking forms across the ceramic body, or the electrode cracks outright —
+      and the burner either won't light or clicks nonstop without catching.
+      KitchenAid and LG slide-ins with high-BTU front burners show this failure
+      more than any other model pulled from 90631 kitchens. The fix isn't just
+      swapping the electrode — the igniter module feeding it gets tested under
+      load, because a weak module will crack a new electrode inside six months.
+      Skipping that step is how a repair turns into a callback.
+
+  - title: "Gas valve solenoid failure causing weak or dying flame"
+    description: >-
+      A burner that runs weak on one side or snuffs out under a full pot usually
+      has a gas valve solenoid that isn't opening fully. Bosch freestanding ranges
+      develop this after the solenoid diaphragm hardens with age — it's a
+      mechanical failure, not a clog. Cleaning it won't hold. Valve replacement
+      is the fix, and it's typically a same-day job once the part is confirmed
+      on-hand. Samsung gas ranges in the same failure mode often throw an E-08
+      or nF error on the display before the solenoid gives out completely, which
+      at least gives some warning. Either way, manifold pressure gets tested
+      before closing the job — not just the visible flame color.
+
+  - title: "Oven not reaching temperature — bake element and igniter wear"
+    description: >-
+      An oven that takes 45 minutes to reach 375°F, or runs cold on the lower
+      rack, usually has a failing bake element in electric models or a worn gas
+      valve igniter in gas ranges. Samsung and LG ovens throw an F-9 or SE
+      fault code before the igniter assembly quits entirely. Catching it at the
+      error code stage means replacing one part, not the control board.
+      Thermador double-wall ovens have a separate broil igniter circuit that
+      fails independently from the bake igniter — homeowners near Westridge Road
+      with Thermador installations should know both circuits get checked, not
+      just the one showing the symptom. A surface temperature probe confirms
+      actual cavity heat against the setpoint before the technician leaves.
 
 faq:
-  - q: "How fast can you get to La Habra for a range repair?"
-    a: |
-      The 90631 area is on our daily Orange County route — coming in from Fullerton or Brea, we're typically at your door within 90 minutes to 2 hours. Most calls booked before noon get same-day service. Call (323) 870-4790 to check today's availability or schedule online. Evening slots are open most weekdays, and emergency appointments are available if the range is completely out before dinner.
-  - q: "Do you repair KitchenAid and Bosch ranges in La Habra?"
-    a: |
-      Both are common in this part of Orange County. KitchenAid slide-ins with ignition board failures and persistent igniter problems on Bosch gas ranges are regular calls. Also service LG, Samsung, Thermador, and Frigidaire — gas, electric, and dual-fuel models. Stock parts for most of these brands come with us on the van, so the first visit typically ends with a completed repair rather than a parts order.
-  - q: "What does range repair typically cost in La Habra, and how does the process work?"
-    a: |
-      Diagnostic fee is $75, credited toward the repair when you proceed. Igniter swaps and RTD sensor replacements typically run $150-$280 all-in for parts and labor. Control board replacements on KitchenAid or Bosch models land higher — usually $280-$450 depending on the part. Same-day emergency service is available. Majority of range jobs close on the first visit when the part is in stock, which covers most common failures.
+  - q: "How fast can you get to La Habra for range repair?"
+    a: >-
+      La Habra sits between the Whittier and Brea routes — typical arrival is
+      under 2 hours on a weekday morning. Same-day slots close out by mid-morning
+      most days, so call (323) 870-4790 early. Evening appointments are available
+      for households where daytime doesn't work. Gas smell calls get emergency
+      priority and jump the schedule entirely — don't wait on those.
+
+  - q: "Do you repair Bosch and KitchenAid ranges in La Habra?"
+    a: >-
+      Both are common on service calls in 90631. KitchenAid dual-fuel models
+      typically need igniter electrode or burner valve work; Bosch freestanding
+      units usually come in with control board faults or door hinge failures.
+      Parts for both are stocked on the van — no waiting on a parts order for
+      the most common failures. Thermador and Sub-Zero installations in the
+      La Habra Heights-adjacent builds take an extra day when proprietary
+      components aren't on-hand, but that gets confirmed before scheduling.
+
+  - q: "What does a range repair cost in La Habra, and how does the process work?"
+    a: >-
+      Diagnostic visit is flat-rate — burner assembly, gas valve, igniter, and
+      control board all get checked on-site before any estimate goes on paper.
+      Most repairs finish same-day. The estimate covers parts and labor with no
+      line-item surprises added after the fact. Book online or call
+      (323) 870-4790. If the repair cost approaches replacement value on an
+      older unit, that gets said plainly before any work starts.

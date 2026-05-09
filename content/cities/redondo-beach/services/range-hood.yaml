@@ -1,102 +1,23 @@
-title: "Redondo Beach Range Hood — Coastal Air Wrecks Hood Motors Fast"
+title: "Redondo Beach Range Hood — Salt Air, Grease, and 60-Year-Old Ductwork"
 
 intro: |
-  Salt air off King Harbor does a number on range hood blower motors — especially
-  in the older beach bungalows between Pacific Avenue and Catalina Avenue in 90277.
-  That Bosch wall-mount hood installed during the kitchen remodel might still look
-  clean, but the fan motor bearing inside is quietly corroding from humidity cycling
-  through the exhaust duct every time you cook. MaxFixing covers South Bay daily
-  and usually gets to Redondo Beach within 2 hours. Call (323) 870-4790 to book
-  same-day service.
+  The marine layer rolling in off King Harbor keeps Redondo Beach kitchens humid twelve months a year. That moisture mixes with cooking grease inside your hood's blower wheel housing and duct lining — a combination that destroys components faster than most homeowners expect. A Bosch 800 Series wall-mount that ran quietly for three years can start grinding once grease-and-salt residue locks the motor shaft. These aren't manufacturing defects. Coastal air just does this to equipment.
 
 localContext: |
-  The housing split in Redondo Beach matters for hood repairs. North Redondo (90278)
-  has mostly 1960s-70s ranch-style homes with standard 6-inch round duct runs —
-  usually straightforward work. South Redondo and the Hollywood Riviera lean toward
-  higher-end remodels, where you see KitchenAid chimney hoods and occasionally
-  Thermador inserts vented through longer duct chases to the exterior. Coastal
-  condensation affects both zip codes equally.
-
-  Properties along Esplanade and the blocks between Palos Verdes Boulevard and
-  the sand in 90277 are the worst we see for corrosion damage. Salt-air content
-  on those streets is measurably higher than three miles inland in Torrance. A
-  Bosch 500 Series hood sitting one block from the water sees 2-3x the motor
-  bearing wear of the same model in a Hermosa Beach kitchen a mile east. Replacement
-  blower motors and wiring harnesses for coastal installs stay stocked in the van
-  on Redondo Beach calls — no waiting on parts orders.
-
-  Gas range setups are common in the Riviera remodels. A gas cooktop pulling high
-  BTUs pushes more grease and combustion byproduct through the exhaust path, which
-  accelerates charcoal filter saturation on recirculating units and clogs the
-  blower wheel faster on ducted ones.
+  The 90277 zip — everything west of PCH toward the strand — has a lot of 1960s beach bungalows and townhomes where range hoods were retrofitted into kitchens not originally built for them. No duct chases in the original framing, so installers ran sheet-metal duct through exterior walls rather than up through the roof. That means damper blades face direct salt air year-round. The Riviera Village corridor and the multi-story condos along Esplanade are a different story — tighter access, shared duct chases, and landlords who deferred maintenance for decades. Getting a van parked close enough to haul equipment up to a third-floor kitchen on Esplanade takes planning. North Redondo (90278) has more ranch-style homes with attic clearance, but the flex duct and sealing joints up there typically haven't been touched since the original install. Separated joints and collapsed flex sections are routine finds on those service calls.
 
 commonProblems:
-  - title: "Blower motor bearing failure from salt-air corrosion"
-    description: |
-      The motor bearing in most range hood fans is not sealed against moisture.
-      In coastal neighborhoods within a half-mile of the water — think The Esplanade
-      or Camino Real — salt air gets drawn into the exhaust path and corrodes the
-      bearing races. A Bosch or KitchenAid hood grinding at startup usually means
-      bearing failure, not just a dirty filter. Replacement motor runs $120-200
-      in parts. Some units throw an E1 or E3 fault on the control panel before the
-      bearing fully seizes — catching it at that stage saves the control board too,
-      which is another $180-250 part if it overheats from the seized motor load.
-      In Redondo Beach we see this failure pattern year-round, not just summer.
-
-  - title: "Grease filter clogging — faster than inland homes"
-    description: |
-      LA's hard water (around 300 ppm in South Bay) leaves mineral deposits on
-      grease filters quickly. Combined with cooking grease, baffle filters in
-      Redondo Beach homes can hit near-total blockage in 3-4 months instead of
-      the usual 6. A clogged filter forces the blower wheel to work harder, which
-      either trips the thermal overload or burns out the motor entirely. On LG
-      and Samsung hoods, the fan-speed controller tends to fail first — the unit
-      runs on high only, or cuts out randomly. That behavior usually points to the
-      control board reacting to sustained thermal stress, not the board failing
-      on its own. Cleaning the filter first costs nothing; replacing a burned board
-      costs $160-220.
-
-  - title: "Vent duct backflow in tight beach cottage layouts"
-    description: |
-      Older 1950s cottages on streets like Garnet or Diamond north of Artesia
-      Boulevard often have short, kinked duct runs improvised through a cabinet.
-      Those tight bends create static pressure that pushes exhaust back into the
-      kitchen. In a Samsung or LG hood running recirculating mode you'd never
-      notice — but a vented hood shows it immediately when smell returns through
-      the fan housing. Redondo Beach remodeled cottages frequently end up with
-      undersized 4-inch flex duct where 6-inch rigid should be. The duct run gets
-      scoped during diagnosis — if restricted ductwork is the root cause, swapping
-      the motor alone won't fix the odor problem.
+  - title: "Salt Air Corrodes the Motor Capacitor Before Anything Else Goes Wrong"
+    description: "Coastal humidity accelerates oxidation on the motor capacitor and motor windings inside wall-mounted hoods. KitchenAid and Bosch units in homes near the strand in 90277 often show motor failure 2-3 years earlier than identical models in Burbank or Pasadena. By the time the hood goes completely silent, the windings have usually corroded past the point where a capacitor swap alone fixes it — the full motor assembly has to come out. On Bosch 800 Series units specifically, that motor swap also requires recalibrating the speed control board, otherwise the fan locks onto maximum RPM no matter which speed button you press — Low, Medium, or High all feel identical."
+  - title: "Grease-Loaded Blower Wheel Becomes an Unbalanced Grinding Mess"
+    description: "The blower wheel picks up grease from every cooking session and slowly goes out of balance. Households running a gas range four or five nights a week see this shift faster than they expect. Thermador wall-mount and island hoods are particularly vulnerable here — their high-CFM blowers spin fast enough that any imbalance on the blower wheel gets amplified into vibration that rattles straight through the duct housing and into the cabinet above. Left long enough, that vibration cracks the mounting bracket where the blower housing meets the liner, and then you're looking at a structural fix on top of the wheel replacement."
+  - title: "Hard Water Deposits Clog the Baffle Filter and Trip the Thermal Fuse"
+    description: "Dishwasher-cleaned baffle grease filters come out coated in mineral deposits from LA's hard water, restricting airflow through the mesh even when the filter looks clean. Reduced static pressure forces the motor to draw more current until the thermal fuse trips and the hood shuts off completely. Samsung and LG hoods in Redondo Beach hit this failure pattern regularly — usually around the 3-year mark, sometimes sooner in households that cook on high heat. The hood goes dark, no lights, no fan response — homeowners assume the control board failed, but nine times out of ten it's just the thermal fuse and a filter that needs a real descaling soak rather than a dishwasher cycle."
 
 faq:
-  - q: "How fast can you get to Redondo Beach for range hood repair?"
-    a: |
-      Running South Bay routes daily. From Torrance or Hawthorne we're usually
-      at your door in under 2 hours. Parking near the beach streets in 90277 can
-      add a few minutes. Call (323) 870-4790 or schedule online — same-day slots
-      available most weekdays, evening appointments on request.
-
-  - q: "Do you repair Bosch and KitchenAid range hoods?"
-    a: |
-      Yes. Bosch and KitchenAid are the most common hoods we see in Redondo Beach
-      remodeled kitchens. Thermador inserts come up in the Hollywood Riviera area
-      too. Typical repairs: blower wheel swaps, failed control boards, motor
-      replacements, and corroded wiring harnesses. Bosch 300 and 500 Series units
-      use a proprietary motor mount that requires a specific puller tool — that
-      tool stays on the truck for every Redondo Beach call.
-
-  - q: "Is it worth repairing a range hood or just replacing it?"
-    a: |
-      Single-component repairs — motor, control board, blower wheel — usually
-      run $150-300 parts and labor. That's well under replacement cost for a
-      Bosch or KitchenAid unit. Even a Thermador insert swap runs $800-1,200
-      before installation. Diagnosis is on-site with a flat quote before touching
-      anything. Evening slots available if daytime doesn't work.
-
-  - q: "The fan stopped but the light still works — what failed?"
-    a: |
-      Light-works-fan-dead almost always means a burned motor winding or a tripped
-      thermal fuse. On KitchenAid and Bosch hoods the thermal fuse is a $15-25
-      part; the blower motor itself runs $80-150. Coastal kitchens in Redondo Beach
-      see this failure 30-40% more often than inland — humidity breaks down winding
-      insulation faster. Call (323) 870-4790 for same-day diagnosis.
+  - q: "How fast can you get to Redondo Beach for a range hood repair?"
+    a: "Service routes run along PCH and the 405 daily — Redondo Beach is typically 30-45 minutes from our nearest technician. Call (323) 870-4790 before noon and same-day service almost always works out. Evening slots are available too for anyone who can't step away from work mid-day."
+  - q: "Do you repair Bosch and Thermador range hoods, or just the common brands?"
+    a: "Both are regular calls for us in the South Bay. The Bosch 800 Series blower motor assembly requires a specific calibration step after replacement — we keep that part stocked on the van. Thermador wall-mount and island hoods we handle regularly, along with KitchenAid, Samsung, and LG."
+  - q: "What does range hood repair typically cost in Redondo Beach?"
+    a: "Diagnostic is $75, applied to the repair if you move forward. Most jobs — motor assembly replacement, blower wheel swap, thermal fuse, capacitor — run $140 to $300 depending on the part. Built-in or island hoods with harder access, like the Thermador units tucked into custom cabinetry along the Riviera Village hillside, sometimes add a labor hour for disassembly. Most Redondo Beach visits wrap same-day. If a part needs to be ordered, we're usually back within 48 hours."

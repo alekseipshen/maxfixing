@@ -1,118 +1,27 @@
-title: "San Clemente Range — Coastal Salt Air Kills Igniters"
+title: "San Clemente Range Repair — Coastal Igniters, Same-Day Service"
 
 intro: |
-  Salt air off the Pacific does real damage to gas range components over time. Down near
-  Avenida Del Mar in 92672 — the older Spanish Colonial homes Ole Hanson built his beach
-  town around — KitchenAid dual-fuel ranges are showing up with corroded igniter
-  electrodes that click endlessly but won't spark. Talega runs Bosch and Thermador.
-  Different brands, same coastal punishment. Both need someone who actually stocks the
-  right parts.
-
-  San Clemente isn't like servicing ranges in Irvine or Mission Viejo. The marine layer
-  sits low from May through July, and that persistent salt dampness accelerates corrosion
-  on every metal component exposed to the burner cavity. We see failure patterns here
-  that almost never show up ten miles inland.
+  Ole Hanson's 1925 Spanish Colonial cottages along Avenida Del Mar sit maybe 400 feet from the water. Owners in that stretch deal with gas range igniters that corrode faster than the manufacturer's warranty assumes — salt air does that. Ran a call last spring on a KitchenAid dual-fuel in the 92672 zip: both front burner igniters pitted black, clicking endlessly without lighting. Coastal San Clemente is hard on gas ignition components in a way that inland OC simply isn't.
 
 localContext: |
-  San Clemente housing splits into two eras. The original 1920s–1960s neighborhoods close
-  to the pier have tighter kitchens, older gas line infrastructure, and ranges crammed
-  against walls with limited rear clearance. Getting a slide-in range out of a kitchen
-  on Avenida Granada sometimes means two people and a furniture dolly — the layout just
-  doesn't cooperate. Talega and the hillside developments off Vista Hermosa Sport Park
-  are 2000s construction — open-plan kitchens, slide-in ranges, mostly Bosch and LG.
-  Zip code 92673 has seen a surge of those slide-in installs, and they bring their own
-  set of failure patterns.
+  The 92672 zip covers downtown and the older beach-adjacent neighborhoods — Spanish Colonial homes from the 1920s through 1960s ranch builds, many with narrow kitchen layouts and original gas rough-ins that haven't been updated. Streets like Avenida Valencia and Calle de los Alamos have homes that sat empty for decades before renovation; gas supply lines in those kitchens are sometimes half-inch black iron, undersized for modern range BTU requirements.
 
-  Gas line age matters here.
+  Talega, the master-planned community in 92673, is different: 2000s construction, open-concept kitchens, and a much higher concentration of Thermador and Bosch range installs. Talega kitchens often require partial panel removal just to access the oven igniter assembly. Southeast of Talega, the Forster Ranch and Marblehead communities run a lot of LG and Samsung slide-in ranges — newer builds where builders spec'd mid-range appliances.
 
-  Some of the pre-1970 homes near the Amtrak stop on Avenida del Presidente are still
-  on original flex connectors that haven't been inspected in decades. Not a crisis
-  until it is. Worth noting when we're already on-site for an igniter job.
-
-  The newer Talega builds are cleaner to work on — standard clearances, accessible
-  service panels — but they brought a different headache. Bosch slide-in units here
-  are routinely showing clogged burner valve orifices from mineral-laden water used
-  in steam-clean cycles, and the control boards on the 800 Series are sensitive enough
-  that a single grounding fault can throw the whole interface into lockout mode.
+  The salt air gradient matters too. A home on Buena Vista two blocks from the bluffs corrodes faster than a Talega home three miles inland. Same appliance, same model year — completely different failure timeline. That pattern shows up consistently across San Clemente service calls: the closer to the water, the shorter the interval between igniter replacements, regardless of brand.
 
 commonProblems:
-  - title: "Corroded Spark Igniter Electrodes from Marine Humidity"
-    description: |
-      Living within a mile of the San Clemente coastline accelerates oxidation on the
-      ceramic-tipped igniter electrodes above each burner. Salt moisture infiltrates the
-      igniter module housing and causes intermittent or total ignition failure. KitchenAid
-      and Bosch both use proprietary electrode assemblies — they're not cross-compatible,
-      and substituting the wrong part usually makes the problem worse.
-
-      The tell-tale sign is clicking that fires fine on cold mornings but starts missing
-      when the marine layer rolls in. That's moisture in the igniter module, not a dirty
-      burner cap. Wiping the cap won't fix it.
-
-      On KitchenAid dual-fuel models, the electrode sits recessed under a ceramic collar
-      that traps humidity instead of shedding it. Bosch designs the housing differently
-      but the corrosion pathway is the same. Both need the electrode assembly replaced
-      rather than cleaned — once the tip is pitted from salt oxidation, it won't produce
-      a consistent arc regardless of how clean everything else looks.
-
-  - title: "Bake Element Burnout in Poorly Ventilated 92672 Kitchens"
-    description: |
-      The original Spanish Colonial homes near Calle Seville often have ranges pushed flush
-      against tiled backsplashes with almost no rear clearance. Restricted airflow forces the
-      bake element to run hotter than rated. On a Thermador double-wall oven, that kind of
-      thermal stress eventually throws an F3 or F4 error on the control board — oven dead,
-      no heat.
-
-      Electric bake elements in this situation usually show a visible break or scorch mark
-      near one end. Sometimes the broil element fails first instead — same root cause,
-      different symptom. Thermador error codes actually help narrow that down quickly
-      before pulling anything apart, which keeps diagnostic time short.
-
-      F3 typically means the oven sensor is reading temperatures outside its range — often
-      because the element overheated and damaged the sensor lead. Replace both and the
-      board error clears. Skip the sensor and you'll be back in three months.
-
-  - title: "Shared Spark Module Failure on LG and Samsung Ranges"
-    description: |
-      LG and Samsung wire all burner igniters back to a single spark module on one control
-      board. One shorted electrode — usually from grease packed under a burner cap — can
-      knock out ignition on every burner simultaneously. Cleaning the electrode fixes it
-      sometimes. Other times the spark module itself has to go. Diagnosis takes about
-      15 minutes on the bench.
-
-      Samsung's LE error on range models points to a grounding fault in the igniter circuit
-      before the module fails completely. Catch it early and you're looking at a cleaning
-      and an electrode swap. Miss it and the board is next — significantly more expensive.
-
-      These come up constantly in the Talega tract homes where the kitchens see heavy
-      daily use and cleaning cycles get skipped. The burner caps on LG's five-burner
-      slide-ins are particularly prone to trapping grease in the crown seal, and once
-      it carbonizes down into the electrode gap, you get that all-four-burners-clicking
-      situation that feels catastrophic but is usually a straightforward fix.
+  - title: "Surface Burner Igniter Failure from Salt Air Corrosion"
+    description: "Coastal humidity corrodes igniter electrodes on gas ranges faster here than anywhere inland. The ceramic insulator cracks, the electrode tip pits, and the burner clicks without catching. KitchenAid and LG surface burners both use this igniter design. The replacement module has to match the burner orifice size precisely — wrong spec and spark arc stays too weak to light reliably. On KitchenAid dual-fuel models, the igniter wiring harness runs along the cooktop underside where moisture pools; corrosion at the connector causes intermittent spark even after a new electrode is installed. San Clemente homes within half a mile of the coast see this failure twice as often as comparable appliances in Ladera Ranch or Mission Viejo."
+  - title: "Gas Oven Stalls Below Temperature — Bake Igniter Weakening"
+    description: "The bake igniter draws amperage to open the gas valve. Once resistance climbs above threshold, the valve cracks open but never fully — oven parks at 250°F instead of reaching 375°F. Thermador and Bosch ovens in Talega homes hit this failure point consistently around year eight to ten. Reads like a thermostat problem, but the igniter is almost always the culprit. A multimeter check on the igniter should show under 3.2 amps for the valve to open fully — anything higher and the oven will never hit target temp regardless of how long it preheats. The fix takes about 45 minutes once the oven floor panel comes out."
+  - title: "Control Panel Lockout on Samsung and LG Slide-In Ranges"
+    description: "Samsung and LG slide-in ranges run ignition, timers, and temperature through a single glass-touch control board. A power fluctuation or moisture intrusion trips the board into lockout mode — display throws error codes like SE or F-9 and the unit stops responding entirely. Depending on model year, the fix is either a board swap or a specific key-sequence reset. The SE error on Samsung models is particularly common after coastal humidity gets into the display ribbon cable connector. LG's F-9 code usually points to a failed relay on the main PCB rather than the display itself — specifically the RY1 relay that controls the bake circuit, which can be tested with a continuity check before committing to a full board replacement at $280+. On Forster Ranch and Marblehead installs we've seen this relay fail as early as year four on ranges installed within a mile of the San Clemente coastline."
 
 faq:
-  - q: "How fast can you get to San Clemente for range repair?"
-    a: |
-      We run the I-5 South corridor regularly — Talega, the pier neighborhoods, all of
-      92672 and 92673. Call before noon at (323) 870-4790 and same-day service is
-      usually doable. Gas smell or dead oven? We prioritize that, typically within
-      2 hours.
-
-  - q: "Do you repair Bosch and Thermador ranges in San Clemente?"
-    a: |
-      Both, regularly. Bosch dual-fuel units most often need burner valve or igniter work.
-      Thermador comes in with star burner cap issues and control board errors. We keep
-      common parts for both on the truck — no week-long wait for a special order.
-
-      The star burner on Thermador is a beautiful design that gets wrecked by coastal
-      humidity faster than almost any other burner type. The ports clog, the igniter
-      corrodes, and homeowners assume they need a whole new range. Usually they don't.
-      A thorough cleaning plus an electrode swap gets most of them back to full function,
-      and we can usually complete it in a single visit.
-
-  - q: "What does a range diagnostic cost and how urgent can you respond?"
-    a: |
-      Diagnostic runs $75–95 and applies toward the repair if you proceed.
-
-      Gas smell gets treated as an emergency — we move other calls around and head
-      to San Clemente first. Evening slots are available for homeowners who can't take
-      time off work. Schedule same-day service online or call (323) 870-4790 directly.
+  - q: "How fast can you get to San Clemente for Range repair?"
+    a: "From our South OC coverage area we're usually in San Clemente within 2 hours. El Camino Real gets congested in the afternoon, so morning slots run cleaner. Call (323) 870-4790 and we'll lock in a same-day window that works."
+  - q: "Do you repair Thermador and Bosch ranges in the Talega area?"
+    a: "Yes — Thermador, Bosch, and KitchenAid are the three we see most in Talega kitchens. Most common jobs: bake igniter replacements on Thermador rangetops, control board swaps on KitchenAid dual-fuel models, and gas valve igniter work on Bosch freestanding ranges. Many Talega ranges sit inside a cabinet surround, which adds time to pull and refit the unit — that extra labor gets quoted before any work starts so the total is clear going in."
+  - q: "What does range repair typically cost and how quickly can you fix it?"
+    a: "Diagnostic visit is a flat fee, credited toward the repair if you approve it. Most igniter and bake element jobs run $150–$300 parts and labor combined. We stock common parts on the van — same-day fix is the goal. Evening slots available; call (323) 870-4790 to book."

@@ -1,0 +1,23 @@
+title: "West Hollywood Refrigerator — Aging Units, Mineral Buildup, Real Fixes"
+
+intro: |
+  Apartment buildings along Fountain Avenue in the 90046 zip run mostly 1960s construction — standard 30-inch cavities, older wiring, and whatever the last tenant left behind. That Samsung french-door the previous occupant upgraded to? Probably running warm because the condenser coil is caked with dust and the condenser fan is barely spinning. Clearing that coil and testing the fan motor takes under an hour. We cover WeHo and can usually be there same-day from our route through West LA.
+
+localContext: |
+  Most of West Hollywood's residential stock is mid-century apartment buildings and stacked condos — tight kitchens, minimal clearance behind units, no dedicated appliance bay. The 90046 corridor around Laurel Canyon Boulevard sees a lot of LG and Whirlpool top-freezers crammed under low counters. LA tap water hits 300-400 ppm mineral hardness, and WeHo plumbing is no exception — ice makers and water lines calcify faster than owners expect. Buildings on Holloway Drive and Havenhurst Avenue are typical: narrow kitchen doorways, refrigerators wedged between cabinetry, and sometimes a single 15-amp circuit shared with the microwave. That affects how we diagnose intermittent cooling issues — voltage drop under load looks a lot like a failing compressor until you check with a meter.
+
+commonProblems:
+  - title: "Not Cooling in South-Facing WeHo Units"
+    description: "South-facing apartments on Santa Monica Boulevard absorb serious heat in summer. A fouled condenser coil forces the compressor to overwork and overheat. On older GE side-by-sides, the defrost timer also fails around the 8-10 year mark, letting ice block the evaporator coil entirely and kill airflow to both compartments. The fridge reads 55°F, freezer is fine — classic defrost system failure, not a refrigerant leak."
+  - title: "Ice Maker Failures from Hard Tap Water"
+    description: "High mineral content calcifies the water inlet valve and clogs the fill tube — it freezes solid before water ever reaches the tray. KitchenAid french-door models are especially prone because the water line routes through a narrow channel behind the freezer door. A full ice maker assembly replacement usually solves it permanently. On Bosch units, the inlet valve solenoid is a separate part number — worth swapping that first before pulling the whole assembly."
+  - title: "Compressor Noise on Bosch and Whirlpool Units"
+    description: "That intermittent knocking on startup isn't always a dying compressor. Sometimes the condenser fan blade is catching a loose wire harness or bracket — a $40 fix versus $600. Bosch bottom-freezer refrigerators develop this around 6-7 years. Whirlpool top-freezers of the same vintage sometimes throw an error code on the control board instead — a blinking temperature display that resets but keeps coming back. Worth a proper diagnosis before assuming the worst."
+
+faq:
+  - q: "How fast can you get to West Hollywood for refrigerator repair?"
+    a: "Usually within 2 hours of your call. Parking near Melrose or Fountain can be tight — we account for that when routing. Call (323) 870-4790 or schedule online and we'll lock in a same-day window."
+  - q: "Do you repair Samsung and LG refrigerators in West Hollywood?"
+    a: "Yes — Samsung and LG are the two brands we see most in WeHo apartments. Common jobs: Samsung ice maker assembly freezing up, LG linear compressor failures, door gasket replacements on both. Also handle Bosch and KitchenAid regularly."
+  - q: "What does a refrigerator repair cost, and how quickly can someone come?"
+    a: "Diagnosis is $75, applied toward the repair if you proceed. Replacing a thermal fuse, water inlet valve, or drain pump typically runs $150-300 parts and labor combined. Same-day slots available most days — evening appointments too. Call (323) 870-4790."

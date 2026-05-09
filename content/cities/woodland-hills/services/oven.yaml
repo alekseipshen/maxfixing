@@ -1,59 +1,56 @@
-title: "Woodland Hills Oven Repair — Valley Heat Takes a Toll on Ranges"
+title: "Woodland Hills Oven Repair — Valley Heat Takes a Toll"
 
 intro: |
-  Warner Center marks the commercial core of Woodland Hills, but a mile in any direction it's
-  pure residential — and those kitchens run hard. Families here cook on Samsung slide-in ranges
-  and older GE freestanding units that have seen a decade of daily use. Summer in the Valley
-  means 100°F days, and a range that won't hold temperature or a broiler that cuts out mid-meal
-  becomes a real problem fast. Call us at (323) 870-4790 — we're usually at the door within
-  two hours.
+  Warner Center sits in 91367, one of the hottest pockets in the entire Valley — triple digits in August are routine here, not news.
+
+  Running a GE or KitchenAid oven in a kitchen that's already 85°F puts real stress on temperature sensors and control boards. That Whirlpool range that baked perfectly last Thanksgiving? By summer it's cycling wrong, undercooking at the back rack while the front burns. Most homeowners don't connect the summer breakdown to the summer heat, but the pattern is hard to miss once you've worked this area.
+
+  Topanga Canyon Boulevard acts as a heat corridor on still summer days. Kitchens in the Warner Center and Winnetka-adjacent neighborhoods along Victory Boulevard trap heat in ways that accelerate control board failures and shorten igniter lifespans considerably faster than the manufacturer's rated lifespan suggests.
+
+  An oven's internal thermostat calibrates based on surrounding conditions. A kitchen sitting at 90°F before you even turn the range on is fighting the sensor from minute one. Technicians working the 91364 and 91367 zip codes see it every summer without fail.
 
 localContext: |
-  The 91364 and 91367 zip codes cover mostly 1960s and 1970s ranch-style homes — many
-  cosmetically updated but still running on original kitchen layouts and older electrical. Houses
-  near Shoup Avenue and Victory Boulevard sometimes have 3-prong 240V circuits that cause
-  headaches with modern electric ranges. Closer to Topanga Canyon Boulevard, tighter floor plans
-  mean wall ovens get wedged into narrow alcoves. We always account for access before arriving,
-  bringing the right pull tools so we're not improvising on-site. A good portion of these homes
-  also have gas ranges — the original builders ran gas lines through the kitchen, and plenty of
-  those Whirlpool and GE gas units are still in service. Gas igniter failures and valve issues
-  are part of the regular repair mix here.
+  Most of Woodland Hills is 1960s and 1970s ranch-style construction — original cabinet cutouts that barely clear a modern 30-inch slide-in. Zip code 91364, especially off Oxnard Street toward the hills, has a lot of these.
+
+  The Westfield Topanga shopping corridor along Topanga Canyon Boulevard marks a real dividing line in kitchen types. North of it, toward Fallbrook Avenue and the older tract neighborhoods off Roscoe Boulevard, you get the original ranch-home kitchens — 50-year-old wiring, gas lines that haven't been touched since Ford was president, and shutoff valves corroded enough that we flag them before any repair starts.
+
+  South of Westfield, closer to Ventura Boulevard and the Victory Park neighborhoods, the remodeled homes run Bosch wall ovens and Samsung slide-ins tucked into custom cabinetry built around the original appliance dimensions. Pulling those units even for a broil element swap takes twice as long as a freestanding range.
+
+  Older homes, aging gas lines, and original wiring that was never spec'd for convection cooking means the infrastructure itself becomes part of the repair story. A gas range in one of those split-level homes off De Soto Avenue might have a shutoff valve that hasn't moved in 30 years — relevant context when diagnosing a gas valve igniter fault.
+
+  The newer construction along the 101 corridor tends toward tighter kitchens with stacked appliances or built-in slide-in configurations. Getting a 30-inch LG into those spaces requires knowing the layout before arriving.
+
+  We do.
 
 commonProblems:
-  - title: "Bake element burnout in aging electric ranges along the Oxnard corridor"
-    description: "Homes near Canoga Avenue and Oxnard Street are still running GE or Frigidaire
-      electric ranges from the mid-2000s. The bake element is usually the first part to go — it
-      shows visible burn spots or simply goes cold with no warning. Replacement is straightforward,
-      but older GE models use non-standard element dimensions that sometimes take a few extra days
-      to source from the distributor. If a holiday meal is coming up, call ahead — parts ship in
-      2 to 3 business days and scheduling around that window is easy when there's a little lead time."
-  - title: "Temperature sensor drift causing uneven baking in Whirlpool and KitchenAid ranges"
-    description: "A range that consistently heats to 300°F when set to 375°F usually has a failing
-      oven temperature sensor — a resistance probe mounted at the rear interior wall of the oven
-      cavity. Accuracy drifts over time, especially when the self-clean cycle runs frequently. A
-      resistance reading off the probe tells us in minutes whether it's the culprit. One visit,
-      sensor replaced, calibration verified against an independent thermocouple. Done."
-  - title: "Self-clean door latch stuck after cycle on Samsung and LG slide-ins"
-    description: "Samsung and LG slide-in ranges have a documented failure with the motorized door
-      latch assembly after a self-clean cycle. The latch motor gets heat-stressed at 900°F cleaning
-      temps and the mechanism won't retract — leaving the oven sealed shut and the control board
-      throwing a lock error. Resetting the board sometimes clears it for a few days, but the latch
-      assembly itself needs replacement to prevent the cycle from repeating."
+  - title: "Bake Element Burnout in Aging Ranch-Home Kitchens"
+    description: |
+      Electric ovens in 91364 tract homes run on wiring pushing 50 years. The bake element is usually the first casualty — visible scorch marks, or a cold bottom rack while the top burns everything. Samsung and GE models here show this pattern consistently, typically after 8-10 years of use.
+
+      Replacement is straightforward.
+
+      Diagnosis takes 20 minutes, and we stock the most common bake elements for both brands on the van. What slows the job down is checking whether the element failure also tripped the thermal fuse or stressed the control board — skipping that step means the new element fails again inside a month. Worth the extra 15 minutes to test properly.
+
+  - title: "Gas Igniter Failure After Back-to-Back Valley Summers"
+    description: |
+      Sustained 100°F+ days wear down ceramic igniters faster than the manufacturer tested for. The symptom: oven clicks repeatedly but won't light, or sits at 200°F instead of climbing to set temperature.
+
+      Whirlpool freestanding gas ranges are the most common call for this in Woodland Hills. The igniter draws too little current to open the gas valve properly — it glows, but never gets hot enough to trigger the valve solenoid. Replacing just the igniter without testing current draw is a waste of time; if the reading is under 3.2 amps, the valve assembly needs to go too.
+
+      LG gas ranges in this area show a similar failure mode, usually surfacing as an F9 error code after two or three Valley summers of heavy use.
+
+  - title: "Door Latch Assembly Jammed After Self-Clean Cycle"
+    description: |
+      Self-clean runs the cavity up to 900°F. On KitchenAid and LG wall ovens, the door latch assembly sometimes seizes in the locked position once temperatures drop — the latch motor strip fails or the mechanism warps just enough to bind. The oven functions fine. Getting inside is the problem.
+
+      Bosch uses a wax motor latch rather than a standard strip, so the repair path diverges completely from KitchenAid. Different parts, different sequence, different labor time — not interchangeable.
+
+      KitchenAid wall ovens usually throw a door lock error on the display when this happens, which at least points directly to the latch assembly rather than requiring a full diagnostic run. Schedule a same-day visit by calling (323) 870-4790 — a seized latch is one of the faster fixes once a tech is on-site.
 
 faq:
   - q: "How fast can you get to Woodland Hills for oven repair?"
-    a: "Woodland Hills and West Hills are on our regular western Valley route — off the 101, we
-      typically arrive within two hours of your call. Book a same-day window at (323) 870-4790.
-      Evening slots open most weekdays, and we give you a one-hour arrival window, not a vague
-      four-hour range."
-  - q: "Do you repair Samsung and KitchenAid ovens, or only older brands?"
-    a: "Both — and everything in between. Samsung F1-15 error codes, KitchenAid convection fan
-      bearing failures, LG control board lockups that keep resetting — we see these constantly in
-      Woodland Hills. Also Whirlpool, GE, Bosch, and Frigidaire. Electric or gas, freestanding or
-      built-in wall oven."
-  - q: "What does oven repair cost in Woodland Hills, and how does the process work?"
-    a: "Diagnostic is $85, applied toward the repair if you proceed. Most single-component fixes —
-      heating element, temperature sensor, door latch assembly, thermal fuse — land between $150
-      and $300 total, parts and labor included. Gas igniter and valve replacements fall in the same
-      range. Same-day service available. Call (323) 870-4790 or schedule online to confirm
-      availability for your zip."
+    a: "Woodland Hills runs along our regular Valley route — from the 101 corridor we're usually at 91364 or 91367 within two hours of your call. Ring us at (323) 870-4790 and we'll lock in a same-day window, morning or evening."
+  - q: "Do you work on KitchenAid and Bosch ovens, or mostly basic brands?"
+    a: "Both. KitchenAid wall ovens with failed bake elements or control board faults are a regular call in this area. Bosch slide-ins with broiler element issues or door latch problems too. Also handle GE, Whirlpool, Samsung, and LG — carry parts for the most common failure points on all of them. Mid-range brands are actually where most of the work is in Woodland Hills."
+  - q: "What does oven repair cost, and is there a diagnosis fee?"
+    a: "There's a diagnostic fee that applies toward the repair if you move forward. Most fixes in this range — igniter swap, bake element replacement, latch assembly repair — land between $120 and $290. Control board replacements run higher, usually $250–$380 depending on brand and model. Same-day slots available most weekdays; evening appointments open too. Call (323) 870-4790 to check availability for this week."
