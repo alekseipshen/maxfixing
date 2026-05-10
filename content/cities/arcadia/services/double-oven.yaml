@@ -1,84 +1,131 @@
-title: "Arcadia Double Oven Repair — Same-Day SGV Service"
+title: "Arcadia Double Oven — Repair for 91006 & 91007 Homes"
 
 intro: |
-  Homes along Altura Road and through the streets backing up toward the LA County
-  Arboretum got a heavy wave of kitchen renovations in the late 2000s and early
-  2010s. KitchenAid and Thermador double wall ovens went into a lot of those
-  kitchens during that window. Arcadia households cook seriously — multi-generational
-  families running both cavities daily put real wear on these units. A dead upper
-  oven or a control board locked on an error code is not a minor inconvenience here.
-  It's a working kitchen going down.
+  Zip codes 91006 and 91007 are packed with 1960s ranch homes that went through
+  full kitchen overhauls in the 2000s — that's when KitchenAid and Bosch double
+  wall ovens landed in a lot of these kitchens.
+
+  Streets off Baldwin Avenue, near the LA County Arboretum, Hugo Reid Drive, and
+  the Foothill Boulevard corridor account for most of our double oven service
+  calls. The Highlands neighborhood in 91006 alone generates a disproportionate
+  share of Thermador and Sub-Zero tickets each year.
+
+  One cavity stops heating while the other works perfectly. Or the control board
+  throws an error code and locks out both.
+
+  Both cavities failing simultaneously is rarer — that almost always points to a
+  shared power relay or the main control board, not two coincidental element
+  failures. Either scenario needs a proper diagnosis before parts get ordered.
+  These don't get better on their own.
 
 localContext: |
-  The 91006 zip covers the larger-lot streets north of Huntington Drive — 1960s and
-  1970s ranch homes where kitchen remodels packed 30-inch double wall ovens into
-  cabinetry that was originally sized for a single unit. Getting a KitchenAid or
-  Bosch double stack out of those cutouts for service means careful work around
-  custom cabinetry and tight side clearances. Cabinet faces can shift if the unit
-  isn't pulled straight.
+  Most of Arcadia's residential stock in 91007 traces back to the 1950s and
+  early 60s.
 
-  Zip 91007 runs south and denser — 1970s and early 1980s builds closer to Duarte
-  Road, smaller kitchens, same access constraints. Some of those homes have had
-  three rounds of appliance updates since original construction and the surrounding
-  cabinetry is layered accordingly.
+  Solid single-family homes on streets like Santa Anita Avenue, Rodeo Road, and
+  the Las Tunas Drive corridor saw major kitchen remodels starting in the early
+  2000s. That renovation wave brought built-in double wall ovens into kitchens
+  that weren't originally designed for them — tight cabinet cutouts with almost
+  no working clearance around the unit. Thermador and KitchenAid installs
+  dominate. A lot of the Thermador built-ins in that stretch were installed
+  around 2004-2008 and are now hitting the age range where control boards start
+  failing from heat cycling — roughly 18-22 years of thermal expansion and
+  contraction takes a toll on solder joints and relays.
 
-  Arcadia also runs warmer than the coast. San Gabriel Valley summers mean
-  refrigerators and freezers work overtime, but double wall ovens feel it too —
-  convection fans cycling in a 95°F kitchen add thermal stress that coastal
-  installations don't see. Control board failures spike in July and August here.
+  Getting a unit out to access the heating element or replace a wiring harness
+  takes specific pry tools and patience.
 
-  Santa Anita Avenue and the streets near the racetrack park are a mix of original
-  owners and long-term tenants. Appliance generations in that pocket run wide —
-  a Thermador built-in from 2008 next to a Samsung range bought during COVID is
-  not unusual.
+  It's not a one-screwdriver job. The older construction in the 91007 zip code
+  especially tends toward narrower cabinet bays built before double wall ovens
+  were a standard install. Homes near Camino Real Avenue and the Rancho Santa
+  Anita neighborhood often have custom millwork surrounding the oven stack, which
+  means extraction requires extra care to avoid damage to cabinetry. Knowing the
+  model generation matters before pulling anything apart — a 2005 KitchenAid
+  KODE500 has a completely different wiring harness layout than a 2018 unit.
 
 commonProblems:
-  - title: "Upper Oven Dead, Lower Cavity Still Heating Fine"
-    description: "In KitchenAid and Thermador double wall ovens, each cavity runs its own
-      bake heating element and thermal fuse on an independent circuit. Upper element
-      fails first — it sees more daily use and cycles more often. Once the thermal
-      fuse blows on the upper circuit, that cavity goes cold with no error code or
-      display warning. Most homeowners assume it's the control board. Usually it
-      isn't. Diagnosis confirms the fuse and element; we replace both and test before
-      closing the job."
+  - title: "Upper Cavity Dead, Lower Cavity Works Perfectly"
+    description: |
+      This split-failure pattern almost always points to the heating element in
+      the upper cavity — not the control board, because a dead board would take
+      both ovens out simultaneously. Bosch double wall ovens develop element
+      failures around the 8-10 year mark in regularly used kitchens. That's a
+      predictable failure window, not a manufacturing defect. KitchenAid models
+      sometimes develop a wiring harness break feeding only the upper cavity
+      independently, which mimics a dead element until you run continuity tests.
 
-  - title: "Both Ovens Running 40–50°F Off Set Temperature"
-    description: "Consistent temperature drift in a Bosch or KitchenAid double oven —
-      baking hot or cold on every cycle — almost always traces to a failing RTD
-      temperature sensor. The probe mounts to the back wall of each cavity and feeds
-      readings to the control board; when it drifts, the board never corrects, and
-      every bake comes out wrong. Replace the probe and recalibrate. Adjusting the
-      user offset in the settings menu won't fix a sensor that's electrically drifting
-      — that's a band-aid that hides the fault."
+      Diagnosing which it is takes a multimeter reading before any part gets
+      ordered.
 
-  - title: "Control Board Failure With Error Codes That Won't Clear"
-    description: "Samsung and LG double wall ovens are common in Arcadia's newer
-      construction and renovated kitchens, especially in the 91006 zip. Both brands
-      develop electronic control board failures from years of heat cycling — F3, F5,
-      or SE fault codes that return even after a full power reset. SGV summer heat
-      accelerates board degradation compared to coastal installs. Control board
-      replacement runs $200–$400 depending on model. We stock boards for common
-      Samsung and LG double oven configurations for same-week turnaround."
+      Ordering the wrong part adds a week to the repair. Homes in 91006 near
+      the Santa Anita Park boundary tend to have older KitchenAid stacks from
+      the 2003-2007 installation wave — those wiring harnesses are a known wear
+      point by now.
+
+  - title: "Set 350°, Baking at 400° — Temperature Sensor Drift"
+    description: |
+      The RTD temperature probe calibrates each cavity to its set point.
+
+      After years of broil cycles, the probe's resistance shifts and it starts
+      reading low — so the oven compensates by running hotter than commanded.
+      KitchenAid KODE500 units show this pattern regularly past the five-year
+      mark, particularly in kitchens that run the broiler frequently. Sub-Zero
+      double ovens exhibit the same drift pattern, though their probes tend to
+      last slightly longer before the resistance offset becomes noticeable in
+      baking results.
+
+      Menu recalibration buys a few weeks of relief.
+
+      A drifted probe needs physical replacement — usually about a 45-minute job
+      once the unit is accessed. The part itself is inexpensive relative to the
+      diagnostic visit.
+
+  - title: "Control Board Lockout — F3, E1, or a Completely Dark Display"
+    description: |
+      A failed control board is the most expensive double oven repair.
+
+      Samsung built-in double ovens often display F3 or E1 error codes before
+      the board fully dies — but those same codes can indicate a faulty
+      temperature sensor, which runs a fraction of a new board. Thermador units
+      typically just go silent with no error code at all, which makes them
+      harder to self-diagnose. Bosch throws numeric codes that look alarming but
+      sometimes resolve to a simple door hinge assembly misalignment triggering
+      a safety lockout rather than actual board failure.
+
+      On-site diagnostics confirm the board is actually the problem before
+      recommending anything. That step saves Arcadia homeowners from paying for
+      an unnecessary board swap when a $80 sensor is the actual culprit.
 
 faq:
-  - q: "How fast can you get to Arcadia for a Double Oven repair?"
-    a: "Usually within 2 hours. The 210 Freeway and Baldwin Avenue make the run
-      straightforward from our San Gabriel Valley base — no freeway transfers. Call
-      (323) 870-4790 to check same-day availability. Residential street parking in
-      91006 and 91007 is easy; no coordination needed like apartment areas in West LA.
-      Evening slots available most days."
+  - q: "How fast can you get to Arcadia for a double oven repair?"
+    a: |
+      Most Arcadia addresses in 91006 and 91007 are 20-30 minutes from our
+      nearest dispatch point — routed via the 210 or Baldwin Avenue depending on
+      traffic. Call (323) 870-4790 and we can usually have a technician out the
+      same day, including evening slots most weekdays. Residential driveways
+      throughout the Highlands and Rancho Santa Anita neighborhoods make van
+      parking straightforward.
 
-  - q: "Do you repair KitchenAid and Thermador double wall ovens in Arcadia?"
-    a: "Those are the two most common brands we see in Arcadia. KitchenAid KODE and
-      KODC series, Thermador Masterpiece and Professional built-ins — standard work.
-      Also handle Bosch, Samsung, and LG regularly. Brand-specific parts — control
-      boards, bake heating elements, door hinge assemblies — come from truck stock or
-      next-day suppliers, so most jobs don't require a second visit."
+  - q: "Do you repair KitchenAid and Thermador double ovens specifically?"
+    a: |
+      KitchenAid and Thermador are the two most common double oven brands in
+      Arcadia's renovated kitchens.
 
-  - q: "What does a double oven repair cost, and how does the process work?"
-    a: "Diagnostic visit is $85 and applies toward the repair if you proceed. Most
-      single-component fixes — heating element, RTD temperature sensor, door hinge
-      assembly — run $150–$350 parts and labor. Control board replacements land
-      $300–$500 depending on brand. Same-day service available most days; call
-      (323) 870-4790 or schedule an evening appointment online. No repair happens
-      without your sign-off after diagnosis."
+      Bosch built-ins and Samsung wall ovens come up regularly too. Sub-Zero
+      double ovens appear in higher-end remodels near the 91006 zip code's
+      Foothill section. We stock brand-specific heating elements, temperature
+      sensors, and control boards on the van — KitchenAid and Bosch parts
+      especially, since those show up on nearly every other service call in this
+      area. Most repairs finish in a single visit.
+
+  - q: "What does a double oven repair cost, and is same-day service available?"
+    a: |
+      The diagnostic visit is a flat fee that gets credited toward the repair if
+      you approve the work.
+
+      Heating element replacements sit on the lower end of the cost range.
+      Control board swaps run higher — you get a firm quote on-site before
+      anything is touched. A convection fan motor replacement falls somewhere in
+      the middle. For Arcadia homes in 91006 and 91007 we're typically there
+      within 2 hours of your call. Same-day slots are available most weekdays,
+      emergency appointments too. Call (323) 870-4790 to check what's open today.

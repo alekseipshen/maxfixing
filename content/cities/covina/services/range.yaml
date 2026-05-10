@@ -1,0 +1,119 @@
+title: "Covina Range Repair — Gas Igniter & Oven Problems Fixed"
+
+intro: |
+  The mid-century ranch grid running between Covina Boulevard and Arrow
+  Highway is where we take the most service calls. Homes built between
+  1955 and 1970, mostly gas hook-ups, a lot of GE and Whirlpool
+  freestanding units that have been in the same kitchen for decades. San
+  Gabriel Basin water comes in around 280–320 ppm hardness — that
+  mineral load clogs burner caps and ceramic igniters faster than most
+  homeowners notice. Then factor in SGV summer heat cycling the oven
+  harder than it was designed for.
+
+  Newer sections tell a different story. The Vineyards development off
+  Citrus Avenue and the Charter Oak corridor pushed a wave of Samsung and
+  KitchenAid slide-ins into kitchens that still had 30-inch gas cutouts
+  from 1962 flex-line installations. Mixing new appliances into old
+  infrastructure creates its own failure patterns — parts that don't
+  cross-reference cleanly, clearances that weren't designed for a 2014
+  slide-in frame.
+
+localContext: |
+  Most of 91722 and 91723 is post-war subdivision — 30-inch standard
+  range cutouts, original gas flex lines, kitchens sized before anyone
+  thought about replacing appliances every ten years. The Covina Park
+  neighborhood runs a lot of older Whirlpool and GE freestanding ranges
+  still on their original igniters.
+
+  Newer builds east of Citrus Avenue in 91724 skew toward Samsung or
+  KitchenAid slide-ins from the mid-2000s builder cycle — completely
+  different failure patterns, different parts availability. The stretch
+  between Azusa Avenue and Barranca Avenue has seen the most appliance
+  turnover in the last decade. Mostly LG and Samsung units purchased from
+  big-box stores with no local service contract attached.
+
+  The old Arrow Highway and San Bernardino Road corridor — dense
+  residential blocks, 1960s construction, original gas supply
+  infrastructure. Flex lines that are technically in-spec but are 50
+  years old. Gas range work in that corridor always includes a visual on
+  the flex connection before the repair ticket closes. Nobody wants to
+  fix the igniter and leave a marginal flex line behind.
+
+  91724 also has a cluster of early-2000s construction closer to the
+  Covina Hills area where KitchenAid and Bosch were the builder-grade
+  default. Control board failures on those units spike every summer as
+  ambient temperatures climb past 95°F.
+
+commonProblems:
+  - title: "Gas Burner Won't Ignite — Mineral Scale on the Spark Igniter"
+    description: |
+      Hard water mineral deposits crust the ceramic spark igniter tip and
+      burner cap over months. The igniter clicks but the burner never
+      catches. On older GE and Whirlpool gas ranges, the igniter sits low
+      in the burner bowl and collects residue fast. Cleaning the igniter
+      and cap fixes it about half the time — the other half, the igniter
+      itself needs replacing, usually a $35–50 part.
+
+      The burner cap also warps on the mid-2000s Whirlpool WFG series.
+      That gap between the cap and burner head is just wide enough to
+      kill ignition even with a new igniter installed. Two separate parts,
+      one symptom — worth checking both before calling it fixed.
+  - title: "Oven Not Reaching Temperature — Weak Oven Igniter or Stuck Gas Valve"
+    description: |
+      Gas ovens that preheat slowly or bake unevenly almost always point
+      to a weak oven igniter — it glows orange but never gets hot enough
+      to trigger the gas valve to open. Samsung ranges from 2010–2016 are
+      frequent offenders. The igniter reads fine on a meter but the glow
+      bar is spent. Swap the igniter, verify the gas valve cycles cleanly,
+      done.
+
+      LG ranges from the same era show the same slow-preheat symptom but
+      with a different root cause. The bi-metal safety fuse inside the gas
+      valve assembly trips on thermal stress — consistent ignition failure
+      after the oven has run 45 minutes or more. Same complaint, different
+      fix. Diagnosing which one you're dealing with before ordering parts
+      saves a second trip.
+  - title: "Control Panel Dead or Locked — Control Board Failure in Valley Heat"
+    description: |
+      KitchenAid and Bosch ranges from the early 2010s have control boards
+      that don't hold up to sustained 95°F+ ambient — a Covina summer
+      reality from June through September. The display locks mid-cook, one
+      burner zone stops responding, or the clock resets randomly.
+
+      Usually a control board replacement. Sometimes it's just a ribbon
+      cable connector that separated from the keypad membrane — worth
+      ruling out before ordering a board, because the board on a
+      KitchenAid KSGB900ESS runs $180–240 in parts alone. Check the
+      connector first. Takes ten minutes and costs nothing.
+  - title: "Self-Clean Cycle Shuts the Oven Down — Thermal Cutoff Tripped"
+    description: |
+      Running the self-clean cycle on a GE or Frigidaire range when the
+      kitchen is already 85°F is asking for trouble. The oven climbs past
+      900°F internally, the thermal cutoff reads the ambient spike, and
+      the unit shuts down. F2 or F3 on the display. Oven won't power back
+      on until the cutoff cools — or is replaced, because it's a one-time
+      component. Once tripped, it doesn't reset.
+
+      $15 part, 20-minute replacement. But until it's done, the range is
+      completely dead. This call spikes in August across 91722 and 91723.
+      If you ran self-clean and now nothing works, that's almost certainly
+      the cutoff.
+
+faq:
+  - q: "How fast can you get to Covina for range repair?"
+    a: "SGV routes run through our daily schedule — from the nearest stop,
+      Covina is 20–35 minutes depending on traffic on the 10 or the 210.
+      Same-day slots are usually open if you call before noon. Reach us
+      at (323) 870-4790 to check availability."
+  - q: "Do you repair Samsung and KitchenAid ranges?"
+    a: "Both show up constantly in 91723 and 91724. Samsung gas ranges
+      mostly need oven igniters or a control board. KitchenAid tends to
+      come in with bake element failures and intermittent burner valve
+      issues. Parts for both are generally in stock — no waiting on
+      special orders for common failures."
+  - q: "What does a range repair cost, and do you charge just to come out?"
+    a: "Flat diagnostic fee, credited toward the repair if you move
+      forward. Most igniter or bake element swaps land between $120 and
+      $200 all-in. Control board jobs get a quote before any parts are
+      ordered — no surprises. Evening slots available. Call
+      (323) 870-4790."

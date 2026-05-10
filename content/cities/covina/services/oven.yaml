@@ -1,0 +1,84 @@
+title: "Covina Oven Repair — SGV Ranch Kitchens, Same-Day Service"
+
+intro: |
+  Charter Oak's residential blocks — the streets running north off Badillo toward the foothills — are
+  packed with ranch homes where someone upgraded to a KitchenAid or GE slide-in range during a
+  kitchen remodel and expected it to run indefinitely. Inland San Gabriel Valley heat puts real load
+  on oven components; ambient kitchen temps in 91722 regularly hit 95–100°F in July and August, which
+  means the control board and thermal fuse assembly inside that oven are already running warm before
+  the first preheat cycle of the day. Covina zip codes 91722, 91723, and 91724 are on our regular
+  route, and most calls get a same-day tech.
+
+  Two technicians cover the SGV corridor from Irwindale to Pomona — no dispatch relay, you're talking
+  directly to the person showing up at your door.
+
+localContext: |
+  Housing in 91722 and 91723 skews heavily toward single-story construction from 1955 to 1975 —
+  kitchens that have been updated once or twice but still have 30-inch cutouts sized for freestanding
+  ranges. Retrofitting a newer Samsung or Whirlpool slide-in into one of those original openings is
+  common, and it often means tight clearances behind the unit that complicate element and wiring
+  access. The stretch along Citrus Avenue between Arrow Highway and Badillo Street has some of the
+  densest original housing stock in the city — gas lines that haven't been updated since the 1960s
+  are still active, which is directly relevant for broiler and igniter diagnostics on gas ranges.
+  Knowing what you're walking into before the appointment matters here.
+
+  The 91724 corridor (Charter Oak, north Covina) runs newer — mostly 1970s to early 1990s builds
+  with a heavier mix of LG and Samsung upgrades alongside surviving GE Spectra ranges.
+
+commonProblems:
+  - title: "Bake Element Failure in Aging GE and Whirlpool Ranges"
+    description: "The bake element in GE Profile and Whirlpool freestanding ranges typically runs
+      10–15 years — a window a lot of Covina kitchens are hitting now. Symptoms are usually
+      obvious: visible cracks or carbon scoring on the element itself, or the oven cycling on but
+      stalling at 250°F instead of reaching setpoint. Whirlpool Gold models sometimes throw an F3
+      error code alongside the thermal failure, which points straight at the element or the oven
+      temperature sensor depending on whether the resistance reads open or just out of spec. If the
+      element tests open on a multimeter, it's a straightforward swap, but matching the harness
+      connectors to the specific model matters — GE Profile connector terminals changed across
+      model years and the wrong type won't seat correctly, which creates an intermittent fault that's
+      harder to diagnose than the original failure."
+
+  - title: "Self-Clean Cycle Locks Samsung Doors and Won't Release"
+    description: "Samsung slide-in ranges use a motorized door latch assembly tied directly to the
+      control board. When a self-clean cycle glitches mid-run — common after a power flicker —
+      the latch stays engaged even after the cavity cools down completely. The culprit is almost
+      always a stuck relay on the control board, not the latch mechanism itself.
+
+      Forcing the door open shears the latch bracket and turns a $180 board job into a $400 part
+      replacement. Samsung's SE error code is the one to watch after a failed self-clean: cut power
+      at the breaker for five full minutes before touching anything else. If the latch still won't
+      release after a power reset, call (323) 870-4790 — a tech can usually be there the same day
+      before you do something expensive to the door."
+
+  - title: "Gas Broiler Won't Light on KitchenAid Ranges"
+    description: "KitchenAid and Bosch gas ranges use a glow bar igniter that slowly degrades over
+      time. A weak igniter draws insufficient current to fully open the gas valve, so you hear
+      clicking but get no flame — or it lights only on one side of the broiler burner. A properly
+      functioning igniter pulls 3.2–3.6 amps; anything outside that range and the valve stays
+      closed.
+
+      Gas valve solenoids in KitchenAid units are particularly sensitive to igniter amperage. If the
+      igniter has been running weak for a while, the valve can seize in a partially open position
+      and produce an uneven flame that looks like a burner problem rather than an igniter problem.
+      New igniter runs $45–$80 in parts; a failed gas valve adds $120–$160 on top of that. Catching
+      the igniter early keeps the repair simple."
+
+faq:
+  - q: "How fast can you get to Covina for oven repair?"
+    a: "Covina sits right on the 10/210 corridor — travel time from the west is usually 25–35
+      minutes. Same-day slots are open most weekdays and Saturdays. Call (323) 870-4790 to check
+      today's schedule. Evening appointments are available but fill up by early afternoon."
+
+  - q: "Do you repair Samsung and Bosch ovens in the San Gabriel Valley?"
+    a: "Both are common calls in this area. On Samsung ranges the most frequent jobs are control
+      board replacements and bake element swaps. Bosch wall ovens usually need a heating element
+      relay or a door latch assembly. Parts for both brands are typically stocked or sourced
+      same-day from our SGV supplier in City of Industry — no waiting on a multi-day warehouse
+      order when the repair is otherwise straightforward."
+
+  - q: "What does oven repair cost in Covina, and can you come today?"
+    a: "Diagnostic fee is flat-rate and credited toward the repair if you proceed. Most element
+      replacements and igniter jobs land between $150 and $280 including parts and labor. Control
+      board jobs run higher depending on the model — Samsung boards for slide-in ranges typically
+      run $200–$350 total. Same-day service is standard — call (323) 870-4790 and a tech can
+      usually be there within 2 hours of your call."

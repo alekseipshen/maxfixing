@@ -1,0 +1,96 @@
+title: "Brea Freezer Repair — Garage Heat Kills Compressors"
+
+intro: |
+  The older flats around Brea Boulevard and Imperial Highway have a lot of
+  garage freezers — chest units, old Whirlpool uprights, sometimes a
+  standalone box someone never got rid of. Most run 24/7 without a second
+  look.
+
+  In 92821, garage temps hit the high 90s through July and August, and that
+  puts real load on the compressor and the condenser fan. The ambient heat
+  forces the condenser to shed more BTUs than it was designed to handle, and
+  over two or three summers, the motor windings weaken. By fall, homeowners
+  notice the ice cream is soft, or there's a solid inch of frost on
+  everything, and they start wondering what went wrong.
+
+  It's almost always a heat-related failure. The freezer was fine in March.
+
+localContext: |
+  Brea's housing breaks into two distinct zones. The flatlands along Central
+  Avenue and Brea Boulevard — mostly built in the 1960s and early 1970s —
+  have older ranch homes with smaller kitchens and garages packed with
+  secondary appliances. Deferred maintenance is common here. A chest freezer
+  near the 57/91 interchange might not have had its condenser coils cleaned
+  since the day it was installed.
+
+  Up in 92823, near Carbon Canyon Regional Park, homes run newer (1990s–2000s)
+  and kitchens more often have KitchenAid or Bosch column freezers built in.
+  Sub-Zero and Thermador show up regularly in the larger homes off Olinda Ranch
+  Road. Newer construction means pricier parts and tighter expectations on
+  repair time — a built-in column freezer can take three to five days for a
+  specialty gasket to arrive, which matters a lot when someone's storing
+  medication or a chest of Costco meat.
+
+  Two very different repair profiles. Same city.
+
+commonProblems:
+  - title: "Compressor Shutdown During Summer Heat"
+    description: |
+      A standalone freezer in an attached garage can sit in 100°F ambient air
+      through July. Thermal overload protection trips the compressor — which is
+      its job — but then the unit stops cooling entirely. Whirlpool and Maytag
+      chest models from the 2010s are especially vulnerable; the condenser fan
+      placement traps heat near the motor housing and accelerates failure.
+
+      The fix isn't always a new compressor. Cleaning the condenser coils and
+      swapping the overload relay sometimes buys another several years of use.
+      A full compressor replacement on a basic chest freezer often doesn't
+      pencil out financially — we'll say so upfront rather than let you spend
+      $400 on a $200 appliance.
+  - title: "Frost-Packed Evaporator Coil and a Warm Cabinet"
+    description: |
+      Thick frost on the evaporator coil blocks airflow completely. The freezer
+      runs constantly but can't hold temp. On LG uprights, the defrost thermostat
+      is almost always the culprit — the defrost heater never activates, so ice
+      keeps building unchecked.
+
+      A manual defrost clears it temporarily, but without replacing the
+      thermostat, it'll ice back up inside two weeks. Samsung bottom-freezer
+      models throw an FF error code before total blockage — if you're seeing
+      that on the display, don't wait on it.
+  - title: "Door Gasket Failure Causing the Compressor to Overrun"
+    description: |
+      A cracked gasket on a KitchenAid column freezer lets warm, humid air in
+      continuously. The compressor never cycles off and wears out ahead of
+      schedule. Test it by closing the door on a dollar bill — if it slides out
+      without resistance, the seal is failing.
+
+      Sub-Zero built-ins near Carbon Canyon have the same problem; those gaskets
+      are model-specific and require the unit's serial number to order correctly.
+      Brea's dry inland air actually cracks door gaskets faster than coastal
+      areas — the rubber desiccates without the marine moisture that slows
+      degradation in Long Beach or Santa Monica. It's a detail most homeowners
+      don't realize until the gasket is visibly split.
+
+faq:
+  - q: "How fast can you get to Brea for a freezer repair?"
+    a: "Brea is right off the 57 Freeway, so we're usually there within 45–60
+      minutes from most of our service area. Same-day appointments are available
+      most mornings — call (323) 870-4790 to check availability. Evening slots
+      work for people who can't take time off work, and we confirm the arrival
+      window when you book so you're not waiting around all day."
+  - q: "Do you repair LG, KitchenAid, and Samsung freezers in Brea?"
+    a: "All three show up constantly in this zip code. LG uprights almost always
+      need defrost thermostat or control board work. Samsung French-door
+      bottom-freezer drawers have chronic drain assembly freeze-ups — often
+      preceded by that FF or 1F error code on the panel. KitchenAid column
+      freezers typically come in for door gasket or evaporator fan motor
+      replacements. Parts for all three stay stocked in the van, so most
+      repairs close in a single visit."
+  - q: "What does freezer repair typically cost in Brea?"
+    a: "Diagnosis is $65, credited toward the repair if you move forward. Defrost
+      heater, thermostat, or door gasket swaps usually run $150–$280 all in.
+      Compressor replacement on a premium unit costs more — we quote upfront
+      before touching anything and will tell you honestly if repair doesn't make
+      financial sense given the appliance's age. Same-day and emergency service
+      available; call (323) 870-4790."
