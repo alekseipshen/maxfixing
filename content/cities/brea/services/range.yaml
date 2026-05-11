@@ -1,0 +1,101 @@
+title: "Brea Range Repair — Gas & Electric, 92821 to 92823"
+
+intro: |
+  The tracts off Lambert Road and Birch Street are full of 1980s homes where KitchenAid
+  slide-in ranges came in as the original upgrade package — and thirty-plus years later,
+  the spark igniters are clicking nonstop or the oven is running 50 degrees cold. We
+  cover 92821 and 92823, usually reaching Brea within two hours of your call. Same-day
+  slots are available most weekdays, including evenings.
+
+  Brea sits at the edge of the Chino Hills, and summer temperatures regularly push past
+  100°F near Carbon Canyon. That heat means your range's cooling fan and control board
+  run hotter than the manufacturer ever tested for. Thermal fuses go. Control boards
+  throw codes nobody expects. These aren't random failures — they're predictable given
+  the climate, and they're fixable fast. Call (323) 870-4790 if you're dealing with
+  something right now.
+
+localContext: |
+  Most of Brea's housing stock dates from the 1970s through the early 1990s — tract
+  homes near Carbon Canyon Regional Park and newer construction out toward the Olinda
+  Village area. Older gas hook-ups on Laurel Avenue and the surrounding blocks are
+  still active and well-used. In zip code 92821, remodeled kitchens tend to have Bosch
+  or KitchenAid ranges; out in 92823 near the Olinda tract, LG and Samsung are more
+  common.
+
+  The newer builds along Valencia Avenue and near the Brea Mall corridor skew toward
+  Thermador and Sub-Zero packages — whole kitchen suites installed during the 2010s
+  remodel wave. Those Thermador Pro Harmony ranges have a reputation for tricky gas
+  valve wiring that looks fine on visual inspection but throws intermittent ignition
+  faults. Diagnosing them requires a real wiring diagram, not a YouTube video. We carry
+  brand-specific documentation and have the ignition test harness for the Pro Harmony
+  series.
+
+  Gas service in 92821 runs through older SoCalGas laterals — nothing unusual, but
+  sediment in the line occasionally clogs brass orifice ports on budget-tier ranges.
+  That's a five-minute fix if you know to check it. If you don't, you'll swap a
+  perfectly good gas valve and still have the same problem.
+
+commonProblems:
+  - title: "Igniter clicks constantly but the burner won't catch"
+    description: "Food spills work under the burner cap and short out the spark electrode
+      tip — it clicks endlessly and never fires. KitchenAid gas ranges are especially
+      prone to this. Replacing the spark module and clearing the gas orifice of
+      debris usually solves it in a single visit, no parts order needed.
+
+      On LG ranges the symptom is the same but the cause is different: the igniter
+      switch contacts corrode and keep the circuit open after you've let go of the knob.
+      Error code F2 on LG's display is the giveaway. Switch replacement, 45 minutes,
+      done."
+
+  - title: "Oven bakes unevenly — things burn on one side or won't brown at all"
+    description: "A drifting oven temperature sensor (RTD probe) is usually to blame,
+      though a failing bake element can produce the same symptom. Brea's inland heat
+      pushes ovens harder in summer. We test both on the first visit — a bad probe
+      reads wildly off from setpoint on a simple meter check.
+
+      Bosch ovens add a wrinkle: their dual-ring bake element fails in one ring while
+      the other keeps working, so the oven heats but the hotspot pattern is off. Owners
+      assume it's the sensor. It's not. Pull the element, check resistance on each
+      ring separately — one ring reads open and that's your answer. New element, correct
+      bake pattern restored."
+
+  - title: "Faint gas smell when the range is off"
+    description: "A gas valve that isn't seating fully, or a cracked valve seal, lets
+      trace gas bleed through. On Bosch and Thermador ranges the valve assembly sits
+      deep under the cooktop — not a DIY repair. This one needs same-day attention.
+      Call (323) 870-4790 and we'll prioritize the visit.
+
+      Don't light the range again until it's checked. Open a window, skip the hood fan
+      (it can spark), and call us or SoCalGas if the smell is strong. For a trace smell
+      that only appears occasionally, it's almost always a valve seat — a $90 part
+      and about an hour of labor once we're on site."
+
+faq:
+  - q: "How fast can you get to Brea for a range repair?"
+    a: "Usually within 2 hours. Coming up the 57 from Anaheim Hills or down Imperial
+      Highway from Fullerton, traffic is manageable outside peak hours. Call
+      (323) 870-4790 or schedule online — morning and evening slots available most
+      days."
+
+  - q: "Do you repair KitchenAid and Bosch ranges in Brea?"
+    a: "Both are very common here. KitchenAid jobs are usually igniters or oven sensors.
+      Bosch gas ranges tend to need the gas valve or control board. We also handle LG
+      and Samsung, including fault codes like F9E0 (door latch) or F3E1 (sensor open).
+
+      Thermador repairs come up in the newer Valencia Avenue builds and the
+      Greenbriar/Tracks area — we carry the Pro Harmony wiring diagrams and the test
+      harness, so it's not a two-trip diagnosis like some shops need."
+
+  - q: "What does range repair cost, and is there a diagnostic fee?"
+    a: "There's a diagnostic fee that applies toward the repair if you proceed. Most
+      fixes — igniter, bake element, RTD sensor — run $150–$280 parts and labor
+      combined. A gas valve replacement on a Bosch or Thermador will run higher, usually
+      $280–$420 depending on the valve model and access time. Same-day emergency service
+      is available. Call (323) 870-4790 for an upfront estimate before we come out."
+
+  - q: "Can you repair a range in a tight kitchen with limited access?"
+    a: "Yes. Brea townhomes near Brea Boulevard and the older duplexes off Central
+      Avenue sometimes have 24-inch ranges packed into galley kitchens with almost no
+      pull-out clearance. We've worked in tighter spots. If the range needs to come
+      out completely — for a rear ignition board or a back-panel gas connection — we
+      do that too. Just mention the layout when you call so we bring the right tools."

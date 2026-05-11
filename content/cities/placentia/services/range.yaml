@@ -1,91 +1,112 @@
-title: "Placentia Range Repair — Gas Ignition & Oven Fixes, 92870"
+title: "Placentia Range Repair — Gas & Electric, Same-Day 92870"
 
 intro: |
-  Bradford Avenue splits Placentia roughly between the post-2000 developments on
-  the north end and the 1960s–70s ranch grid that makes up most of 92870. That
-  older grid is where we field the most range calls — KitchenAid freestanding
-  units with spark igniters worn down to nothing, or Bosch slide-ins throwing
-  service error codes nobody can decode without a wiring diagram. Two technicians
-  cover this stretch of Orange County, and Placentia stays on the regular route.
-  Kraemer Boulevard to Chapman Avenue, we know the neighborhoods and we know
-  which ranges show up most in which driveways.
+  Chapman Avenue runs through some of Placentia's older ranch tracts where 1960s
+  kitchens were built around 30-inch gas ranges and nothing's changed much since.
+  Today those same kitchens are running KitchenAid dual-fuel slides and Samsung
+  freestanding units, but the symptoms are familiar: a burner that clicks without
+  catching, or an oven that reads 350° and bakes like it's 275°. We cover 92870
+  and 92871 — usually on-site the same day you call.
+
+  The range is the appliance people notice fastest when something goes wrong.
+
+  A dead burner on a Tuesday night is a real problem. Gas smell near the valve
+  manifold is a call-right-now situation. We handle both.
 
 localContext: |
-  The 92870 zip is heavy with tract homes built between 1962 and 1985. Kitchens
-  in those homes were sized for standard 30-inch freestanding ranges, but plenty
-  of owners have since dropped in wider slide-ins or dual-fuel units — not always
-  with updated gas line fittings behind the cabinets. The stretch along Golden
-  Avenue north of the 91 Freeway is a good example: original cabinetry, newer
-  appliances squeezed in, and gas connections that haven't been touched since
-  the Reagan administration.
+  Most of the housing stock in 92870 goes back to the late 1960s and 1970s —
+  single-story ranch layouts east of Kraemer Boulevard, with original gas supply
+  lines still feeding modern slide-in ranges. Those lines have seen decades of
+  pressure cycles, and sediment from older galvanized sections can reach the
+  range's gas valve or clog the burner orifices over time.
 
-  Over on the 92871 side near the Placentia-Yorba Linda Unified boundary,
-  construction skews early 1990s. Samsung and LG gas ranges dominate those
-  kitchens, and the igniter assembly tends to be the first casualty. The
-  neighborhoods off Placentia Avenue closer to Anaheim are a mix — Whirlpool
-  and Maytag freestandings alongside newer KitchenAid slide-ins that homeowners
-  put in during the pandemic kitchen remodel wave. Either way, we carry parts
-  for both generations.
+  The Golden Trails neighborhood near Placentia Avenue sees Thermador and Bosch
+  installs in 2000s-era Craftsman builds. Different failure pattern entirely from
+  the 1970s tracts near Alta Vista High School, where corroded orifices and failing
+  igniters are the repeat call.
+
+  Bradford Avenue and Placentia Avenue corridors have a mix of both eras. A house
+  built in 1972 with a remodeled kitchen in 2018 might have a KitchenAid dual-fuel
+  slide-in sitting on a gas stub that was last inspected during the Carter
+  administration. The range is fine. The stub fitting, less so.
+
+  Over near Tri-City Park at Orangethorpe and Kraemer, newer builds more often have
+  Bosch or Thermador ranges with electronic ignition and convection systems that fail
+  differently. The Thermador star-burner geometry is non-standard — igniter
+  placement, burner cap fitment — and most generalist technicians skip it entirely.
+  Access across Placentia is usually straightforward: driveways, street parking on
+  Bradford and Yorba Linda Boulevard, no elevator logistics or gated complexes.
+
+  The stretch along Yorba Linda Boulevard near the 57 Freeway interchange has more
+  recent construction with updated gas lines. Still gets the same hard-water mineral
+  buildup in burner orifices as the rest of Orange County — the water hardness here
+  runs around 350–400 ppm, and it shows up in every range we open.
 
 commonProblems:
-  - title: "Burner Won't Light Despite Clicking — Mineral Deposits on Igniter Tips"
+  - title: "Burner igniter clicks but won't light — common in Placentia's gas range homes"
     description: |
-      Cooking with hard Orange County tap water means steam and splatter leave
-      mineral buildup on the spark igniter tip and electrode over time. On
-      KitchenAid and GE gas ranges, the burner clicks repeatedly but won't
-      catch — the igniter is firing, but clogged burner ports prevent the gas
-      from reaching the spark cleanly. Cleaning the ports and swapping the
-      igniter module usually sorts it in a single visit. Older homes in 92870
-      with original copper supply lines sometimes compound the problem — low gas
-      pressure from corroded fittings makes an already-weak igniter worse.
-  - title: "Oven Reads 375 but Bakes Like 450 — Temperature Sensor Probe Drift"
+      The spark igniter electrode gets coated with grease and mineral residue from
+      LA's hard water, especially around the burner cap and the igniter port. On
+      KitchenAid and Samsung gas models, this usually means cleaning or replacing the
+      igniter module — and checking that the burner cap is seated flat, since a
+      slightly cocked cap breaks the spark gap geometry entirely.
+
+      Left alone, continuous clicking wears out the spark module faster and can trip
+      the control board into lockout mode.
+
+      Catch it early and it's a $90–$140 fix. Wait six months and you're replacing
+      an $80 spark module plus a $150 control board. Not worth it.
+  - title: "Uneven flame or low BTU output after years of use"
     description: |
-      Bosch ranges in Placentia's remodeled kitchens are our second-most-common
-      range call. The temperature sensor probe drifts out of spec after years of
-      thermal cycling — it starts reading 30 to 50 degrees off, and the control
-      board compensates in the wrong direction. Recalibration through the service
-      menu buys time; replacing the probe outright is the permanent fix. On Bosch
-      slide-ins the probe sits at the back upper wall of the oven cavity, and in
-      tighter 92870 kitchens getting the range pulled far enough to work safely
-      means some coordination. We factor that into the appointment window so
-      there's no rushed job.
-  - title: "Oven Burner Lights Intermittently — Cracked Hot Surface Igniter"
+      Clogged burner ports are the usual culprit — mineral deposits from hard water
+      narrow the gas flow over time. It shows up as a lopsided blue flame or one
+      burner running noticeably cooler than the rest. Bosch and LG gas ranges are
+      particularly prone to this in the 92871 ZIP, where older plumbing adds sediment
+      to the equation.
+
+      Disassembly, soaking the burner heads in a descaling solution, and clearing each
+      port with a brass pick usually fixes it. The gas pressure at the regulator gets
+      checked too — a weak or failing regulator is sometimes the actual root cause,
+      not the ports themselves. Miss that step and the problem comes back in three months.
+  - title: "Oven not reaching set temperature — Thermador and KitchenAid convection issues"
     description: |
-      Thermador and Viking dual-fuel ranges show up frequently in the newer
-      construction near the Yorba Linda border on the north side of town. When
-      the oven lights every third or fourth attempt, the hot surface igniter
-      (also called the gas valve igniter) is usually cracked. Healthy igniters
-      measure 40–90 ohms; anything outside that window means the ceramic element
-      has failed and needs replacement. On Thermador PRD-series units the igniter
-      is buried behind the oven floor panel and takes about 45 minutes to swap
-      properly — it's not a DIY job unless you've already done it twice.
+      A failing bake element or a worn-out RTD probe (temperature sensor) is the most
+      common cause. The RTD probe sends resistance readings to the control board —
+      when it drifts, the board thinks the oven is hotter than it is and cuts the
+      element early.
+
+      You get a 275° oven convinced it's at 350°.
+
+      On Thermador wall-oven-style ranges in Placentia's newer builds near Golden
+      Trails, convection fan motors seize after 8–10 years of use. The bearing wears
+      out, the motor draws excess current, and the thermal fuse on the motor housing
+      blows. The oven display reads fine, but heat distribution fails — hot spots near
+      the element, cold pockets in the corners. Replacing the heating element or
+      sensor runs $120–$200 in parts. The convection motor swap is closer to
+      $180–$250 depending on the Thermador model series.
 
 faq:
-  - q: "How fast can you get to Placentia for Range repair?"
-    a: |
-      From our Orange County route, Placentia is typically a 20–40 minute drive
-      depending on the 57 Freeway. Call (323) 870-4790 before noon on most days
-      and we can get there same afternoon. Evening slots available when mornings
-      are full.
-  - q: "Do you repair Bosch and KitchenAid ranges in Placentia?"
-    a: |
-      Both are regulars in 92870. On Bosch we most often replace the temperature
-      sensor probe and door latch assembly. KitchenAid calls are usually spark
-      igniters, bake elements, or control board resets after a power surge.
-      Parts for both brands typically in stock. Samsung and LG igniters for the
-      92871 neighborhoods as well — those we keep on the truck because the calls
-      come in clusters.
-  - q: "How does pricing work for range repair, and do you handle gas emergencies?"
-    a: |
-      Diagnosis runs $85 and applies toward the repair if you proceed. Most range
-      jobs land between $150 and $350 depending on the part. Gas smell or a
-      burner that won't shut off gets treated as same-day emergency — call
-      (323) 870-4790 and we move you to the front of the queue.
-  - q: "My range shows an error code — do you work with those?"
-    a: |
-      Yes. Bosch ranges commonly throw E-series fault codes related to the oven
-      sensor or control board; Samsung gas ranges show SE or -E- codes when the
-      touchpad or main board starts failing. Bring the code when you call — it
-      cuts the diagnostic time down significantly and sometimes tells us exactly
-      which part to bring. Schedule a same-day appointment at (323) 870-4790
-      and mention the code when you book.
+  - q: "How fast can you get to Placentia for a range repair?"
+    a: "From our usual Orange County route, Placentia is easy — off the 57 at
+      Yorba Linda Blvd or Chapman. Most calls in 92870 and 92871 get same-day
+      slots, sometimes within 2 hours. Call (323) 870-4790 to check today's
+      availability."
+  - q: "Do you work on Bosch and Thermador ranges, or just the standard brands?"
+    a: "Both, plus KitchenAid, Samsung, LG, and GE. Bosch slide-ins need different
+      burner seal kits than American brands — the brass orifice sizing is metric,
+      which matters when diagnosing a weak flame. Thermador star burners have a
+      specific igniter geometry most generalists skip. Common parts for both are
+      stocked on the van, so same-day repairs are the norm rather than the exception."
+  - q: "What does a range diagnosis cost, and do you charge if you can't fix it?"
+    a: "Diagnosis is $75, applied toward the repair if you proceed. Gas smell calls
+      get priority — dispatch within 2 hours for those, even on short notice. If a
+      part needs to be ordered after the first visit, you don't pay the diagnostic
+      fee twice. Evening slots are available most weekdays. Schedule at (323) 870-4790
+      or book online."
+  - q: "My range is showing an error code — does that help with diagnosis?"
+    a: "Usually yes. Samsung ranges throw F-codes for temperature sensor faults and
+      E-codes for ignition control issues — F-28 on a Samsung NX series, for example,
+      typically points to a faulty oven sensor or a wiring harness fault at the sensor
+      connector. KitchenAid uses a different readout format but the underlying failure
+      modes are similar. Mention the code when you call and we can usually narrow it
+      down in a few minutes — parts swap or control board fault, we'll tell you straight."

@@ -1,0 +1,81 @@
+title: "Brea Ice Maker Repair — Old Supply Lines, New Appliances, Hard Water"
+
+intro: |
+  Copper supply lines from the 1970s still feed a lot of the KitchenAid and LG
+  refrigerators in Country Hills and the tracts around Brea Dam Recreation Area.
+  That original plumbing has been slowly narrowing for decades — and the unit is
+  always the first thing to feel it. Flow drops below the fill valve threshold,
+  the module runs cycles but produces nothing, and the error code (if there is one)
+  points in completely the wrong direction. Brea's tap water in 92821 also runs
+  around 200–240 ppm hardness, which accelerates the calcification on any inlet
+  valve it touches.
+
+localContext: |
+  Most of 92821 built out between 1965 and 1990 — Country Hills, Olinda Village,
+  and the streets south of Imperial Highway all carry original kitchen footprints
+  that weren't designed around today's counter-depth french-door units. Single-family
+  tract homes dominate this stretch, and tighter cabinet clearances make ice maker
+  module access more involved than in new builds. The older Brea Blvd corridor near
+  the Brea Mall has a mix of attached townhomes and condos where compact kitchens
+  add another layer of complexity — parking a service van near those units takes
+  planning too. The 92823 zip, covering the hills east of Carbon Canyon Road and
+  Carbon Canyon Regional Park, runs newer construction and custom builds where
+  Sub-Zero and Thermador column refrigerators are standard — a completely different
+  service approach, needing OEM parts and specific access procedures.
+
+commonProblems:
+  - title: "Restricted water inlet valve from decades of hard-water calcification"
+    description: |
+      At 200+ ppm, Brea tap water deposits calcium carbonate inside the inlet
+      valve's solenoid port in 18 to 24 months. The valve doesn't fail all at
+      once — it restricts gradually, producing smaller and more hollow cubes
+      until nothing drops into the bin. Samsung and LG french-door models feel
+      this first because the under-freezer placement traps heat near the valve
+      housing. Flushing the water line helps pressure but won't clear a
+      calcified solenoid; the valve itself has to come out.
+
+  - title: "Ice maker thermistor drift in Brea's garage-adjacent refrigerators"
+    description: |
+      A common floor plan in Brea's 1970s tract homes puts the fridge alcove
+      against the garage-facing wall — or the refrigerator lives in the garage
+      entirely. By July, those spaces hit 100–105°F at afternoon peak. The
+      thermistor drifts out of spec under sustained heat, reads the mold as
+      already cold enough, and the fill cycle never triggers. On LG units this
+      surfaces as an E5 code; on Samsung, the display often shows nothing at
+      all until the module is manually reset. Seeing this pattern every summer
+      in 92821? Call (323) 870-4790 — same-day morning slots are usually open.
+
+  - title: "Frozen fill tube caused by a failing KitchenAid door gasket"
+    description: |
+      A door gasket that's lost compression lets warm Southern California air
+      seep into the freezer compartment overnight. That humidity migrates
+      straight into the ice maker fill tube and refreezes between harvest
+      cycles. KitchenAid built-ins hit this around the 8–10 year mark when
+      the magnetic gasket compresses unevenly at the corners. Once the fill
+      tube ices solid, the module runs every cycle and delivers zero water —
+      and the evaporator coil typically frosts over at the same time,
+      compounding the repair.
+
+faq:
+  - q: "How fast can you get to Brea for ice maker repair?"
+    a: |
+      Brea sits on our regular Orange County run — usually 2 hours or less,
+      depending on whether we're routing from Anaheim Hills or down from
+      Fullerton. Both 92821 and 92823 are easy reaches. Call (323) 870-4790
+      to lock in same-day availability and get an arrival window.
+
+  - q: "Do you repair KitchenAid, Sub-Zero, and Samsung ice makers in Brea?"
+    a: |
+      Yes — all three come up regularly here. KitchenAid and Samsung are the
+      most common call in 92821. Sub-Zero built-ins in the newer Brea Hills
+      area require OEM ice maker modules and specific diagnostic procedures
+      that generic shops often skip. LG and Thermador are on our regular
+      parts inventory too.
+
+  - q: "What does ice maker repair typically cost, and is same-day service available?"
+    a: |
+      Most repairs in Brea land between $150 and $350. Water inlet valve
+      replacements sit at the lower end; full module swaps and control board
+      repairs run higher. We diagnose same-day — call (323) 870-4790 or book
+      online. Common parts for LG, Samsung, and KitchenAid are usually on the
+      truck, so one visit is typically enough.

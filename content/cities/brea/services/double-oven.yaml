@@ -1,0 +1,42 @@
+title: "Brea Double Oven Repair — Both Cavities Working Again"
+
+intro: |
+  Carbon Canyon Road homes in 92821 mostly went up between 1988 and 1998 — and a lot of those kitchens got KitchenAid double wall ovens as part of the original build spec. Three decades is a long time for a control board. The lower cavity stops heating first. Sometimes it throws an F3 error; sometimes the display just sits there, unresponsive, while the upper oven runs fine. That's almost never the element itself — it's the temperature sensor or the board behind the oven face.
+
+  Brea sits about 10 miles inland from Anaheim Hills. Summer temps here push into the mid-90s and hold. Built-in wall units work harder under that ambient heat load than they would 5 miles closer to the coast, and control board failures in 92821 spike every August. Worth knowing if you're trying to figure out why this happened now and not six months ago.
+
+localContext: |
+  Brea's 92821 zip is mostly 2,000–2,800 sq ft single-family homes with dedicated wall oven setups, not freestanding ranges. Neighborhoods off Birch Street and around the Blackstone development were finished with higher kitchen specs — built-in doubles, custom cabinetry cutouts, zero wiggle room around the oven box. Getting a unit out for repair or replacement takes time when the cabinet surround is millimeter-tight. That matters for scheduling; jobs here often run longer than a standard pull-and-swap.
+
+  Newer construction north of Lambert Road — built mostly post-2005 — came with Bosch or Thermador factory appliance packages. Those kitchens look clean, but the appliances are hitting the 18–20 year mark now. Parts availability for those model runs is still strong. Repair wins on cost in almost every case.
+
+  Older stock near the Brea Dam Recreation Area trends toward Whirlpool and GE electric wall pairs. Less glamorous. Highly repairable. Control boards for those models run $120–180 in parts. Most of those calls close same day.
+
+commonProblems:
+  - title: "Lower oven dead while upper oven works fine"
+    description: |
+      Split failures like this — one cavity out, one fine — almost always trace back to a failed bake element or a broken temperature sensor specific to that cavity. On KitchenAid double wall ovens, the lower bake element sits close to the drip pan and corrodes faster. You'll see no preheat cycle at all, or the oven cuts out at 200°F and never climbs higher.
+
+      The diagnostic takes about 20 minutes with a multimeter. If the element reads open on a continuity check, that's your answer — straightforward swap. If it checks out, the temperature sensor is next. A failed RTD sensor reads out-of-range resistance, and the control board goes into lockout — that's what triggers the F3 code. Misdiagnosed as a board failure constantly. Most of the time in Brea it's a $45 sensor, not a $280 board.
+
+  - title: "50-degree gap between upper and lower cavity temps"
+    description: "Both ovens on, both set to 350°F — but your roast on top is scorched and the casserole below is still raw. Bosch double ovens develop this after heavy use. The culprit is usually a drifting temperature sensor on the lower cavity, or a control board that's lost calibration on one channel. Replacing the sensor is straightforward; board replacement costs more but solves it for good."
+
+  - title: "Broken door hinge — oven won't seal properly"
+    description: |
+      Thermador double ovens have heavy glass doors, and the spring-loaded hinge assembly takes serious stress every time the door drops open. A snapped hinge bracket lets hot air escape, throws off the thermostat, and makes the door gasket compress unevenly. The door glass can crack if the hinge fails mid-swing. This is a two-person job on built-in units — the door itself weighs 18–22 lbs.
+
+      Samsung and LG wall pairs use a roller-cam hinge design instead of a spring bracket. The failure looks the same from the outside — door sags, seal breaks, temp swings — but the hardware is completely different. We carry both hinge styles on the van.
+
+faq:
+  - q: "How fast can you get to Brea for a double oven repair?"
+    a: "Brea is a direct shot — Imperial Highway from the west or the 57 from north or south, depending on where we're coming from. Same-day service is available most days. Call us at (323) 870-4790 and we can usually be on-site within 2 hours."
+
+  - q: "Do you repair KitchenAid and Thermador double ovens?"
+    a: "Yes — KitchenAid doubles are the most common call we get in Brea. Thermador built-ins are a close second in the Blackstone area. We also handle Bosch, Samsung, and LG models. Typical repairs: bake elements, broil elements, temperature sensors, control boards, door hinge assemblies."
+
+  - q: "How much does double oven repair run, and can you come the same day?"
+    a: "Bake element replacement is on the lower end of the cost range. Control board jobs cost more but still beat replacement. We carry common parts for KitchenAid, Bosch, and LG on the van — same-day repair is realistic for most calls. Evening slots available. Schedule at (323) 870-4790."
+
+  - q: "My Bosch wall oven is showing an error code and won't heat — is it worth fixing?"
+    a: "Almost always yes. The E109 and E018 codes on Bosch 800 Series wall ovens usually point to a temperature probe failure or a door lock fault — not the main board. Pull the model number off the door frame sticker before calling; it starts with HBL or HBN. That cuts 10 minutes off the diagnostic. Call (323) 870-4790 — evening slots open most weekdays."

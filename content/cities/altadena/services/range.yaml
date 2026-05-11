@@ -1,0 +1,74 @@
+title: "Altadena Range Repair — Old Gas Lines, New Professional Ranges"
+
+intro: |
+  Altadena's 91001 zip has one of the more interesting range-repair mixes in the San Gabriel
+  Valley — craftsman bungalows near Christmas Tree Lane where the gas stub-outs are original
+  1940s iron pipe, now topped with a KitchenAid or Bosch slide-in the owners dropped in during
+  a kitchen gut. That combination of old infrastructure and newer appliances produces specific
+  failure patterns we see on almost every call up here. The pressure drop across an undersized
+  half-inch line feeding a 22,000 BTU power burner is something you can measure; most repair
+  calls never check it. Same-day service, usually there within two hours of your call.
+
+localContext: |
+  The housing timeline in 91001 runs from 1920s craftsman bungalows along Mariposa Street and
+  the blocks off Lincoln Avenue, through 1950s-era ranchers on the Santa Rosa Avenue corridor,
+  up to newer hillside builds near Loma Alta Park. Original gas lines in the older homes often
+  weren't resized when a high-BTU professional range replaced a 1970s basic model. Thermador
+  and Viking pro-style units are common in the renovated craftsman kitchens — the kind of
+  install that needs someone who knows the gas supply side, not just the appliance itself.
+
+  Income levels here push toward KitchenAid dual-fuel, Bosch induction, and the occasional
+  Sub-Zero or Miele built-in for households that treated a full kitchen renovation as a long-term
+  investment. That matters for repair work because premium ranges use proprietary ignition modules
+  and oven control boards that aren't stocked at the local parts house. Knowing which SKU to
+  pre-order before the appointment is how you finish in one visit instead of two.
+
+commonProblems:
+  - title: "Gas igniter clicks continuously but burner won't light"
+    description: "Grease and cooking dust work into the spark igniter module on open-burner ranges
+    faster than on sealed tops. The igniter electrode gets coated, draws a weak arc, and the gas
+    valve locks out rather than opening. On KitchenAid 5-burner slide-ins this almost always
+    traces to the igniter module — not the valve — and it's a straightforward same-visit fix if
+    the electrode hasn't cracked yet. A cracked electrode means the full spark module needs
+    swapping; on most KitchenAid configurations that's a 45-minute job. Persistent clicking after
+    a burner is lit usually means the igniter switch is sticking — different fix, same visit."
+
+  - title: "Flame burns yellow or uneven after stovetop cleaning"
+    description: "Hard water TDS levels in Altadena run high enough that calcium deposits build
+    inside burner orifice ports within a year or two of regular cooking. Scrubbing the stovetop
+    or running the oven self-clean cycle can displace that mineral scale right into the orifice.
+    One burner runs rich and orange, another barely holds a flame. Cleaning the ports and
+    resetting the air shutter gap usually resolves it without any part replacement. On sealed
+    burners — which Bosch and LG use — the cap seats matter too. A warped cap from aggressive
+    cleaning changes the flame spread geometry entirely. Takes about ten seconds to spot once
+    you know what to look for."
+
+  - title: "Oven reads low temperature — F3 fault on Thermador dual-fuel"
+    description: "Thermador dual-fuel ranges throw an F3 code when the oven temperature sensor
+    drifts out of spec. In Altadena's older homes, the bake element also takes extra stress from
+    underpowered 240V circuits that weren't upgraded when a professional range replaced the
+    original appliance. Bread comes out underdone, roasts need an extra 40 minutes. We test
+    element continuity and sensor resistance before ordering anything. The sensor itself is a
+    $30 part on most Thermador models; if it reads outside the 1,000–1,100 ohm range at room
+    temperature, it's the culprit. Control board faults on the same F3 code are less common but
+    do happen on ranges over eight years old — we differentiate with a resistance check before
+    touching the board."
+
+faq:
+  - q: "How fast can you get to Altadena for range repair?"
+    a: "We run daily routes through the San Gabriel Valley and come up through Pasadena on Lake
+    Avenue — usually 15-20 minutes from the nearest technician. Call (323) 870-4790 before noon
+    and same-day is almost always available, evening slots included for after-work calls."
+
+  - q: "Do you repair Bosch and Thermador ranges in this area?"
+    a: "Both regularly. Bosch ranges here most often need a spark module swap or a failed control
+    board — the induction models sometimes throw E-series fault codes tied to the power relay,
+    which we carry on the van. Thermador issues usually trace to the gas valve igniter circuit or
+    a drifted oven temperature sensor. We stock parts for both and typically finish in one visit."
+
+  - q: "What does range repair cost in Altadena, and how does the diagnostic work?"
+    a: "Diagnostic is $85 and gets applied to the repair if you move forward. Most igniter and
+    burner fixes run $120-$180 total. Gas valve or control board work runs higher — Viking and
+    Thermador boards can be $200-$350 in parts alone, and we'll tell you the number before
+    ordering anything. Smelling gas or range won't shut off? Call (323) 870-4790 right now —
+    same-day emergency slots are held for exactly that."

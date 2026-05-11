@@ -1,68 +1,98 @@
-title: "Placentia Oven Repair — KitchenAid, Bosch & Thermador in 92870"
+title: "Placentia Oven Repair — Upper OC Ranch Kitchens, Fixed Right"
 
 intro: |
-  Bradford Avenue and the streets branching off Orangethorpe carry a lot of mid-century ranch homes
-  that have been through at least one kitchen remodel — and that usually means a KitchenAid or Bosch
-  oven is now anchored into a cabinet cutout that was designed for a 1970s unit. Those appliances run
-  fine until the bake element burns out mid-roast or the temperature sensor drifts 40 degrees low and
-  ruins three rounds of food before you figure out what changed. Gas ovens add another layer — a weak
-  igniter draws less than 3 amps and the safety valve never fully opens, so the burner lights late or
-  not at all. Service calls through Placentia run daily and most arrive within two hours of booking.
+  Bradford Avenue runs through Placentia's older residential core, flanked by 1970s
+  tract homes that have had at least one kitchen refresh since original construction.
+  A lot of those updates ended on a KitchenAid wall oven or Bosch slide-in range —
+  solid mid-to-premium appliances that hold up for years before the bake element goes
+  dark or the igniter stops drawing enough current to open the gas valve. Oven reads
+  375°F, cooks like 300°F. Call (323) 870-4790 — we can usually reach Placentia the
+  same day.
 
 localContext: |
-  The 92870 zip covers a real mix: 1960s and 70s single-family ranches on the older residential
-  streets near Bradford and Crowther, 1990s tract homes along the 57 freeway corridor, and newer
-  builds toward the Placentia-Yorba Linda border. Kitchens in the Alta Vista area frequently carry
-  KitchenAid or Bosch wall ovens from 2000s remodels — those units are now 15 to 20 years old and
-  entering the failure window. The newer streets near Golden Avenue and the Placentia-Yorba Linda
-  Unified boundary see more Thermador and Wolf built-ins installed during full kitchen renovations in
-  the 2010s — those require different calibration tools and OEM parts that most general repair shops
-  don't stock. Closer to the freeway, Samsung and LG slide-in ranges are standard, and both product
-  lines have predictable age-related failure patterns we see constantly in Orange County service calls.
+  Most of the housing in 92870 dates from the late 1960s through the early 1980s —
+  ranch-style and two-story tract builds on compact lots. Original kitchen layouts
+  weren't designed around 30-inch built-ins, so when homeowners upgraded to Thermador
+  or KitchenAid suites, the surrounding cabinetry got modified. Those custom cutouts
+  create tight clearances when pulling an oven for service. The newer construction
+  near Kraemer Hills Avenue and into 92871 opens up a bit — more contemporary floor
+  plans, but premium appliance penetration is just as high.
 
 commonProblems:
-  - title: "Oven Reads the Right Temperature but Bakes Completely Wrong"
+  - title: "Bake Element Failure After Years of Daily Use"
     description: |
-      On KitchenAid and Bosch models, the temperature sensor probe mounted inside the oven cavity
-      drifts out of calibration after 10 to 15 years. The control board overcorrects, and the result
-      is burned edges with undercooked centers regardless of what recipe you're following. KitchenAid
-      double ovens sometimes display an F3 or F5 fault code before the drift becomes obvious — if
-      you've dismissed that code once already, the sensor is almost certainly the culprit. A cheap
-      oven thermometer will confirm the drift fast. The sensor itself is a $40 to $60 part — roughly
-      a 45-minute swap — and most Placentia homeowners are back to a calibrated oven the same afternoon.
-  - title: "Gas Broiler Glows Orange but Never Actually Ignites"
+      KitchenAid wall ovens installed during Placentia's mid-2000s remodel wave are
+      now hitting the 15-year mark, and bake element failures are showing up in steady
+      rotation. The element cracks internally or arcs at the terminal connection, the
+      oven drops off temperature on the lower rack, and baked goods come out underdone
+      with no obvious error code. Swapping the bake element is straightforward — but we
+      also inspect the control board terminal block before closing, because a loose pin
+      there mimics element failure and wastes a part if you skip the check. Most swaps
+      are done in under an hour on-site.
+
+  - title: "Gas Oven Igniter Slowdown and F3 Error Codes"
     description: |
-      The broil igniter on a gas range has to pull enough current — usually 3.2 amps minimum — to
-      signal the gas valve to open. Thermador and Viking ranges in larger homes near the Yorba Linda
-      border see this failure earlier than most brands, likely because those igniters cycle at higher
-      sustained temperatures. Visible orange glow followed by a gas valve cutoff at 90 seconds is
-      textbook weak igniter. It's a straightforward part swap, typically finished same day.
-  - title: "Self-Clean Cycle Ends but the Door Stays Locked Shut"
+      Thermador and Bosch gas ranges in the older streets off Placentia Avenue develop
+      sluggish igniters over time — you set the oven to 400°F and it takes 20-25
+      minutes to stabilize, or the unit throws an F3 error code and won't light at all.
+      The hot surface igniter degrades gradually, losing the current draw needed to
+      signal the gas valve solenoid to open. New igniter, continuity check on the valve,
+      and it's back in service on the same visit. Parts are stocked for common Thermador
+      and Bosch configurations.
+
+  - title: "Self-Clean Cycle Leaves the Door Locked Shut"
     description: |
-      Samsung and LG ranges are the most common offenders for this in Orange County kitchens. The
-      door latch assembly uses a wax motor actuator that can seize after repeated exposure to
-      self-clean temperatures of 850 to 900°F. The oven cools down and reports finished, but the
-      lock stays engaged. Forcing the handle cracks the latch bracket — turning a $95 repair into a
-      $280 one. Call (323) 870-4790 first and we'll walk you through a manual release before
-      dispatching a technician.
+      Samsung and LG ranges use a motor-driven door latch assembly to lock the cavity
+      during self-clean. That latch motor has a well-documented failure mode in warmer
+      climates — it locks at cycle start, the motor burns out mid-cycle, and the door
+      stays locked well after the run finishes. Orange County's warm ambient temperatures
+      accelerate the stress. Placentia garages running 85-90°F in summer don't help.
+      The door latch assembly is a direct swap; Samsung and LG assemblies for most
+      model years are on the van.
+
+  - title: "Oven Temperature Sensor Drift — Runs Hot or Cold"
+    description: |
+      A failing RTD temperature probe sends bad resistance readings to the control board.
+      The oven might hit 450°F when set to 350°F, or stall at 280°F and never climb.
+      Bosch wall ovens and GE slide-ins both use this sensor type. The E1 or F3 error
+      codes usually surface first. Sensor replacement takes about 20 minutes — but we
+      always verify the control board isn't the underlying cause before ordering parts,
+      since a shorted board produces identical symptoms at ten times the parts cost.
 
 faq:
-  - q: "How fast can you get to Placentia for an oven repair?"
+  - q: "How fast can you get to Placentia for oven repair?"
     a: |
-      Placentia sits between our Anaheim and Brea service routes, so response time is short — usually
-      under two hours for calls placed before noon. Same-day slots are available most weekdays and
-      some Saturdays. Call (323) 870-4790 to check today's open windows or book online.
-  - q: "Do you work on built-in wall ovens, or only freestanding ranges?"
+      From our Orange County route, Placentia is typically 1-2 hours out depending on
+      where we're coming from. Imperial Highway and the 57 freeway make the run easy.
+      Evening and weekend slots are available for households that can't take time off
+      work. Call (323) 870-4790 to confirm same-day availability.
+
+  - q: "Do you repair Bosch, Thermador, and KitchenAid ovens in Placentia?"
     a: |
-      Both. Built-in Bosch and KitchenAid wall ovens are common in Placentia kitchens remodeled
-      during the 2000s, and we stock heating elements and control boards for those models. Thermador
-      and Wolf built-ins come up regularly in homes near the Yorba Linda border — we carry the
-      specialized tools those units require and stock parts for them directly. For double-oven
-      configurations, both cavities get inspected on the same visit so you're not booking a second
-      call three weeks later for the lower unit.
-  - q: "What does an oven repair typically cost in the 92870 area?"
+      Those three are the most common calls in 92870 and 92871. On Bosch, it's usually
+      a control board fault or the door latch mechanism. Thermador gas ranges come in
+      mostly for igniter and gas valve solenoid work. KitchenAid wall ovens almost
+      always need a bake or broil element replacement — parts we stock on the truck
+      for single-visit turnaround.
+
+  - q: "What does an oven repair cost, and how does scheduling work?"
     a: |
-      The diagnostic visit is $75 and applies toward the repair if you proceed. Most jobs —
-      bake element swap, thermal fuse replacement, igniter replacement — land between $150 and $320
-      total, parts and labor included. Evening and Saturday appointments are available. Call
-      (323) 870-4790 before noon for same-day service.
+      Diagnostic is $75, applied toward the repair if you proceed. Most oven jobs —
+      element swap, igniter replacement, temperature sensor recalibration — run
+      $150-$300 parts and labor combined. Same-day service is standard on most
+      Placentia calls. Emergency slots available if the oven goes out before a holiday
+      or big dinner. Call (323) 870-4790 and we'll confirm your window.
+
+  - q: "Is it worth repairing a 12-year-old Bosch or Thermador oven?"
+    a: |
+      Usually yes. Those brands last 20+ years and parts are available. A bake element
+      at year 12 on a Thermador is a $150-200 repair on a $3,000 unit. Builder-grade
+      GE or Samsung at the same age is a closer call — we'll run the numbers before
+      you commit.
+
+  - q: "Do you work on gas ovens in Placentia?"
+    a: |
+      Yes. Most homes here run SoCalGas, and gas igniter jobs are some of our fastest
+      repairs. We carry igniters for GE, Whirlpool, Bosch, and Samsung. Book before
+      noon and we're likely there same-day. Evening slots available — mention it's
+      gas when you call (323) 870-4790.

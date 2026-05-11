@@ -1,0 +1,27 @@
+title: "Altadena Ice Maker — Foothills Hard Water Kills Fill Valves"
+
+intro: |
+  Hard water from the San Gabriel Basin runs 280–340 ppm through most of 91001 — enough calcium load to coat a water inlet valve in under two years of regular use. Up near the craftsman blocks off East Altadena Drive and around the streets bordering Eaton Canyon, we find KitchenAid and Samsung french-door refrigerators all the time where the homeowner has already started pricing out a replacement unit. Doesn't need one. The fill valve had calcified shut, cutting water flow to a trickle. New valve, flush the supply line, and the ice maker is producing again within the hour.
+
+localContext: |
+  Altadena's housing stock runs the full range. Along the Lincoln Avenue corridor, you've got 1920s craftsman bungalows and Spanish revivals. Mid-century ranch homes from the 1950s and early 60s fill most of the flatlands between Lake Street and Altadena Drive. Then above Altadena Drive toward Kinneloa Mesa, 91001 has a stretch of newer custom builds where Sub-Zero and Thermador refrigerators sit inside built-in cabinetry finished ceiling-to-floor. Getting to the ice maker assembly in those installations means pulling millwork panels that weren't designed to come off in the field — adds 30–45 minutes and needs the right disassembly tools.
+
+commonProblems:
+  - title: "Fill Valve Calcification — The Slow-Motion Shutdown"
+    description: "At 300-plus ppm, scale builds inside the water inlet valve's internal seat until water flow drops below what the ice maker tray needs to fill properly. Nothing looks wrong from the outside — the valve membrane appears intact, the solenoid fires. Testing actual flow rate is the only way to confirm it. KitchenAid and Samsung refrigerators throughout 91001 hit this on roughly a two-year cycle. Replace the valve, flush the supply line, and production's back. Without an inline filter upgrade, figure on the same call in 18 months."
+
+  - title: "Frozen Fill Tube on Cold Foothill Nights"
+    description: "Altadena sits above 1,400 feet. January nights drop into the low 30s — cold enough that a fill tube running near an uninsulated exterior cabinet wall freezes solid overnight. No water gets through, so the ice maker stops. LG and Bosch refrigerators with the supply line routed toward the back panel are the most common victims at this elevation. Thawing the line is a 20-minute job. Routing the tube away from that cold wall by even an inch keeps it from repeating next winter."
+
+  - title: "Ice Level Sensor Failure in Bosch and Sub-Zero Units"
+    description: "The optical sensor that signals 'bin full' tends to fail first in units that cycle constantly through hot LA summers. On Bosch counter-depth models, a dead sensor either stops production entirely or causes the machine to run continuously until the ice maker assembly jams into a solid block and triggers an error. Sub-Zero's 700-series uses a nearly identical optical module. Reaching either one requires partial disassembly of the ice maker housing — not something you do with a basic toolkit on the kitchen floor."
+
+faq:
+  - q: "How fast can you get to Altadena for ice maker repair?"
+    a: "From our San Gabriel Valley base, Altadena is typically 20–30 minutes out depending on the 210. Same-day slots run most weekdays — call (323) 870-4790 before noon and we can usually be there by early afternoon. Parking on the residential streets off Lincoln Avenue and around Altadena Drive is easy for the service van."
+
+  - q: "Do you work on Sub-Zero and Bosch ice makers in Altadena?"
+    a: "Sub-Zero, Bosch, and KitchenAid are the three we see most in 91001. Sub-Zero ice maker assemblies need a specialized removal tool most shops don't carry — we do. Bosch units frequently throw E24 error codes tied to fill valve blockage or optical sensor failure. KitchenAid's standard ice maker module is a direct swap; we keep it stocked on the truck."
+
+  - q: "How much does ice maker repair cost, and can you come the same day?"
+    a: "Fill valve replacement, sensor swap, or frozen line thaw runs $150–$350 depending on the part. Most jobs finish in under an hour. Same-day service available most weekdays, with evening appointments Tuesday and Thursday if daytime doesn't work. Call (323) 870-4790 by noon for same-day scheduling. We quote on arrival before starting — what we quote is what you pay."

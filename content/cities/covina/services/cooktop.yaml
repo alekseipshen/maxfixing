@@ -1,0 +1,96 @@
+title: "Covina Cooktop Repair — Hard Water Hits Every Burner"
+
+intro: |
+  San Gabriel Valley tap water tests above 300 ppm calcium carbonate in most of Covina —
+  that mineral load quietly destroys igniter electrodes and burner ports on gas cooktops
+  faster than anywhere in west LA. The GE or Samsung drop-in sitting in a 1960s ranch
+  kitchen near Citrus Avenue has probably never had its spark ports cleared. We run
+  calls in the 91722 zip daily and can usually arrive the same afternoon.
+
+  Induction and electric coil tops have their own hard-water problem: scale deposits
+  collect under removable burner rings and around control knob shafts, eventually
+  working into the switch contacts. You get intermittent burners that quit, then work,
+  then quit again — and that pattern gets misdiagnosed as a bad control board when the
+  actual cause is corrosion from mineral-laden steam.
+
+localContext: |
+  Most of Covina's housing is post-WWII single-family — 1950s and '60s builds dominate
+  the blocks east of Barranca Avenue and around the Charter Oak Unified boundaries. Those
+  kitchens were retrofitted over the decades with drop-in gas and electric cooktops during
+  remodels. Zip 91723 has a solid run of 1980s townhome complexes where the original
+  Whirlpool and GE electric coil tops are now 35-40 years old, wiring and all, and
+  starting to throw errors or quit entirely.
+
+  The 91724 corridor along Badillo Street and into the older tracts near Covina Hills
+  tells a different story: homeowners who upgraded in the 2000s and 2010s put in KitchenAid
+  or Bosch gas cooktops, and those are now hitting the age where igniter modules and gas
+  valves start to wear. A Bosch gas cooktop that's been on hard San Gabriel water for
+  12 years will show burner port restriction that the homeowner mistakes for low gas
+  pressure. It's almost never the gas line.
+
+  Apartment and condo buildings along San Bernardino Road run compact electric cooktops —
+  tighter clearances, sometimes stacked in small utility kitchens. Service van access on
+  those streets during peak hours adds time, which is why we schedule Covina runs from the
+  east side of the Valley rather than routing through Pasadena.
+
+commonProblems:
+  - title: "Mineral Buildup Killing Gas Igniter Electrodes"
+    description: "Hard water leaves calcium scale inside the igniter electrode housing,
+      shorting the spark or blocking the port entirely. On GE four-burner gas cooktops
+      common in older Covina remodels, the igniter module itself often fails alongside
+      the clogged port — they look identical until you pull the module and test continuity
+      with a multimeter. Cleaning alone sometimes solves it; sometimes you need the module.
+
+      The scale also bridges across the ceramic electrode tip and the burner base, creating
+      a partial ground path that makes the igniter click continuously even after the burner
+      lights. That constant clicking on a GE or Whirlpool unit isn't a stuck spark switch
+      — it's usually scale, and cleaning it with a brass brush and drying the assembly
+      stops it within minutes."
+
+  - title: "Cracked Ceramic Glass on Samsung and LG Induction Tops"
+    description: "A crack in the ceramic surface on a Samsung or LG induction cooktop
+      isn't cosmetic — it exposes the induction coil to spills, and moisture will reach
+      the control board fast. Replacement glass is model-specific; aftermarket panels
+      on Bosch induction units frequently don't seat flush, which causes the thermal
+      sensor to misread pan contact and cut power mid-cook. Only OEM glass fits correctly.
+
+      Samsung induction models also throw an E1 or E3 error after a surface crack if
+      the coil itself took a thermal shock. Before ordering glass, we test coil resistance
+      — replacing glass over a burned coil means doing the job twice."
+
+  - title: "Uneven Heat from Clogged Gas Valve Orifices"
+    description: "KitchenAid gas cooktops in 10-15 year old Covina kitchens develop
+      uneven flame across burners as grease and mineral residue clog the brass orifices.
+      One burner runs hotter on the same BTU setting, or drops to a simmer it can't hold.
+      The fix is usually cleaning or replacing the burner cap and orifice, but a failing
+      gas valve needs a pressure test first — otherwise you replace parts that aren't
+      actually the problem.
+
+      Dual-ring burners on higher-end KitchenAid models have two orifices per burner.
+      When only the inner ring lights, the outer orifice is blocked. Homeowners often
+      assume the BTU rating dropped or the gas regulator is failing — it's almost always
+      the orifice, and the part itself costs under $20."
+
+faq:
+  - q: "How fast can you get to Covina for cooktop repair?"
+    a: "From our San Gabriel Valley base, Covina is a straight run on the 210 or Arrow
+      Highway — no freeway slog needed. Most 91722 and 91724 calls get a same-day slot,
+      typically within 2-3 hours. Evening appointments are available most weekdays for
+      anyone who can't be home during business hours. Call (323) 870-4790 right now to
+      check today's openings."
+
+  - q: "Do you repair Samsung and KitchenAid cooktops in Covina?"
+    a: "Both show up constantly on our service calls here. Samsung induction tops usually
+      need a control board or cracked surface glass. KitchenAid gas models come in with
+      orifice clogs and faulty igniter switches. Whirlpool and GE electric coil units from
+      the '80s and '90s are also in the regular rotation — we stock the heating coils
+      and infinite-switch controls for those. LG smooth-top electric units with F9 error
+      codes are another one we see regularly in the newer Covina builds east of Grand Avenue."
+
+  - q: "What does a cooktop repair cost in Covina, and can you do same-day?"
+    a: "Diagnostic visits start at $75, applied to the repair if you proceed. Most jobs
+      land between $120 and $260 depending on the part — a gas valve runs more than an
+      igniter electrode, for instance. Ceramic glass replacement on induction models is
+      the higher end of that range because the part itself is expensive, not the labor.
+      Same-day slots are available most weekdays, and evening appointments exist for
+      residents who can't leave work. Schedule at (323) 870-4790."
