@@ -1,0 +1,42 @@
+title: "Monrovia Range Repair — Gas Lines, Old Homes, Real Fixes"
+
+intro: |
+  Old Town Monrovia along Myrtle Avenue has a surprising concentration of 1940s and 1950s homes still running original gas stub-outs — and the ranges that replaced those originals tend to be KitchenAid slide-ins now 15-20 years old. That's the age where spark igniters start clicking constantly but won't catch. Mayflower Park neighborhood, Library Park blocks, the craftsman streets off Primrose — we see this call regularly in the 91016 zip.
+
+  Monrovia sits at the base of the San Gabriel Mountains. The elevation change and older pipe infrastructure mean gas pressure at the appliance can vary more than people expect, especially on blocks where the original supply lines from the 1950s haven't been replaced. Small pressure drops don't cause leaks. They do cause igniters to underperform and oven valves to behave erratically.
+
+localContext: |
+  The 91016 zip runs from the Foothill Freeway up through older residential tracts where craftsman bungalows from the 1940s sit next to 1960s ranch-style builds. Most have gas ranges. Those older kitchens are tight — moving a range fully out to access the rear gas connection adds real time to any job.
+
+  East toward the 91017 zip, the housing stock is newer and you start seeing freestanding Bosch and Samsung models more often. The Hillcrest area and the streets around the Monrovia Nursery development have a mix of newer construction with Thermador and KitchenAid pro-style ranges installed during remodels. Different work. The slide-in clearances on those installations are tighter than what the installer spec sheets show.
+
+  Parking is not a problem here. Residential streets in Monrovia are wide, and getting the van close to the front door isn't the logistics puzzle it can be in denser parts of the San Gabriel Valley.
+
+commonProblems:
+  - title: "Spark Igniter Clicking Constantly After Burner Lights"
+    description: |
+      A cracked ceramic igniter or grounded igniter wire is almost always the cause — not a gas pressure issue. Older homes in Monrovia sometimes run slightly below modern gas pressure specs, which stresses the igniter module faster than normal. KitchenAid and Bosch igniters are clean swaps once you pull the burner cap and base, but the ceramic breaks if you overtighten on reinstall.
+
+      The igniter module itself also fails. On KitchenAid dual-fuel models from the early 2010s, the spark module is mounted under the cooktop and collects grease vapor over time. A shorted module clicks even when the burner valve is closed. Replace the module, not just the igniter tip.
+
+  - title: "Uneven Flame Height or One Burner Barely Working"
+    description: "A partially sticking gas valve or debris at the orifice seat causes one burner to roar while the adjacent one sputters at half height. LG and Samsung ranges from the 2015-2020 production run are prone to this — the valve body collects particulate from older supply lines. San Gabriel Valley heat in July and August pushes gas demand high, which can shake loose mineral scale sitting in older pipes."
+
+  - title: "Gas Oven Ignites But Never Reaches Set Temperature"
+    description: |
+      On gas ovens, the igniter glows but if it's pulling under 3.2 amps it won't generate enough heat to open the gas valve — oven cycles on and off without ever reaching 350°F. This is a weak igniter draw problem, not a thermostat issue. Thermador ranges in the higher-income pockets near Hillcrest Boulevard present this symptom regularly, and the OEM igniter for those units runs $80-120 in parts alone.
+
+      The test takes two minutes with a clamp meter. Homeowners often replace the temperature sensor first based on generic advice online — wrong part, wasted money. Measure igniter current draw before ordering anything.
+
+faq:
+  - q: "How fast can you get to Monrovia for range repair?"
+    a: "From our regular San Gabriel Valley route, Monrovia is 25-35 minutes. Same-day slots are available most weekdays — call (323) 870-4790 and we'll give you a two-hour arrival window. Street parking in the 91016 residential areas is easy, no issues getting the van close. Evening slots exist too, for households where both adults work daytime hours."
+
+  - q: "Do you repair KitchenAid and Bosch ranges specifically?"
+    a: |
+      Both are very common in Monrovia and we stock parts for them. KitchenAid jobs usually involve the igniter module, bake element, or control board. Bosch calls tend to be burner valve issues or the door latch assembly on slide-in models.
+
+      LG and Samsung we handle as well. The error codes on Samsung ranges — SE, E-08, C-d0 — almost always point to the control board or keypad ribbon cable, not the heating components. Knowing which code means what saves a diagnostic trip.
+
+  - q: "Gas smell coming from the range — how urgent is that and what's the process?"
+    a: "Gas smell gets emergency priority. We can usually be on-site within 2 hours in the 91016 and 91017 zips. Don't run the burners — turn off the supply valve at the wall and call (323) 870-4790 immediately. Most gas smell calls turn out to be a worn door gasket around the oven cavity or a loose valve connection, not a line rupture."

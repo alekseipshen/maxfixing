@@ -1,0 +1,31 @@
+title: "Brea Range Hood — Hard Water, Gas Kitchens, Same-Day Fix"
+
+intro: |
+  Homes off Lambert Road and up into the Carbon Canyon foothills pack serious cooking setups — gas ranges with matching KitchenAid or Bosch chimney hoods spec'd to actually clear smoke. Those units work hard. Orange County's notoriously hard water leaves mineral deposits inside the blower housing that strangle airflow within a few years, even in kitchens that look spotless.
+
+  Brea runs around 3–4 grains per gallon hardness on average — not the worst in the county, but enough to cake the vent screen and jam the damper after a couple of seasons of regular cooking. Gas kitchens amplify this. The combustion byproducts mix with grease vapor, and the residue that settles in the duct is thicker and stickier than what you get from an electric range.
+
+localContext: |
+  Brea's housing breaks into two eras: 1960s–70s tract homes in 92821 near Brea Blvd and Central Ave, and 1990s–2000s hillside builds closer to Carbon Canyon Regional Park in 92823. The older homes often have surface-mount hoods with narrow duct runs tied into shared attic paths. Newer hillside builds typically have island hoods over open-concept layouts, which means longer duct runs and more opportunity for grease pooling in the elbows.
+
+  A lot of the remodeled 92821 kitchens got KitchenAid or Samsung upgrades in the 2010s — decent units, but the ductwork from the original 1970s build often didn't get upsized to match the higher CFM rating. That mismatch is the single most common thing we find on Brea service calls. The blower strains against the backpressure, the thermal protection trips, and suddenly the hood reads as dead when the motor itself is actually fine.
+
+commonProblems:
+  - title: "Blower Motor Failure in Brea's Older Tract Homes"
+    description: "1970s-era homes near Brea Blvd run their hoods year-round — summer kitchen temps routinely hit 90°F, which kills the capacitor on the blower motor first. You get a hum but almost no airflow. That Kenmore or Whirlpool unit sounds operational but pushes maybe 30 CFM instead of 400. Replacing the capacitor or the full motor assembly usually fixes it same visit. A burned capacitor has a distinct sharp smell that homeowners sometimes mistake for a gas leak — worth diagnosing correctly before calling the gas company."
+
+  - title: "Grease Baffle Clogging on High-Use KitchenAid Hoods"
+    description: "KitchenAid wall-mount chimney hoods are common in Brea's remodeled kitchens, and the baffle filters clog faster than most homeowners expect — especially with frequent wok cooking. Packed baffles push grease back into the blower housing. From there it coats the blower wheel, drops airflow, and eventually burns onto the heating surface near the motor shaft. A rinse won't fix that stage. At that point you need a blower wheel replacement, and sometimes a control board reset if the thermal protection tripped and locked the unit."
+
+  - title: "Duct Backpressure in Carbon Canyon Hillside Builds"
+    description: "Homes in the 92823 zip often need two or three duct elbows to clear the roofline, creating backpressure the stock blower on a Bosch or Thermador unit wasn't rated to fight. Smoke drifts back into the kitchen even on the highest fan setting. The fix is usually rerouting or upsizing the duct diameter — not a new hood. A pressure test confirms it before any parts get ordered. These Thermador Masterpiece series units are worth saving — a replacement runs $1,200+ before installation labor, and the motor is almost never the problem."
+
+faq:
+  - q: "How fast can you get to Brea for range hood repair?"
+    a: "North OC routes run from Anaheim to Yorba Linda daily, so Brea is never a detour. Same-day slots open most mornings — call (323) 870-4790 and we're usually there within 2 hours. Street parking off Lambert and Brea Blvd is straightforward for the service van."
+
+  - q: "Do you repair Bosch and Thermador range hoods specifically?"
+    a: "Yes. Bosch's telescoping hoods and Thermador's Masterpiece series use proprietary control boards and blower assemblies that need brand-specific parts — we stock the common ones. KitchenAid wall-chimney units are also a large share of Brea calls. Most repairs skip the parts order entirely."
+
+  - q: "What does range hood repair typically cost in Brea, and is it worth it versus replacing?"
+    a: "A blower motor swap runs $120–$180. Control board replacement lands closer to $200–$280. Duct corrections vary by linear footage — usually $150–$250 for a standard Brea hillside run with two or three elbows. A new mid-range hood runs $400–$800 installed, so repair almost always wins on cost. Evening and emergency slots are available — schedule online or call (323) 870-4790 directly."

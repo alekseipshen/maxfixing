@@ -1,0 +1,27 @@
+title: "Brea Wine Cooler Repair — Carbon Canyon Heat Kills Compressors"
+
+intro: |
+  Carbon Canyon Road cuts through 92821, and homes along that stretch sit in a thermal pocket that regularly runs 8–12°F hotter than coastal OC. That ambient heat forces a wine cooler's compressor into overdrive — long run cycles, spiking head pressure, eventual failure. One KitchenAid 24-inch undercounter we pulled off Birch Street last August had a compressor so heat-fatigued it wouldn't start at all. Brea's inland position makes this a recurring call for us.
+
+localContext: |
+  Most of the wine cooler work in Brea splits into two housing types: 1980s ranch-style homes near Central Avenue (92821) where kitchens were retrofitted for undercounter units after the original build, and larger 2000s construction near Brea Dam Recreation Area where butler's pantries came pre-fitted with 30-inch freestanding coolers. The retrofitted installs are tighter — unit surrounded on three sides, condenser airflow choked from day one. That alone shortens compressor life by years.
+
+  The Brea Hills neighborhood and the newer developments off Lambert Road in 92823 run a different profile entirely. Custom builds from the mid-2000s onward — these homeowners went with Sub-Zero 15-inch wine columns or Thermador 30-inch freestanding units during the original kitchen buildout. Higher-end machines, but the repair logic changes: proprietary refrigerant charge specs, sealed system access that requires recovery equipment, control boards that aren't stocked at a standard parts house. Brea Mall sits less than a mile from some of these addresses, so parking and access for a service van is straightforward. The units themselves are the complexity, not the logistics.
+
+  Carbon Canyon State Park borders the north end of town. Homes on the Olinda Village side — older stock, built in the 1960s and 70s — often have garage-mounted wine coolers where temperature swings between seasons are brutal on compressor mounting grommets and door gasket seals. We see more heat-related failures coming out of that corridor than anywhere else in 92821.
+
+commonProblems:
+  - title: "Compressor Locks Up During Brea's Summer Heat Spikes"
+    description: "Inland heat above 95°F pushes a wine cooler past its duty-cycle rating. The compressor runs continuously trying to hold 55°F while the cabinet climbs toward ambient, overheats, and eventually hard-locks. Bosch dual-zone models develop a clicking start-relay failure pattern after two or three consecutive hot OC summers — the relay can't engage a thermally fatigued compressor. Catching the relay early costs $90. A full compressor swap is considerably more. If your unit is making a rapid clicking sound every 2–3 minutes and not cooling, that's the relay failing to start a stressed compressor — call before it trips the thermal overload for good."
+  - title: "Temperature Swings Caused by a Degraded Thermistor"
+    description: "The thermistor sits inside the cabinet wall and signals the control board when to cycle cooling. Sub-Zero 15-inch wine columns — common in Brea Hills remodels — see thermistor degradation after 8–10 years, sending erratic temperature readings. The cooler swings from 48°F to 62°F in a single afternoon. Wine stored through those fluctuations develops sediment issues fast, and the problem gets misdiagnosed as a compressor fault half the time. A thermistor swap on these units is a 90-minute job once the panel is off."
+  - title: "Vibration Rattle from Failed Compressor Mounting Grommets"
+    description: "Rubber vibration dampeners — the grommets that isolate the compressor from the cabinet frame — harden and crack in units stored in garages where temperature swings are wide. Samsung 46-bottle freestanding models show this pattern consistently in the 92821 zip code. The rattle is unmistakable: low-frequency, rhythmic, loudest right when the compressor kicks on. Replacing the grommets takes about 45 minutes and runs far cheaper than a new unit. Units stored on the Olinda Village side of Brea, where garages hit 105°F in July, tend to develop this failure faster than anything we see in climate-controlled kitchens."
+
+faq:
+  - q: "How fast can you get to Brea for wine cooler repair?"
+    a: "From our central OC route, Brea is 90 minutes to 2 hours — Lambert Road, Birch Street, anywhere near Brea Mall, no access issues. Call (323) 870-4790 before 2 PM and we can usually confirm same-day service for 92821 and 92823."
+  - q: "Do you repair Bosch and Sub-Zero wine coolers, or just standard brands?"
+    a: "Both, plus KitchenAid and LG. Sub-Zero wine columns need proprietary door gasket stock and precise refrigerant charge specs — we carry the parts. Bosch dual-zone units usually need a control board reset or thermistor swap. Most of these are same-day fixes."
+  - q: "What does wine cooler repair cost in Brea, and is there a diagnostic fee?"
+    a: "Diagnostic is $75, waived if you proceed with the repair. Compressor relay and thermistor jobs typically land between $120–$280 parts and labor. Door seal replacements run $90–$140. Schedule online or call (323) 870-4790 — evening slots available most days."

@@ -1,0 +1,97 @@
+title: "Claremont Range — Craftsman Homes, Gas Lines, Fast Repair"
+
+intro: |
+  Clustered around Pomona College and Harvey Mudd, the craftsman bungalows in the 91711 zip
+  are some of the oldest continuously-occupied kitchens in the San Gabriel Valley. Gas
+  stub-outs from the 1940s behave differently under a modern KitchenAid slide-in than the
+  engineers who designed that range anticipated. Hard water mineral deposits accelerate igniter
+  fouling here faster than most homeowners realize — usually discovered when they're standing
+  at a cold stove the night before a dinner.
+
+  Claremont's water hardness runs 300–400 mg/L on most city blocks. That's not a scary
+  number until you watch what it does to burner ports over five years of weekly boilovers.
+  The calcium scale packs into igniter ports and gas orifices in a way that looks like dirt
+  but doesn't clean off. Real igniter replacement, not just a wipe-down.
+
+localContext: |
+  The residential blocks between Foothill Boulevard and First Street pack in 1930s–1950s
+  craftsman and Spanish Colonial Revival homes, most with gas runs that have only been touched
+  once — during the last appliance swap. Flex connectors rated for 20 years on those older
+  stubs are often 30 years old. Not dangerous necessarily, but they affect pressure delivery
+  to the burner valves in ways that confuse range diagnostics.
+
+  College Park East runs heavier on 1960s ranch-styles where oven vent ducting threads
+  through attic crawlspaces, adding real access complexity to certain jobs. Pulling a
+  Thermador double-oven out of a tight College Park East cabinet without damaging the
+  adjacent cabinetry takes longer than the same job in a newer kitchen with standard
+  clearances.
+
+  Northern Claremont has newer construction but still sits squarely in 91711 hard-water
+  territory. Sub-Zero and Thermador built-ins show up more frequently north of Arrow
+  Highway in homes built through the 1990s and 2000s. The Village area around Indian Hill
+  Boulevard sees a lot of KitchenAid and Bosch slide-ins from full kitchen remodels — older
+  bones, newer appliances installed 6–12 years ago and now hitting first major failure cycles.
+
+commonProblems:
+  - title: "Gas Igniters Clicking But Not Lighting on Aging Supply Lines"
+    description: "Cast-iron gas stubs in pre-1960 Claremont homes deliver uneven pressure
+      that wears igniter components down early. On KitchenAid ranges this usually shows up
+      as a spark electrode clicking continuously without catching — mineral crust on the
+      burner cap compounds it. Swapping the igniter module fixes it most of the time; a
+      failing gas valve accounts for the rest.
+
+      Samsung and LG slide-ins on these same old stubs present differently. The control
+      board throws a specific error — often an SE or SE-related fault — before the igniter
+      fully fails. Most homeowners see that code and assume the board is gone. Half the
+      time it's the spark module and a thorough burner port cleaning. Parts for both are
+      on the truck."
+  - title: "Oven Not Holding Temperature — Worse in Summer"
+    description: "Claremont kitchen temps routinely push above 85°F in July, and Bosch
+      500-series ovens start logging errors and refusing to maintain set heat under those
+      conditions. A degraded bake element or a drifting oven thermostat is almost always
+      the cause. The bake element swap is a same-day repair — we carry the most common
+      Bosch sizes in the van.
+
+      GE and Frigidaire gas ranges have a different failure point: the gas valve igniter
+      weakens and the oven lights inconsistently or takes three attempts. Homeowners usually
+      notice the smell first. That's an igniter replacement, around 45 minutes on most
+      models. Ignoring it long enough means the gas valve itself needs replacement — a
+      more expensive outcome."
+  - title: "Control Panel Lockouts on Thermador and Premium Ranges"
+    description: "Thermador ranges in College Park East homes tend to throw control board
+      faults around the 8–10 year mark — dead displays, burner knobs that spin without
+      registering a response. A faulty door latch assembly can also trigger false lockout
+      states that look identical to board failure. Diagnosing before ordering saves three
+      days on Thermador parts lead time.
+
+      The latch test is simple but requires pulling the range forward and inspecting the
+      latch microswitch directly. On Thermador's Pro Harmony line, the door hinge springs
+      also fatigue at the same interval and cause the door seal to gap — letting heat
+      escape and triggering those same error states through the thermal sensors. Not
+      complicated, just easy to misdiagnose remotely."
+
+faq:
+  - q: "How fast can you get to Claremont for a range repair?"
+    a: "Right off the 210, the 91711 zip is 40–50 minutes from our closest tech most days.
+      Same-day slots open on weekdays, evening appointments available too. Call
+      (323) 870-4790 or book online — we confirm your window within the hour."
+  - q: "Do you repair Bosch and KitchenAid ranges in Claremont?"
+    a: "Both are common here and we stock parts for their most frequent failures. Bosch
+      usually needs igniter modules or bake elements. KitchenAid slide-ins lean toward
+      gas valve and control board issues. Thermador too — though premium brand parts
+      can add a day to turnaround depending on the model.
+
+      Sub-Zero integrated ranges in the older College Park East homes are a slightly
+      different situation. Parts availability is good but the units need calibrated tools
+      for the gas valve assembly. We handle those — just flag the model number when
+      you call (323) 870-4790 so we bring the right kit."
+  - q: "What does a range repair typically cost, and can you come the same day?"
+    a: "Diagnostic visit is $65–85, credited toward the repair if you proceed. Most jobs
+      run $150–350 depending on the part. Same-day service is standard; emergency evening
+      slots available when the range goes out and waiting until next week isn't an option."
+  - q: "The burner lights but the flame is uneven or yellow — is that a gas pressure issue?"
+    a: "Usually it's mineral blockage in the burner ports, not pressure. Yellow or orange
+      flame on a gas range almost always means incomplete combustion from a clogged orifice
+      or a misaligned burner cap. Hard water deposits in Claremont kitchens clog those
+      ports faster than anywhere else in the Valley. We clear and test all burners during
+      the same visit — no charge to check the others while we're already there."

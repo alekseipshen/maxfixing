@@ -1,0 +1,26 @@
+title: "Aliso Viejo Wine Cooler Repair — Same-Day OC Service"
+
+intro: |
+  Homes in Glenwood and Pacific Ridge — the large residential clusters inside 92656 — were built in phases between 1997 and 2006, and most kitchens came pre-spec'd with 24-inch undercounter cutouts. The KitchenAid or Bosch dual-zone that went in during the original buildout is now 18–25 years old. Thermostats drift. Compressors develop start-relay problems. Gaskets crack in dry Southern California air. Same-day service is standard — call (323) 870-4790.
+
+localContext: |
+  The 92656 zip is almost entirely master-planned construction — townhome rows, detached condos, and single-family clusters built to the same era's specs. Tight undercounter bays with minimal side clearance are standard throughout; the condenser coils on a built-in wine cooler can end up inches from cabinet walls that block airflow entirely. Hard Orange County water is a persistent issue here: the condensate drain pan slowly accumulates mineral deposits, eventually backing up into the unit and damaging the drain pump assembly before anyone notices. Aliso Viejo Ranch Road and Town Center corridors are the most call-dense zones we see in South OC. That stretch accounts for a disproportionate share of built-in wine cooler failures — mostly Bosch 500-series and KitchenAid 24-inch undercounter units that haven't been serviced since install. Mineral scale in the drain line, blocked condenser fins, worn door gaskets — these pile up quietly over a decade before anything obvious fails.
+
+commonProblems:
+  - title: "Temperature Swings from Blocked Condenser Airflow in Built-In Installs"
+    description: |
+      Townhome kitchens near Town Center and Aliso Viejo Ranch Road regularly have zero side clearance on the wine cooler — nowhere for the condenser coils to shed heat. The compressor runs longer cycles trying to compensate, and the upper-zone temperature probe starts misreading by 5–8°F. A Bosch 500-series built-in in this condition will oscillate wildly between cycles and eventually throw a sensor fault code you cannot clear by cycling power.
+  - title: "Compressor Locked Out After Sustained Summer Operation"
+    description: |
+      Garage-adjacent and peninsula kitchens in 92656 hit ambient temps above 85°F from June through September. A wine cooler in those conditions runs the compressor without cycling off — until the PTC start relay overheats and fails. Once the relay goes, the unit hums once at startup and then cuts power entirely. LG and Samsung freestanding models are especially prone to this; the fix involves replacing the relay and load-testing the compressor under real operating temps before closing out.
+  - title: "Cracked Door Gasket Causing Condensation and Gradual Temp Loss"
+    description: |
+      Magnetic door seals on KitchenAid and Sub-Zero wine coolers typically degrade between year 8 and year 12 — the rubber loses its compression set and peels away at the corners. Warm, humid air infiltrates, the evaporator coil frosts unevenly, and moisture rings appear on bottle labels before the temperature alarm triggers. The repair is a factory-spec gasket plus a door hinge alignment check; Sub-Zero built-ins also need the closing tension recalibrated because of door weight.
+
+faq:
+  - q: "How fast can you get to Aliso Viejo for wine cooler repair?"
+    a: "Daily routes through Orange County put us in this corridor regularly — Aliso Viejo falls between our Irvine and Laguna Niguel stops. Same-day service most days, usually on-site within 2 hours of booking. Call (323) 870-4790 or schedule online for immediate confirmation; evening slots are available."
+  - q: "Do you repair KitchenAid, Bosch, and Sub-Zero wine coolers?"
+    a: "All three show up constantly in Aliso Viejo homes and we carry common parts for each. Bosch dual-zones typically come in with control board errors or compressor start faults; Sub-Zero built-ins usually need a door gasket or thermostat sensor replacement. KitchenAid units most often fail at the condenser fan motor or the evaporator fan blade bearing. For the LG and Samsung freestanding units increasingly common in Glenwood townhomes, we stock PTC relays and compressor overload protectors on the van — no waiting on parts orders for those."
+  - q: "What does a wine cooler repair call cost in Aliso Viejo?"
+    a: "Diagnostic visit is $75, credited toward the repair if you move forward. Most jobs — condenser fan motor, door gasket, thermostat probe replacement — run $120–$280 parts and labor combined. Compressor work on a Sub-Zero or built-in premium unit runs higher. Same-day and emergency slots carry no additional surcharge; we quote before touching anything."

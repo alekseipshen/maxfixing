@@ -1,80 +1,31 @@
-title: "Placentia Ice Maker Repair — Fill Valves, Sensors & Hard Water"
+title: "Placentia Ice Maker Repair — Hard Water Kills Fill Valves Fast"
 
 intro: |
-  Kraemer Ranch and the older tracts off Bradford Avenue sit on some of the harder water in
-  Orange County — 300-plus ppm calcium is common, and that mineral load quietly destroys ice
-  maker fill valves over two to three seasons. That KitchenAid or Bosch refrigerator you
-  installed during a kitchen remodel will stop dropping ice long before anything else fails
-  on the unit. We run Orange County routes daily and can reach the 92870 zip same-day.
+  Orange County's hard water hits ice makers particularly hard across Placentia's residential streets — mineral buildup on water inlet valves and ice maker assemblies is the most common call we get from the 92870 zip. That LG french-door you bought a few years back? The fill valve is probably caked in calcium scale by now if you haven't had it serviced. Homeowners near Kraemer Park know the pattern well.
 
 localContext: |
-  Placentia's housing is mostly 1960s and 1970s ranch-style with a layer of 1990s tract homes
-  east of Kraemer Boulevard. Refrigerators in these kitchens are typically full-size built-ins
-  or french-door models — plenty of clearance to work, which is a relief compared to the
-  cramped installs you see in coastal cities. The 92871 zip skews newer and has more
-  Sub-Zero and Thermador built-ins in renovated kitchens, requiring OEM parts and brand-specific
-  diagnostic tools rather than generic repair kits.
+  Most of Placentia's housing stock dates from the 1960s through the 1980s — ranch-style homes and tract developments along Placentia Avenue and Kraemer Boulevard. A lot of these kitchens have been remodeled since, which is when KitchenAid and Samsung refrigerators moved in. The water lines feeding those units, though, are often still original copper from the build. In the 92871 zip especially, corroded supply lines restrict flow enough to starve a unit into a full shutdown.
 
-  The neighborhoods around Alta Vista Country Club see a fair number of KitchenAid and Bosch
-  french-door units — homeowners who invested in quality appliances during kitchen renovations
-  and now want them fixed properly, not swapped out. That means correct part sourcing matters.
-  A KitchenAid W10408179 water inlet valve is not interchangeable with the LG version even
-  when both fit physically. Getting that wrong shows up as slow fill cycles, erratic ice cube
-  size, or a freeze-up within a month of the repair.
+  Hard water is genuinely bad in this part of Orange County — local hardness runs around 300 to 400 ppm in parts of Placentia, well above the threshold where mineral deposits become a real maintenance issue. At that level, a water inlet valve can accumulate enough calcium scale within 18 months to drop flow below the sensor threshold. Bosch and Thermador refrigerators are unforgiving about low-flow conditions; their control boards interpret restricted supply as a fault state and lock the module out entirely until the valve is replaced and the line is flushed clean. That's not a firmware bug — it's a safety behavior that leaves Placentia homeowners staring at an empty ice bin with no obvious explanation.
 
 commonProblems:
-  - title: "Fill Valve Failure from Placentia's Mineral-Heavy Tap Water"
+  - title: "Mineral-Clogged Water Inlet Valves from Placentia's Hard Water"
     description: |
-      Calcium carbonate deposits coat the interior of a water inlet valve in months, not years,
-      when local hardness runs this high. The valve solenoid still fires — the plunger just
-      can't open fully anymore. LG and Samsung french-door models read the restricted flow as
-      a completed fill cycle and stop calling for more water, so the ice bin empties and stays
-      empty. A valve swap and line flush usually closes the call in one visit.
-
-      Bosch units throw an E24 or a persistent "ice maker off" indicator when flow drops below
-      threshold. On those machines the water inlet valve sits behind the lower kick panel, not
-      at the back — easy to miss if you haven't worked that model before. Replacing the valve
-      without clearing the supply line of sediment just moves the blockage downstream.
-  - title: "Frozen Fill Tube During Peak Summer Cooling Demand"
+      Calcium from Orange County water narrows fill valve openings gradually until flow drops below the sensor threshold — and the unit just stops producing ice. Samsung and LG models are especially sensitive; their sensors read low flow as a completed fill cycle and quit entirely. Replacing the water inlet valve and clearing the supply line is typically a same-day fix. On Samsung french-door models, the secondary valve solenoid is a separate failure point that often gets overlooked on the first service call — worth checking both while the access panel is already off.
+  - title: "Frozen Fill Tubes During Placentia's Aggressive Summer Heat Cycles"
     description: |
-      Placentia summers push refrigerators hard. When the condenser fan runs overtime keeping
-      the compressor cool, freezer temps can spike and dip unpredictably — and a fill tube
-      sitting in a fluctuating freezer section will eventually ice over. KitchenAid models
-      built between 2015 and 2020 show this pattern frequently; the defrost thermostat on
-      those machines starts drifting after five or six years and lets freezer temps drop far
-      enough overnight to block the fill tube solid.
-
-      Thawing the tube is the easy part. The real fix is verifying defrost cycle timing with
-      a temperature logger and replacing the defrost thermostat if it's reading outside spec.
-      Skip that step and the tube freezes again within two weeks.
-  - title: "Ice Level Sensor Faults on Sub-Zero and Bosch Built-Ins"
+      Summer heat forces refrigerators to run hard, and that extra compressor activity can throw off the defrost timer cycle — sometimes enough for the fill tube to ice over completely. KitchenAid french-door models in the 92870 area show this pattern from July through September. A malfunctioning defrost timer or an overworked condenser fan is usually driving it. On KitchenAid units built after 2018, a failed defrost thermostat throws the whole cycle off without triggering a clear error code on the display — so the symptom looks random until you pull the diagnostics.
+  - title: "Ice Maker Assembly Failures in Placentia's Renovated Kitchens"
     description: |
-      Sub-Zero 648 and 700 series refrigerators, common in upper Placentia's renovated
-      kitchens near Yorba Linda Boulevard, use an optical ice level sensor that coats with
-      frost if the door seal lets in any warm air. The ice maker assembly reads "bin full"
-      and shuts off production entirely. Cleaning the sensor and testing the door gasket for
-      seal failure usually resolves it — though if the gasket is compromised, that needs
-      replacing first or the sensor problem comes back within weeks.
-
-      Sub-Zero door gaskets are model-specific and must be OEM — aftermarket versions compress
-      differently and leave micro-gaps at the corners. Schedule the repair before summer heat
-      arrives and the unit starts working harder to maintain temperature; a failing gasket
-      under that load can spike energy draw and stress the compressor.
+      Placentia homeowners who upgraded to Sub-Zero or Thermador built-ins during 2010s kitchen renovations are now hitting the age where assembly components start failing. The ice level sensor and the module itself are the common failure points on these units. Sub-Zero parts require OEM sourcing — a step many local shops skip, which leads to repeat failures within a year. The Sub-Zero 650 and 700 series machines common in upper Placentia homes use a dedicated module that's not interchangeable with aftermarket parts without recalibration. Cutting that corner costs more long-term than just sourcing the correct part from the start.
 
 faq:
   - q: "How fast can you get to Placentia for ice maker repair?"
     a: |
-      Placentia is right off the 57 freeway — from our Orange County route, that's typically
-      under 45 minutes. Same-day service is available most days. Call (323) 870-4790 to
-      confirm a morning or afternoon window, or evening if that works better.
-  - q: "Do you work on KitchenAid, Bosch, and Sub-Zero ice makers?"
+      Orange County routes run daily — Placentia is typically reachable within 2 hours from our nearest technician. Call (323) 870-4790 to check same-day availability. Evening slots are open most weekdays, so a late-afternoon call doesn't mean waiting until next week. If you're near Yorba Linda Boulevard or off the 57 freeway corridor, we can usually route directly without adding much time to the schedule.
+  - q: "Do you repair KitchenAid, Sub-Zero, and Samsung ice makers in Placentia?"
     a: |
-      Yes — KitchenAid and Bosch ice maker assemblies are the most common calls in Placentia.
-      Sub-Zero requires OEM parts (no aftermarket substitutes on those modules), which we
-      source directly. LG and Samsung fill valve and control board repairs we stock on the van.
-  - q: "Is it worth repairing or should I just replace the ice maker module?"
+      KitchenAid, Sub-Zero, and Samsung are the three brands we see most in Placentia homes. For Sub-Zero we carry specialized diagnostic tools and source OEM parts directly. Samsung and LG assemblies we stock on the van — those are usually fixed on the first visit. Bosch is becoming more common in Placentia's newer builds near Kraemer Ranch; we carry the fill valve and water inlet valve kits for those as well, so there's no waiting on a parts order.
+  - q: "How do I know if the unit needs repair or full replacement?"
     a: |
-      Most issues here — fill valve blockage, frozen tube, sensor fault — run $120 to $280
-      to fix. Full module replacement on a Sub-Zero or KitchenAid can hit $400-$600 but still
-      beats a new refrigerator. We diagnose on-site the same day you call; you'll get a
-      firm number before we touch anything. Call (323) 870-4790 for same-day availability.
+      Most problems in Placentia — clogged fill valves, faulty sensors, frozen lines — are repairable for $150 to $350. Full assembly replacement costs more but still beats buying a new refrigerator. One quick field test: if the water supply line has decent pressure but nothing is dropping into the bin, the issue is almost always the fill valve or the ice level sensor, not the refrigerator itself. Call (323) 870-4790 for a same-day diagnosis and you'll get a straight answer on-site, not a vague estimate over the phone.

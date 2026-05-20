@@ -1,0 +1,25 @@
+title: "Monrovia Oven Repair — Craftsman Kitchens to Modern Ranges"
+
+intro: |
+  Myrtle Avenue's historic district backs into neighborhoods packed with 1920s craftsman bungalows that went through serious kitchen overhauls in the 2010s. A lot of those remodels dropped in Bosch wall ovens or KitchenAid slide-in ranges — and those units are now 8-12 years old, right at the age when heating elements start failing and self-clean cycles start locking up. Homes north of Foothill toward the 210 skew newer, with Samsung and LG ranges hitting similar issues. MaxFixing covers all of Monrovia and runs regular routes through the San Gabriel Valley, with same-day availability most days.
+
+  Gas appliance density here is high. Older craftsman homes kept original gas lines running to kitchens, and many of the 2010s remodels added slide-in gas ranges or dual-fuel wall ovens rather than going all-electric — which means gas valve and igniter work shows up constantly on service calls in 91016.
+
+localContext: |
+  The 91016 zip covers most of central and north Monrovia — pre-war craftsman homes around Library Park on Myrtle Avenue, 1950s ranch houses further east toward Arcadia, and newer builds up the hillside streets near Monrovia Canyon Park. Tighter original kitchen layouts in the older craftsman stock mean accessing the lower bake element or broiler drawer takes more disassembly than a newer open-plan kitchen. Getting a range pulled from a narrow alcove without scuffing original tile or yanking a gas flex connector takes time to do right. Residential street parking throughout most of the area is straightforward — no permit zones on most residential blocks, so van access isn't an issue for service calls anywhere in the city.
+
+commonProblems:
+  - title: "Gas valve igniter failure on Bosch and KitchenAid ranges"
+    description: "Bosch HGI-series and KitchenAid gas ranges both develop igniter problems after several years of use. The igniter glows but can't build enough heat to open the gas valve — you hear rapid clicking, catch a faint gas smell at the burner, and get no flame. Testing igniter resistance takes about five minutes. Swapping the igniter solves it in most cases without touching the valve body or gas line."
+  - title: "Partial bake element burnout causing uneven heating"
+    description: "On LG and Samsung electric ranges, the lower bake element sits recessed under the oven floor and isn't immediately visible. A blister, crack, or carbon streak on the element coil confirms a burnout. Partial failures show up as uneven browning — one side of the rack done, the other side pale. Samsung ranges sometimes log an SE or 8E error code alongside it, which the control board records but doesn't always surface on the display. That's still a bad element, not a board problem. Left alone, it fails completely within a few weeks — calling for a new element, not recalibration."
+  - title: "Self-clean cycle locking the oven door shut"
+    description: "Thermador wall ovens and KitchenAid double ovens use a door latch assembly with a bimetal thermostat that can stick after a 900°F self-clean run. The latch motor locks the door and the bimetal strip fails to signal release after the oven cools. You might see an F1 or F3 fault code on the display — clearing it resets the board temporarily but doesn't fix anything mechanical. The control board usually tests normal — it's the latch assembly that needs replacing. Full door latch replacement takes about an hour on most Thermador 30-inch wall oven models."
+
+faq:
+  - q: "How fast can you get to Monrovia for oven repair?"
+    a: "From our San Gabriel Valley base, Monrovia is a quick drive — Foothill Boulevard straight in, or the 210 off Pasadena. Residential street parking is no issue. Same-day slots are available most days, and technicians are usually there within two hours of your call. Reach us at (323) 870-4790 or schedule online."
+  - q: "Do you work on Thermador and Bosch ovens, or just standard brands?"
+    a: "Both show up regularly in Monrovia's remodeled kitchens. Thermador wall ovens usually need control board replacements or door latch work — parts are stocked for common models. Bosch ovens come in mostly with heating element failures and self-clean lockouts. KitchenAid double ovens too — broil element burnouts and latch assembly issues are the most common calls. Have the model number ready when you call and we'll confirm parts availability upfront."
+  - q: "What does oven repair cost, and is it worth repairing vs. replacing?"
+    a: "Bake element replacements typically run $150–250 parts and labor combined. Control board repairs on higher-end brands like Thermador are $300–500 depending on the specific board. A Bosch or KitchenAid range in the 6-8 year range with a single failed component is almost always worth fixing — full replacement runs $1,500+. Diagnostics are included with any completed repair. Evening and emergency slots available — call (323) 870-4790."
