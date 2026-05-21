@@ -1,0 +1,87 @@
+title: "West Hollywood Oven Repair — Condos, Flats & Older Kitchens"
+
+intro: |
+  Sunset Strip–adjacent buildings and the stacked condos along Santa Monica Boulevard
+  hide some of the most cramped kitchen setups in all of LA County. A Bosch slide-in
+  range tucked against a 14-inch wall cavity is a real access puzzle. Oven calls in
+  90046 and 90069 usually fall into one of two camps: a rental unit with an aging GE
+  range that stopped holding temp, or a renovated condo where the KitchenAid wall oven
+  threw an F3 error and locked the door mid-cycle.
+
+  Gas shutoffs, shared utility chases, and street parking on Larrabee or Hancock mean
+  service visits here take more coordination than a straightforward single-family house
+  call. Still worth it. Oven problems in WeHo are almost always fixable same-day.
+
+localContext: |
+  West Hollywood's housing leans heavily on 1960s–1970s apartment blocks and converted
+  duplexes, especially north of Santa Monica Blvd and through the Norma Triangle. Zip
+  90048 near Melrose has a run of smaller single-family homes with tighter utility
+  closets and non-standard cavity sizes. Appliances in these older builds often predate
+  modern venting requirements — gas ranges especially run hotter than spec and beat up
+  igniter assemblies faster than in newer construction.
+
+  The mix of appliances reflects the neighborhood's layered demographics. Long-term
+  tenants in older buildings along Fountain Avenue are still cooking on Whirlpool or
+  Frigidaire freestandings that haven't been touched since a Reagan-era remodel.
+  Meanwhile, the 2010s renovation wave pushed KitchenAid and Bosch wall ovens into
+  condos on Holloway and Larrabee that weren't originally built for them — cavity
+  dimensions got shimmed and venting got improvised. Those installs are hitting
+  the age where components start failing.
+
+  Worth knowing: LA's tap water is hard. Dishwashers and ice makers get the most
+  attention for mineral scale, but oven steam-clean functions and door latch mechanisms
+  on gas ranges in WeHo units suffer too — mineral deposits bind the solenoid hardware
+  over time, especially in buildings where the water pressure fluctuates.
+
+commonProblems:
+  - title: "Oven won't reach temp — bake element or igniter failure in older WeHo units"
+    description: "In the 1970s-era apartment stock along Fountain Avenue, Whirlpool and GE
+      freestanding ranges show up constantly with the same symptom: preheat stalls at
+      275°F and never climbs. Usually it's a failing bake element drawing low wattage or,
+      on gas models, a cracked igniter that glows but can't sustain a flame. Either way
+      it's a same-unit part pull — no guesswork once you pull the bottom panel.
+
+      On electric models, a multimeter check on the bake element tells the whole story in
+      under two minutes. Gas igniters are trickier — a visually intact igniter can still
+      read 85+ ohms and fail to open the gas valve. Always test resistance before
+      recommending a part. Most of these repairs land in the $130–$175 range."
+  - title: "Uneven baking — convection fan failure in KitchenAid and Bosch wall ovens"
+    description: "Renovated condos in 90069 near the Sunset Strip corridor went heavy on
+      KitchenAid and Bosch wall ovens during the remodel wave of the 2010s. Those convection
+      fan motors are hitting 10–12 years now. A failing blower wheel creates hot spots —
+      one rack edge overcooks while the center stays raw. The motor itself is accessible
+      from the back panel, but wall oven installs in tight cavities add service time.
+
+      Bosch units in particular develop a secondary issue: the fan bearing wears unevenly
+      and starts rattling at high temp before it fails outright. If your oven sounds fine
+      at 350°F but develops a grind at 425°F, that's the bearing telling you it's close.
+      Catch it early and it's a motor swap. Ignore it and the blade contacts the housing —
+      now it's a motor plus housing replacement."
+  - title: "Self-clean cycle locks door and won't release — thermal latch failure"
+    description: "Samsung and LG slide-in ranges in WeHo's newer builds along Robertson
+      Boulevard see this constantly. The self-clean cycle trips the door latch solenoid,
+      and if the thermal fuse blows mid-cycle — which it does when ventilation is poor —
+      the door stays locked even after the oven cools. Replacing the thermal fuse and
+      manually releasing the latch is a standard fix, but you need to clear the error
+      code from the control board after.
+
+      Samsung's DE-XX door error codes and LG's F9 latch fault both point to the same
+      failure chain. The fuse is a $12 part. Labor to access it in a slide-in with
+      a drawer base runs about 45 minutes. Total repair is usually under $160.
+      If a tech is quoting you significantly more without explaining why, ask them
+      to show you the part number."
+
+faq:
+  - q: "How fast can you get to West Hollywood for oven repair?"
+    a: "West Hollywood is a straight shot up La Cienega or Fairfax from our South Bay base —
+      typically 30–45 minutes depending on traffic. Same-day slots are usually open before
+      noon. Call (323) 870-4790 and we'll tell you exactly when we can be there."
+  - q: "Do you repair Bosch and KitchenAid wall ovens in West Hollywood condos?"
+    a: "Yes, and they're probably our most common oven call in this zip. Bosch wall ovens
+      frequently need a new door latch assembly or control board. KitchenAid units tend
+      to fail at the convection fan motor or bake element. We stock both."
+  - q: "What does oven repair typically cost in West Hollywood, and how does the process work?"
+    a: "Diagnostic visit is flat-rate — we check the heating element, igniter, thermal fuse,
+      and control board on-site and quote the repair before touching anything. Most fixes
+      run $120–$280 in parts and labor. Emergency same-day slots available — book at
+      (323) 870-4790."

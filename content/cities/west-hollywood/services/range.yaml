@@ -1,0 +1,52 @@
+title: "West Hollywood Range Repair — Tight Kitchens, Real Gas Work"
+
+intro: |
+  Fountain Avenue cuts through some of the densest pre-war rental stock in the county.
+
+  1940s stucco buildings along that stretch put GE freestanding ranges jammed between the counter and the wall with about six inches of clearance on each side — not enough to slide the unit out without removing the broiler drawer first. Aging gas stub-outs, original ventilation stacks, and brittle corrugated connectors behind the range are just part of the job in West Hollywood. A tech unfamiliar with this neighborhood tries to pull a range straight back and scores the floor. Extra fittings stay in the van so there's no mid-job hardware run.
+
+  Street parking near Santa Monica Boulevard is its own puzzle. Not a problem — we plan for it. Usually at your door within 2 hours of your call. Ring (323) 870-4790 if you need someone out today.
+
+localContext: |
+  The 90046 zip holds a dense mix of 1940s courtyard apartments and mid-century dingbat buildings where the kitchen layout was clearly an afterthought.
+
+  Many units off Laurel Canyon Boulevard still run the original gas supply lines — brittle fittings, inconsistent pressure at the burner manifold, the whole situation. A technician unfamiliar with pre-1970s gas work will spend an hour diagnosing a symptom that's really a worn flare fitting at the shutoff valve. Over near the 90069 boundary, newer condo buildings along Sunset Plaza tend to have KitchenAid or Bosch slide-ins that require specialty tools just to pull the range without wrecking the cabinet face.
+
+  West Hollywood's older building stock also means the gas pressure at the manifold sometimes runs low — especially on upper floors of 1950s walkups. That affects glow-bar igniter performance on oven burners more than most people realize. A unit that passes a pressure test at the meter can still under-perform at the range itself because of line resistance over 40 feet of aging half-inch pipe.
+
+  LA hard water makes it worse. Mineral deposits clog burner orifices faster here than in Burbank or the Valley — weekly cooking builds scale inside the orifice hole and disrupts the gas-air mix long before you'd notice any other symptoms.
+
+commonProblems:
+  - title: "Burner Won't Ignite — Grease-Fouled Igniter Electrodes in Older Units"
+    description: |
+      Decades of cooking in West Hollywood apartments leaves a thick grease film on the spark igniter electrode and the ceramic insulator around it.
+
+      Samsung and GE freestanding models both fail this way — the igniter clicks endlessly but never catches flame. The click means the spark module is working; the electrode tip is just coated enough to bleed the spark to ground before it jumps to the burner cap. Cleaning the electrode tip and replacing the wire harness usually resolves it in one visit, no parts order needed.
+
+      On Samsung's NX-series ranges, a cracked ceramic electrode body causes the same clicking symptom but cleaning won't fix it — you need a new electrode assembly. Easy to tell apart once the burner cap is off. Different fix, same diagnostic starting point.
+
+  - title: "Uneven Flame from a Blocked Burner Orifice"
+    description: |
+      A lopsided or weak flame almost always points to a clogged burner orifice or a partially failed gas valve.
+
+      KitchenAid's sealed-burner design traps debris inside the burner cap, and the orifice is tiny — half a millimeter of mineral deposit chokes the flow completely. Whirlpool freestanding units in this zip code show the same pattern, especially on the rear burners that take the most heavy pan use. In both cases the fix is orifice cleaning or orifice replacement, not a new gas valve. Misdiagnosing this is how a $60 repair turns into a $300 one.
+
+      If the flame runs yellow-orange instead of blue, that's an air-gas mix issue — check the air shutter on the burner tube, not just the orifice itself.
+
+  - title: "Oven Not Heating — Weak Igniter Can't Open the Gas Valve"
+    description: |
+      A gas oven that glows but won't heat is almost always a failing glow-bar igniter, not a dead bake element — that's a common misdiagnosis that wastes money.
+
+      The igniter has to draw enough current to pull the gas valve solenoid open. Bosch and Whirlpool both use this design, and the threshold sits around 3.2 amps. A meter reading under that means the igniter is too weak to trip the valve, even if it still glows orange. Homeowners see it as the oven "trying" — glows, faint gas smell, then nothing. Replacement igniters run $40–70 in parts; the job takes about 45 minutes on most units.
+
+      GE Profile ovens in WeHo rentals show this failure constantly after 8–10 years. The glow bar element degrades slowly, so the oven works fine in summer and fails when the kitchen turns cold in December — owners assume it's a coincidence.
+
+faq:
+  - q: "How fast can you get to West Hollywood for Range repair?"
+    a: "The 101 puts us right at Fountain or Santa Monica Boulevard in under 20 minutes from most of our usual routes. Street parking in WeHo is the bigger variable — but we plan for it. Call (323) 870-4790 and we'll give you an honest arrival window, usually under 90 minutes for same-day calls. Evening slots are available too if daytime doesn't work."
+
+  - q: "Do you repair KitchenAid and Samsung ranges in West Hollywood?"
+    a: "Yes — KitchenAid slide-ins and Samsung freestanding gas ranges are both common in WeHo and we stock parts for both. On KitchenAid units, igniter modules and control board failures are the usual jobs. Samsung calls tend to involve the spark switch assembly or the burner cap alignment. For Samsung smart ranges throwing F-series error codes, those are specific enough that we know what to bring on the first visit. Bosch and GE are no problem either."
+
+  - q: "What does a range repair cost and how fast can you come out?"
+    a: "Diagnostic fee applies toward the repair if you approve it on-site. Most igniter swaps and burner fixes land between $120–$230 parts and labor. Gas valve replacements run higher — typically $200–$350 depending on the brand. Same-day appointments are available most days, evening slots too if you're at work during the day. Schedule at (323) 870-4790 or book online."

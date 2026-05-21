@@ -1,0 +1,99 @@
+title: "Manhattan Beach Oven — Built-Ins, Salt Air, Same-Day Repair"
+
+intro: |
+  Salt air off the Pacific hits appliance connector pins harder than most homeowners expect — even three
+  blocks from the Strand in 90266, Wolf dual-fuel ranges and Thermador wall ovens start showing corroded
+  igniter harnesses well before any inland unit would.
+
+  The Hill section above Aviation Boulevard is full of these built-ins, most installed during the high-end
+  kitchen rebuilds of 2007–2014 and now hitting the age where bake elements and control boards start
+  failing. Thermador ME-series models, especially, show a predictable pattern: control board failures
+  right around year 10–12, usually triggered by repeated thermal cycling from self-clean cycles. That
+  timeline matches exactly what we're seeing on service calls throughout 90266 right now.
+
+  Call (323) 870-4790 — same-day slots available.
+
+localContext: |
+  Manhattan Beach leans almost entirely toward built-in, panel-ready appliances. The Sand Section's
+  remodeled beach cottages and the newer construction on The Hill both run heavily on Wolf, Thermador,
+  and Miele wall ovens — units that need factory-spec diagnostic software and purpose-built extraction
+  tools most generalist shops don't carry.
+
+  Coastal humidity is a factor year-round here. Connector corrosion on Viking and Wolf igniter circuits
+  happens measurably faster within a mile of the water than it does in the Valley or even inland South
+  Bay neighborhoods like Hawthorne or Lawndale.
+
+  Older 1960s ranch homes near Polliwog Park add a different layer of complexity: 27-inch cutouts,
+  non-standard mounting rails, and tight access for a full oven pull. Some of those kitchens haven't
+  been touched since original construction, which means dealing with whatever the original builder
+  spec'd — sometimes Kenmore or GE built-ins that are long out of production but still repairable
+  with aftermarket parts. Not glamorous work, but it keeps a functional oven running for another decade.
+
+  Zip 90266 is on our regular South Bay schedule.
+
+commonProblems:
+  - title: "Coastal Corrosion Taking Out Gas Valve Igniters Before Their Time"
+    description: |
+      Ocean humidity oxidizes connector pins on Wolf range igniter harnesses faster than specs account
+      for. The igniter glows orange — looks functional — but corroded pins spike resistance until the
+      gas valve won't open. Burner clicks endlessly without lighting.
+
+      Swapping the igniter assembly alone isn't enough; cleaning or replacing the harness connectors is
+      what actually sticks. We carry dielectric grease and replacement Molex-style connectors on the
+      truck specifically for coastal South Bay calls. Most visits, done in under 90 minutes.
+
+  - title: "Self-Clean Cycle Locks the Thermador Door and Refuses to Release"
+    description: |
+      On Thermador ME302ES and MED272 double-wall ovens, the latch motor gear strips after repeated
+      high-heat cycles. The control board reads an incomplete lock confirmation and holds the door
+      sealed — oven fully functional, just inaccessible.
+
+      Error code F34 on the display is the giveaway — that's Thermador's door latch fault code.
+      We stock the Thermador E-series latch motor kit on the truck. Self-clean lock failures are
+      almost always a same-day fix once diagnosed, assuming no secondary damage to the door switch
+      harness from the prolonged heat exposure.
+
+  - title: "One Corner Burns, the Other Stays Pale — Convection Fan Going Soft"
+    description: |
+      A degraded convection fan motor is the culprit on Miele H-series and KitchenAid built-in wall
+      ovens. The blower wheel still spins but loses torque under thermal load, so hot air doesn't
+      reach every corner of the cavity.
+
+      Sheet cookies reveal it immediately — dark on one side, barely colored on the other. KitchenAid
+      logs error code F1-E5 for exactly this failure. Motor swap runs $200–260; no need to replace the
+      full control board. The Miele H6880BP is the specific model we see most frequently for this in
+      Manhattan Beach — its direct-drive fan motor is a known wear item after roughly 7–8 years of
+      regular use, and the replacement part is stocked domestically so there's no waiting on overseas
+      shipping from a Miele depot.
+
+faq:
+  - q: "How fast can you get to Manhattan Beach for oven repair?"
+    a: |
+      From our South Bay base, Manhattan Beach is 20–30 minutes down Sepulveda, traffic depending.
+      Call (323) 870-4790 and we can usually lock in a same-day slot.
+
+      Evening appointments are available most weekdays — just mention it when you book. If the address
+      is in the Sand Section close to the pier, parking a service van near those beach streets gets
+      tight on weekend mornings; weekday calls are always smoother for access and response time.
+
+  - q: "Do you repair Thermador, Wolf, and Miele wall ovens?"
+    a: |
+      Those three are the brands we see most on The Hill and in the Sand Section. Thermador calls
+      typically involve bake elements, door hinge failures, and control boards. Wolf jobs usually come
+      down to the gas valve igniter or dual-ring burner assembly. Miele work tends to land on
+      convection fan motors and door seal replacements.
+
+      Viking wall ovens come up too, particularly in the older custom builds on streets like Palm Drive
+      and Highland Avenue. Viking bake element failures and broil element shorts are straightforward
+      repairs when you have the correct part spec on hand — the tricky part is sourcing, not the labor.
+
+  - q: "What does oven repair cost in Manhattan Beach, and is same-day service actually available?"
+    a: |
+      Diagnostic visit is $85, credited toward the repair if you move forward. Bake element or igniter
+      assembly replacements typically run $180–280 total. Control board work on Thermador or Wolf
+      lands at $350–500.
+
+      Same-day availability is real but fills by midmorning — call (323) 870-4790 early or schedule
+      online to lock your slot. For situations where the oven is stuck mid-self-clean or you need
+      it running before a dinner that night, evening slots exist on most weekdays. Just say it's
+      urgent when you call and we'll sort out the timing.

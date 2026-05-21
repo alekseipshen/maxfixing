@@ -1,0 +1,75 @@
+title: "San Dimas Range Repair — Gas Igniters & Ovens"
+
+intro: |
+  Ranch homes along Via Verde and near Puddingstone Reservoir were built mostly in the 1970s
+  and early 80s — many still running original gas stub-outs. Feeding a modern KitchenAid or
+  Bosch slide-in off a 50-year-old supply connection creates pressure issues you can see in the
+  flame. Burners that won't ignite cleanly, ovens running 40 degrees cold, control boards
+  throwing codes — these are everyday calls in 91773. Same-day service available most of the week.
+
+localContext: |
+  The stretch south of the 210 freeway — from Glendora Avenue through the neighborhoods around
+  Lone Hill and into older blocks near Arrow Highway — is almost entirely 1970s to early 1990s
+  single-family ranch housing. Gas ranges dominate; this part of the SGV never shifted toward
+  all-electric the way coastal cities did. Hard water is a real factor here too. Mineral deposits
+  clog igniter ports and orifice tips the same way they foul dishwasher spray arms, and homes
+  with original cast-iron grates have years of residue built up in places most people never clean.
+  San Dimas sits at the eastern edge of LA County where summer temps regularly push past 100°F —
+  that heat cycles ranges harder than homeowners realize, accelerating wear on thermal fuses and
+  oven sensors. Neighborhoods near Bonita Avenue and San Dimas Canyon Road tend to run older
+  Maytag and GE freestanding models alongside newer KitchenAid installs. Both generations show
+  up on the same block, sometimes in the same kitchen after a remodel.
+
+commonProblems:
+  - title: "Burner Igniter Won't Fire — or Keeps Clicking After It Lights"
+    description: |
+      The igniter module and individual spark electrodes pick up grease and mineral deposits over
+      years of cooking. On KitchenAid pro-style ranges, the spark module often keeps firing even
+      after the burner is lit — that's a failed spark switch, which is a separate component from
+      the electrode itself. Swapping just the switch instead of the whole module saves around $80
+      in unnecessary parts. Each component gets tested individually before anything gets ordered.
+      Hard water from San Dimas municipal supply accelerates this failure; the calcium buildup
+      on igniter tips creates resistance that mimics a faulty switch until you pull and test each
+      electrode with a meter.
+  - title: "Oven Runs Cold or Drops Out Mid-Cook"
+    description: |
+      A Thermador or Bosch range oven reading 350°F but sitting at 270°F typically has either a
+      degraded oven temperature sensor or a heating element that's tripping the thermal fuse
+      prematurely. Gas models add another failure mode: a partially blocked orifice on the gas
+      valve igniter that fires the oven, then starves the flame after 8 to 10 minutes.
+      Recalibrating through the settings menu does nothing until the actual faulty part is swapped.
+      Samsung slide-ins show a related symptom — the SE or C-d0 error code indicating a shorted
+      keypad that registers phantom inputs and forces the oven into lockout mode. That's a membrane
+      ribbon cable issue, not a full board replacement, and it costs significantly less to fix correctly.
+  - title: "Control Panel Dead or Stuck After a Summer Brownout"
+    description: |
+      LG and Samsung glass-touch ranges show up frequently in newer San Dimas builds, and the
+      control board is the first component to fail after a power surge or voltage sag. The San
+      Gabriel Valley gets late-summer brownouts that don't trip breakers but quietly fry circuit
+      boards. F9 and E1 codes on LG ranges typically indicate a door latch assembly failure or
+      a burned control board — not a user setting or a software glitch. If the display is dark
+      but the clock was keeping time before the event, start with a hard reset — unplug for
+      five minutes. Still blank after that? The main control board needs to come out for testing.
+      Call (323) 870-4790 and describe the error code; sometimes we can pre-order the part before
+      even arriving, cutting the repair to a single visit.
+
+faq:
+  - q: "How fast can you get to San Dimas for a range repair?"
+    a: |
+      Routes through the 210/57 interchange run daily. From most SGV locations, arrival in San
+      Dimas takes under 90 minutes — same-day appointments available most days. Call
+      (323) 870-4790 before noon and there's a strong chance of an afternoon slot.
+      Evening service available for urgent situations.
+  - q: "Do you repair Bosch, KitchenAid, and Thermador ranges?"
+    a: |
+      Those three brands account for the majority of range calls in the 91773 area. Parts for
+      Bosch gas valve assemblies, KitchenAid spark modules, and Thermador igniters travel on
+      the truck. LG and Samsung control boards usually get ordered same-day, with parts arriving
+      for a next-morning install.
+  - q: "How is range repair typically priced in San Dimas?"
+    a: |
+      Diagnostic visit is $75, applied toward any repair that gets done. Igniter replacements and
+      heating element swaps usually land between $150 and $280 total, parts and labor. Control
+      board jobs on premium brands like Thermador typically run $300 to $500 depending on part
+      availability. Full quote before any work begins. Evening slots available if daytime
+      doesn't fit.

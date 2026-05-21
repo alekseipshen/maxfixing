@@ -1,0 +1,29 @@
+title: "Manhattan Beach Range — Gas & Premium Brand Repairs, 90266"
+
+intro: |
+  Thirty-foot lots in the Sand Section pack a serious kitchen into a tight footprint — rebuilt beach cottages along The Strand running Viking 36-inch ranges in spaces that barely fit a standard stove. Zip 90266 skews heavily toward gas, and the gas valve igniters and thermocouples on Viking and Wolf units are the calls we field most often here. Salt air off Santa Monica Bay accelerates corrosion on igniter tips and thermocouple leads faster than anywhere else in the South Bay. Call (323) 870-4790 and we're typically on-site in Manhattan Beach within 2 hours.
+
+localContext: |
+  The Hill Section east of Valley Drive is mostly 2000s and 2010s construction — buyers specified full professional kitchen packages when they built, so Thermador Pro Harmony and Wolf ranges are almost default here. Closer to the pier in 90266, 1960s and 70s beach cottages are getting torn down and rebuilt, but plenty still have original gas stub-outs feeding ranges that haven't been touched in decades.
+
+  The Tree Section — the residential blocks between Sepulveda and Valley Drive, running from roughly Manhattan Beach Boulevard north toward Rosecrans — sits in a middle ground. Homes there tend to be 1980s to early-2000s remodels with KitchenAid and Bosch slide-in ranges, and those units are hitting the age where control boards and igniter modules start failing. We run those calls frequently.
+
+  East Manhattan Beach, up toward Aviation Boulevard, has newer townhouse clusters with Wolf and Miele built-in ranges on shared gas lines. Parking a service van on those narrow Sand Section streets near Manhattan Beach Boulevard takes timing — we account for it. Hill Section and East Manhattan Beach are much easier access.
+
+commonProblems:
+  - title: "Gas Valve Igniter Failure — Salt Air Kills Them Faster Here"
+    description: "The burner clicks but won't catch, or there's a faint gas smell because the igniter isn't firing fast enough to clear the unburned gas. Viking and Wolf ranges both use ceramic-tipped igniters that corrode faster this close to the ocean — the salt air pitting the electrode tip is visible under inspection. A failing gas valve body can cause the same symptom and is a harder fix: the valve solenoid sticks open or won't open fully, and you get either no ignition or a weak, lazy flame that self-extinguishes. Both are same-day repairs when parts are in stock, which for Viking 36-inch they usually are."
+  - title: "Oven Temperature Sensor Drift on Thermador Pro Harmony Units"
+    description: "The display reads 375°F and everything burns. On Thermador's Pro Harmony series, the RTD temperature sensor probe drifts after 5-7 years of regular use — the control board reads the wrong resistance and compensates incorrectly. Recalibration sometimes buys time. Sensor replacement is the reliable fix. If the display shows an E-10 or E-14 fault code, the sensor is the first thing to check before condemning the board. Most Hill Section Thermador calls we get in 90266 are this exact failure pattern."
+  - title: "Electronic Control Board Errors After Coastal Power Flickers"
+    description: "KitchenAid slide-in ranges throw F3 or F9 error codes after a power spike — common in the grid sections nearest the coast. Bosch induction ranges can lock up entirely, requiring a full power cycle at the breaker to reset the EEPROM. Sometimes a hard reset clears it. If the control board took the hit directly, it needs to come out. Bosch boards for the 800 series induction range are about a 3-day lead time; KitchenAid boards we typically have or can source next day."
+
+faq:
+  - q: "How fast can you get to Manhattan Beach for Range repair?"
+    a: "South Bay routes run daily from our Torrance base — Manhattan Beach is 15 to 20 minutes. Sand Section near The Strand is the slower park, Hill Section and Tree Section are easy. Call (323) 870-4790 and we'll have a tech out same day, evenings available."
+  - q: "Do you repair Viking, Wolf, and Thermador ranges?"
+    a: "Yes — all three, regularly. Viking calls in 90266 are usually gas valve igniters or the thermocouple assembly on the older 36-inch dual-fuel units. Wolf and Thermador tend to need oven sensor replacements and control board resets. Miele range calls are less frequent but we carry the diagnostic interface for them. Parts stocked for each of the major premium lines."
+  - q: "What does range repair typically cost in Manhattan Beach?"
+    a: "Diagnostic is $85-95, credited toward the repair. Most gas igniter and thermocouple jobs run $150-280 total. Control board replacement runs higher — $250-450 depending on the brand. Viking and Wolf boards sit at the top of that range; KitchenAid and Bosch are usually in the middle. Emergency and evening slots available; call (323) 870-4790 to book."
+  - q: "My Viking range is built into custom cabinetry — can you service it without damaging anything?"
+    a: "Built-in and panel-ready units in 90266 are a regular job for us, not an exception. The Hill Section homes with custom Wolf and Viking installations usually have the range set into a professional hood surround with tight tolerances. We pull the unit on a furniture dolly with cabinet-safe corner pads. Takes longer than a freestanding job — we account for that in the appointment window."

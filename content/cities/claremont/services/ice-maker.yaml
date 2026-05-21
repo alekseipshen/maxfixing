@@ -1,0 +1,91 @@
+title: "Claremont Ice Maker — Craftsman Homes & Hard Water Fixes"
+
+intro: |
+  The 1920s and 1930s Craftsman bungalows lining College Avenue and Bonita
+  Avenue got a lot of kitchen renovations recently — KitchenAid and Bosch
+  french-door refrigerators dropped into spaces originally designed for
+  iceboxes. Then the ice stops. Almost always a mineral-coated water inlet
+  valve, or a frozen supply line running through an exterior wall that was
+  never properly insulated. Claremont's tap water averages 290–330 ppm total
+  dissolved solids — some of the hardest in San Gabriel Valley. A brand-new
+  inlet valve can restrict flow below 20 psi within 18 months at that mineral
+  load. Scale accumulates fast here. No exceptions.
+
+localContext: |
+  The bulk of 91711 is residential, with older bungalows concentrated around
+  the Claremont Village and 1960s–70s ranch-style homes spreading east toward
+  Mills Avenue and Indian Hill Boulevard. Tight galley kitchens in those
+  renovated Craftsmans mean the supply line often gets kinked or pinched at
+  installation — especially behind lower cabinets where the shutoff sits at
+  an awkward angle and there's barely room to turn a wrench.
+
+  The 1970s ranch homes frequently still have original copper supply lines.
+  Those accumulate scale deposits faster than newer flexible braided lines,
+  and Samsung and LG french-door units draw water 40–50 times a day. Mineral
+  buildup inside the valve housing happens faster than most people expect.
+
+  Hillside homes north of Foothill Boulevard are a different situation
+  entirely. Sub-Zero and Thermador built-ins are common up there. These
+  require proprietary ice maker modules and calibrated temperature setpoints
+  — a generic part swap on a Sub-Zero just won't hold.
+
+commonProblems:
+  - title: "Hard-Water Fill Valve Failure in Claremont's Renovated Kitchens"
+    description: "Claremont water sits at 290–330 ppm calcium hardness. That
+      mineral load coats the water inlet valve inside the assembly within 12–18
+      months of regular use. A KitchenAid or Bosch unit stops producing cubes
+      entirely when valve flow drops below 20 psi. Swapping the valve usually
+      takes 45 minutes. The hardest part is reaching the supply shutoff behind
+      a tight Craftsman-era cabinet — sometimes we're working flat on the floor
+      with a headlamp. Scale buildup also affects solenoid coil resistance on
+      KitchenAid models specifically, which can mimic a control board failure
+      if you're not testing the valve directly with a multimeter. Misdiagnosed
+      as a board issue, that repair can cost three times as much. The valve is
+      almost always the culprit in 91711 homes. Check it first."
+
+  - title: "Frozen Supply Line in Exterior Walls — Common in Pre-1950 Homes"
+    description: "Those bungalows near Pomona College have exterior walls with
+      minimal insulation. The refrigerator supply line runs through those walls
+      to reach the unit. January nights in Claremont drop to 35–38°F — just
+      enough to freeze a poorly routed line. Samsung and LG french-door models
+      throw an IE or 1F error code when the harvest cycle stops cold.
+      Re-routing and insulating the line fixes it for good. A foam sleeve on
+      the line inside that wall cavity has saved more than a few repeat
+      service calls in this neighborhood."
+
+  - title: "Hall-Effect Sensor Failure Producing Hollow or Misshapen Cubes"
+    description: "Small, hollow, or crescent-shaped cubes usually point to a
+      failing mold thermostat or a hall-effect sensor — the component that
+      counts completed harvest cycles and signals the motor to eject. Sub-Zero
+      built-in refrigerators in the larger homes near Padua Hills develop this
+      after 8–10 years. The sensor sits inside the ice maker module itself.
+      Sub-Zero modules are calibrated to specific freezer temperature setpoints,
+      so an aftermarket part swap won't hold long-term. Thermador units in the
+      same vintage homes show a similar failure pattern — the harvest cycle
+      stops mid-rotation, leaving a half-formed tray stuck in the mold. We
+      stock Sub-Zero and Thermador-specific components for this reason."
+
+faq:
+  - q: "How fast can you get to Claremont for ice maker repair?"
+    a: "Claremont sits right at the 10 and 210 interchange, so we can reach
+      91711 within 90 minutes from our nearest technician. Call (323) 870-4790
+      and we'll confirm same-day availability. Street parking near the Village
+      is straightforward — no parking garage logistics, no apartment-complex
+      load-in. Evening slots are open most weekdays if you can't be home
+      during the day."
+
+  - q: "Do you repair Bosch and KitchenAid ice makers in Claremont?"
+    a: "Yes — those two are the most common calls in this zip. Sub-Zero
+      modules, Samsung, and LG too. Typical repairs include water inlet valve
+      replacement, full module swaps, and clearing a blocked drain pump outlet
+      that backs meltwater up into the bin. LG units in particular tend to
+      develop a frozen fill tube right at the bin entry point — a defrost and
+      tube repositioning usually solves it without ordering any parts."
+
+  - q: "What does ice maker repair cost, and is there a diagnostic fee?"
+    a: "Diagnostic visit runs $65–95 depending on appliance type and access.
+      Parts — inlet valve, module, drain pump — are quoted before any work
+      starts. Inlet valve swaps typically run $120–180 total. Full module
+      replacements on Sub-Zero or Thermador run higher based on part
+      availability. Same-day slots are open most days. Call (323) 870-4790
+      to lock in a window."

@@ -1,0 +1,48 @@
+title: "West Hollywood Double Oven — Plummer Park to Sunset Strip"
+
+intro: |
+  Plummer Park gets the weekend crowds, but head a few blocks north on Sweetzer or east toward Havenhurst and you're in 1940s duplex territory. Kitchens running hard, original wiring, tight cutouts. A Bosch wall oven setup where the lower cavity refuses to hold temperature is a regular call in 90046 — we diagnosed that exact fault on Fountain Avenue three times this spring.
+
+  The access conditions matter here. Tight kitchen cutouts, original wiring panels, sometimes a gas shutoff hidden behind cabinetry from a 1953 renovation. Pulling and reseating components in these buildings takes longer than a new-build suburb job, and we plan the van stock accordingly before the tech leaves the shop.
+
+localContext: |
+  West Hollywood's 90046 and 90069 zip codes run heavily mid-century. Buildings from the 1940s and 1950s, many converted or subdivided over the decades. The Norma Triangle is especially compact — 30-inch wall oven cutouts, low clearance above the upper cavity, sometimes no service door behind the unit.
+
+  That affects job time directly. A heating element swap in a Chatsworth new-build runs 45 minutes. The same repair in a Norma Triangle two-story, with tight hallway access and street parking logistics on Cynthia Street, can run 90. We account for that upfront so the quote isn't a surprise when the job takes longer than expected.
+
+  Gas shutoffs come up more here than in newer construction. A fair number of West Hollywood kitchens have electric wall ovens alongside a separate gas range — two different fuel sources, two different failure modes. Knowing which configuration you've got matters before the tech arrives and starts pulling things apart.
+
+commonProblems:
+  - title: "Lower Oven Won't Heat — Burned-Out Heating Element"
+    description: |
+      The lower cavity takes the punishment. Broiling, high-heat roasts, holiday baking at 475°F — it cycles harder than the upper oven and fails first.
+
+      GE wall ovens from the mid-2000s hit heating element failure consistently after 8-10 years, sometimes throwing an F3 error code on the display. The upper cavity keeps working fine, so it's easy to let the problem slide until you actually need both. Replacing the element also sometimes requires control board recalibration afterward — the board learned the resistance profile of the old element, and a fresh one throws temperature calibration off by 15-20°F until you reset the stored values. Skipping that step is why some homeowners call back a week later saying the oven still runs cold after a repair.
+
+  - title: "Temperature Mismatch Between Upper and Lower Cavities"
+    description: |
+      Both cavities heat, but one reads 30°F off. Usually it's a degraded thermostat sensor — KitchenAid wall ovens show this pattern consistently after six or seven years of use. LA hard water accelerates the failure: mineral scale from repeated steam cycles coats the probe and skews the reading without triggering any error code.
+
+      Cleaning the sensor buys a few months. Replacement fixes it permanently. The sensor itself is a $40-$80 part, and the full repair typically runs under $200 in most configurations — a fraction of what a replacement unit costs, even on the mid-range KitchenAid models common in West Hollywood.
+
+  - title: "Control Board Failures and Sagging Door Hinges"
+    description: |
+      Samsung electric wall ovens have a recurring control board fault — the display goes dark or buttons stop registering mid-bake, no warning, no error code. It's not a tripped breaker. The board itself is failing, and ignoring it means the oven stops being usable entirely.
+
+      Door hinge wear is a separate problem but compounds things fast. The hinges on double-cavity wall ovens carry significantly more door weight than single-oven designs. A worn hinge lets the lower door sag, which tears the door gasket seal and bleeds heat on every cycle. Efficiency drops noticeably before you even realize the door is sitting crooked. Both repairs — control board and hinge — are same-day fixes when parts are in stock, which for Samsung and Whirlpool units they usually are.
+
+faq:
+  - q: "How fast can you get to West Hollywood for an oven repair?"
+    a: |
+      Daily routes cover 90046 and 90069. From our nearest tech, West Hollywood is 20-30 minutes — street parking on Sweetzer or the side streets off Santa Monica Boulevard near Plummer Park is workable if you can leave a spot near the building entrance.
+
+      Call (323) 870-4790 for same-day availability. Evening slots are open most weeknights, which matters when the oven is your only cooking option and a full workday off isn't realistic.
+
+  - q: "Do you repair KitchenAid and Bosch wall ovens in this area?"
+    a: "Both are common in West Hollywood. KitchenAid, Bosch, GE, and Whirlpool make up the bulk of what we work on here. Control boards, heating elements, door hinge kits — parts for all four brands ride on the van, so a second trip for components is rarely needed."
+
+  - q: "What does a wall oven repair cost, and how quickly can you diagnose it?"
+    a: |
+      Diagnosis is $85, credited toward the repair if you move forward. Heating element swaps run $150-$250 depending on the model and whether control board recalibration is needed after. Control board replacements go $280-$420. Door hinge kits are usually $120-$180 all-in.
+
+      Schedule at (323) 870-4790 and we quote on-site before any work starts. No charges beyond the diagnosis fee if you decide not to proceed — and for most common faults on the brands we see regularly in West Hollywood, diagnosis and repair happen in the same visit.
