@@ -1,0 +1,38 @@
+title: "San Dimas Range Hood — When the Fan Quits, the Kitchen Pays"
+
+intro: |
+  Ranch homes off Bonita Avenue run real kitchens — and when a homeowner dropped a KitchenAid wall-chimney insert into a 1978 build, the original ductwork stayed. Now that blower motor grinds every time the gas range kicks on. San Dimas sits in a warm pocket between the San Gabriel foothills and the 57 freeway corridor, which means hoods here log serious summer hours. A unit that quits in July is not a minor inconvenience — it is grease smoke in your cabinets.
+
+localContext: |
+  Most housing in 91773 dates from 1965 to 1985 — single-story ranch construction with attic clearance that was never designed for serious ventilation upgrades. When these kitchens got remodeled in the 2000s and 2010s, contractors typically swapped in higher-CFM hoods without touching the existing 3.25 by 10 inch rectangular duct runs beneath them. The neighborhoods around Lone Hill Park and the upper streets off San Dimas Avenue see this constantly: upgraded Thermador and Bosch inserts venting through the same undersized ductwork the original builder installed four decades ago.
+
+  Tap water in San Dimas tests hard — around 300 ppm in parts of 91773 — which accelerates mineral scale inside duct collars and on filter mesh. That scale, layered with cooking grease over months, turns a gradual airflow problem into a full motor failure faster than most homeowners expect. It is not the appliance brand that fails. It is the infrastructure behind it.
+
+commonProblems:
+  - title: "Blower Motor Burnout from Undersized Duct Runs"
+    description: |
+      A Thermador or KitchenAid hood rated for 500-plus CFM fighting through a 3.25 by 10 inch rectangular duct is under constant load. The blower motor overheats, the run capacitor fails, and suddenly there is zero airflow. Most common call we get in San Dimas — not a defective unit, just ductwork that was never upgraded when the kitchen was remodeled. Swapping the motor without fixing the duct restriction means the next motor burns out too.
+
+      In some San Dimas homes off Via Verde, we have found aluminum flex duct crimped at 90-degree angles inside the attic — cutting effective CFM by half before the air even reaches the exterior wall cap. That is a two-part fix: new motor, straightened duct run. Skipping the second part wastes the first.
+
+  - title: "Grease-Packed Blower Wheel Cutting Suction and Raising Noise"
+    description: |
+      Baffle filters catch most grease — but not everything. What passes through coats the blower wheel vanes and, over months, kills airflow. San Dimas tap water is hard, which adds mineral scale on top of the grease buildup. On Bosch and LG hoods, this shows up as excessive noise and weak suction — symptoms that look like a dying motor but are not.
+
+      A thorough blower wheel cleaning usually restores performance without replacing any parts. The job takes about 45 minutes on a typical Bosch under-cabinet unit; longer on a Thermador island chimney where the blower housing sits behind a decorative shroud. Cleaning is always worth ruling out before ordering a motor.
+
+  - title: "Control Board Failure on Samsung and LG Touch-Panel Hoods"
+    description: |
+      Newer Samsung and LG units route both the lighting and speed settings through a single PCB mounted above the cooking surface. Heat cycling and grease vapor degrade it over time. Common symptoms: lights go dark while the fan still runs, or the touch panel locks up — sometimes throwing an E1 or E3 fault code. Replacing just the LED strip rarely solves it.
+
+      The full control board swap is usually what actually fixes it. On Samsung models, that board is typically available next-day from our San Gabriel Valley supplier, so San Dimas jobs rarely need a return visit for parts.
+
+faq:
+  - q: "How fast can you get to San Dimas for range hood repair?"
+    a: "San Dimas is on our regular San Gabriel Valley run — 91773 gets daily coverage. Most calls land a same-day or next-morning slot. Call (323) 870-4790 to check current availability; we can usually confirm an arrival window within 2 hours. Evening slots open up most weekdays."
+
+  - q: "Do you work on Bosch and Thermador range hoods?"
+    a: "Bosch, Thermador, and KitchenAid are three of the most common units we service out here. Bosch frequently develops blower wheel grease buildup. Thermador hoods sometimes throw damper actuator faults or lose speed relay function. KitchenAid control boards fail more than they should. Common parts for all three ride on the truck. For Sub-Zero and Miele ventilation systems — less common in San Dimas but present in the newer builds near Puddingstone Reservoir — we order ahead when you can give us the model number before the visit."
+
+  - q: "What does range hood repair cost in San Dimas, and how does the process work?"
+    a: "Diagnosis is on-site and free — no charge to look and quote before anything gets touched. Blower motor replacement typically runs $160 to $270 depending on the brand and model. Control board swaps land in a similar range. Evening slots are available, and same-day emergency service is an option when the situation genuinely cannot wait. Call (323) 870-4790 or schedule online — we will confirm a window the same day."

@@ -1,0 +1,29 @@
+title: "San Dimas Double Oven Repair — Same-Day, 91773"
+
+intro: |
+  Via Verde homes tucked above Foothill Blvd went KitchenAid-heavy during the kitchen renovation wave of the early 2010s. Double wall ovens sit tight in custom cabinetry up there. Upper cavity stops heating? Control board throwing F3 errors? You're suddenly cooking a holiday dinner with one rack. Call (323) 870-4790 — we cover 91773 same-day, usually there within 2 hours.
+
+localContext: |
+  Most of 91773 runs 1960s-to-1980s ranch and split-level housing, with newer builds pushing north toward San Dimas Canyon Road. Via Verde carries the densest concentration of remodeled kitchens — that's where the Bosch and Thermador wall ovens live. Older homes closer to downtown and Arrow Highway sometimes still run 220V circuits undersized for modern two-cavity oven draws, which creates its own set of problems on top of the actual appliance failure.
+
+  The Covina Hills edge of 91773 mixes late-70s tract homes with 2000s-era kitchen upgrades — often a KitchenAid unit dropped into a cabinet opening originally cut for a narrower model. Past San Dimas Avenue toward Bonita, the housing stock gets older. Maytag and GE appliances from the 90s still show up out there, running on control boards that haven't been looked at in a decade.
+
+  Quick note on access: the 57 freeway makes San Dimas a straightforward run. Parking on Via Verde and the canyon-side streets isn't an issue. For calls near San Dimas Canyon Park or off Puddingstone Drive, on a light traffic day we're often on-site under 90 minutes.
+
+commonProblems:
+  - title: "Upper Cavity Dead While the Lower Still Works Fine"
+    description: "The upper and lower ovens run off separate bake elements — and sometimes separate control boards entirely. On KitchenAid double wall ovens, the upper heating element burns out first, typically after 5-7 years of regular use. A blown thermal fuse on the upper circuit kills heat to just that cavity while the lower keeps running normally. The fix usually takes under an hour: element swap, test both cavities, done. Occasionally the root cause traces to the relay on the upper control board rather than the element itself — that extends the job, but it's still completable same-day if the board is in the van. For KODE500 and similar KitchenAid configurations, we stock the most common replacement elements."
+  - title: "Temperature Mismatch — Upper Runs 50°F Hot, Lower Barely Reaches 300°F"
+    description: "Bosch wall ovens can develop calibration drift in the RTD temperature sensor without throwing a visible error code. You think you're baking at 375°F but the actual cavity temp is off by 40-60 degrees. Replacing the RTD probe usually fixes it cleanly and costs far less than a board swap. Older Samsung wall ovens show the same symptom when the control board starts degrading — often an SE or C-d0 error code surfaces first, or the display flickers before temperature accuracy goes. Thermador double ovens sometimes throw an E118 fault that looks like a door latch error but is actually a temperature sensor reading out of spec. Worth diagnosing carefully before ordering parts: the RTD sensor runs about $30, a new board runs closer to $250."
+  - title: "Lower Oven Door Hinge Snapped or Sagging"
+    description: "Lower oven doors on wall units take more abuse than most people realize. Propping them open while loading puts steady torque on the hinge assembly — far more stress than a single oven ever sees. The door hinge bracket on Thermador and KitchenAid models is a bolt-in part; common hinge kits stay stocked in the van, so most of these close out same visit. One thing worth checking before scheduling: if the inner door glass is also cracked or shattered, that's a separate part order. Glass panels on Bosch double ovens in particular aren't always available next-day — mention it when you call at (323) 870-4790 and we'll confirm stock before rolling out."
+
+faq:
+  - q: "How fast can you get to San Dimas for oven repair?"
+    a: "Running up the 57 corridor, San Dimas is a straightforward call — typically at your door within 2 hours from when you call. Parking near Via Verde and the canyon streets is easy. Reach us at (323) 870-4790 or book online; evening slots are available for 91773 most weekdays."
+  - q: "Do you repair Bosch, KitchenAid, and Thermador double ovens?"
+    a: "Those three are the most common calls we get in San Dimas. KitchenAid double wall ovens are the highest volume by far. LG and Samsung units come up regularly too, plus older GE and Maytag appliances still running in the pre-2000 ranch homes near downtown. Thermador work requires some specialized tooling for hinge and door glass jobs — we carry it. Sub-Zero double-oven configurations are less common in this zip but we handle those as well."
+  - q: "What does double oven repair cost, and is there a diagnostic fee?"
+    a: "Diagnostic is $65, credited toward any repair. Most jobs — heating element swap, RTD temperature sensor replacement, control board — run $150-$350 total. Same-day and evening slots available in San Dimas. Call (323) 870-4790 if you're heading into a holiday weekend with one cavity down and we'll move you up the schedule."
+  - q: "The self-clean cycle tripped my circuit breaker — is that the oven or the wiring?"
+    a: "Self-clean pulls maximum amperage for two to three hours straight, so a marginal breaker will trip before anything else does. If the breaker is the only issue, that's an electrician's job, not ours. But if the oven was also throwing F7 or F9 error codes beforehand, or the control board was behaving erratically, the appliance itself may be what's pushing the circuit over. We diagnose the oven side and give you a clear answer on what needs fixing. If the circuit is the problem, we'll tell you exactly what to tell your electrician."

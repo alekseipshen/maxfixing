@@ -1,0 +1,37 @@
+title: "San Dimas Cooktop — Ranch Home Gas & Induction Repair"
+
+intro: |
+  Ranch-style homes along Lone Hill Avenue and the streets backing up to Bonelli Regional Park account for a solid chunk of our cooktop calls in 91773 — mostly KitchenAid gas models where one burner stops igniting, or an induction unit throwing a fault code after a heavy pan drop. Hard water is almost always a factor in the gas failures. Mineral scale builds inside the burner orifice until gas flow chokes to nothing, and the homeowner assumes the spark igniter is dead.
+
+  Usually the igniter is completely fine.
+
+localContext: |
+  San Dimas housing runs the full spectrum. The west side toward Covina is older — 1960s and 70s ranch homes with original gas connections, standard 30-inch cooktop cutouts, and kitchens that have been remodeled at least once since. Newer subdivisions along the Puente Hills boundary in the north end of 91773 tend to run higher-end installs: Bosch induction or Thermador gas cooktops set into stone countertops with professional ventilation hoods.
+
+  Properties closer to downtown and along Bonita Avenue still have older GE and Maytag gas cooktops that haven't seen a tech in years. Corroded igniter wire harnesses and cracked spark electrode tips are common on those units — nothing exotic, just deferred maintenance catching up.
+
+  Accessing a cooktop in a 1970s San Dimas ranch that's been tile-topped adds time to any job. Cutout dimensions from that era don't always align with current 30-inch specs, and the tile work makes shimming complicated. Enough calls on the north side of Bonita that we bring extra hardware on every San Dimas visit.
+
+commonProblems:
+  - title: "Igniter Clicks but Won't Light — Orifice Scale, Not Igniter Failure"
+    description: |
+      The spark igniter module on a KitchenAid gas cooktop can click reliably for years — it's the burner orifice that fails quietly. San Dimas tap water is hard enough that mineral deposits accumulate inside the orifice over two or three years until the gas path is essentially blocked. Homeowners hear the click and order a replacement igniter.
+
+      Wrong part. Cleaning the orifice solves it in 20 minutes. A new igniter module doesn't fix a clogged orifice — it just costs $90 more.
+
+  - title: "Cracked Ceramic Glass on Induction Cooktops — Bosch and Samsung"
+    description: "Cast iron dropped on induction glass is the leading cause of ceramic surface cracks in newer San Dimas kitchens. A hairline crack expands fast under heat cycling, and once the glass is compromised, the induction coil underneath runs asymmetrically. The control board detects the irregular current draw, throws an E1 or E4 fault code, and shuts the unit down. Bosch and Samsung glass panels are OEM-specific — aftermarket substitutes don't calibrate properly to the coil array and usually repeat the same fault codes within weeks."
+
+  - title: "Uneven Burner Output — Gas Valve Stuck on Thermador Dual-Fuel"
+    description: |
+      Thermador dual-fuel cooktops in the foothill-area homes show up regularly with one burner running weak while the others hold full output. The culprit is almost always a gas valve that's lost its full range of motion — stuck at partial open. The dual-ring burner makes it obvious: inner ring fires normally, outer ring barely holds a blue flame.
+
+      That valve has to come out and get replaced with a factory part. Not adjustable, not a cleaning issue. On Thermador 36-inch models, the gas valve sits under the burner deck and requires pulling the entire cooktop from the counter for access — budget 90 minutes minimum for that job.
+
+faq:
+  - q: "How fast can you get to San Dimas for a cooktop repair?"
+    a: "Routes through the San Gabriel Valley run daily — off the 10 or the 210, San Dimas is typically 25-30 minutes. Call (323) 870-4790 and we'll usually get a same-day slot, sometimes within 2 hours of the call. Evening appointments are available most weekdays if the morning window is already full."
+  - q: "Do you repair Bosch and KitchenAid cooktops in San Dimas?"
+    a: "Yes — Bosch induction, KitchenAid gas, and Thermador dual-fuel are the three we see most in 91773. Samsung ceramic-top models too. Standard work includes igniter module swaps, gas valve replacement, ceramic glass panel replacement, and control board diagnostics. Most of those parts ride on the van."
+  - q: "What does a cooktop repair usually cost, and how long does it take?"
+    a: "Most jobs land between $150 and $350. An igniter module swap or orifice cleaning sits at the low end; ceramic glass replacement or gas valve work runs higher. Diagnostic fee applies toward the repair total. Same-day fix is common when parts are already on the van — call (323) 870-4790 to check morning availability."

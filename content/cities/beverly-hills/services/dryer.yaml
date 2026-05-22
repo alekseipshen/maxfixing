@@ -1,0 +1,39 @@
+title: "Beverly Hills Dryer Repair — Same-Day, Built-Ins Included"
+
+intro: |
+  The laundry rooms tucked into Beverly Hills flats — south of Santa Monica Boulevard, around the 90210 zip — tend to run Bosch condensation dryers and LG units on heavy rotation. Until something breaks mid-cycle. Summer heat is part of the problem: ambient temps in utility closets off Benedict Canyon push these machines harder than they're rated for. Thermal fuses and drum rollers start failing at 7-9 years on units that cycle daily.
+
+  Condos near Wilshire Corridor are a different situation entirely. Stackable units crammed into converted closets, sometimes vented through flex duct that's never been touched. Gas dryers are common in the older ranch-style homes east of Doheny. Electric units dominate the newer builds and high-rises. Either way, the repair is specific to what's actually in the space — and the access constraints that come with it.
+
+localContext: |
+  Residential streets in the 90211 zip mix 1950s ranch-style homes, 1960s post-war builds, and recent infill — each with different laundry access. Older houses got laundry closets retrofitted into hallways, meaning tight clearance for stacked Samsung or KitchenAid units. Estate properties north of Sunset generally have dedicated laundry rooms, and the dryers in those spaces lean premium — Bosch heat-pump units or high-capacity LG pairs that need brand-specific error code diagnosis.
+
+  Parking is its own variable. Service calls on narrow residential streets north of Sunset require a different plan than condo buildings near Beverly Hills Hotel — underground garage access, elevator sizing, unit location all factor into how fast we reach the machine. We account for this when scheduling, not after we arrive.
+
+  The 90212 corridor near Pico Boulevard skews toward multi-unit buildings with shared laundry or stacked in-unit setups. Different problems there: shared exhaust stacks, over-cycled machines, vibration issues from adjacent units. And older Maytag and Kenmore gas dryers that haven't seen a service call in fifteen years.
+
+commonProblems:
+  - title: "Thermal Fuse Failures After Summer Heat Cycles"
+    description: "Beverly Hills utility closets and garages regularly hit 90°F between June and September, forcing dryers to dissipate heat in already-hot spaces. The thermal fuse cuts power when internal temps spike past safe limits. On an LG gas dryer, the result is a drum that spins normally but produces zero heat — no error code, just cold air. Some LG units do throw a D80 or D90 restricted-airflow alert alongside the heat loss, which tells you the exhaust run needs clearing before the fuse replacement even matters. The fuse itself is inexpensive. Diagnosing what caused it to blow is where the actual work is."
+
+  - title: "Rhythmic Thumping From Worn Drum Rollers"
+    description: "That 3-4 second thump repeating every rotation usually means worn drum rollers — the small plastic wheels that hold the drum off the cabinet floor. Bosch and KitchenAid dryers in the 90210 area that are 8-10 years old develop flat spots from daily loads. Left unaddressed, the drum starts dragging against the cabinet wall and bearing surfaces deteriorate fast. The belt tensioner spring typically degrades around the same time. Replacing rollers without inspecting the tensioner is a shortcut that leads to a callback in six months."
+
+  - title: "Slow Drying From Lint-Blocked Exhaust Runs"
+    description: "Older Beverly Hills homes often have dryer exhaust routed 15-20 feet through interior walls — well beyond the recommended 8-foot straight run. Lint accumulates faster than most owners realize. The blower wheel fights against back-pressure, moisture can't exit, and cycle times balloon. A Samsung unit that dried a full load in 45 minutes will stretch to 90+ once the duct restriction hits 30-40%. At that point the heating element is also running hotter than spec, which shortens its life considerably."
+
+  - title: "Bosch Heat-Pump Units: Clogged Heat Exchanger"
+    description: "Bosch 500 and 800 series heat-pump dryers don't vent outside — they recirculate air through a heat exchanger that pulls moisture out like a dehumidifier. These units are increasingly common in Beverly Hills homes, especially in high-rise buildings where exterior venting isn't an option. The heat exchanger needs cleaning every 6-12 months in dusty environments. Skip it and the unit throws a warning light, extends cycle times to 3+ hours, and eventually faults out. Most homeowners don't know the condenser coils need attention because it's not in the quick-start guide. We carry the cleaning tools and check the condensate pump on every Bosch heat-pump call."
+
+faq:
+  - q: "How fast can you get to Beverly Hills for dryer repair?"
+    a: "Most 90210 and 90211 calls get same-day service. Routing through West Hollywood or Century City, we're typically on-site within 2 hours of booking. Call (323) 870-4790 before noon to lock in a same-day window — evening slots available for occupied households."
+
+  - q: "Do you repair Bosch and LG dryers in Beverly Hills?"
+    a: "Both are common here. Bosch condensation units typically show heat exchanger clogs and control board faults. LG develops drum bearing wear and moisture sensor failures around year 6-8. KitchenAid stackables come up frequently too — parts for all three stocked on the van."
+
+  - q: "Do you handle gas dryers?"
+    a: "Yes. Ranch homes in the 90210 and 90211 zips frequently run gas dryers — GE, Maytag, and older Kenmore models are common in those neighborhoods. Gas valve igniter failures are the most frequent call: drum spins, burner doesn't light, no heat. We carry igniters and gas valve coil kits for most major brands. Schedule at (323) 870-4790 and mention gas if you want to confirm parts availability before we head out."
+
+  - q: "What does dryer repair typically cost in Beverly Hills?"
+    a: "Diagnostic fee is $75-90 and applies toward the repair. Most jobs — heating element replacement, drive belt swap, drum rollers — land between $150-280 all in. Common parts are on the van, so same-day completion is standard. Call (323) 870-4790 or schedule online to book."

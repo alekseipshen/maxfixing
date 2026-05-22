@@ -1,0 +1,93 @@
+title: "Dana Point Washer — Harbor-Town Loads, Repaired Same Day"
+
+intro: |
+  Surfboards get rinsed, wetsuits get wrung out, and beach towels pile up fast
+  in 92629. That volume of laundry puts serious mileage on drain pumps —
+  especially on the Bosch 500-series front-loaders common in newer Dana Point
+  condos near the harbor. Lantern Village still has plenty of early-70s homes
+  with stacked or closet washers that make accessing the drum bearing a real
+  project. Salt air doesn't help either — coastal humidity accelerates corrosion
+  on control boards and electrical connectors faster than it would inland in
+  Anaheim or Irvine.
+
+localContext: |
+  Capistrano Beach homes along Palisades Drive (92624) often have laundry in
+  detached garages or converted spaces — not always straightforward for a
+  repair call. Condo stock around Dana Point Harbor runs mostly front-loaders,
+  while older ranch-style homes inland toward Del Obispo Street tend to have
+  top-loaders a decade or more old. Orange County tap water averages 300–400 ppm
+  hardness, which accelerates scale buildup inside water inlet valves and tub
+  seals faster than most owners realize.
+
+  Street parking near the Strand Beach and Baby Beach areas is tight, but we
+  plan routes accordingly. Townhomes along Golden Lantern Boulevard typically
+  have stacked LG or Samsung units in upstairs hallway closets — tight clearance,
+  but workable with the right tools. A lot of the newer construction around the
+  Monarch Beach corridor includes KitchenAid pairs in dedicated laundry rooms,
+  which gives better access but still needs brand-specific control board knowledge
+  when the machine throws a fault code.
+
+commonProblems:
+  - title: "Drain Pump Failures From Heavy Coastal Laundry Loads"
+    description: >
+      Frequent beach loads — wetsuits, sandy gear, damp towels — push debris
+      into the drain pump filter faster than average household use. LG
+      front-loaders throw OE error codes when the pump clogs; left too long,
+      the motor burns out entirely. Clearing the pump housing and testing
+      impeller spin usually resolves it, but a seized pump needs a full swap.
+      On Bosch units, the drain pump sits lower in the cabinet and accumulates
+      fine sand particulate that bypasses the lint trap entirely. A clogged
+      impeller on a Bosch 500 series won't always throw an error right away —
+      the first sign is a spin cycle that takes twice as long before the
+      machine drains.
+  - title: "Water Inlet Valve Scale From Orange County Hard Water"
+    description: >
+      At 350+ ppm, mineral deposits build up inside the water inlet valve over
+      two to three years — the machine fills slowly or stops altogether. Samsung
+      washers are particularly sensitive; the F8E1 error code points directly at
+      fill-rate issues. Replacing the valve usually solves it, though descaling
+      the inlet assembly first saves another callout six months later. KitchenAid
+      top-loaders in Dana Point homes show the same pattern — restricted flow
+      through the dual-solenoid inlet manifold causes long fill times that
+      homeowners often misread as a pressure problem. It's the valve, not the
+      house plumbing.
+  - title: "Drum Bearing Wear in Older Lantern Village Machines"
+    description: >
+      The 1970s and early-80s homes around Lantern Village haven't always had
+      the original washer replaced — some Maytag and Kenmore top-loaders are
+      still on factory drum bearings. Grinding or roaring on the spin cycle is
+      the tell. Once the bearing seal fails, water intrudes and destroys the
+      shaft. Catching it at the noise stage saves a full tub replacement.
+      On the older Kenmore 70-series machines still scattered around this
+      neighborhood, the bearing kit is still available — not everything from
+      that era needs to be retired. If the spin basket wobbles noticeably
+      before the grinding starts, the shaft is already compromised and the
+      window for a bearing-only fix has closed.
+
+faq:
+  - q: "How fast can you get to Dana Point for washer repair?"
+    a: >
+      Running down the 5 South, Dana Point is typically 20–30 minutes from our
+      main service corridor. Same-day slots are usually open — call
+      (323) 870-4790 and we'll confirm a window. Harbor-area condo parking adds
+      a few minutes, but we account for that. For urgent situations — machine
+      sitting full of water, standing water on the floor — call early morning
+      and we prioritize those. Evening slots are available most weekdays.
+  - q: "Do you repair Bosch and LG washers in Dana Point?"
+    a: >
+      Yes. Bosch front-loaders are everywhere in the newer builds near the
+      harbor, and LG units show up constantly in 92629 condos and townhomes. We
+      also handle KitchenAid and Samsung. Most common fixes on all four:
+      door latch assemblies, drain pumps, and control board resets. The Bosch
+      E18 drain error and LG OE code are probably the two calls we get most
+      from this zip. Both are usually same-day resolves if the pump hasn't
+      seized completely.
+  - q: "What does washer repair cost, and how long does the job take?"
+    a: >
+      Diagnostic visit is a flat fee, credited toward the repair if you proceed.
+      Most jobs — pump replacement, inlet valve swap, drum bearing — wrap up
+      same day. We stock the common components for Bosch, LG, Samsung, and
+      KitchenAid, so waiting on a part is rare for anything in Dana Point.
+      Evening slots are available for urgent situations. Call (323) 870-4790
+      to book, and tell us the brand and error code if you have one — it helps
+      us bring the right parts on the first visit.

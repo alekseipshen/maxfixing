@@ -1,0 +1,74 @@
+title: "San Dimas Ice Maker Repair — Hard Water Stops Ice Cold"
+
+intro: |
+  The San Gabriel Valley Water Company routes through most of 91773 at consistently
+  above 300 ppm dissolved minerals — some of the hardest tap water in the metro.
+  That calcium load coats the water inlet valve and fill tube on KitchenAid french-door
+  refrigerators within 18–24 months. Homeowners off Bonita Avenue call us confused
+  why their unit "just stopped" with no error code — nine times out of ten,
+  it's a calcified fill valve that needs replacing, not the whole refrigerator.
+  San Dimas sits at the base of the San Gabriel foothills, and the water chemistry
+  reflects that geology. More mineral-related failures per service call here in 91773
+  than almost anywhere else we cover — that's not a guess, that's what the call
+  logs show across two-plus years of SGV routes.
+
+localContext: |
+  Most of San Dimas (91773) is 1970s–1980s ranch homes and split-levels, with some
+  larger two-story builds backing up against Marshall Canyon. The bigger properties
+  near San Dimas Canyon Road tend to have Sub-Zero or Thermador built-ins — those
+  assemblies are proprietary and need model-specific tools most shops don't carry.
+  The older ranch homes have narrower utility corridors, which makes rear-access
+  repairs on the module trickier but still manageable with the right kit.
+  Charter Oak-area homes from that same era often have the original refrigerator
+  alcove dimensions — tight even for a compact Samsung or LG unit.
+  San Dimas Canyon Road properties with full built-ins are a different job entirely
+  from a standard freestanding repair, and we come prepared for both.
+
+commonProblems:
+  - title: "Calcified Fill Valve — No Ice, No Warning"
+    description: "San Dimas hard water deposits calcium straight into the water inlet valve
+      over 12–18 months. The valve restricts flow until production stops completely — no
+      error code, no warning light, nothing. Samsung french-door models are particularly
+      vulnerable because the valve opening is narrow by design. Once mineral scale blocks
+      it past a certain threshold, the unit reads zero water pressure and shuts off
+      entirely. Replacing the inlet valve usually restores full output the same day.
+      For KitchenAid models, we also check the fill tube for secondary calcium buildup
+      before closing the job — skipping that step means a callback within six months,
+      and that wastes everyone's time."
+  - title: "Frozen Fill Tube — Small Cubes or Nothing at All"
+    description: "The fill tube channels water into the mold and runs through a cold zone
+      in the freezer wall. LG units are notorious for this — the defrost cycle doesn't
+      always reach that location on those models. Small, hollow cubes are the first sign.
+      A thermal fuse check and fill tube thaw diagnoses it in under 30 minutes."
+  - title: "Sensor Malfunction After Power Fluctuations"
+    description: "Bosch and KitchenAid modules use optical sensors to detect when the bin
+      is full. Power surges — common during peak summer grid demand across the SGV — can
+      scramble the sensor calibration so it reads the bin as always full. The freezer
+      keeps running fine but ice production flatlines without any obvious cause.
+      The fix is usually a sensor recalibration or control board reset, not a full
+      assembly replacement. San Dimas sees this pattern spike in late July and August
+      when Foothill Boulevard-area transformers get stressed. A Bosch control board
+      reset takes about 20 minutes on-site. Diagnosing before ordering parts saves
+      the homeowner $150–$200 in most cases — worth the extra 15 minutes every time."
+
+faq:
+  - q: "How fast can you get to San Dimas for ice maker repair?"
+    a: "Daily routes through the San Gabriel Valley put San Dimas 25–40 minutes out.
+      Same-day slots are open most weekdays — call (323) 870-4790 before noon and a
+      technician can usually be there that afternoon. Most common inlet valves and
+      thermal fuses are already on the van, so one trip typically handles it.
+      Parking on 91773 residential streets is easy. Evening slots available
+      if your schedule runs late."
+  - q: "Do you work on KitchenAid and Sub-Zero units in San Dimas?"
+    a: "Yes — KitchenAid and Sub-Zero are among the most common brands we see here.
+      KitchenAid work is usually inlet valves and ice maker modules. Sub-Zero built-ins
+      need brand-specific tooling for the assembly, which we carry on the van.
+      Bosch, LG, and Samsung are regulars too. For Thermador units from the larger
+      homes near San Dimas Canyon Road, parts typically arrive within a day
+      if not already stocked."
+  - q: "What does ice maker repair typically cost in San Dimas, and is it worth fixing?"
+    a: "Most repairs here run $120–$280 depending on the part — inlet valve
+      replacements sit at the lower end, control boards higher. Sub-Zero and
+      Thermador parts cost more, but those refrigerators are worth repairing.
+      Diagnosis happens on-site and you get a firm quote before anything gets touched.
+      Evening appointments available if daytime doesn't work."

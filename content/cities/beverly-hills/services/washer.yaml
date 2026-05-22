@@ -1,0 +1,25 @@
+title: "Beverly Hills Washer Repair — Hard Water Fixes for 90210 Homes"
+
+intro: |
+  Hard water running at 350 ppm calcium carbonate does a number on washers in the flats south of Wilshire. A Bosch 500-series front-loader on Carmelita Ave shouldn't be throwing an E21 drain error after just three years — but mineral scale inside the drain pump housing makes it happen. We fix washers across Beverly Hills, and most of what we see traces back to the water, the plumbing age, or both. Call (323) 870-4790 and we're usually at your door within 90 minutes.
+
+localContext: |
+  The 90211 and 90212 flats are mostly 1950s–60s tract homes with original copper supply lines feeding into compact laundry closets. Tight spaces, old shutoff valves, and decades of mineral buildup create problems you won't find in newer construction. Up in the canyon estates above Sunset — 90210 territory — the houses are bigger but the water pressure swings are worse. Long runs of pipe from the street mean inconsistent fill cycles, especially on Samsung and LG units that expect steady flow.
+
+  Beverly Hills also has a surprising mix of appliance generations. A KitchenAid top-loader from 2008 sitting next to a brand-new LG WashTower in the same building type is common. Older machines lack the sensor redundancy to flag scale buildup early — you find out when the spin basket locks up or the shock absorbers bottom out on a heavy load.
+
+commonProblems:
+  - title: "Mineral Scale Choking the Water Inlet Valve"
+    description: "Beverly Hills municipal water sits around 300–380 ppm calcium carbonate. That calcium coats the mesh screen inside the water inlet valve until flow drops to a trickle. Your LG front-loader starts flashing an IE error — not because the valve failed, but because it's clogged solid. We pull the valve, clean or replace it, and check the fill hose screen while we're there. Takes about 30 minutes. Same mineral buildup also hits the detergent dispenser drawer, jamming the solenoid that routes water to the pre-wash compartment — easy to overlook until the drawer cracks from the pressure."
+  - title: "Drum Bearings Failing Early in Canyon Homes"
+    description: "Homes along Benedict Canyon and Coldwater Canyon deal with micro-vibrations from hillside settling. That constant shifting accelerates drum bearing wear, especially on top-load units where the spin basket sits higher. You'll hear a grinding rumble during the spin cycle. KitchenAid and Bosch models use sealed bearing assemblies — once they go, the whole rear tub seal needs replacing before water leaks into the motor. On Bosch 300-series machines specifically, the bearing sits tight against the drum spider arm. If the spider cracks first, the bearing follows within a few months. Catching it early saves the motor."
+  - title: "Control Board Corrosion from Laundry Room Humidity"
+    description: "Those 1960s flats near Beverly Gardens Park often have the washer crammed into a hallway closet with zero ventilation. Moisture collects on the control board and corrodes solder joints over a couple of years. Samsung front-loaders throw random error codes — Nd one day, LE the next. The board itself isn't dead. We resolder the corroded pins or swap the board if the damage spread too far. Adding a small exhaust vent or even a door louver to the closet usually stops the problem from recurring — we'll flag it on-site if the setup looks prone to moisture trapping."
+
+faq:
+  - q: "How fast can you get to Beverly Hills for washer repair?"
+    a: "Dispatching from central LA, Beverly Hills is a short run west on Santa Monica Blvd. Most calls, we're there within 90 minutes. Evening slots available until 8 PM if your schedule's packed. Street parking in the flats is usually fine — canyon driveways too. Call (323) 870-4790 and we'll lock in a window."
+  - q: "Do you work on Bosch and LG washers specifically?"
+    a: "Bosch, LG, and Samsung make up about 70% of our Beverly Hills calls. Bosch 300 and 500 series have specific drain pump issues we keep parts stocked for. LG direct-drive motors rarely fail, but their hall sensors and rotor position sensors do. We carry those on the truck. For KitchenAid top-loaders — still very common in the 90211 zip — we stock drive belts, lid switch assemblies, and water inlet valves as standard inventory."
+  - q: "What does a typical washer repair cost in Beverly Hills?"
+    a: "Diagnostic is $89, applied toward the repair if you move forward. Most jobs — inlet valves, drain pumps, lid switches, drive belts — land between $180 and $350 parts included. Control board replacements run higher, $280 to $450 depending on the model. Same-day service, no extra charge. Call (323) 870-4790 for a quick estimate."
