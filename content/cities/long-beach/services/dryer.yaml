@@ -1,0 +1,56 @@
+title: "Long Beach Dryer Repair — Old Venting, Marine Layer, Tight Garages"
+
+intro: |
+  Long Beach dryer failures cluster around three structural facts: most homes built before 1970 have
+  original venting that's been patched but never replaced, marine layer humidity from May through
+  September keeps lint sticky and harder to clear, and tight Belmont Shore bungalow garages don't
+  give a dryer the airflow it needs to run at rated capacity. A Whirlpool electric dryer in a Wrigley
+  90806 garage routinely runs 90-minute cycles for what should be 50 minutes — the moisture sensor
+  reads damp because the airflow can't carry the steam out the vent. That extra runtime cooks the
+  heating element and thermal fuse in under three years.
+
+localContext: |
+  North Long Beach (90805) and Wrigley (90806) housing stock dates mostly from the 1920s-40s, with
+  service-porch dryer installs venting through original wood-frame walls. Those vents are often 25
+  feet long with multiple elbows — well past the 25-foot manufacturer max with deductions. East
+  Long Beach 90808 1950s-60s tracts have shorter runs but original cardboard-insert ductwork that
+  delaminated decades ago. Downtown 90802 high-rise condos use shared building risers — when a riser
+  clogs, multiple units lose dryer performance simultaneously. Naples Island 90803 homes use stacked
+  Bosch and Miele compact units in laundry closets where venting clearances are intentionally tight.
+
+commonProblems:
+  - title: "Heating Element Burnout From Restricted Venting in 90805 and 90806"
+    description: "Wrigley and North Long Beach service-porch installs accumulate lint inside the
+      original wall cavity venting because the runs are long and the elbows trap fiber. The dryer
+      cycles longer, the heating element coil glows brighter than design spec, and eventually a coil
+      loop burns through. Whirlpool, Maytag, and GE electric dryers are the common calls. We clear
+      the vent fully before installing a new element — otherwise the new one fails the same way."
+  - title: "Moisture Sensor Failure on Bosch and Miele Compact Stacks in 90803"
+    description: "Belmont Shore and Naples Island laundry closets run Bosch 500/800 series compact
+      stacks or Miele T-series condenser dryers. The two metal moisture sensor bars inside the drum
+      pick up coastal salt and lint film, and the control board reads dampness even on dry loads.
+      Clothes come out over-dried and brittle, or the cycle ends with clothes still damp. Cleaning
+      the bars with isopropyl alcohol is the first fix; sensor replacement only if calibration fails."
+  - title: "Thermal Fuse Tripping on Older Gas Dryers in 90808 and 90804"
+    description: "Los Altos and Belmont Heights gas dryers from the 1990s-2000s — typically Kenmore,
+      Whirlpool, or Frigidaire — trip the thermal fuse when the high-limit thermostat goes out of
+      spec or when the lint screen housing accumulates debris. The dryer runs but never heats. We
+      check the fuse, thermostat, and gas valve coils together because replacing the fuse alone
+      means a repeat call within weeks if the upstream component is the real fault."
+
+faq:
+  - q: "How fast can you get to Long Beach for a dryer repair?"
+    a: "Most Long Beach dryer calls schedule same-day or next-morning. We run the 405 and 710
+      corridors daily, so 90805, 90806, 90807, and 90808 are typically under 75 minutes from
+      dispatch. Call (323) 870-4790 to confirm. Vent cleaning bundled with repair available on
+      request."
+  - q: "Do you repair Bosch and Miele compact dryers specifically?"
+    a: "Yes. Bosch 500/800 compact stacks are common in Downtown 90802 condos and Belmont Shore
+      bungalows. Miele T-series we service in Naples Island and Bluff Park premium installs. We
+      carry moisture sensor assemblies, heating elements, and door latch switches for both. Standard
+      brands — Whirlpool, Samsung, LG, GE, Maytag, Kenmore, Frigidaire — stocked on the truck."
+  - q: "What does dryer repair typically cost and how does the process work?"
+    a: "Heating element replacement runs $160-$280 parts and labor on standard models. Thermal fuse
+      and high-limit thermostat jobs $140-$220. Bosch and Miele control board work runs higher.
+      Diagnosis is flat-rate and applies toward the repair. Call (323) 870-4790 to book — same-day
+      slots most weekdays."

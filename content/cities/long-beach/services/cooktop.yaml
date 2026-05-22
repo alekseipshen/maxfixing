@@ -1,0 +1,60 @@
+title: "Long Beach Cooktop Repair — Vintage Gas, Salt Air, Induction Faults"
+
+intro: |
+  Long Beach has a unique cooktop mix: California Heights and Bixby Knolls (90807) homeowners
+  routinely restore 1940s Wedgewood and O'Keefe & Merritt gas ranges with cooktop sections still
+  doing daily duty, while Downtown 90802 condos run brand-new Bosch induction and Thermador
+  smooth-tops. Both populations call us for completely different problems. The vintage units fail
+  on thermocouples and orifice corrosion; the induction units fail on coil driver boards and cracked
+  ceramic glass. Salt air pushes both failure modes faster than inland LA.
+
+  On the modern side, ignition systems in any gas cooktop within a mile of Ocean Boulevard pick up
+  coastal humidity in the spark electrode wells. The ceramic insulator cracks, the burner clicks
+  endlessly without lighting, and the homeowner thinks it's a gas problem when it's really moisture.
+
+localContext: |
+  California Heights and Bixby Knolls (90807) are a designated historic district — original
+  mid-century gas ranges with vintage cooktops are common, and parts have to be sourced from
+  specialty suppliers in the Bay Area or rebuilt. Naples Island (90803) waterfront homes lean toward
+  Wolf rangetops and Viking sealed-burner units installed during 2010s renovations. Downtown 90802
+  high-rise units are almost exclusively induction now — Thermador, Bosch, GE Profile — because gas
+  hookups in tower kitchens are restricted by building code. Belmont Shore (90803) 2nd Street area
+  bungalows are mixed: original 1930s wall-mounted ranges in some, modern KitchenAid drop-ins in
+  others.
+
+commonProblems:
+  - title: "Vintage Wedgewood and O'Keefe & Merritt Burner Orifice Corrosion in 90807"
+    description: "Restored 1940s gas cooktops in California Heights and Bixby Knolls develop brass
+      orifice corrosion at the burner head — the cast brass darkens, the gas opening narrows, and
+      the flame goes lazy yellow on one side. Cleaning needs careful disassembly because the burner
+      grate threading is often original and stripped. We carry replacement orifices machined to
+      original spec, but we'll always rebuild before replacing on a numbered historic unit."
+  - title: "Coastal Salt Aerosol Killing Spark Electrodes Near 90803 and 90814"
+    description: "Naples Island and Bluff Park gas cooktops sit close enough to the water that the
+      ceramic spark electrode insulator picks up salt deposits. Once a conductive film forms across
+      the gap, the spark shorts to the burner cap instead of jumping properly. The result is clicking
+      that won't stop or won't light at all — common on Wolf, Viking, and Bosch sealed-burner units.
+      Dry-out and electrode replacement handles it; the igniter module rarely needs replacing too."
+  - title: "Cracked Ceramic Glass on Induction Cooktops in Downtown High-Rises"
+    description: "Thermal shock from a cold pan dropped on a hot zone is the most common induction
+      glass failure in Aqua and West Ocean tower kitchens (90802). On Thermador and Bosch induction
+      units, a crack that crosses an active coil zone can arc into the coil driver board underneath
+      — what should be a $400-$500 glass swap turns into a $800+ board-and-glass job if left running.
+      We diagnose with the cover off and quote both scenarios before ordering parts."
+
+faq:
+  - q: "How fast can you get to Long Beach for a cooktop repair?"
+    a: "Most Long Beach calls schedule within 24 hours; 90802, 90803, and 90807 are usually same-day
+      if you call before noon. Gas smell or no-flame situations get priority same-day. Call (323)
+      870-4790 — evening slots available for working households."
+  - q: "Do you repair vintage Wedgewood and O'Keefe & Merritt cooktops?"
+    a: "Yes — and we treat them differently. Vintage gas work in California Heights and Bixby Knolls
+      requires rebuild-first, replace-last. We source NOS orifices, thermocouple parts, and burner
+      caps through specialty suppliers. Modern brands we service constantly: Wolf, Viking, Thermador,
+      Bosch, KitchenAid, Samsung, LG. Induction is its own diagnostic process and we have the gear
+      for it."
+  - q: "What does a cooktop repair typically cost and how does it work?"
+    a: "Diagnosis is flat-rate and applies toward the repair. Spark electrode and burner port jobs
+      run $150-$290 parts and labor. Induction glass replacement on Thermador or Bosch runs
+      $400-$650 depending on availability. Vintage gas restoration work is quoted per unit. No
+      repair starts without a confirmed quote. Call (323) 870-4790."

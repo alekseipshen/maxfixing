@@ -1,0 +1,57 @@
+title: "Long Beach Range Hood Repair — Coastal Grease, Old Venting, Modern Blowers"
+
+intro: |
+  Range hoods over coastal Long Beach kitchens fail differently than inland ones. Marine humidity
+  keeps cooking grease tacky longer than dry inland air would, so grease accumulates on blower
+  wheels, baffle filters, and damper hinges faster — the hood gets louder, weaker, and eventually
+  stops moving air. Add the older venting in Belmont Shore (90803) and Wrigley (90806) bungalow
+  kitchens, where 1930s wall cavities were never designed to route a 600 CFM hood, and you get
+  airflow restriction problems that look like motor failures but are actually duct issues. Diagnosing
+  the right one matters because a new motor on a clogged duct fails inside a year.
+
+localContext: |
+  Range hood service runs across all Long Beach neighborhoods but the install styles vary widely.
+  Downtown 90802 high-rise condos use chimney-style and under-cabinet hoods venting into shared
+  building risers — when the riser is fouled, individual units can't get adequate exhaust no matter
+  how strong the blower. Naples Island 90803 waterfront homes commonly run Wolf Pro and Vent-A-Hood
+  pro-style canopy hoods over Wolf rangetops — premium parts, longer lead times. Bixby Knolls 90807
+  mid-century homes have varied retrofits: Broan, KitchenAid, Bosch hoods over the original cooktop
+  cutout. East Long Beach 90808 newer remodels lean toward Zephyr and Z-Line ducted island hoods.
+
+commonProblems:
+  - title: "Blower Wheel Imbalance From Coastal Grease Buildup"
+    description: "Grease accumulates unevenly on a centrifugal blower wheel — heavier on one side
+      than the other — and the wheel goes out of balance. The hood vibrates, the bearings wear, and
+      eventually the motor seizes or the wheel cracks free of the shaft. Broan, KitchenAid, and
+      Vent-A-Hood units in Belmont Shore and Naples Island are the most common calls. Cleaning the
+      wheel and rebalancing usually solves it; replacement only when the shaft is damaged."
+  - title: "Backdraft Damper Stuck Open or Closed in 90806 and 90805 Old-Vent Installs"
+    description: "Wrigley and North Long Beach kitchens often have original vent ducts running
+      through 1920s-40s wall cavities to roof or wall caps. The backdraft damper at the cap or
+      the in-line damper inside the hood gets grease-stuck — either won't open (no airflow) or
+      won't close (cold-air backdraft into kitchen). Cleaning and re-lubricating the damper hinge
+      or replacing the damper assembly is the fix. We always inspect the cap from outside before
+      quoting."
+  - title: "LED Light Strip and Touch Control Failure on Modern Zephyr and Z-Line Hoods"
+    description: "Newer ducted hoods from Zephyr, Z-Line, and Cosmo use LED light strips and
+      capacitive touch controls integrated into the canopy. Coastal humidity gets into the control
+      board housing through the bottom vent and corrodes the touch sensor traces. Symptoms are
+      lights flickering, fan speed changing without input, or controls becoming unresponsive. The
+      control board and light strip are usually replaced together — they share a connector and
+      the corrosion has typically reached both."
+
+faq:
+  - q: "How fast can you get to Long Beach for a range hood repair?"
+    a: "Most range hood calls in 90802, 90803, 90806, 90807, and 90808 schedule within 24-48 hours.
+      Hoods aren't usually emergency calls, but if you're getting backdraft of cold or hood-grease
+      smell into the kitchen, we prioritize. Call (323) 870-4790 to schedule."
+  - q: "Do you repair Wolf Pro and Vent-A-Hood pro-style hoods specifically?"
+    a: "Yes — those are the two pro-style brands we see most in Naples Island and Bluff Park
+      waterfront kitchens. We carry the most common blower motors and control modules. Standard
+      brands stocked on the truck: Broan, KitchenAid, Bosch, Samsung, Zephyr, Z-Line, Cosmo, GE
+      Profile, Whirlpool. Vent inspection and damper service is included in the repair quote when
+      relevant."
+  - q: "What does range hood repair typically cost and how does the process work?"
+    a: "Blower motor and damper jobs run $150-$320 parts and labor. Control board and LED strip
+      replacements on Zephyr or Z-Line $200-$400. Pro-style hood work on Wolf or Vent-A-Hood runs
+      higher and we quote before opening. Diagnosis is flat-rate. Call (323) 870-4790."

@@ -75,6 +75,7 @@ export const cities: City[] = [
   { slug: 'downey', name: 'Downey', county: 'south-bay' },
   { slug: 'compton', name: 'Compton', county: 'south-bay' },
   { slug: 'lakewood', name: 'Lakewood', county: 'south-bay' },
+  { slug: 'long-beach', name: 'Long Beach', county: 'south-bay' },
 
   // Orange County
   { slug: 'anaheim', name: 'Anaheim', county: 'orange-county' },

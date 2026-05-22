@@ -1,0 +1,57 @@
+title: "Long Beach Oven Repair — Heritage Homes, Modern Built-Ins, Real Diagnostics"
+
+intro: |
+  Single wall ovens fail in Long Beach for very different reasons than freestanding ranges, and the
+  diagnostic flow is different. In a Bixby Knolls (90807) historic-district home with a KitchenAid
+  Architect II built-in, an oven that won't reach temp is usually a failing bake element or a
+  defective relay on the control board — not the thermostat sensor. In a Naples Island (90803)
+  remodel with a Wolf E-series wall oven, the same symptom usually traces back to the meat probe
+  port circuit board because Wolf integrates everything tightly. Salt-air corrosion on door hinge
+  springs and gasket clips is a Long Beach-specific issue regardless of brand.
+
+localContext: |
+  Single wall ovens are common across all Long Beach housing, but the brand mix shifts by zip.
+  Downtown 90802 high-rise condos run Bosch 800 series and Thermador Masterpiece wall ovens — newer
+  installs, mostly under 7 years old. Bixby Knolls 90807 and California Heights 90807 historic-zone
+  homes have KitchenAid Architect II, GE Profile, and Café wall ovens retrofitted into mid-century
+  cabinet openings. Belmont Shore 90803 and Belmont Heights 90804 bungalows often have
+  under-counter wall ovens accessed by pulling the entire unit forward — a different service flow.
+  East Long Beach 90808 and Los Altos tract homes mostly use freestanding ranges, but newer
+  remodels are switching to wall oven + cooktop combos.
+
+commonProblems:
+  - title: "Bake Element Burnout With Visible Hot Spot or Break"
+    description: "When a wall oven heats unevenly or barely heats at all but the broil element still
+      works, the bake element coil is broken — usually visible as a spot blackened or arced through.
+      KitchenAid Architect II and GE Profile wall ovens are the most common calls. Replacement is
+      under an hour with the unit pulled forward and the back panel off. Testing with a multimeter
+      confirms continuity loss before we order the part."
+  - title: "Wolf and Thermador Control Board Failure From Cabinet Heat Buildup"
+    description: "Naples Island and Bluff Park (90814) renovations install Wolf E-series and
+      Thermador Masterpiece wall ovens into cabinets that don't always meet the manufacturer's rear
+      ventilation spec. Heat accumulates behind the control panel during long bake cycles and cooks
+      the touchpad ribbon connector or the main control board. Symptom is intermittent button
+      response, random shutdowns, or temperature drift. Board replacement plus a ventilation channel
+      cut is the permanent fix."
+  - title: "Door Gasket Failure and Salt-Air Hinge Corrosion in 90803 and 90814"
+    description: "Coastal humidity attacks the steel door hinge springs on Bosch and Samsung wall
+      ovens within four blocks of the waterfront. The springs lose tension, the door sags, the
+      gasket seal breaks, and heat leaks out the front during bake cycles. Cycle times stretch, the
+      element overworks, and eventually the high-limit thermostat trips. Replacing the hinge
+      springs and gasket together is the right call — doing one without the other means a repeat
+      visit in six months."
+
+faq:
+  - q: "How fast can you get to Long Beach for an oven repair?"
+    a: "Most addresses in 90802, 90803, 90804, 90807, 90808, and 90814 are 60-90 minutes from
+      dispatch. Same-day slots common for standard brands; Wolf and Thermador we sometimes split —
+      diagnose day one, return with parts day two. Call (323) 870-4790."
+  - q: "Do you repair Wolf and Thermador wall ovens specifically?"
+    a: "Yes. Wolf E-series is common in Naples Island and Bluff Park renovations — we carry the
+      most common control board variants, bake and broil elements, and door hinge sets. Thermador
+      Masterpiece in 90802 condos we service regularly. KitchenAid, GE Profile, Café, Bosch,
+      Samsung, LG, Whirlpool, Frigidaire all stocked on the truck."
+  - q: "What does an oven repair typically cost and how does the process work?"
+    a: "Bake element and thermostat jobs run $160-$300 parts and labor. Door hinge and gasket
+      replacement $180-$340. Wolf and Thermador control board work $400-$700. Diagnosis is
+      flat-rate and applies toward the repair. Call (323) 870-4790 to book."

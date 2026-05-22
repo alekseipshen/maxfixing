@@ -64,8 +64,9 @@ const CITY_NAME_TO_SLUG: Record<string, string> = {
   'Redondo Beach': 'redondo-beach',
   'Torrance': 'torrance',
 
+  'Long Beach': 'long-beach',
+
   // South-adjacent LA cities that Vercel commonly returns — map to nearest covered slug
-  'Long Beach': 'lakewood',
   'Norwalk': 'downey',
   'Cerritos': 'cypress',
   'Bellflower': 'lakewood',

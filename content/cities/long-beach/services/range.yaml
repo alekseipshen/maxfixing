@@ -1,0 +1,57 @@
+title: "Long Beach Range Repair — Freestanding, Slide-In, Vintage Gas"
+
+intro: |
+  Range repair in Long Beach covers everything from a 1948 Wedgewood double-oven gas range still in
+  daily service in California Heights (90807) to a brand-new Samsung slide-in electric in a Downtown
+  90802 condo conversion. The diagnostic flow is completely different. Vintage gas units fail on
+  thermocouples, pilot orifices, and oven safety valves — parts that haven't been manufactured in
+  decades and have to be sourced or rebuilt. Modern slide-ins fail on control boards, glass cooktop
+  cracks, and convection fan motors. Both populations get hit by Long Beach's hard water and salt
+  air, but the symptoms look totally different.
+
+localContext: |
+  California Heights and Bixby Knolls (90807) are home to a high concentration of restored vintage
+  gas ranges — Wedgewood, O'Keefe & Merritt, Chambers, Magic Chef from the 1930s-50s. East Long
+  Beach (90808) and Los Altos run mostly modern freestanding gas and electric ranges: Whirlpool,
+  Samsung, LG, GE Profile. Naples Island (90803) and Bluff Park (90814) waterfront homes often have
+  pro-style slide-in ranges from Wolf, Viking, and Thermador. Downtown 90802 condos lean toward
+  Bosch, Samsung, and Café slide-in electric ranges because gas hookups in tower units are
+  restricted. Wrigley (90806) and North Long Beach (90805) have a mix of 1990s-2000s freestanding
+  gas units, mostly Frigidaire and Whirlpool.
+
+commonProblems:
+  - title: "Oven Safety Valve and Thermocouple Failure on Vintage Gas Ranges in 90807"
+    description: "1940s-50s Wedgewood and O'Keefe & Merritt ranges in California Heights and Bixby
+      Knolls use a thermocouple to keep the oven safety valve open. The thermocouple ages and loses
+      output voltage — the safety valve closes mid-bake and the oven goes cold. We source
+      replacement thermocouples through specialty vintage-appliance suppliers and re-seat the
+      safety valve assembly. The cooktop side usually still works while the oven is down."
+  - title: "Glass Cooktop Crack on Modern Slide-In Electric Ranges in 90802 and 90808"
+    description: "Samsung, LG, and Café slide-in electric ranges use a ceramic glass cooktop surface
+      that cracks under thermal shock or impact. A cold cast iron pan dropped on a hot zone is the
+      most common cause; a heavy lid falling is the second. Running a cracked surface is a safety
+      issue — current can arc through the fracture. Glass replacement is brand-specific and runs
+      $300-$550 depending on availability. We quote before ordering."
+  - title: "Convection Fan and Igniter Failures on Pro-Style Wolf and Viking Ranges in 90803"
+    description: "Wolf DF (dual fuel) and Viking 7-Series ranges in Naples Island and Bluff Park
+      kitchens fail at two common points: the convection fan motor seizes from coastal humidity
+      reaching the bearing, and the gas oven igniter — a flat ceramic glow-bar style — cracks or
+      weakens until it can't reach safety-valve activation temperature. Both are diagnosable in one
+      visit. Igniter replacement is the more common job; fan motor is the more involved fix."
+
+faq:
+  - q: "How fast can you get to Long Beach for a range repair?"
+    a: "Same-day or next-day for most addresses in 90802, 90803, 90806, 90807, 90808, and 90814.
+      No-flame and no-heat situations are prioritized — call (323) 870-4790 and we'll dispatch
+      within the day where possible. Evening slots available for working households."
+  - q: "Do you repair vintage Wedgewood and O'Keefe & Merritt ranges?"
+    a: "Yes — and we approach them differently than modern brands. Rebuild first, replace last. We
+      source NOS thermocouples, safety valves, burner orifices, and oven control parts through
+      specialty suppliers. Modern brands we service constantly: Wolf, Viking, Thermador, Bosch,
+      Samsung, LG, KitchenAid, Whirlpool, GE Profile, Café, Frigidaire, Maytag. Each has its own
+      common failure modes — diagnosis is brand-specific."
+  - q: "What does a range repair typically cost and how does the process work?"
+    a: "Igniter and thermostat jobs run $150-$280 parts and labor. Glass cooktop replacement
+      $300-$550 brand-dependent. Convection motor on Wolf or Viking $350-$600. Vintage range work
+      is quoted per unit because parts sourcing varies. Diagnosis is flat-rate and applies toward
+      the repair. Call (323) 870-4790."

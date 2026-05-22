@@ -1,0 +1,54 @@
+title: "Long Beach Ice Maker Repair — Hard Water Scale and Valve Failures"
+
+intro: |
+  Ice maker failure is the single most common refrigerator-adjacent call we get out of Long Beach,
+  and the cause is almost always Long Beach Water Department's 280-330 ppm hard water. Mineral scale
+  builds up inside the dual solenoid water inlet valve, crusts the fill tube, and eventually blocks
+  the ice maker mold from filling at all. Samsung french-door units with dual ice makers — one in
+  the door, one under the refrigerator section — fail twice as often because there are two valve
+  circuits, two fill tubes, and two ice mold heaters all subject to the same water. Downtown 90802
+  high-rise units add water hammer to the equation, which tears the valve diaphragm outright.
+
+localContext: |
+  Ice maker calls run heaviest in Belmont Shore (90803), Belmont Heights (90804), Bluff Park (90814),
+  and Downtown (90802) — neighborhoods with newer or recently-renovated kitchens running French-door
+  refrigerators with through-door ice and water. East Long Beach (90808) and Los Altos calls are
+  usually older Whirlpool and KitchenAid side-by-sides with the classic top-mounted ice maker
+  module. Naples Island (90803) Sub-Zero column installs use separate ice makers — different module,
+  different parts, different diagnostic flow. Bixby Knolls (90807) historic-district homes
+  sometimes have under-counter Scotsman or U-Line nugget ice machines on top of the main fridge.
+
+commonProblems:
+  - title: "Water Inlet Valve Calcified Shut by Long Beach Tap Water"
+    description: "The dual solenoid inlet valve feeds both the ice maker and the through-door
+      dispenser. Long Beach water at 280-330 ppm hardness scales the valve seat over 18-24 months
+      until it can't open fully — even with line pressure normal. Symptom is small or hollow ice
+      cubes, then no ice at all. Samsung and LG French-door models are the most common calls; the
+      valve replacement plus line flush takes 45-60 minutes."
+  - title: "Ice Maker Module Motor Stalling on Side-by-Side Whirlpool and KitchenAid Units"
+    description: "Older Whirlpool, KitchenAid, and Maytag side-by-side refrigerators in 90808 and
+      90805 use a small reversible motor in the ice maker head module to rotate the ejector blades
+      and harvest the cubes. Mineral grit from local water works into the gear train and the motor
+      stalls mid-cycle. Cubes freeze together in the bin, the motor strains, and eventually a
+      gear strips. Replacing the module is faster than rebuilding it."
+  - title: "Standalone U-Line and Scotsman Nugget Machines — Pump and Sensor Failures in 90807"
+    description: "California Heights and Bixby Knolls homeowners installing nugget ice machines
+      under their counters run into specific problems with hard water. U-Line and Scotsman units
+      use a water pump that circulates over an evaporator plate — scale coats the pump impeller
+      and the water level sensor. The machine either won't start a freeze cycle or runs constantly
+      without producing ice. Descaling plus pump and sensor replacement is the standard repair."
+
+faq:
+  - q: "How fast can you get to Long Beach for an ice maker repair?"
+    a: "Most ice maker calls in 90802, 90803, 90804, 90807, and 90814 schedule within 24-48 hours.
+      We carry the most common inlet valves and ice maker modules on the truck, so single-visit
+      repair is realistic for standard brands. Call (323) 870-4790."
+  - q: "Do you repair built-in U-Line and Scotsman nugget ice machines?"
+    a: "Yes — and they require different parts and a different diagnostic approach than
+      refrigerator-built-in ice makers. We service U-Line, Scotsman, and Manitowoc residential
+      units. For built-in refrigerator ice makers: Sub-Zero, Samsung, LG, KitchenAid, Whirlpool,
+      Bosch, GE Profile, Maytag — all stocked or sourced within 48 hours."
+  - q: "What does ice maker repair typically cost and how does the process work?"
+    a: "Inlet valve replacement runs $150-$260 parts and labor combined. Ice maker module
+      replacement on standard brands $180-$320. Sub-Zero and built-in Scotsman work runs higher.
+      Diagnosis is flat-rate and applies toward the repair. Call (323) 870-4790."
