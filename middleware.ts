@@ -14,80 +14,17 @@ export const config = {
 };
 
 // ============================================
-// CITY MAPPING (Los Angeles & Orange County areas)
+// CITY MAPPING — South LA County + Orange County only
+// Service zone confirmed by client 2026-03-10: south of Downtown LA only.
+// North LA (SF Valley, SG Valley, West LA) intentionally NOT mapped —
+// such visitors fall through to FALLBACK_CITY_SLUG.
 // ============================================
+const FALLBACK_CITY_SLUG = 'anaheim';
+
 const CITY_NAME_TO_SLUG: Record<string, string> = {
-  // San Fernando Valley
-  'Santa Clarita': 'santa-clarita',
-  'Northridge': 'northridge',
-  'Van Nuys': 'van-nuys',
-  'Encino': 'encino',
-  'Sherman Oaks': 'sherman-oaks',
-  'Woodland Hills': 'woodland-hills',
-  'Tarzana': 'tarzana',
-  'Reseda': 'reseda',
-  'Canoga Park': 'canoga-park',
-  'Granada Hills': 'granada-hills',
-  'Panorama City': 'panorama-city',
-  'Sun Valley': 'sun-valley',
-  'North Hollywood': 'north-hollywood',
-  'Studio City': 'studio-city',
-  'Chatsworth': 'chatsworth',
-  'Porter Ranch': 'porter-ranch',
-  'Sylmar': 'sylmar',
-  'Pacoima': 'pacoima',
-  'Calabasas': 'calabasas',
-
-  // West Los Angeles
-  'Santa Monica': 'santa-monica',
-  'Beverly Hills': 'beverly-hills',
-  'Culver City': 'culver-city',
-  'West Hollywood': 'west-hollywood',
-  'Malibu': 'malibu',
-  'Brentwood': 'brentwood',
-  'Westwood': 'westwood',
-  'Mar Vista': 'mar-vista',
-  'Pacific Palisades': 'pacific-palisades',
-  'Venice': 'venice',
-
-  // San Gabriel Valley
-  'Pasadena': 'pasadena',
-  'Glendale': 'glendale',
-  'Burbank': 'burbank',
-  'Arcadia': 'arcadia',
-  'Monrovia': 'monrovia',
-  'West Covina': 'west-covina',
-  'Covina': 'covina',
-  'Pomona': 'pomona',
-  'Glendora': 'glendora',
-  'Azusa': 'azusa',
-  'Alhambra': 'alhambra',
-  'San Dimas': 'san-dimas',
-  'La Verne': 'la-verne',
-  'South Pasadena': 'south-pasadena',
-  'Eagle Rock': 'eagle-rock',
-  'Altadena': 'altadena',
-  'Duarte': 'duarte',
-  'Claremont': 'claremont',
-
-  // South Bay
-  'Torrance': 'torrance',
-  'Inglewood': 'inglewood',
-  'Hawthorne': 'hawthorne',
-  'Gardena': 'gardena',
-  'Redondo Beach': 'redondo-beach',
-  'Manhattan Beach': 'manhattan-beach',
-  'Hermosa Beach': 'hermosa-beach',
-  'El Segundo': 'el-segundo',
-  'Lawndale': 'lawndale',
-  'Carson': 'carson',
-  'Lomita': 'lomita',
-  'Downey': 'downey',
-  'Compton': 'compton',
-  'Lakewood': 'lakewood',
-
   // Orange County
   'Anaheim': 'anaheim',
+  'Anaheim Hills': 'anaheim',
   'Santa Ana': 'santa-ana',
   'Irvine': 'irvine',
   'Huntington Beach': 'huntington-beach',
@@ -96,6 +33,7 @@ const CITY_NAME_TO_SLUG: Record<string, string> = {
   'Orange': 'orange',
   'Costa Mesa': 'costa-mesa',
   'Tustin': 'tustin',
+  'North Tustin': 'tustin',
   'Corona': 'corona',
   'Lake Forest': 'lake-forest',
   'Laguna Niguel': 'laguna-niguel',
@@ -113,6 +51,34 @@ const CITY_NAME_TO_SLUG: Record<string, string> = {
   'La Habra': 'la-habra',
   'Placentia': 'placentia',
   'Brea': 'brea',
+
+  // South LA County (adjacent to OC, in Google Ads ZIP zone)
+  'Carson': 'carson',
+  'Compton': 'compton',
+  'Downey': 'downey',
+  'Gardena': 'gardena',
+  'Hawthorne': 'hawthorne',
+  'Inglewood': 'inglewood',
+  'Lakewood': 'lakewood',
+  'Manhattan Beach': 'manhattan-beach',
+  'Redondo Beach': 'redondo-beach',
+  'Torrance': 'torrance',
+
+  // South-adjacent LA cities that Vercel commonly returns — map to nearest covered slug
+  'Long Beach': 'lakewood',
+  'Norwalk': 'downey',
+  'Cerritos': 'cypress',
+  'Bellflower': 'lakewood',
+  'Paramount': 'downey',
+  'Lynwood': 'downey',
+  'Whittier': 'la-habra',
+  'La Mirada': 'la-habra',
+  'Pico Rivera': 'downey',
+  'Santa Fe Springs': 'la-habra',
+  'Hacienda Heights': 'la-habra',
+
+  // Downtown LA and unmapped LA → south fallback
+  'Los Angeles': FALLBACK_CITY_SLUG,
 };
 
 export function middleware(request: NextRequest) {
@@ -127,7 +93,7 @@ export function middleware(request: NextRequest) {
   }
 
   // Extract fallback city from URL (if already has /cities/[city])
-  let fallbackCitySlug = 'glendale'; // Default fallback for LA area
+  let fallbackCitySlug = FALLBACK_CITY_SLUG;
 
   const citiesMatch = pathname.match(/^\/cities\/([^\/]+)/);
   if (citiesMatch) {
