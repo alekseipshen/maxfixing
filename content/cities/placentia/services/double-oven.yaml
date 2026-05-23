@@ -1,77 +1,102 @@
-title: "Placentia Double Oven Repair — KitchenAid, Bosch & Thermador Fixes"
+title: "Placentia Double Oven Repair — Same-Day Service, 92870"
 
 intro: |
-  North Placentia developments along Bastanchury Road — built mostly between 1995 and
-  2008 — carry the heaviest concentration of double wall ovens in 92870. Bosch and
-  KitchenAid were the go-to brands for those kitchens: wall oven stacks paired with
-  drawer microwaves, finished out in granite and dark cabinetry. Those units are now
-  hitting 15 to 25 years old, which is exactly when door hinge assemblies fatigue and
-  control boards start throwing codes for the first time. This part of Orange County
-  is on our route multiple times a week.
+  The tract neighborhoods between Bradford Avenue and the 57 freeway — most built
+  between 1968 and 1982 — saw a heavy wave of kitchen upgrades around 2008.
+  KitchenAid double wall ovens went into hundreds of these homes during that remodel
+  era. Now those units are 15-plus years old.
+
+  The calls from 92870 follow the same pattern: lower cavity stops heating, door won't
+  close flush, or the control board throws fault codes and locks both cavities out.
+  Those problems compound fast — a door gap in summer lets heat bleed until the thermal
+  limiter trips, turning a straightforward hinge swap into a full diagnostic job.
+  We run this route daily and are usually on-site within 2 hours of your call. If the
+  unit is mid-repair and you need it back the same evening, call (323) 870-4790 directly
+  — weeknight slots are usually open.
 
 localContext: |
-  The 92870 housing mix spans 1960s ranch homes near Van Buren Street and the old
-  Atwood district, 1970s and early '80s tract clusters south of Chapman Avenue, and
-  newer hillside builds near Golden Avenue where Placentia edges into Yorba Linda.
-  Older kitchen footprints mean 27-inch oven cutouts with minimal pull-out clearance —
-  possible, but it adds time to extract the unit safely. Hard water from the Municipal
-  Water District of Orange County accelerates mineral scale inside steam-assist and
-  convection models; KitchenAid convection double ovens in particular accumulate
-  buildup around the door seal and detergent dispenser ports over time.
+  Most of Placentia's older neighborhoods — the side streets off Orangethorpe Avenue and
+  the blocks surrounding Old Town near Bradford Avenue — are single-story ranch homes
+  with wall cutouts originally sized for 27-inch appliances. Retrofitting a 30-inch wall
+  unit into one of those openings required custom framing, which means the repair
+  environment is tighter than a newer home. Getting enough clearance to reach the bake
+  element terminals sometimes adds 40 minutes to a job that would take 20 minutes in a
+  standard cavity.
+
+  The Sycamore Creek and Atwood Ranch developments in the 92871 zip are a different
+  story: wider cavities, updated wiring, and Bosch or Thermador wall ovens installed
+  during original construction. Cleaner access, but the parts cost more and Thermador's
+  proprietary control boards take longer to source. Households in this part of Placentia
+  — median income well above $100K — tend to keep premium appliances running rather than
+  replacing them, which means we see the full repair lifecycle on these units.
+
+  Placentia sits in one of the harder water zones in Orange County. The city draws from
+  groundwater sources that run calcium-heavy — visible in the white residue around
+  faucets near Tri-City Park and throughout the 92870 grid. Mineral deposits accumulate
+  inside steam-assist cavities on newer KitchenAid models, clog the steam port, and
+  trigger false temperature errors that look like a control board failure. It is a
+  straightforward fix — but ignored for a season, the buildup can damage the heating
+  element housing and turn a $90 descale into a $280 part job.
+
+  Samsung french-door-style wall units are showing up more in the 92871 builds now.
+  The control board sits higher in those models, which makes it easier to access — one
+  small advantage.
 
 commonProblems:
-  - title: "Oven Door Drops or Hangs Crooked — Hinge Bracket Failure"
-    description: |
-      The lower oven door takes more abuse than almost any other component — opened
-      and closed hundreds of times a week across 15-plus years of daily cooking. On
-      Bosch double wall units, the hinge arm bracket fatigues at the pivot point and
-      the door begins drifting open slightly mid-bake. A compromised door gasket
-      follows quickly, and both cavities lose heat consistency. We see this pattern
-      constantly on Bastanchury-area kitchens. Replacement hinge assemblies are a
-      same-visit repair in most cases; OEM parts are available for Bosch and KitchenAid
-      models built between 1998 and 2014.
+  - title: "Lower cavity won't heat — bake element failure"
+    description: "The lower cavity handles the heaviest workload: roasting, high-heat
+      baking, broiling. Bake elements in KitchenAid and LG models fail at the terminal
+      connections first, or crack visibly across the element body. An F2 or F3 fault
+      code usually appears before total failure. Element replacement is a same-day job
+      on most models once parts are confirmed.
 
-  - title: "Top Oven Hits Temperature, Bottom Cavity Stays Cold"
-    description: |
-      A blown thermal fuse or dead lower bake element gives you exactly this pattern —
-      one working cavity, one that never warms up. Thermador double ovens installed in
-      mid-2000s Placentia builds show this failure regularly by year twelve. The thermal
-      fuse blows when exhaust flow gets restricted — usually a dusty back vent, sometimes
-      a failing cooling fan behind the unit. Replacing just the fuse without clearing the
-      airflow repeats the failure within six months. On-site diagnosis takes about 20
-      minutes; a bake element or fuse swap usually wraps the same visit, no second trip.
+      LG wall units add a wrinkle: the element terminals sit behind a bracket that
+      requires removing the back panel from inside the cavity. That adds 25 to 30
+      minutes compared to older KitchenAid designs — worth knowing when estimating
+      the job window."
 
-  - title: "Control Board Error Codes, Touchpad Locks Up Mid-Cycle"
-    description: |
-      LG and Samsung double ovens in this price range carry capacitive touchpanel boards
-      that don't handle voltage dips well. The older grid segments south of Chapman Avenue
-      push marginal voltage at peak afternoon demand during summer — a consistent problem
-      in 92870. LG's F9 code and Samsung's SE error both point to a control board fault,
-      not a temperature sensor. A surge protector buys some time, but once the board
-      starts dropping cycles the permanent fix is a board replacement. We stock OEM
-      control boards for both brands and typically complete the swap same-day.
+  - title: "Hits temperature but food burns or stays raw — drifting RTD probe"
+    description: "Each cavity has a temperature sensor — an RTD probe — mounted to the
+      back wall. When the probe connection corrodes or the probe drifts out of spec, the
+      control board misreads cavity temperature by 40°F or more. Thermador wall units
+      develop this frequently: the probe connector sits near the door hinge and flexes
+      hundreds of times a year until contact fails.
+
+      Samsung models surface this as an SE or C-d1 error code before cooking goes
+      inconsistent. A $60 probe caught early prevents a $400 control board replacement
+      down the line. It is one of the most under-diagnosed faults in LA kitchens."
+
+  - title: "Door gaps at the bottom — worn door hinge assembly"
+    description: "Double oven doors weigh more than single-cavity doors and take real
+      mechanical stress over years of daily use. The door hinge on Samsung and Bosch
+      wall units uses a spring-loaded locking tab that fatigues and snaps. A door that
+      won't seal lets heat escape, extends cycle times, and eventually trips the thermal
+      limiter — which shuts the whole unit down as a safety cutoff.
+
+      Bosch 800 Series models in Placentia's newer builds show this after 8 to 10 years.
+      The locking tab snaps clean, the door sits 3mm low, and the seal gap is obvious
+      by touch. Hinge kit replacement takes about 90 minutes on those units. Not a
+      complex job, but it needs to be done before the limiter burns out."
 
 faq:
-  - q: "How fast can you get to Placentia for a double oven repair?"
-    a: |
-      Orange County routes run daily — the 57 Freeway to Orangethorpe puts us in 92870
-      inside 15 minutes from Anaheim. Same-day slots are usually open Monday through
-      Saturday, and evening appointments are available for urgent calls. Call
-      (323) 870-4790 and we can confirm a 2-hour arrival window the same morning.
+  - q: "How fast can you get to Placentia for a wall oven repair?"
+    a: "The 57 freeway puts us into 92870 and 92871 within 90 minutes from most of our
+      service area. Bradford Avenue and Kraemer Boulevard both have easy street parking
+      for a service van. Call (323) 870-4790 to check same-day slots — evening
+      appointments are usually available on weekdays."
 
-  - q: "Do you service Bosch, KitchenAid, and Thermador double wall ovens in Placentia?"
-    a: |
-      Those three make up most of the service calls in this part of Orange County.
-      Bosch units mostly need hinge assembly or control board work. KitchenAid double
-      ovens come in with bake element failures or seized door latch assemblies on older
-      models. Thermador ovens typically need RTD temperature sensor replacement by year
-      ten — the probe drifts and causes a 30–40°F gap between cavities. We also carry
-      OEM parts for LG and Samsung across 92870 and 92871.
+  - q: "Do you repair Bosch and Thermador wall ovens, or just standard brands?"
+    a: "Both regularly. Bosch wall ovens in Placentia's newer builds typically need relay
+      board replacements or door latch assembly work. Thermador units most often need RTD
+      probe replacements or control board resets. Parts for KitchenAid, Samsung, and LG
+      are stocked on the truck. For less common brands like Miele or Gaggenau, call
+      ahead — we can usually confirm part availability before scheduling so the visit
+      doesn't turn into a waiting game."
 
-  - q: "Is repairing a double wall oven worth it, or should I replace it?"
-    a: |
-      Most double wall oven repairs land between $150 and $380 all-in. A new unit
-      installed in a 27-inch or 30-inch cutout easily hits $3,000 or more. For a Bosch
-      or KitchenAid with a single failed component and no corroded wiring, repair is
-      almost always the smarter call. Same-day and emergency evening slots are open —
-      call (323) 870-4790 or book online at maxfixing.com.
+  - q: "What does wall oven repair typically cost in Placentia?"
+    a: "Diagnostic visit is a flat fee applied toward the repair. Most single-component
+      fixes — bake element, door hinge, temperature sensor — run $150–$320 parts and
+      labor. Control board replacements vary by brand: KitchenAid boards typically run
+      $280–$380 installed; Thermador boards often run $450 or more depending on model
+      year. Same-day and emergency evening slots are available — call (323) 870-4790
+      or schedule online."
