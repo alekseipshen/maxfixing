@@ -1,0 +1,90 @@
+title: "La Verne Range Hood — Duct and Blower Issues in 91750 Homes"
+
+intro: |
+  Ranch homes built along Baseline Road and the streets running off Bonita Avenue
+  in the 1960s and '70s weren't designed for real kitchen ventilation. Homeowners
+  who updated their kitchens — swapping original cabinet-mount fans for a Bosch
+  wall-chimney or a KitchenAid under-cabinet unit — often hit a wall: the exhaust
+  path doesn't accommodate a modern hood's CFM output. Grease-saturated filters,
+  dead blower motors, and duct backdraft are the three calls we handle most from
+  La Verne residents.
+
+  The zip code 91750 covers a lot of ground. East of Wheeler Avenue the homes
+  get newer and bigger. West toward the Pomona border, you're dealing with 60-year-old
+  ductwork that was never meant to move 600 cubic feet per minute of cooking exhaust.
+
+localContext: |
+  Most of 91750 is post-war residential stock — single-story ranch builds from the
+  1950s through the early 1980s, with a pocket of larger two-story homes from the
+  1990s near the hillside edges east of Wheeler Avenue. Kitchen remodels here
+  frequently upgrade to under-cabinet or chimney-style hoods, but the exhaust duct
+  path is often shared with other building systems, runs too short, or terminates
+  incorrectly in the attic. That configuration causes persistent ventilation failures
+  even on brand-new units installed just a few years back.
+
+  La Verne sits at the eastern end of the San Gabriel Valley, and summer temperatures
+  regularly push past 95°F. That heat load means range hood motors run hotter than
+  they would in a coastal home — a Thermador blower that lasts eight years in Santa
+  Monica might fail in five here. Homes near Lordsburg Road and the older sections
+  south of Arrow Highway tend to have the tightest kitchen layouts, which also means
+  less clearance for duct transitions and a higher chance of grease pooling in
+  90-degree elbows rather than exhausting cleanly.
+
+commonProblems:
+  - title: "Blower Motor Failure from Grease Buildup in 1960s–'70s Kitchens"
+    description: "Heavy daily cooking in La Verne's older ranch homes coats the blower
+      wheel steadily until the motor overheats and stops spinning. On KitchenAid chimney-
+      style hoods, that blower assembly sits directly above the grease filters and rarely
+      gets cleaned during routine maintenance. Replacement means matching the new motor
+      to the original CFM rating — a 400 CFM unit won't drop into a 600 CFM chassis
+      without disrupting airflow balance. We stock common KitchenAid blower assemblies
+      on the truck.
+
+      One thing homeowners miss: a failing blower often telegraphs the problem weeks
+      before it dies completely. The motor hums louder. Speed drops noticeably on
+      high. That's the bearing starting to seize. Catching it at that stage is a
+      $160 fix. Waiting until it burns out entirely can damage the control board too."
+  - title: "Duct Backdraft and Damper Failure on Interior Wall Runs"
+    description: "Homes in 91750 built before 1980 often have ductwork run through
+      interior walls — not a great path for range hood exhaust. Grease vapor condenses
+      inside those runs and eventually chokes airflow. The backdraft damper flap on
+      Bosch and Samsung hoods warps from heat cycling, letting air recirculate instead
+      of exhaust properly. On Samsung over-the-range models, a stuck damper usually
+      throws a fan error code before the motor actually quits — catch it early.
+
+      A warped damper flap is a $40 part. The labor to reach it through a tight
+      cabinet stack in a 1970s La Verne kitchen is the real cost. We've seen
+      installs where the transition duct runs through the cabinet above the range
+      with zero clearance on either side — no way to pull the hood without disconnecting
+      the entire upper cabinet run first."
+  - title: "LED Driver Board and Control Board Faults on Remodeled Kitchen Hoods"
+    description: "Thermador and LG range hoods installed in remodeled La Verne kitchens
+      show a recurring pattern: the LED driver board burns out within three to five years
+      from heat soak during heavy cooking. The fix isn't a simple bulb swap — the full
+      light assembly or driver circuit needs replacement. Some LG models also throw
+      control board error codes when the internal sensor detects improper venting through
+      a blocked or undersized exhaust duct. Ignoring that code turns a $180 board job
+      into a full motor replacement.
+
+      LG's error sequence on this is specific: the unit drops to low speed automatically,
+      then shuts the lights off as a thermal protection measure. Most homeowners think
+      the hood is broken. Usually it's just a partially blocked duct run that's spiking
+      internal temperatures past the sensor threshold."
+
+faq:
+  - q: "How fast can you get to La Verne for Range Hood repair?"
+    a: "La Verne is on our daily San Gabriel Valley run — 91750 is a regular stop and we
+      can usually be on-site within two hours of your call. Dial (323) 870-4790 or
+      schedule online and we'll lock in a same-day window."
+  - q: "Do you service Bosch and Thermador range hoods specifically?"
+    a: "Yes — Bosch, Thermador, and KitchenAid are the three brands we see most in La
+      Verne kitchen remodels. We handle blower wheel replacement, backdraft damper
+      repair, and control board diagnostics on all three. Parts for most common failures
+      ride with us on the truck. Sub-Zero ventilation hoods come up occasionally in
+      the newer hillside homes near Puddingstone — those need a different approach
+      than a standard residential chimney hood, but we carry the diagnostic tools for them."
+  - q: "What does range hood repair usually cost, and is there a diagnosis fee?"
+    a: "Diagnosis is included with repair — no separate trip charge if you proceed. Blower
+      motor jobs typically run $150–$280. Control board replacements on Thermador or LG
+      units land between $300–$420 depending on parts availability. Evening slots are
+      open; for emergency service call (323) 870-4790 directly."

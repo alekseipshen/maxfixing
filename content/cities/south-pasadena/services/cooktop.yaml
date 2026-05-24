@@ -1,0 +1,35 @@
+title: "South Pasadena Cooktop — Old Kitchens, Modern Appliances"
+
+intro: |
+  Century-old bungalows along Meridian Avenue weren't designed for KitchenAid induction cooktops — those kitchens got upgraded countertops and appliances while the gas lines and electrical panels stayed original. That mismatch produces specific failures: igniter electrodes that won't spark, ceramic surfaces cracking at the mounting edge, burners running rich because line pressure hasn't been checked in decades. South Pasadena's 91030 zip has more of this pattern than most cities in the San Gabriel Valley.
+
+  Cooktop problems here aren't random. They follow the age of the kitchen.
+
+localContext: |
+  Pre-WWII housing dominates west of Fair Oaks Avenue — Craftsman bungalows and Victorian cottages from the 1910s through the 1930s, with some 1950s ranch homes toward the 110 freeway side. Gas service is nearly universal in these kitchens, and the shut-off valves behind original cabinets sometimes haven't moved since Truman was president.
+
+  Getting to a cooktop cutout in a 1928 kitchen means working around cabinet framing sized for a four-burner built decades before modern specs existed — diagnostics take longer here than in newer construction.
+
+  The Mission Street corridor splits the city roughly east-west. Blocks north of the Arroyo Seco near the 110 interchange tend to have the densest concentration of original gas infrastructure — cast-iron supply lines feeding modern Thermador and Bosch cooktops that were never engineered for that pressure variability. South of Mission Street, near the Fremont Avenue blocks and the Gold Line Metro station at Meridian and Mission, you find more post-war construction with slightly newer electrical and plumbing — but still plenty of original 50-amp panels that struggle when an induction cooktop pulls 40 amps on a 240V circuit.
+
+  Cabinet access is its own challenge in 91030. A lot of these kitchens have custom framing that predates standard 30-inch cutout dimensions by three decades.
+
+commonProblems:
+  - title: "Igniter Won't Spark — Corroded Modules in Pre-War Kitchens"
+    description: "Decades of grease and cooking steam coat the igniter electrode and crack the spark module's ceramic insulator, breaking the electrical path before a spark can form. Bosch 30-inch gas cooktops — popular in the renovated kitchens near Mission Street — show this most often after 8-10 years in a busy household. A module swap usually fixes it; if the wiring harness is oxidized, that gets replaced too."
+
+  - title: "Cracked Ceramic Surface from Uneven Cabinet Support"
+    description: "A Samsung or KitchenAid flat-top set in a slightly bowed countertop flexes every time the surface heats up. That constant movement cracks the ceramic glass, typically along the edge near a mounting bracket or the center seam. Replacing the glass panel is straightforward, but always bench-test the heating element underneath — a failing element creates the uneven heat cycle that caused the crack in the first place. South Pasadena's older countertops, particularly original tile work in 1930s Craftsman kitchens, flex more than modern stone slabs — this failure pattern shows up here more often than in newer construction across the Valley."
+
+  - title: "Uneven Burner Heat — Gas Valve Wear and Clogged Orifices"
+    description: "One burner running noticeably hotter than the rest isn't a quirk you adjust around — it's usually a partially clogged gas orifice or a worn gas valve seat. Thermador 36-inch cooktops, common in the larger homes near El Centro Street, develop this gradually as the valve's internal needle wears. A technician needs a manometer to check supply line pressure before replacing any components. Old supply lines in 91030 can run at inconsistent pressure — especially after street work near the Arroyo Seco channelway — and that drop mimics a faulty valve when the line itself is the actual problem."
+
+faq:
+  - q: "How fast can you get to South Pasadena for a cooktop repair?"
+    a: "South Pasadena sits right off the 110 — easy to reach from both directions, minimal traffic most of the day. Same-day appointments are usually available, and we're typically on-site within 2 hours of your call. Street parking on residential blocks is no problem. Reach us at (323) 870-4790."
+
+  - q: "Do you repair Bosch and Thermador cooktops?"
+    a: "Both are regular calls in South Pasadena. Bosch igniter modules, Thermador gas valve assemblies, KitchenAid induction control boards — these are parts we carry on the truck. Samsung and LG flat-tops come up often too. Call ahead with your model number and we'll confirm parts availability before the visit."
+
+  - q: "What does a cooktop repair typically cost, and how quickly can it get done?"
+    a: "The service call covers diagnostics; most repairs — spark modules, heating elements, cracked glass panels — get completed same visit if the part is on the truck. Evening slots are available for households where daytime isn't workable. For urgent situations call (323) 870-4790 and ask about emergency openings."

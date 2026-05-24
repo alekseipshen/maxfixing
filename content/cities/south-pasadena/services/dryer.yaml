@@ -1,0 +1,98 @@
+title: "South Pasadena Dryer — Pre-War Homes, Modern Repair Speed"
+
+intro: |
+  Craftsman bungalows along Marengo Avenue and through the Mission Street corridor
+  weren't designed for modern laundry rooms. Homeowners retrofit LG front-loaders
+  and Samsung gas dryers into converted back porches, narrow utility closets, or
+  detached garages that weren't built for the airflow demands of a full-size machine.
+  When something fails — no heat, grinding mid-tumble, clothes still damp after a
+  full run — getting to the fault fast means knowing these older floor plans.
+
+  We're in 91030 regularly.
+
+  A detached garage laundry setup on Rollin Street or a porch conversion behind a
+  Spanish Colonial off Fair Oaks presents different vent geometry than a tract home
+  in Glendora. The duct path matters more than most people realize. Longer runs,
+  more bends, older flex hose — that's where dryer failures actually start.
+
+localContext: |
+  South Pasadena's housing stock runs heavily pre-war. Homes along Fair Oaks and
+  Fremont date to the 1920s and 1930s — Craftsman and Spanish Colonial builds where
+  laundry rooms were added long after original construction, often as porch conversions
+  or garage add-ons in 91030.
+
+  Vent runs here tend to be long and horizontal, snaking through plaster cavities
+  before reaching an exterior wall. That routing accelerates lint buildup and makes
+  thermal fuse burnouts significantly more common than in newer tract construction
+  across the Valley. We've pulled vent lines out of 1930s plaster walls in this zip
+  that hadn't been cleared since the Clinton administration — literal fire hazards
+  dressed up as a slow-drying problem.
+
+  The other factor is machine size. Bosch and KitchenAid units popular in South
+  Pasadena's upper-middle income bracket run larger drum capacities than the compact
+  stackables common in Santa Monica apartments. More drum mass, more stress on bearings
+  and drum rollers over time — especially in households running four or five loads a
+  week through a machine parked in an un-insulated garage where summer temps regularly
+  hit 95°F. The San Gabriel Valley heat isn't kind to appliance internals.
+
+commonProblems:
+  - title: "Thermal Fuse Failures from Long, Kinked Vent Runs"
+    description: "Horizontal exhaust ducts jogging through 1920s plaster walls restrict airflow
+      enough to push internal temperatures past the dryer's safety threshold. The thermal
+      fuse — a one-shot protective device wired in-line with the heating element — blows
+      and won't reset. Samsung and LG gas dryers in South Pasadena develop this pattern
+      frequently. Swapping just the fuse without clearing the vent means it blows again
+      within a few months.
+
+      On gas dryers, a tripped thermal fuse can also shut down the gas valve igniter
+      circuit entirely. No heat, no ignition click, drum still spins — homeowners sometimes
+      assume the gas supply is the issue. It usually isn't. Pull the back panel, test
+      continuity on the fuse, and you have your answer in under ten minutes."
+
+  - title: "Drum Roller Noise in High-Use Bosch Dryers"
+    description: "That grinding or squealing mid-tumble isn't the motor — it's worn drum rollers
+      or a stretched drive belt. Bosch dryers in households cycling four or more loads
+      daily hit this failure point around the 5-7 year mark. Left running on bad rollers,
+      the drum surface itself starts to score, turning a straightforward $130 repair into
+      a drum replacement that costs considerably more.
+
+      The belt tensioner pulley is worth checking at the same time. On Bosch front-load
+      units, the tensioner and rollers wear at similar rates. Replacing one and ignoring
+      the other means a callback six months later."
+
+  - title: "Slow Drying from Blower Wheel Obstruction"
+    description: "Two full cycles to dry a normal load almost always means the blower wheel is
+      clogged — not a failed heating element. KitchenAid and LG units with long horizontal
+      vent paths trap lint at every bend. The lint screen catches almost none of it.
+
+      The real buildup is inside the blower wheel housing itself, downstream from the
+      filter, choking the airflow the machine needs to push moisture out of the drum.
+      Moisture sensor strips on LG steam dryers pick up false readings when airflow is
+      compromised — the machine thinks the load is dry and cuts the cycle short. Clothes
+      come out warm but still damp. It reads like a sensor failure but it's a ventilation
+      problem."
+
+faq:
+  - q: "How fast can you get to South Pasadena for dryer repair?"
+    a: "From our San Gabriel Valley base, Fair Oaks and the Fremont corridor are typically
+      30-45 minutes out depending on the time of day. Mission Street slows mid-afternoon,
+      but we route around it. Call (323) 870-4790 and we can usually lock in a same-day
+      window, including evening slots available most weekdays."
+
+  - q: "Do you repair Bosch, LG, and Samsung dryers in South Pasadena?"
+    a: "Yes — Bosch condensation dryers, LG steam units, and Samsung gas front-loaders are
+      the three most common calls in 91030. We stock replacement parts for all three and
+      carry diagnostic tooling for control board faults. KitchenAid and GE are in the
+      regular rotation too. If you've got a Thermador or Miele unit in an older home that's
+      been retrofitted with premium appliances, call first so we can confirm parts
+      availability before scheduling."
+
+  - q: "How much does dryer repair cost, and is same-day service available?"
+    a: "Thermal fuse replacement runs $90-130 all-in. Drum roller and drive belt jobs
+      typically land at $140-200. Blower wheel cleaning — which fixes most slow-drying
+      complaints — usually falls in the $110-160 range depending on how packed the housing
+      is. Same-day slots are available most days, evening appointments included.
+
+      We diagnose on-site and quote before touching anything. Call (323) 870-4790 or
+      book online to confirm your window. If it's a gas dryer issue, mention that when
+      you call — it helps us bring the right igniter and valve components."

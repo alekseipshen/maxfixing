@@ -1,0 +1,29 @@
+title: "South Pasadena Range Hood — Repairs for Craftsman-Era Kitchens"
+
+intro: |
+  Those 1920s Craftsman bungalows packed along Meridian Avenue and the streets behind Garfield Park weren't built with serious kitchen ventilation in mind. Homeowners who renovated those original kitchens — adding a KitchenAid chimney hood or Bosch wall-mount — quickly found the retrofitted ductwork struggles to keep pace. Grease saturates the baffle filters faster than expected, the blower motor starts straining against back-pressure, and a hood that cost $800 installed starts grinding or throwing fault codes. South Pasadena kitchens are tighter than they look from the street, and the ventilation problems that follow are specific to how these homes were originally built.
+
+localContext: |
+  Most of South Pasadena's housing stock in 91030 dates from 1905 to 1945 — Victorians, Craftsman bungalows, and Spanish Colonials with kitchens that were originally small and enclosed. When these spaces were opened up during '80s and '90s renovations, range hoods got squeezed in through tight ceiling cavities with minimal duct clearance. Near the Fair Oaks Avenue corridor, older mixed-use buildings add the complication of shared wall chases that choke exhaust flow even further. The Gold Line runs right through town, and service vans working the Meridian or El Centro side of the tracks deal with street access that's narrower than it looks on a map. That part of the job — parking, tools, duct access — is something a generic appliance dispatch won't think about until they're standing in the driveway.
+
+commonProblems:
+  - title: "Grease-Blocked Baffle Filters Choking Undersized Retrofit Ductwork"
+    description: |
+      Many South Pasadena renovations ran 3.25-inch rectangular duct — the bare minimum — through old Craftsman wall framing to keep the job affordable. That undersized duct creates back-pressure, and the baffle filters and grease cup saturate far faster than they should. Bosch 500-series hoods installed over island ranges are especially prone because the longer duct run amplifies the restriction. Monthly filter cleaning alone doesn't solve it when the duct itself is the bottleneck. A proper diagnosis means measuring static pressure across the blower housing, not just pulling the filters and calling it done. Sometimes the fix is resealing a duct joint that's been leaking into the ceiling cavity for years.
+  - title: "Failed Run Capacitor Causing a Blower Motor That Hums but Won't Pull Air"
+    description: |
+      A range hood that runs on HIGH but barely moves smoke usually has a dead run capacitor on the blower motor — not a speed-switch fault. KitchenAid wall-mount hoods and Samsung over-range models both use split-capacitor motor assemblies where the capacitor fails silently and the fan just stops pulling. The part itself runs $20-30, but accessing the motor assembly and confirming the diagnosis takes 45 minutes to an hour of labor. LG over-range units in South Pasadena's newer condo conversions show the same failure pattern, usually after 4-6 years of regular cooking use. A humming motor with no airflow is almost never a control board problem — replacing the board first is a common and expensive misdiagnosis.
+  - title: "Control Board and LED Driver Failures on Thermador and Sub-Zero Hoods"
+    description: |
+      Thermador wall-mount hoods in the larger homes along Monterey Road and near South Pasadena High School sometimes throw an F3 or E1 fault code — almost always a failed control board rather than a fan problem. Sub-Zero ventilation inserts use a separate LED driver board for lighting that oxidizes in greasy air and fails independently of the main PCB. Both require factory-sourced parts with a 3-5 day lead time, so calling early matters. On Thermador hoods, the F3 code specifically points to a blower speed sensor that feeds data to the main board — clearing the code without replacing the sensor just brings it back within a week.
+
+faq:
+  - q: "How fast can you get to South Pasadena for a range hood repair?"
+    a: |
+      We're typically staging from the Alhambra-San Gabriel area, which puts us in South Pasadena within 20-30 minutes. Residential streets near Mission Street are easy for a service van. Call (323) 870-4790 for same-day slots — most weekdays we have evening availability too.
+  - q: "Do you repair Bosch and KitchenAid range hoods specifically?"
+    a: |
+      Both are the most common brands we see in South Pasadena kitchens. On Bosch hoods the usual culprits are the damper actuator or grease filter assembly. KitchenAid wall-mount units most often need a blower wheel cleaning or motor capacitor swap. We carry parts for both in the van. Thermador and Sub-Zero hoods take more lead time on parts, but the diagnosis is same-day.
+  - q: "What does range hood repair typically cost, and can it be fixed same day?"
+    a: |
+      Most repairs — blower motor swap, control board replacement, duct resealing, fan blade work — run between $120 and $380 including parts and labor. Same-day repair is realistic for the majority of faults since common components travel with us. Book online or call (323) 870-4790; emergency evening slots are available.

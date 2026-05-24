@@ -1,0 +1,25 @@
+title: "South Pasadena Dishwasher — Craftsman Kitchens, Real Repairs"
+
+intro: |
+  Hard water in 91030 tests around 290–315 ppm year-round — not the worst in LA County, but enough to wreck spray arm nozzles on a Bosch 500-series in under three years. The pre-war Craftsman bungalows near Meridian Avenue weren't designed for modern 24-inch dishwashers, so retrofit installs mean tight clearances and improvised drain hose routing. Float switch failures and post-cycle standing water are the two calls we field most from this zip.
+
+localContext: |
+  South Pasadena's housing stock skews old — pre-war Craftsmans and 1940s Spanish Revival homes fill the blocks between Fair Oaks Avenue and Fremont Avenue. Those kitchens have narrow under-counter spaces that turn a drain pump swap into a real project and make control board replacements awkward. Newer construction near the 110 Freeway corridor runs KitchenAid and Thermador built-ins, but all of it pulls from the same hard-water supply lines feeding the 91030 zip.
+
+commonProblems:
+  - title: "Mineral Scale Blocking Spray Arm Ports and Filter Housing"
+    description: "SGV tap water deposits calcium fast. On Bosch 300- and 500-series machines — both common in South Pasadena remodels — the lower spray arm's rotating hub seizes first, so bottom-rack dishes come out cloudy or still food-crusted. Clearing the spray arm ports and flushing the filter housing takes under an hour. Mineral buildup also coats the heating element over time, cutting wash temperatures and leaving a chalky film on glassware even after a clean cycle — Bosch throws an E09 code when the heating element circuit degrades to the point of failure, worth testing before assuming the control board is bad. If the inlet valve screen is also caked, that part needs swapping too — about $35 for the valve itself."
+  - title: "Drain Pump Failure After a New Garbage Disposal Install"
+    description: "Standing water after the cycle almost always points to the drain pump or the check valve in the drain hose. In South Pasadena's remodeled kitchens, the dishwasher usually drains into the disposal — and if the installer left the knockout plug in, the pump burns out over weeks of pushing water nowhere. LG and Samsung front-control models are especially vulnerable. The door latch assembly is another thing to check on LG units — a latch that doesn't seal fully lets water pressure fluctuate mid-cycle, which confuses the control board into logging what looks like a pump failure code. Simple diagnosis once you know to look for it. Call us at (323) 870-4790 and we can usually be out same-day."
+  - title: "Detergent Dispenser Door Won't Open Mid-Cycle"
+    description: "The bi-metal actuator inside the dispenser warps when mineral residue coats the spring mechanism. Thermador built-ins in the larger homes along the Arroyo Seco corridor get this constantly — the latch trips but the door stays shut, so dishes run a full hot-water cycle with zero soap. KitchenAid units sometimes throw a 6-1 or 6-2 error code when the dispenser circuit faults, which reads like a control board problem but usually isn't. Replacing the dispenser assembly fixes it permanently. The part runs $40–$75 depending on model year; labor is straightforward once the under-counter space is accessible."
+
+faq:
+  - q: "How fast can you get to South Pasadena for dishwasher repair?"
+    a: "South Pasadena sits squarely on our San Gabriel Valley route — from our nearest tech, it's usually 20–30 minutes out. Same-day service is available most weekdays, and we can typically be at your 91030 address within 2–3 hours of your call. Reach us at (323) 870-4790."
+  - q: "Do you repair Bosch and KitchenAid dishwashers specifically?"
+    a: "Both are our most common brand calls in South Pasadena. Bosch E24 and E25 error codes (drain blockage or pump failure), KitchenAid control board failures, LG LE error loops — we stock parts for all three and handle most repairs in one visit without a parts-order delay."
+  - q: "What does dishwasher repair typically cost in South Pasadena?"
+    a: "Diagnostic is $85, applied to the repair if you proceed. Drain pump replacement runs $150–$220. Spray arm clearing or float switch replacement usually comes in under $120. Emergency same-day slots are open most days — call (323) 870-4790 or book online and we'll confirm within the hour."
+  - q: "Can hard water really damage a dishwasher's internal parts?"
+    a: "At 290–315 ppm, South Pasadena's water is hard enough to calcify a spray arm nozzle in two to three years. The bigger issue is the heating element — mineral deposits insulate it, the unit runs hotter to compensate, and eventually the thermal fuse blows. Bosch, KitchenAid, and LG all show this failure pattern in the SGV. A citric acid rinse cycle monthly slows it down. If the element is already burned out, replacement runs $80–$130 parts and labor. Call (323) 870-4790 to schedule a diagnostic and we'll test it on-site — evening slots available most days."

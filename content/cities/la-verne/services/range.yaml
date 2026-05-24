@@ -1,0 +1,81 @@
+title: "La Verne Range Repair — Foothill Kitchen Gas & Electric"
+
+intro: |
+  Homes along Baseline Road and near the University of La Verne campus tend to have
+  updated kitchens — KitchenAid or LG slide-ins dropped into cabinetry framed out in
+  the late 1960s. The gas lines feeding those ranges are often original. That mismatch
+  produces predictable problems: old flex connectors restricting flow, burners that
+  flame out on medium heat, igniters clicking ten times before catching. Corroded
+  shutoff valves at the wall stub-out are another thing we check on every call in
+  older 91750 homes — a partially closed valve reads fine on a pressure gauge but
+  starves the range under full burner load. We cover the 91750 zip seven days a week
+  and can usually be there the same day.
+
+localContext: |
+  The 91750 zip splits into two housing generations. Ranch homes in the historic
+  Lordsburg neighborhood — the older residential core along D Street and Arrow Highway
+  — date from the 1960s, with original 30-inch cabinet cutouts and gas stub-outs that
+  nobody has touched in decades. Up toward the foothill streets above Baseline Road,
+  renovated kitchens and newer builds brought in Thermador slide-ins and Bosch
+  dual-fuel ranges. Those need specialized diagnostic equipment when the spark module
+  fails or the convection fan motor starts dragging. Both housing types keep us busy
+  every week in La Verne.
+
+commonProblems:
+  - title: "Burner Won't Catch After the Igniter Clicks"
+    description: |
+      The spark electrode corrodes or cracks, severing the signal path to the spark
+      module — you hear clicking but no flame appears. On older La Verne homes with
+      original gas stub-outs, restricted supply pressure compounds the problem: even a
+      working igniter can't light a burner that's getting half its rated gas flow. LG
+      ranges add another wrinkle — a single shorted electrode often faults the entire
+      control board, turning a $40 electrode swap into a much bigger repair if you wait
+      too long. We test electrode resistance and line pressure before ordering parts.
+
+  - title: "Oven Temperature Drifts 50+ Degrees Off"
+    description: |
+      Almost always the RTD temperature sensor — a probe inside the oven cavity sending
+      resistance readings to the control board. As it ages, resistance drifts and the
+      board compensates by over- or under-firing the bake element on electric models, or
+      the gas valve igniter on gas ovens. Thermador dual-fuel ranges in La Verne's
+      foothill homes sometimes mask early sensor failure through the built-in calibration
+      offset, hiding the problem for months. By the time roasting times are visibly wrong,
+      the sensor is usually reading 80–100 degrees off actual. KitchenAid convection
+      models throw an F3 error code at that point — Thermador stays silent until the
+      offset maxes out, which is why the symptom looks sudden even though the drift
+      started six months earlier.
+
+  - title: "Uneven Flame or Burner Cycling Off Mid-Cook"
+    description: |
+      Clogged burner caps are the quick fix, but a failing gas valve that can't hold
+      consistent pressure is the deeper culprit. Samsung ranges tend to lose the simmer
+      valve diaphragm first — you get a stuttering, uneven flame on low settings, then
+      the burner cuts out completely at simmer. Bosch valve bodies crack at the brass
+      seat after years of thermal cycling, which produces a similar symptom but fails
+      more suddenly. Cleaning a burner cap takes twenty minutes; diagnosing and swapping
+      a gas valve is a two-hour job with the range pulled from the wall.
+
+faq:
+  - q: "How fast can you get to La Verne for range repair?"
+    a: |
+      La Verne is a straight shot down the 210 Freeway from our main San Gabriel Valley
+      coverage area — 20 to 30 minutes depending on traffic. Same-day appointments are
+      available most days. Call (323) 870-4790 and we'll confirm a two-hour arrival
+      window before heading out.
+
+  - q: "Do you repair Bosch and Thermador ranges in La Verne?"
+    a: |
+      Both come up constantly in the foothill neighborhoods here. Bosch dual-fuel ranges
+      most often need spark module replacements and thermostat recalibration. Thermador
+      pro-style units typically come in with failed gas valve igniters or control board
+      faults — the Star Burner heads also get clogged with grease in the ports around
+      the flame spreader, which mimics a valve problem until you pull the burner assembly
+      and inspect it properly. We stock common parts for both, which cuts turnaround
+      significantly on most calls.
+
+  - q: "Can I get same-day range service, or do I have to wait?"
+    a: |
+      Same-day is available most of the week, including weekday evenings and Saturdays.
+      If the range is completely out — no burners, no oven — call (323) 870-4790 directly.
+      Emergency slots move fast, but we almost always have next-morning availability
+      even when same-day is booked.
