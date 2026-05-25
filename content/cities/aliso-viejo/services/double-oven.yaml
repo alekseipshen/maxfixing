@@ -1,37 +1,45 @@
-title: "Aliso Viejo Double Oven Repair — 92656 Specialists"
+title: "Aliso Viejo Double Oven — Planned Community, Aging Appliances"
 
 intro: |
-  Builders in the Glenwood and Pacific Ridge tracts put up most of Aliso Viejo's housing between 1990 and 2004.
-
-  Kitchens in those homes lean hard toward KitchenAid and Thermador wall ovens — especially after the mid-2000s remodel wave hit 92656. Those units are now hitting prime failure age for control boards and upper-cavity heating elements, and we cover this area on our South OC route daily. SoCalGas serves the whole city, so gas range double-cavity units show up too, mostly in the townhouse clusters off Alicia Parkway near Wood Ranch Road.
-
-  Two technicians. One covers Aliso Viejo down to Laguna Niguel; the other loops through Laguna Hills and back up Aliso Creek Road. Most days we're in 92656 before noon. Same-day service is almost always doable for calls from the Town Center area or off Alicia Parkway.
+  The Westpark and Pacific Ridge neighborhoods got heavy kitchen upgrades between 2003 and 2010. KitchenAid 30-inch double wall ovens landed in a lot of those remodels. Those units are now 15-20 years old. The lower cavity goes first — heating elements burn out, thermal fuses pop, control boards start misreading temperature. Samsung slide-in double ovens showed up in later remodels too. Those hit touch panel failures and door seal problems around the 12-year mark. MaxFixing runs regular routes through 92656. Same-day service is usually possible — call (323) 870-4790 to check what's open.
 
 localContext: |
-  The city sits tucked between Saddleback Mountain and the coastal ridgeline — older canyon homes off Glenwood Drive sometimes have access that made the original appliance delivery interesting. We've pulled KitchenAid double wall units out of kitchens where the install crew had to plan around a narrow side-yard entry. Right removal kit, some patience.
+  Most of 92656 is 1990s tract construction. Shea Homes and William Lyon builds have kitchen alcoves sized for 27- and 30-inch wall appliances. Glenwood — closest to Aliso and Wood Canyons Wilderness Park — has newer custom homes from 2005-2012. Thermador and Bosch double wall ovens are common there. Pacific Ridge is a mix. Earlier builds got KitchenAid and LG. Homes near Aliso Viejo Town Center, updated after 2010, often have Bosch Series 8 installations.
 
-  One thing that comes up specifically in homes with original 1998–2003 kitchens: the electrical panel sometimes can't support the draw of a modern high-wattage heating element replacement. Before we swap, we check the draw specs against the existing 240V circuit. Easier to know upfront than to call an electrician after the fact. This is a late-90s Aliso Viejo pattern — those tract homes got spec'd tight — and it comes up less in newer OC builds.
-
-  Newer condos near Aliso Viejo Town Center run more compact LG and Samsung slide-ins. Different failure profile entirely.
-
-  South OC water — routed through the Municipal Water District of Orange County — runs moderately hard, around 300 mg/L in this part of the valley. For steam-assisted double ovens like higher-end Miele or Thermador models with steam injection, that mineral content matters. Descaling cycles get skipped; scale deposits block the steam nozzle or coat the cavity temperature sensor. Not a dramatic failure, but it shortens the service interval noticeably for anyone running those modes regularly.
+  Westpark homes have tighter cabinet surrounds. Pulling a unit from those takes extra time. The tech needs extension brackets to avoid a second trip. Worth mentioning when you schedule.
 
 commonProblems:
-  - title: "Upper Cavity Dead, Lower Still Works — Control Board Failure in KitchenAid Wall Ovens"
-    description: "KitchenAid KODE500E and similar models have a control board that sits directly exposed to cavity heat cycling. After 15-plus years — right where most Aliso Viejo units are now — solder joints crack and the upper bake circuit drops out entirely. Lower cavity keeps running fine. Replacing the control board is almost always the correct fix, not rewiring. We stock boards for common KitchenAid configurations in the van, so same-day turnaround is realistic if it's one of the standard SKUs."
-  - title: "Temperature Mismatch Between Cavities on Thermador Wall Ovens"
-    description: "Thermador wall ovens with dual independent thermostats develop calibration drift over time. Upper cavity reads 350°F on the display but measures 40° low at the rack — burned bottoms, raw centers. The culprit is almost always a failing RTD temperature sensor probe, not the thermostat itself. Recalibration alone won't fix a degraded sensor; it needs replacing. This is one of the most consistent calls from Aliso Viejo homeowners who upgraded to Thermador during the remodel wave — units are hitting 18–22 years now."
-  - title: "Door Hinge Failure Causing Heat Loss on Bosch 800 Series"
-    description: "Bosch 800 Series wall ovens — increasingly common in Aliso Viejo kitchen remodels after 2015 — have a door hinge assembly that wears out under daily use. The lower door starts dropping and won't seal flush against the frame. That gap trips the door latch switch, sometimes throwing an E15 or E16 on the display, sometimes just bleeding heat silently. Hinge kits fix it. We carry them for the common Bosch configurations."
-  - title: "Igniter Failure on Gas Range Double-Cavity Units"
-    description: "Some Aliso Viejo homes — particularly the townhouses off Alicia Parkway — have gas ranges with a second oven cavity rather than built-in wall units. Samsung and LG gas models develop glow bar igniter failures over time: the element weakens, current draw drops below the gas valve's trigger threshold, and the lower cavity won't light. Misdiagnosis is common on these — it looks like a gas valve problem but it's almost always the igniter. Part is cheap; the diagnostic is the value. Call (323) 870-4790 if your gas lower cavity stopped lighting — we carry igniters for both brands."
+  - title: "Lower Oven Stops Heating While the Upper Cavity Still Works"
+    description: |
+      The lower cavity does the hard work — high-heat roasting, long braises, holiday baking. Its bake heating element wears out first. On KitchenAid double wall ovens, swapping the element is straightforward. But the thermal fuse in the same circuit needs testing too. A blown fuse kills the lower oven even after a brand-new element goes in. Skip that check and the repair call was wasted.
+
+      Some KODE models hide the bake element behind the oven floor panel. Pulling that panel without the right bit set strips the mounting hardware. Testing continuity on both the element and fuse before ordering parts keeps the job to one visit.
+
+  - title: "Upper and Lower Ovens Cooking at Different Temperatures"
+    description: |
+      Both cavities run, but baking times are off. One rack finishes ahead of the other. That gap almost always traces to a drifted RTD temperature sensor — the probe reporting cavity temp to the control board. Bosch wall ovens from the 2007-2014 range develop this after heavy use.
+
+      The E105 or E205 error codes sometimes show up. Often the oven just cooks unevenly with no fault code at all. Recalibration fixes it sometimes. Other times the sensor probe needs a full swap before temps stabilize. Offset calibration alone masks the problem for a few months before drift returns — full sensor replacement holds longer.
+
+  - title: "Control Board Failure Locks Out Both Cavities Simultaneously"
+    description: |
+      Thermador double wall ovens are standard in Glenwood's custom builds and newer Pacific Ridge homes. Their control boards fail after power surges or years of thermal cycling. Error codes like F1 or E3 flash on the display and lock both cavities at once — even when the heating elements test fine.
+
+      The board is misreading inputs, not the elements themselves. Parts swaps without proper diagnosis rarely fix it. Thermador's MED302 and PODMW301J models are common in this zip. Relay boards on those run $280-$380 in parts. The key diagnostic step: figuring out whether it's the relay board or the user interface board. That answer determines if this is a moderate repair or something close to replacement cost.
 
 faq:
-  - q: "How fast can you get to Aliso Viejo for wall oven repair?"
-    a: "We run South OC daily — Glenwood, Pacific Ridge, and neighborhoods off Aliso Creek Road are all on the regular route. Same-day slots are usually open. Call (323) 870-4790 and we can typically be out within 2 hours during business hours. Evening slots available if daytime doesn't work."
-  - q: "Do you repair KitchenAid, Thermador, and Bosch wall ovens in 92656?"
-    a: "Yes — those three are the most common in Aliso Viejo. KitchenAid control boards, Thermador RTD sensor probes, and Bosch door hinge assemblies all ride in the van. Occasional Wolf and Sub-Zero built-ins too, especially in the higher-end homes near Aliso Viejo Country Club. Sub-Zero double-wall configurations require thermal cutout testing as the first diagnostic step — different process than a standard residential unit."
-  - q: "What does wall oven repair usually cost in Aliso Viejo?"
-    a: "Diagnostic visit is flat-rate, applied toward the repair if you proceed. Control board swaps typically run $250–$400 in parts plus labor. Door hinge jobs usually come in cheaper — closer to $150–$200 all-in. RTD sensor replacements on Thermador units usually land at $180–$280. Schedule online or call (323) 870-4790."
-  - q: "My oven is showing an error code — is that serious?"
-    a: "Depends on the code. F3 or F4 on KitchenAid usually points to a sensor issue — the unit may still run but will bake unevenly. E15 on a Bosch means the door switch isn't reading correctly; use it with caution until it's fixed. F2 on any brand — runaway temperature — turn it off at the breaker and call us. That one doesn't wait. (323) 870-4790."
+  - q: "How fast can you get to Aliso Viejo for double oven repair?"
+    a: |
+      From our South OC base, the 73 Toll Road to Aliso Creek Road puts us at most 92656 addresses within 2 hours. Same-day slots fill up fast on Fridays and around holidays. Call (323) 870-4790 early or book online to lock a time. Evening appointments are available most weeknights.
+
+  - q: "Do you repair Bosch and Thermador double wall ovens?"
+    a: |
+      Both are regular jobs on this route. Bosch double ovens commonly need temperature sensor replacements and door hinge work — the lower door takes constant stress from daily open-and-close cycles on a heavy unit. Thermador units here tend to need control board replacements. On gas-assist models, igniter and gas valve service comes up too.
+
+      LG double wall ovens with touch panel faults or inverter control issues are also on the regular parts list for Aliso Viejo calls.
+
+  - q: "What does double oven diagnosis and repair pricing look like?"
+    a: |
+      Diagnosis is done on-site — we quote before anything is touched. A bake element for a KitchenAid or LG typically runs $80-$140 in parts. A Thermador relay board is closer to $280-$380. Some Bosch and Thermador components ship from regional distributors, which can add a day to the turnaround.
+
+      Emergency same-day service is available most days. Evening slots are open most weeknights. Call (323) 870-4790 and we can usually tell you the same afternoon when we can be there.

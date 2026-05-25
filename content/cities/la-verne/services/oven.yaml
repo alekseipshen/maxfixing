@@ -1,0 +1,122 @@
+title: "La Verne Oven Repair — Fast Fixes in 91750"
+
+intro: |
+  Ranch houses along Wheeler Avenue and the blocks near Baseline Road in 91750
+  often run older built-in setups — a KitchenAid double wall oven retrofitted
+  into a 1968 kitchen, or a Samsung slide-in range throwing an F3 error code
+  on a Tuesday night. La Verne's foothill location means summer heat builds in
+  these kitchens fast. Elements burn out. Control boards fail. The bake heating
+  element gives up mid-cycle with zero warning.
+
+  Gas ovens are the norm in this zip code. That matters for diagnosis — a gas
+  valve igniter weakening over time behaves differently than a straight electrical
+  failure, and misreading which one you're dealing with means replacing the wrong part.
+
+localContext: |
+  Most of the housing stock in 91750 dates to the 1960s and 1970s — single-story
+  ranch homes with original cabinetry that makes accessing a built-in oven tricky.
+  The neighborhoods south of Baseline Road, and the older blocks just east of the
+  University of La Verne campus, have the most of these configurations. Newer
+  construction near Via Verde has shifted toward professional-grade appliances:
+  Bosch wall ovens, Thermador ranges. Tight cabinet surrounds on built-ins mean
+  extra care every removal.
+
+  The Pomona Valley foothills create a real thermal problem in summer. Ambient
+  kitchen temperatures in La Verne can push 85–90°F before the oven even turns on.
+  Thermostats drift faster. Control boards cycle harder. Bosch and Thermador both
+  have thermal protection circuits that trip more often in these conditions than
+  they do in coastal kitchens — something owners of Via Verde homes run into
+  more than they expect.
+
+  The remodel wave of the mid-2000s left a lot of premium equipment on residential
+  streets off Fruit Street and near the Arrow Highway corridor. Sub-Zero paired
+  with a Thermador wall oven is not unusual here. That equipment needs brand-specific
+  parts, calibration tools, and someone who's seen those models before. A general
+  handyman isn't carrying a Bosch door latch motor on their truck.
+
+  Short version: La Verne ovens have specific failure patterns. Knowing them saves
+  a second trip.
+
+commonProblems:
+  - title: "Bake element burns out, often mid-cycle"
+    description: |
+      Ovens that run hard — through holiday cooking stretches or daily use — wear
+      down the bake heating element faster than anything else. It develops a visible
+      arc point, or just stops producing heat entirely. On KitchenAid and Samsung
+      models in 91750 this is one of the most frequent calls.
+
+      Replacement is straightforward, but the oven needs to come fully out of the
+      cabinet to do it right. On older built-ins with tight 24-inch surrounds, that
+      means carefully working the trim frame loose before the unit shifts out even
+      an inch. Rushing it damages the cabinet face permanently.
+
+      We've seen plenty of "quick fix" attempts that turned a $200 element job into
+      a cabinet repair on top. Not worth it.
+
+  - title: "Oven won't reach set temperature — thermostat or gas igniter failing"
+    description: |
+      Set it to 400°F, wait twenty minutes, it reads 310°F. Either the oven
+      thermostat has drifted out of calibration, or the gas valve igniter is
+      weakening — glowing but unable to hold enough current to open the valve.
+      Gas ovens are everywhere in La Verne, and a failing igniter that lights
+      inconsistently means cold food and a steady gas waste.
+
+      The fix on most Bosch and Samsung gas ranges is a direct igniter swap. The
+      part runs $40–$80 depending on model, and the job takes about an hour on
+      site. Letting it go longer risks partial ignition — which is a safety issue,
+      not just a cooking inconvenience.
+
+  - title: "Self-clean cycle locks the door and won't release"
+    description: |
+      Bosch wall ovens in newer Via Verde homes sometimes come out of a self-clean
+      cycle with the door latch assembly stuck closed. The lock motor activates but
+      the control board misreads the thermal cutout signal and keeps the latch
+      engaged. This hits Bosch 800 Series units and some Thermador models.
+
+      Occasionally a control board reset clears it. Sometimes the latch motor needs
+      replacing outright. Either way, don't force the handle — the latch mechanism
+      on Bosch built-ins strips under pressure, turning a $120 motor swap into a
+      $380 assembly replacement.
+
+faq:
+  - q: "How fast can you get to La Verne for oven repair?"
+    a: |
+      Coming off the I-210, we're typically in 91750 within 45 minutes of your
+      call. Same-day service is available most weekdays — call (323) 870-4790
+      to check open slots. Evening appointments work too if daytime isn't
+      an option.
+
+  - q: "Do you repair Bosch and KitchenAid ovens in this area?"
+    a: |
+      Both are common in La Verne. Bosch wall oven repairs usually involve door
+      latch assembly failures, control board resets, or broiler element burnouts.
+      KitchenAid calls tend to be bake element or igniter replacements.
+
+      Samsung and LG ranges in 91750 frequently throw F9 and E1 error codes tied
+      to gas ignition circuits — usually a valve assembly issue, not the control
+      board. We carry igniter parts for most common models on the van. Thermador
+      built-ins are in rotation too, mostly in the newer Via Verde and Marshall
+      Canyon neighborhoods.
+
+  - q: "What does oven repair cost, and how does the process work?"
+    a: |
+      Diagnostic fee is $75, credited toward the repair. A heating element
+      replacement runs $150–$250 depending on the model. Gas igniter swaps are
+      in the same range. Most parts are on the van — same-day repair is standard.
+
+      For Thermador and Bosch built-ins, some parts require a next-day order.
+      The diagnostic visit still happens same-day, though, so you know exactly
+      what's wrong and what it costs before committing. Emergency slots and
+      evening appointments are available — call (323) 870-4790.
+
+  - q: "My oven display went blank — is that a board failure?"
+    a: |
+      Often yes, but not always. A blank or frozen display on KitchenAid and
+      Samsung ranges can be a control board failure, or it can be a loose ribbon
+      cable connection behind the panel — identical symptoms, very different cost.
+      We check the ribbon first.
+
+      If it is the board, expect $200–$400 for parts on most residential models.
+      Bosch and Thermador boards run higher. Describe the symptoms when you call
+      and we can usually tell you on the phone whether it's worth a same-day
+      diagnostic visit.

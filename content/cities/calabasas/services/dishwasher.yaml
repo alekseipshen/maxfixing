@@ -1,0 +1,106 @@
+title: "Calabasas Dishwasher Repair — Built-In Miele & Bosch Specialists"
+
+intro: |
+  The Oaks and Mountain Gate communities in 91302 are packed with panel-ready Miele and
+  Bosch units — the kind that don't tolerate generic service calls. Calabasas tap water
+  runs 300–340 ppm hardness, and those mineral deposits hit spray arm nozzles hard inside
+  any dishwasher, premium or budget. A clogged spray arm looks like a control board fault
+  until someone actually pulls the lower rack and checks.
+
+  Most calls in this zip code aren't random breakdowns. They're predictable failures from
+  hard water interacting with specific components — the circulation pump, the turbidity
+  sensor, the heating element — on machines that cost $1,200 to $4,000 new. Getting the
+  diagnosis right the first time matters.
+
+localContext: |
+  The gated communities off Las Virgenes Road were built mostly between 1985 and 2005,
+  which means most dishwashers sit in tight cabinet cut-outs sized for European-spec units.
+  Zip code 91372 — the Calabasas Park area near Mulholland Drive — trends toward built-in
+  panel-ready Thermador and Miele, and those units need manufacturer-specific diagnostic
+  cables, not guesswork. Older ranch homes closer to the 101 occasionally still have
+  Kenmore or Whirlpool from the original build.
+
+  Bosch 800 and 500-series dominate newer kitchens throughout The Commons area. KitchenAid
+  built-ins show up frequently in the single-story homes on Agoura Road. Each brand has its
+  own service mode sequence — there's no universal reset that works across all of them, and
+  anyone telling you otherwise hasn't worked on enough of them.
+
+commonProblems:
+  - title: "Mineral Buildup Blocking Spray Arms and Float Switches"
+    description: |
+      At 300+ ppm, Calabasas water turns spray arm nozzles into cement in 18–24 months.
+      On Miele G-series units, calcium deposits jam the float switch first — the machine
+      thinks there's standing water, kills mid-cycle, and throws a water intake fault.
+      The fix isn't a cleaning tablet. It's disassembling the spray arm and descaling
+      the float chamber by hand.
+
+      The same mineral crust that clogs spray arms also coats the turbidity sensor —
+      the small optical component that tells the machine how dirty the water is. A fouled
+      turbidity sensor runs the wash cycle longer than necessary or skips rinse phases
+      entirely. On Miele and Bosch, it's located behind the lower spray arm mount and takes
+      about 20 minutes to clean properly. Replacement is about $65 in parts if cleaning
+      doesn't recover it.
+
+  - title: "Door Latch Assembly Failures in Panel-Ready Units"
+    description: |
+      Panel-ready Bosch 800-series doors are heavier than standard — that extra weight
+      stresses the door latch assembly repeatedly until the plastic cam cracks. The
+      dishwasher won't register a closed door, so it refuses to start. Bosch throws
+      error E24 pointing toward drainage, but roughly 40% of the time the actual culprit
+      is the latch, not the drain pump.
+
+      The misread happens because a failed latch interrupts the door switch signal mid-fill,
+      which triggers a pump-out sequence the machine logs as a drain fault. Replacing the
+      latch mechanism itself runs $90–$130 parts and labor. Worth checking the wiring
+      harness at the hinge point too — repeated door flex cracks the insulation on those
+      leads in older installations.
+
+  - title: "Detergent Dispenser Solenoid Stuck on Thermador Units"
+    description: |
+      In Thermador Masterpiece dishwashers, the detergent dispenser solenoid sticks after
+      mineral crust builds around the actuator. The dispenser door fires at the wrong wash
+      phase — or not at all — and you get greasy plates on a "completed" cycle. Replacing
+      the dispenser module on a Thermador is a 45-minute job once you know the panel
+      removal sequence.
+
+      Hard water also accelerates failure in the water inlet valve on these units. A
+      partially blocked inlet valve drops fill pressure below the threshold the control
+      board expects, which throws E15 water sensor faults that look like a leak detection
+      problem. The actual fix is a $55 valve swap, not a floor pan inspection. Thermador's
+      diagnostic mode (press and hold the delay button sequence) confirms flow rate before
+      you pull anything apart.
+
+  - title: "Circulation Pump Noise on KitchenAid and Bosch Units"
+    description: |
+      A grinding or humming sound during the wash cycle usually points to the circulation
+      pump impeller. In hard-water areas like Calabasas, broken glass fragments or calcium
+      chips work into the pump housing and score the impeller blades. KitchenAid KDTM354
+      and similar models let you access the pump from inside the tub — no cabinet removal.
+      Bosch requires more disassembly. Either way, running a damaged impeller longer than
+      a week usually means replacing the whole pump assembly rather than just clearing
+      the obstruction.
+
+faq:
+  - q: "How fast can you get to Calabasas for dishwasher repair?"
+    a: |
+      From the 101/Las Virgenes interchange we're usually on-site within 90 minutes.
+      Same-day appointments available most weekdays. Call (323) 870-4790 to check morning
+      slots — Calabasas runs go faster before 11am when The Commons area isn't backed up.
+
+  - q: "Do you repair Miele, Thermador, and Bosch dishwashers?"
+    a: |
+      Yes — all three are the standard in The Oaks and Calabasas Park neighborhoods. Miele
+      jobs usually come in as drain pump failures or float switch calcium buildup. Thermador
+      Masterpiece units throw E15 water sensor faults and detergent dispenser solenoid
+      issues. Bosch 800-series door latch cracks are another regular call. KitchenAid
+      built-ins show up too, mostly with circulation pump noise or heating element failures
+      that leave dishes wet after a full cycle.
+
+  - q: "What does a dishwasher repair cost in Calabasas, and can you come the same day?"
+    a: |
+      Diagnostic visit is $85, credited toward the repair if you proceed. Most jobs —
+      drain pump swap, spray arm replacement, door latch, water inlet valve — land between
+      $150–$280 parts and labor combined. Premium brand parts (Miele, Thermador) run
+      higher, typically $200–$380 depending on the component. Evening slots available
+      Tuesday through Friday. If the unit is leaking onto hardwood floors, call
+      (323) 870-4790 and we treat it as urgent — usually there within 2 hours.

@@ -1,0 +1,79 @@
+title: "Cypress Range Repair — Gas Lines, Aging Homes, Same-Day Fixes"
+
+intro: |
+  Most of the residential grid in 90630 was built between 1963 and 1978, and those
+  original gas supply lines are still feeding kitchen ranges in thousands of homes
+  near Cypress Regional Park. A KitchenAid slide-in installed three years ago can
+  develop igniter problems traced straight back to low pressure from an aging shutoff
+  valve. Orange County hard water accelerates the process — mineral scale builds on
+  burner ports and thermocouple tips faster than most homeowners expect. Call
+  (323) 870-4790 — we cover Cypress same-day and are usually there within 2 hours.
+
+localContext: |
+  The 90630 housing stock runs almost entirely single-family tract homes — 1,200 to
+  1,800 square feet, kitchens that weren't designed for high-BTU freestanding ranges.
+  The Moody Street and Walker Street corridors have the densest concentration of these
+  1960s builds, and the original gas stub-outs in those kitchens are often 1/2-inch
+  line where modern slide-ins expect 3/4-inch for full BTU delivery. That pressure
+  mismatch shows up as weak simmer control or slow preheat on otherwise-healthy ovens.
+  Newer infill homes closer to Katella Avenue tend to run Bosch or Samsung slide-ins
+  where ventilation is better, but service access behind the range is still tight in
+  these original cabinet layouts. The Denni Street corridor has a higher density of
+  KitchenAid and Thermador installs — those jobs usually need a 90-minute window
+  because pulling the range requires moving a custom panel or disconnecting a built-in
+  downdraft duct.
+
+commonProblems:
+  - title: "Igniter Clicks Constantly But Won't Light — Common in 90630 Gas Ranges"
+    description: "Orange County's mineral-heavy water sends calcium deposits into
+    places you wouldn't expect, including burner caps and igniter tips on gas ranges.
+    The spark gap widens until ignition fails entirely. On older GE and Frigidaire
+    freestanding models, a corroded igniter electrode or a clogged burner port is
+    usually the culprit — both are same-day parts in most cases. Samsung glass-top
+    slide-ins in newer 90630 homes develop a second failure pattern: moisture under
+    the ceramic surface corrodes the spark module terminals, so the igniter clicks
+    continuously even when the burner knob is in the off position. Disconnecting the
+    module stops the clicking, but the underlying moisture path needs to be sealed or
+    it comes back within a few months."
+  - title: "Oven Heats Briefly Then Drops — Gas Valve Issue on Bosch and KitchenAid"
+    description: "A failing gas valve igniter assembly is the most common reason a
+    gas oven won't hold temperature. On Bosch 800 series models, the bi-metal safety
+    strip inside the valve weakens over time and cuts gas flow prematurely — you'll
+    see the oven cycle on briefly, then lose heat. The oven sensor probe should be
+    tested before ordering the valve; a resistance reading outside 1,080–1,090 ohms
+    at room temperature usually means the sensor is the actual fault, not the valve.
+    Thermal fuse integrity should be checked before condemning the valve assembly
+    outright. KitchenAid KFGG500ESS and similar models sometimes throw an F3/E1 error
+    code alongside this symptom — that code points to the oven temperature sensor
+    circuit, which narrows the diagnosis quickly."
+  - title: "Faint Gas Smell Near the Range — Samsung and LG Flex Line Connections"
+    description: "Loose fittings at the flex gas line or a cracked burner valve body
+    produce a faint sulfur odor, especially after hours of no use. On Samsung and LG
+    slide-in ranges, the gas valve body sits close to the control board; vibration
+    loosens connections gradually. Homes on the Moody Street corridor that were
+    re-piped with corrugated stainless steel tubing in the 1990s sometimes see micro-
+    cracks at the compression fitting where the CSST meets the range connector — that
+    joint is worth inspecting any time there's an unexplained odor. This isn't a
+    wait-and-see situation — call (323) 870-4790 and we'll bring a gas leak detector
+    same day."
+
+faq:
+  - q: "How fast can you get to Cypress for a range repair?"
+    a: "We run a regular Orange County route and typically reach 90630 within 2 hours.
+    Katella Avenue and the 605 give us a straight shot from most of our service area.
+    Evening slots are available most weekdays — useful if you can't be home during
+    the day. Call (323) 870-4790 or schedule online."
+  - q: "Do you repair Bosch and KitchenAid ranges in Cypress homes?"
+    a: "Both are common in this area and we stock parts for them. Bosch jobs usually
+    involve the gas valve igniter assembly or a control board relay. KitchenAid
+    problems tend to be the bake igniter, oven sensor, or a worn surface burner
+    valve that locks one burner at full flame no matter where the knob sits.
+    Thermador comes up occasionally in higher-end homes near the Denni Street
+    corridor — those repairs require the manufacturer diagnostic cable to read live
+    sensor data, which we carry."
+  - q: "What does range repair cost, and is there a diagnostic fee?"
+    a: "Diagnostic fee applies toward the repair if you proceed. Most igniter and
+    burner fixes run $150–$280 parts and labor. Gas valve replacements on mid-range
+    Bosch or Samsung models typically land between $220 and $350 depending on part
+    availability. Same-day service is standard — if we can't finish in one visit,
+    we'll explain exactly why and what comes next. No runaround."

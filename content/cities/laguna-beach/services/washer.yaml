@@ -1,0 +1,82 @@
+title: "Laguna Beach Washer — Salt Air, Hard Water, Tight Laundry Spaces"
+
+intro: |
+  Salt air off Heisler Park accelerates rust on washer internals faster than most
+  inland cities see in a decade. That Miele front-loader tucked into a narrow laundry
+  closet in a 1960s beach cottage off Cress Street? Moisture does damage you can't
+  see until the drum bearing starts grinding mid-cycle. The corrosion works quietly
+  on control board traces and door latch contacts too — until it doesn't. Call
+  (323) 870-4790 — we cover Laguna Beach and usually arrive within 2 hours of your call.
+
+localContext: |
+  Most of the housing in 92651 splits between 1950s–1970s beach cottages — many
+  with laundry hookups added after the fact — and newer hillside luxury builds in
+  neighborhoods like Top of the World and Three Arch Bay. Older properties often
+  run compact 24-inch or stackable machines in spaces that weren't designed for
+  them. The tight clearances slow down every repair, but they're also exactly why
+  panel-ready Bosch and Miele units ended up here in the first place.
+
+  Three Arch Bay and Emerald Bay gated communities lean heavily toward panel-ready
+  Miele and Bosch units that blend into custom cabinetry — which means pulling the
+  unit for any drum or bearing work requires removing trim panels that don't have
+  obvious release points. Technicians who haven't done it before damage the finish.
+  Up the hill in Top of the World, homes built in the 2000s often have dedicated
+  laundry rooms with full-size front-loaders, but the PCH access and canyon roads
+  mean our van logistics differ from a flat Valley city. We know the routes.
+
+  Orange County Municipal Water District water running through Laguna Beach tests
+  consistently hard — 300–400 mg/L total dissolved solids in peak summer months.
+  That mineral load hits washers harder than most homeowners expect. Scale builds
+  inside inlet valve screens in under a year on high-use machines.
+
+commonProblems:
+  - title: "Mineral Scale Choking the Drain Pump — OC Hard Water Does This Fast"
+    description: "Orange County water ranks among the harder supplies in Southern California, and
+      Laguna Beach draws from the same distribution. Calcium deposits pack into the drain pump
+      housing and screen the water inlet valve within 18–24 months of regular use. Bosch
+      front-loaders in 92651 frequently throw E18 or E23 error codes for exactly this reason —
+      and ignoring it burns the pump motor out completely. The fix involves pulling the pump,
+      flushing scale from the impeller housing, and replacing the inlet valve screen. Skipping
+      the inlet valve while you're in there means you're back to the same problem in a year."
+  - title: "Drum Bearing Failure in Compact Stacked Units Near the Coast"
+    description: "The stackable 24-inch washers common in older beach cottages take more mechanical
+      stress per cubic foot than full-size machines in a dedicated laundry room. A worn drum
+      bearing announces itself as a grinding or rumbling noise that gets louder at high spin
+      speed. Miele and Bosch compact units use sealed bearing assemblies behind the full drum
+      — there's no shortcut on that repair, and running it longer cracks the drum spider. Once
+      the spider cracks, you're replacing the entire outer drum assembly, not just the bearing.
+      That's a $600+ repair versus a $280 bearing job if you catch it at the noise stage."
+  - title: "Door Lock Assembly and Control Board Failures from Coastal Humidity"
+    description: "Persistent marine moisture corrodes the control board contacts and the door latch
+      assembly on front-load machines over time. The symptom: the LG or Bosch washer fills with
+      water, then stalls and throws a door lock error mid-cycle — it won't advance to wash. A
+      power reset clears it temporarily. That's the control board losing communication with the
+      latch actuator, and it gets worse until one of them fails completely. On Miele W1 units
+      the fault shows as F138 or F53 — the machine locks the door and refuses to start. Replacing
+      just the latch actuator without inspecting the board connector pins usually means a callback."
+
+faq:
+  - q: "How fast can you get to Laguna Beach for washer repair?"
+    a: "Laguna Beach sits on our regular PCH route from south Orange County — typically
+      25–35 minutes from our closest technician. Call (323) 870-4790 before noon and
+      same-day service is usually available, evening slots included. Schedule online
+      if that's easier."
+  - q: "Do you repair Miele and Bosch washers in Laguna Beach?"
+    a: "Both are common in the hillside homes around Top of the World and the newer
+      builds near Three Arch Bay. Miele W1 series and Bosch 500/800 series are the
+      ones we see most — drum bearing replacement, drain pump cleaning, control board
+      diagnosis, water inlet valve swap. All covered. Bosch 800 series units with the
+      HomeConnect module sometimes need a firmware reset alongside the physical repair
+      — we carry the diagnostic cable for that."
+  - q: "What does washer repair cost here, and is same-day service available?"
+    a: "Drain pump cleaning or inlet valve replacement usually runs $130–190 parts and
+      labor. Drum bearing replacement on a compact unit is $260–360 depending on
+      model access. Same-day service is available most days — call (323) 870-4790
+      to confirm a slot, or book online for a morning window."
+  - q: "My washer is making a loud noise during spin but still finishing cycles — is that serious?"
+    a: "Loud spin noise in a front-loader is almost always the drum bearing or the shock
+      absorbers. On a coastal property in 92651, saltwater humidity speeds up bearing
+      corrosion significantly — a bearing that might last 8 years inland can go in 4–5
+      here. Finishing the cycle doesn't mean it's fine; it means the bearing hasn't seized
+      yet. Call (323) 870-4790 and describe the noise — we can usually tell you on the
+      phone whether it's urgent or a schedule-when-convenient repair."
