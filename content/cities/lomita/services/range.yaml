@@ -1,0 +1,37 @@
+title: "Lomita Range Repair — Postwar Kitchens, Gas Lines Done Right"
+
+intro: |
+  About two-thirds of Lomita's housing went up between 1950 and 1975 — ranch style, tight kitchens, gas hookups that have been in the wall since Eisenhower. Those layouts were built around a standard 30-inch range, and most still have one. That Whirlpool or GE that's been in the kitchen for two decades eventually hits a wall: the igniter stops sparking, the oven thermostat drifts, or a burner valve starts weeping gas. That's not a DIY situation. Gas lines in homes this age often run 1/2-inch black iron with older flex connectors — pulling a range for access takes care, not just muscle.
+
+localContext: |
+  The 90717 zip runs mostly single-family residential — 1950s and '60s builds on streets between Lomita Boulevard and the area around the Railroad Museum off Woodward Avenue. Gas hookups are the norm here; electric ranges are the outlier. Older homes sometimes have flex connectors that haven't been touched since the Carter administration, which matters when pulling a range out for access. Low kitchen clearances are common — we factor extra time into every estimate upfront.
+
+  Proximity to the harbor matters more than people think. The marine layer rolls in off the water regularly, and the salt-laden air accelerates corrosion on igniter terminals, burner valves, and control board connectors. Homes closer to Western Avenue and 25th Street see this more than properties near the inland edge of the zip. A range that's been sitting in a drafty kitchen six blocks from the harbor will have different failure patterns than the same model in Torrance five miles north.
+
+commonProblems:
+  - title: "Gas Burner Clicks Endlessly But Won't Ignite"
+    description: |
+      Marine layer off the harbor leaves moisture on burner components regularly, and Lomita sits close enough to the coast that this is a recurring pattern. The ceramic igniter tip cracks or the spark module corrodes, producing that maddening clicking with no flame. On Whirlpool and GE gas ranges, the spark electrode assembly sits under the burner cap — accessible, but you need to pull the grate and lift the cooktop panel to swap it properly. Sometimes the problem is simpler: a cracked burner cap lets grease seep into the electrode well and shorts the spark path. We check both before ordering parts.
+
+  - title: "Oven Runs Cold or Never Reaches Set Temperature"
+    description: |
+      On gas ovens, a degraded oven igniter is usually the culprit — it draws less current than the gas valve requires to open, so the burner never lights. Samsung gas ranges will throw an F-3 code before the oven fails completely, which gives at least some warning. Igniter replacement is a straightforward repair if you have the right part on the truck; we carry common sizes for Samsung and Whirlpool models.
+
+      LG gas ranges sometimes present differently: the igniter reads okay on a meter but fails under thermal load. The gas valve solenoid coil is the next suspect — a $60 part that prevents a $400 board misdiagnosis. Always worth testing the valve before condemning the control board.
+
+  - title: "Control Panel Freezes or Display Goes Dark Mid-Cook"
+    description: |
+      The electronic control board on KitchenAid and Bosch slide-in ranges doesn't handle repeated heat cycling well, especially combined with coastal humidity. Capacitors degrade, the membrane switch overlay cracks from grease and wear, and buttons stop responding or the display locks up. Before ordering a full board — which runs $200–$400 in parts alone — we test the board and membrane switch separately. It's often one, not both. GE ranges occasionally throw an F7 error tied to the membrane switch rather than the board itself; replacing just the overlay brings the panel back for a fraction of full board cost.
+
+faq:
+  - q: "How fast can you get to Lomita for a range repair?"
+    a: |
+      We run the South Bay corridor daily — Torrance, Harbor City, then down Western Avenue into 90717. From our nearest tech's location you're usually looking at under 2 hours. Call (323) 870-4790 or book online; morning slots open same-day more often than not.
+
+  - q: "Do you repair Samsung and LG ranges in Lomita?"
+    a: |
+      Yes, and we stock common failure parts for both. Samsung gas ranges in this zip mostly come in with igniter switch failures or warped burner caps from high heat. LG glass-top models usually need a ceramic surface replacement or control board swap. Whirlpool and GE are the highest-volume repairs in 90717 by a wide margin.
+
+  - q: "What does a range repair visit cost, and how does the process work?"
+    a: |
+      Diagnostic fee covers the inspection; approve the repair and that fee folds into the total. Most igniter and thermostat jobs land between $150–$280 parts and labor. Gas valve or control board work runs higher. If we pull the range and find the original flex connector is cracked or kinked, we'll flag it before reconnecting — that's not an upsell, that's basic safety on a 50-year-old gas line. Evening and weekend slots are available — call (323) 870-4790 for same-day or emergency appointments.

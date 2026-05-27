@@ -1,0 +1,97 @@
+title: "Lomita Oven Repair — South Bay Fixes, 90717 Same-Day"
+
+intro: |
+  Ranch homes along Narbonne Avenue and the streets off Western Avenue make up
+  most of 90717 — kitchens that got a Samsung or GE range upgrade at some point
+  and are now throwing E1 errors or baking everything unevenly. The broiler that
+  ignites on the third try, the self-clean cycle that bricks the door lock —
+  these are the calls we get from Lomita weekly.
+
+  South Bay routes run daily. We're usually at your door within 2 hours of calling (323) 870-4790.
+
+localContext: |
+  The bulk of Lomita's housing stock dates from the 1950s and early 1960s —
+  post-war ranch builds with standard 30-inch freestanding ranges, occasionally
+  a wall oven if someone renovated in the 1980s. Gas hookups are common
+  throughout 90717, which means gas range repair is a regular part of South Bay
+  service work. Newer Whirlpool and LG slide-ins sit alongside units that have
+  been running 20-plus years and are starting to show it.
+
+  A lot of these older kitchens have tight clearances. Getting to the control board
+  on a freestanding range when it's wedged against tile counters takes patience.
+  Not every tech bothers to move the unit out correctly — scratched floors, cracked
+  anti-tip brackets. We do it right.
+
+  The income bracket here skews toward mid-range appliances. KitchenAid and Bosch
+  show up often in homes that got a kitchen refresh in the 2010s. GE Profile and
+  Samsung slide-ins are everywhere. Occasionally a Whirlpool that's been running
+  since the Clinton administration, still going, but the control board is starting
+  to misread the temperature probe.
+
+commonProblems:
+  - title: "Bake element burnout on aging GE and Whirlpool ranges"
+    description: "GE and Whirlpool freestanding ranges from the early 2000s are still all over
+      Lomita — and the lower bake element is the first thing to go. It blisters,
+      cracks, or just dies, and the oven stops reaching temperature. Sometimes you'll
+      see visible scorching on the element itself. Sometimes it just trips the thermal
+      fuse silently and the oven reads a normal preheat temp but never gets there.
+
+      Replacement is straightforward, but the part number matters: smooth-top and
+      coil-element models use entirely different heating elements. Getting this wrong
+      means a second service call. On older GE Profile models, always check the bake
+      element connector terminals too — they corrode and cause intermittent failures
+      that look like control board issues but aren't."
+
+  - title: "Self-clean door latch failure on Samsung slide-ins"
+    description: "Samsung's slide-in ranges sell well in South Bay kitchen updates, but the
+      door latch assembly on the self-clean function is a documented weak point.
+      The oven locks at 500°F, finishes the cycle, then refuses to release — or
+      locks and won't start at all. A failed door lock motor or tripped thermal
+      limiter is almost always the cause.
+
+      The error codes to watch for are C-d0 and C-F1. C-d0 means the control
+      board isn't getting a confirmation signal from the latch motor. C-F1 usually
+      points to a temp sensor reading out of range during the self-clean cycle —
+      sometimes the sensor itself, sometimes a wiring harness connection that cooked
+      loose. Not a reason to replace the range."
+
+  - title: "Gas broiler won't light on KitchenAid and LG gas models"
+    description: "Lomita runs a lot of gas appliances, and broiler igniter failure is one of
+      the most common oven calls we handle here. On KitchenAid and LG gas ranges,
+      a degraded igniter stops drawing enough current to open the gas valve — you
+      hear clicking, maybe a delayed pop, but no sustained flame.
+
+      Igniters should pull around 3.2 amps; below 2.5 and the valve won't open.
+      That's why the burner glows orange for 30 seconds and then nothing — the igniter
+      looks functional but can't do its actual job. On LG gas models specifically,
+      the broiler igniter runs on a separate circuit from the bake burner, so a dead
+      broiler with a working bake function almost always means the broiler igniter
+      alone. New igniter, fixed. Usually same-day on these — we stock the common LG
+      and KitchenAid igniter assemblies."
+
+faq:
+  - q: "How fast can you get to Lomita for oven repair?"
+    a: "South Bay routes run through Torrance and Harbor City daily, so Lomita is
+      usually 20–30 minutes out. Same-day slots open most mornings — sometimes
+      we can be there the same afternoon if you call before noon. Call
+      (323) 870-4790 and we'll tell you exactly when the next available window is.
+      In most cases we're at your door within 2 hours of booking, and evening
+      appointments are available too for people who can't take time off work."
+
+  - q: "Do you repair Samsung and Whirlpool ovens in the Lomita area?"
+    a: "Both are among the most common brands we see in 90717. On Samsung, door
+      latch assemblies and control boards are the top repairs — the SE error code
+      on older Samsung ranges usually means a shorted keypad membrane, not a board
+      replacement. Whirlpool calls usually involve heating elements or a faulty
+      igniter on gas models. LG temperature sensor failures are frequent too —
+      F3 error code, oven won't hold temp. Parts for all three typically in stock."
+
+  - q: "What does oven repair cost in Lomita, and is same-day service available?"
+    a: "Most repairs run $150–$350. Heating elements and igniters land on the lower
+      end; control boards push higher. Diagnostic fee is flat-rate and credited
+      toward the repair if you proceed.
+
+      Same-day and evening slots are available. Call (323) 870-4790 or schedule
+      online to lock in a time. For urgent calls — oven dead the day before a
+      family dinner — mention that when you book and we'll do our best to
+      prioritize the slot."

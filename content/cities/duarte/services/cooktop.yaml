@@ -1,0 +1,90 @@
+title: "Duarte Cooktop Repair — Same-Day Along the 210 Corridor"
+
+intro: |
+  Most kitchens in Duarte's 91010 zip got their last appliance upgrade somewhere between
+  2005 and 2015 — that's when Bosch and KitchenAid cooktops started showing up in the
+  ranch homes along Royal Oaks Drive and around Huntington Drive. A spark module that's
+  12 years old tends to fail quietly: one day the igniter clicks, next day it doesn't.
+  Call (323) 870-4790 and we're usually there the same day, often within 2 hours.
+
+  Gas and induction both need different diagnostic approaches. Don't assume the burner
+  is the problem just because it won't light — half the time the issue is upstream in the
+  spark module or gas valve solenoid.
+
+localContext: |
+  Duarte's housing runs mostly 1950s through 1980s — post-war ranch homes with kitchens
+  that have been remodeled at least once, usually with slide-in or drop-in cooktops. Zip
+  91010 covers the neighborhoods from the 210 freeway corridor up into the foothills,
+  where homeowners have upgraded to Thermador or KitchenAid units over the last decade.
+  Tight kitchen layouts in older homes sometimes mean removing a lower cabinet panel just
+  to reach the gas line or the ceramic cooktop wiring underneath.
+
+  The foothills side of Duarte — up past Encanto Parkway toward the Angeles National Forest
+  boundary — has larger lots and bigger kitchens. Sub-Zero and Thermador built-ins are more
+  common up there than on the flatter blocks closer to the 210. Those installs are tighter
+  against cabinetry, which matters when you're pulling a cooktop to access the control board.
+
+  Hard water from the San Gabriel Valley Municipal Water District leaves mineral deposits
+  in burner ports and around igniter tips faster than most homeowners expect. That crust
+  looks harmless but it absorbs moisture overnight and corrodes the igniter electrode tip.
+  One thorough cleaning won't fix it permanently — you eventually need to replace the
+  ceramic igniter assembly entirely.
+
+commonProblems:
+  - title: "Burner Won't Light After Summer Grill Season Ends"
+    description: "Duarte regularly hits 95°F+ from June through September, and a lot of households switch
+      to the outdoor grill. Gas cooktops that sit unused for months tend to develop igniter issues —
+      grease bakes onto the ceramic igniter tip and blocks the spark. On Bosch models, the spark
+      module itself can degrade and knock out multiple burners at once, not just the one you
+      actually used last.
+
+      LG gas cooktops in this situation sometimes throw a false ignition signal — the spark
+      fires but the gas valve solenoid doesn't open fully. That's a different fix than a fouled
+      igniter. Replacing the solenoid on an LG five-burner runs about 45 minutes with the
+      right tools, and the part is usually on the van."
+
+  - title: "Cracked Ceramic Surface from Thermal Stress"
+    description: "San Gabriel Valley summers mean constant temperature swings indoors too. A Samsung or
+      LG induction cooktop with a hairline crack along the edge usually traces back to a heavy
+      pot dropped during a cleanup — but heat stress accelerates any existing fracture over time.
+      The glass panel has to match the original manufacturer spec exactly; generic replacements
+      rarely align with the control board cutouts underneath.
+
+      Samsung induction models from 2017 to 2021 have a known tolerance issue with the glass
+      mounting clips — the crack often originates at a clip point, not the center. Spotting
+      that early changes the repair scope entirely. A surface that looks cracked from impact
+      might actually be a mounting failure, which is a cheaper fix."
+
+  - title: "Uneven Heat and E-Code Errors on Premium Brands"
+    description: "Thermador cooktops in the larger homes near the Encanto area sometimes throw an E3
+      or F2 error after a power surge on the local grid. That usually means a failing control
+      board, not the burner assembly itself. The Star Burner series requires model-specific
+      board programming — it's not a part you swap blind and hope works.
+
+      KitchenAid five-element induction units running firmware before 2019 can display an
+      F7 fault that looks like a board failure but is actually a loose ribbon cable between
+      the control panel and the main PCB. Reseating it takes ten minutes. A board replacement
+      on the same unit runs $340 in parts — worth diagnosing before ordering anything."
+
+faq:
+  - q: "How fast can you get to Duarte for cooktop repair?"
+    a: "The 210 runs right through our regular corridor between Pasadena and Azusa — Duarte is
+      a quick exit off Huntington Drive with easy residential parking. Call (323) 870-4790 and
+      we can usually be there the same day. Before noon most days gets you a same-afternoon slot.
+
+      Evening appointments on weekdays work too. If you're on the foothills side of 91010,
+      add a few minutes for surface street access — still same-day in most cases."
+
+  - q: "Do you repair Bosch and KitchenAid cooktops in Duarte?"
+    a: "Both are common in this neighborhood. Bosch jobs usually involve the spark igniter or gas
+      valve components. KitchenAid slide-ins after 8-10 years often need the control board or a
+      surface element replaced. We stock common parts for both and carry them on the van.
+
+      Bosch 500 and 800 series induction cooktops from 2016-2020 have a specific heating
+      element connector that corrodes faster than later revisions — if you're seeing uneven
+      zones on a Bosch, that's usually the culprit before the board itself goes."
+
+  - q: "What does cooktop repair cost, and do you offer same-day appointments?"
+    a: "Diagnostics run $75, applied toward any repair. Most igniter and gas valve fixes land
+      between $120 and $220 parts and labor. Same-day slots available most days — evening
+      appointments too on weekdays. Text or call (323) 870-4790 to check what's open."

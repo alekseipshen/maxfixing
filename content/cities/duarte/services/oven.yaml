@@ -1,0 +1,83 @@
+title: "Duarte Oven Repair — SGV Ranch Kitchens & Modern Upgrades"
+
+intro: |
+  City of Hope anchors the north end of Duarte, and the residential streets
+  south of Huntington Drive are a patchwork of 1950s ranch homes and kitchens
+  that got updated somewhere between then and now — a KitchenAid double wall
+  oven fitted where the old single electric used to sit, a Bosch slide-in
+  replacing a coil-top that finally gave out. SGV summers mean appliances work
+  harder than they do closer to the coast. Uneven heat, bake elements that
+  won't glow, oven doors that lock up after a self-clean cycle — those are the
+  calls we get out of 91010 regularly. Usually there within two hours; call
+  (323) 870-4790.
+
+localContext: |
+  Zip code 91010 runs from the 210 freeway corridor south through flatland
+  blocks built out between the mid-1950s and early 1970s. A lot of those
+  original ranch kitchens have cabinet openings sized for 24" or 27"
+  appliances — retrofitting a modern 30" double wall oven means measuring
+  carefully, sometimes ordering a trim kit, occasionally doing minor cabinet
+  work before touching the electrical side. Closer to Vineyard Avenue and the
+  subdivisions near the Monrovia border, kitchens tend to be more recently
+  renovated: Bosch slide-ins and Samsung glass-top ranges with their own
+  control board failure patterns.
+
+commonProblems:
+  - title: "Oven Won't Hold Temperature — RTD Sensor or Bake Element Failure"
+    description: |
+      KitchenAid double wall ovens are common in these 91010 renovations, and
+      the top complaint is temperature drift — set to 350°F, bakes at 390°F,
+      or cycles so unevenly one rack scorches while another undercooks. The RTD
+      temperature sensor is usually the culprit. It reads resistance
+      proportional to heat; when it drifts out of spec, the control board
+      under- or over-fires the bake element. A quick resistance test with a
+      multimeter confirms it. Parts run $25–$45; total repair typically under
+      $200.
+
+  - title: "Self-Clean Cycle Ends — Door Locked Shut, Won't Release"
+    description: |
+      Bosch and Samsung ranges both use a motor-driven door latch assembly for
+      self-clean lockout. The oven has to cool below roughly 550°F before the
+      control board signals the latch motor to retract. If the thermal fuse
+      blows during the high-heat phase — the cavity hits close to 900°F — the
+      board loses its temperature reference and the door stays locked
+      indefinitely. Thermal fuse replacement is a $15 part. The tricky part is
+      access: it sits behind the rear panel on most models. Full repair takes
+      about 45 minutes on-site.
+
+  - title: "Broiler Fires Fine — Bake Mode Is Completely Dead"
+    description: |
+      On LG ranges, the bake element and broil element run on entirely separate
+      circuits, so one can fail while the other works normally. A dead bake
+      element usually shows visibly — a crack or blister in the coil, sometimes
+      a scorch mark on the cavity floor beneath it. On Thermador wall ovens the
+      diagnosis goes one step further: the relay board controlling the bake
+      circuit needs testing before swapping the element, because a failed relay
+      burns out a new part within weeks. We test the relay first.
+
+faq:
+  - q: "How fast can you get to Duarte for oven repair?"
+    a: |
+      San Gabriel Valley routes run daily. Duarte is a straight shot off the
+      210 — no complicated hillside access or HOA gate logistics. For 91010
+      calls we can usually confirm a same-day window within an hour. Call
+      (323) 870-4790 early for a morning slot; evening appointments typically
+      open up by midday.
+
+  - q: "Do you service KitchenAid and Bosch wall ovens in Duarte?"
+    a: |
+      Yes — KitchenAid wall ovens and Bosch slide-ins are the two most common
+      oven calls we get in 91010. Thermador built-ins, LG ranges, and Samsung
+      glass-top ranges also come up regularly. For the high-frequency failures
+      — KitchenAid heating elements, Bosch control boards, Samsung door latch
+      assemblies — we carry stock on the van, which usually means diagnosis and
+      repair in one visit.
+
+  - q: "What does oven repair cost in Duarte, and how does the process work?"
+    a: |
+      Diagnostic visit is $85, credited toward the repair if you proceed. Bake
+      or broil element replacements run $130–$200 all-in for most brands.
+      Control board swaps on Bosch or KitchenAid range from $250–$420
+      depending on model year. Quote before we touch anything — no surprises.
+      Same-day and next-morning slots are available; call (323) 870-4790 to
+      check the schedule.

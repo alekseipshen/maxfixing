@@ -1,0 +1,89 @@
+title: "Duarte Washer Repair — SGV Hard Water Kills Machines Fast"
+
+intro: |
+  Hard water in Duarte's municipal supply tests above 350 ppm — among the worst mineral
+  loads in the San Gabriel Valley. That LG front-loader sitting in a 1960s ranch off
+  Royal Oaks Drive is fighting scale buildup every single cycle. Water inlet valves
+  calcify, drain pumps choke on sediment, and by the time 5E or OE error codes appear
+  on the display, the damage has usually been building for months.
+
+  Bosch and KitchenAid units — common upgrades in the $82K+ income bracket along
+  Highland Avenue — handle hard water slightly better than budget models, but their
+  control boards and door latch assemblies still take the hit from mineral-heavy supply
+  lines. Catching a failing drain pump at the noise stage rather than the flood stage
+  is the difference between a $200 repair and pulling the machine entirely.
+
+localContext: |
+  Most of Duarte's housing stock in the 91010 zip is postwar ranch-style — slab
+  foundations, tight laundry closets, and original utility hookups that weren't roughed
+  in with modern front-loaders in mind. The homes in the Rancho Duarte neighborhood
+  and along Buena Vista Street date mostly from the 1950s through early 1970s. Older
+  drain lines here restrict flow enough that a borderline drain pump becomes a dead
+  one far ahead of its rated lifespan.
+
+  Some of the newer construction near Duarte Road and the 210 interchange has wider
+  utility chases, but even there the supply water is the same. City of Industry's
+  distribution network feeds much of this corridor, and the mineral content doesn't
+  change based on how new the house is. A Samsung WF45 installed last year faces the
+  same inlet valve calcification timeline as the LG unit that's been in place since 2015.
+  The difference is the newer machine throws cleaner error codes — the OE or 5E flag
+  appears sooner, which actually helps us diagnose faster.
+
+commonProblems:
+  - title: "Mineral Scale Seizing Drain Pumps Before Their Time"
+    description: "Duarte's hard water coats the drain pump impeller with calcium deposits
+      over time — the motor strains harder each cycle, then burns out. Samsung front-loaders
+      throw 5E; LG units show OE. Both point to the same failing pump. At those mineral
+      levels, it's not if the pump goes, it's when. On a Samsung, the pump housing itself
+      sometimes cracks from thermal stress when the motor is overworking. That's a messier
+      job — the drum has to come partway out — but still repairable in one visit if we
+      have the part on the truck."
+  - title: "Drum Bearing Wear From Slab Settlement Vibration"
+    description: "Ranch slabs in this area settle unevenly over decades, and a washer
+      that isn't perfectly level beats its rear drum bearing to death faster than normal.
+      That grinding roar during the spin cycle on a Bosch or KitchenAid unit is almost
+      always the bearing — and catching it at the knocking stage costs a fraction of
+      waiting until the basket drags. A dragging basket means the spider arm has likely
+      cracked too. On Bosch 500-series machines, the spider and bearing are replaced
+      together — separate parts, but the labor overlap makes it smart to do both at once."
+  - title: "Water Inlet Valve Failures Causing Incomplete Fill"
+    description: "Hard water narrows the inlet valve's internal screens with mineral
+      deposits until the washer can't pull a full load of water. LG's FE error and
+      Bosch's F23 fault trace back to this valve constantly in high-hardness zip codes
+      like 91010. A straightforward valve swap — usually done in under an hour — gets
+      the cycle filling correctly again. KitchenAid top-loaders show this as an extended
+      fill time before the machine eventually errors out rather than throwing a clean
+      fault code, which sometimes leads homeowners to misdiagnose it as a control board
+      issue. It's almost never the board. Check the valve screens first."
+  - title: "Shock Absorber Failure on Heavy Spin Cycles"
+    description: "Front-loaders in tight laundry closets — and Duarte has plenty of
+      those in the ranch-style homes off Huntington Drive — walk across the floor on
+      worn shock absorbers. The machine isn't out of balance; the dampers are shot.
+      LG and Samsung both use bolt-on rear shock assemblies that are straightforward
+      to replace. Ignoring it accelerates drum bearing wear and eventually cracks the
+      tub. The early sign is a banging noise that only shows up during high-speed spin,
+      not during wash or rinse."
+
+faq:
+  - q: "How fast can you get to Duarte for washer repair?"
+    a: "Usually there within 2 hours of your call. The 210 freeway gives us a straight
+      shot from both the Pasadena corridor and the Azusa side. Call (323) 870-4790 or
+      schedule online — same-day slots are typically open."
+  - q: "Do you repair Bosch and LG washers specifically?"
+    a: "Yes — Bosch, LG, and Samsung account for the majority of our Duarte calls. We
+      stock common parts for all three: inlet valves, drain pumps, door latch assemblies,
+      control boards. Most jobs close on the first visit. KitchenAid and Whirlpool
+      top-loaders are also common in 91010 — lid switch and drive belt jobs on those
+      are usually same-day as well."
+  - q: "What does washer repair cost in Duarte, and how does the process work?"
+    a: "Diagnosis is free when you commit to a repair. Drain pump and inlet valve jobs
+      typically run $150–$280 all in — you get the number before we touch anything.
+      Drum bearing replacement runs higher, usually $280–$420 depending on the model,
+      because the labor is heavier. Evening and weekend slots are available. Call
+      (323) 870-4790 for same-day service."
+  - q: "Is it worth repairing an older washer or should I just replace it?"
+    a: "Depends on the machine. A 6-year-old LG or Bosch with a failed drain pump is
+      worth fixing — those machines have another decade in them if the drum and motor
+      are sound. A 12-year-old Whirlpool top-loader with a cracked basket and a dead
+      control board is probably not. We'll tell you straight on the diagnosis call
+      rather than push you into a repair that doesn't make financial sense."

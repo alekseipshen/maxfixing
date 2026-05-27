@@ -1,0 +1,99 @@
+title: "Calabasas Freezer — Built-In & Sub-Zero Repair in 91302"
+
+intro: |
+  Those gated communities off Las Virgenes Road were designed around premium kitchen appliances
+  from day one — Sub-Zero column freezers, Thermador panel-ready units built flush into custom
+  cabinetry.
+
+  A freezer drifting off temp in a 91302 home isn't just an inconvenience; it's a few hundred
+  dollars of Wagyu and organic produce at stake. The 101 corridor from Agoura Road to the
+  Commons shopping center is our regular run — same-day appointments are available most days,
+  and we're usually on-site within 2 hours of your call.
+
+  Built-in diagnostics take longer than freestanding units. Panel removal, cabinet clearance
+  checks, and refrigerant pressure reads all come before we even confirm the fault. That's
+  just what working with premium appliances in custom kitchens requires.
+
+localContext: |
+  Most of Calabasas's housing stock went up between the late 1980s and early 2000s — custom
+  builds and tract homes in developments like The Oaks, Calabasas Park, and Mountain View
+  Estates. Kitchens were planned around built-in appliances from the start, meaning panel
+  removal and cabinet clearance come before any freezer diagnosis even begins.
+
+  Sub-Zero 700-series units from the 1990s are extremely common in this zip. Parts
+  availability is solid, but the diagnostic still takes longer than a freestanding unit
+  because the evaporator compartment sits behind insulation panels that have to come out.
+  Viking built-in freezers from the same era have similar access requirements — compact
+  compressor compartments that need proper lighting and a magnetic thermometer, not just a
+  quick visual check.
+
+  Calabasas sits in the western San Fernando Valley where summer temperatures regularly
+  crack 100°F. That ambient heat load matters: a freezer that holds -5°F in January may
+  struggle to stay at 10°F in August, even with no mechanical fault. Understanding the
+  difference between a climate-related symptom and an actual compressor or fan failure
+  saves homeowners from unnecessary part replacements.
+
+  Miele and Wolf built-in units are increasingly common in newer builds near Lost Hills Road.
+  These require model-specific firmware reads to pull fault codes — a generic multimeter
+  approach won't surface a control board issue on a Miele column freezer.
+
+commonProblems:
+  - title: "Freezer Temperature Rising During Summer — Valley Heat Overload"
+    description: "San Fernando Valley heat hits 100°F-plus from June through September, and a
+      freezer's condenser fan motor takes the brunt of it. Sub-Zero column freezers are
+      particularly prone to fan failures under sustained heat load — air stops circulating,
+      temps drift from -5°F toward 20°F, and you notice only when things get soft.
+
+      Condenser cleaning plus fan motor replacement resolves most of these calls. One thing
+      homeowners often miss: a clogged condenser on a Sub-Zero can push compressor discharge
+      temps high enough to trigger a thermal cutout, making the unit look dead when it's
+      actually just overprotecting itself. Clean the coils first, then diagnose."
+
+  - title: "Frost Wall Building Up at the Back of the Cabinet"
+    description: "This one almost always traces to a dead defrost heater or a failed defrost
+      timer on the evaporator coil — not ice maker overflow, as homeowners usually assume.
+      Thermador and Viking built-in freezers show it as a slow warm-up over several days,
+      ice accumulating until airflow is fully blocked.
+
+      The defrost circuit needs a proper resistance test before ordering parts. A defrost
+      heater that reads open on a multimeter is a confirmed replacement. A heater that reads
+      in-spec but still fails to fire points to the defrost thermostat or the control board —
+      same symptom, different fix, different price. Skipping the resistance test is how
+      unnecessary parts get ordered."
+
+  - title: "Door Seal Deterioration on Panel-Ready Units"
+    description: "Panel-ready freezers hide the door gasket behind a decorative overlay, which
+      makes a failing seal easy to miss for months. Bosch and Sub-Zero both use
+      compression-style gaskets that harden and crack after 8-10 years in Southern California
+      heat.
+
+      Signs: visible frost along the door frame, compressor running almost non-stop, or a
+      faint warm spot you can feel at the door edge with your hand. Gasket swap runs about
+      45 minutes once the panel is off. KitchenAid built-in freezers use a magnetic gasket
+      instead — different replacement procedure, slightly quicker to source."
+
+faq:
+  - q: "How fast can you get to Calabasas for freezer repair?"
+    a: "From our San Fernando Valley base, Calabasas is 20-35 minutes depending on 101 traffic.
+      Same-day appointments are available most mornings — call (323) 870-4790 before noon and
+      we're typically there the same afternoon, sometimes within 2 hours. Evening slots exist
+      for calls that come in later."
+
+  - q: "Do you service Sub-Zero and Thermador freezers in Calabasas?"
+    a: "Yes — those two brands make up roughly half our Calabasas freezer calls. Common jobs
+      include Sub-Zero evaporator coil blockages, Thermador control board failures, and Viking
+      compressor diagnostics. All three require specific tooling and model-specific wiring
+      diagrams that standard appliance shops don't carry.
+
+      Miele column freezers are less common but not rare in the newer builds near the 101 and
+      Lost Hills Road. Fault code retrieval on Miele requires a proprietary interface — we
+      carry it."
+
+  - q: "What does freezer repair cost in Calabasas, and how do I book?"
+    a: "Diagnosis is $75-95 and applies toward the repair if you proceed. A defrost heater or
+      door gasket job typically runs $150-250 all in. Compressor work on a Sub-Zero is quoted
+      after diagnosis — it varies significantly by model and refrigerant type (R-134a vs.
+      R-600a on newer units).
+
+      Emergency and evening slots are available for food-safety situations. Call (323) 870-4790
+      or schedule online — turnaround on quotes is same-day."

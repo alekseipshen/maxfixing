@@ -1,0 +1,25 @@
+title: "Duarte Range Repair — Igniters, Ovens, and Hard Water"
+
+intro: |
+  The ranch homes along Buena Vista Street and parts of Highland Avenue in 91010 have a common setup: a KitchenAid or Samsung freestanding range fitted into a kitchen that hasn't changed layout since the 1960s. San Gabriel Valley water runs hard — around 280-320 ppm dissolved calcium — and that mineral load packs into burner ports and igniter tips faster than most homeowners expect. City of Hope Medical Center is half a mile from homes we visit weekly. We're in Duarte several times a week.
+
+localContext: |
+  Most housing in 91010 is 1950s-1960s ranch-style, with standard 30-inch range cutouts that make access clean and straightforward — nothing like wrestling a unit out of a Santa Monica apartment. Some of the newer builds near Encanto Parkway have Bosch or Thermador 36-inch slide-ins with deeper cabinet configurations that need proper realignment after a service call. Gas lines in homes this age are typically black iron or older galvanized supply. We check both whenever a repair involves the gas valve assembly or burner manifold.
+
+  Duarte sits at about 500 feet elevation along the 210 corridor — afternoon heat in July and August pushes well past 95°F, which puts extra thermal stress on oven temperature sensors and control boards. The neighborhood between Mountain Avenue and Buena Vista sees a fair mix of Bosch slide-ins and older Maytag freestanding units that have been in continuous use for 15-plus years. Both need different approaches: Bosch's integrated ignition wiring runs behind a steel chassis panel, while the older Maytag gas valves have a simpler mechanical design that's actually easier to source parts for.
+
+commonProblems:
+  - title: "Igniter Clicks Nonstop But the Burner Won't Light"
+    description: "Calcium from Duarte's hard water coats the igniter electrode and clogs the small ports in the burner cap — the spark fires but can't bridge the gap cleanly to the gas stream. Samsung and LG ranges typically show this as 15-20 seconds of clicking before a weak flame or nothing at all. Cleaning the electrode tip and clearing the burner cap usually resolves it in one visit. In heavier cases, the igniter module itself needs replacement. On LG models specifically, the surface igniter switch can also wear out independently of the electrode, so we test both before ordering parts."
+  - title: "Oven Runs Lukewarm or Won't Heat Past 200°F"
+    description: "A failing bake igniter is the most common culprit on gas ranges throughout the San Gabriel Valley. The igniter draws current to pull the gas valve open — once it drops below 3.2 amps, the valve stays shut and you get no real heat. KitchenAid gas ranges in 91010 develop this after 6-8 years of daily use. Replacing the igniter assembly is a 45-minute job and restores full oven function immediately. On Thermador dual-fuel ranges, a failed oven sensor RTD can mimic the same symptom — the oven simply reads the wrong temperature and cuts the heating cycle early. Those two failures look identical from the outside but require completely different parts, so we always pull amp readings before quoting."
+  - title: "Fault Codes and Unresponsive Burner Controls on Newer Models"
+    description: "Bosch and Samsung slide-ins in Duarte sometimes throw error codes — SE or E1 on Samsung, E15 or E32 on Bosch — after a power flicker or surge. The control board is usually the failure point, not the burners or ignition system. Thermador units in the newer Encanto Parkway homes can show similar behavior with a faulty touch interface module. We stock boards for all three brands and can swap most same day."
+
+faq:
+  - q: "How fast can you get to Duarte for range repair?"
+    a: "Usually there within 2 hours — 91010 is a regular stop off the 210 Freeway and we run that corridor daily. Morning and evening slots are available. Call (323) 870-4790 before noon to lock in same-day service."
+  - q: "Do you repair KitchenAid and Bosch ranges specifically?"
+    a: "Both are common in 91010. KitchenAid calls are mostly igniter and bake element failures. Bosch runs into control board faults and gas valve issues. We also service Samsung, LG, and Thermador — parts for all five are stocked on the van."
+  - q: "What does range repair cost in Duarte, and is there a diagnostic fee?"
+    a: "Diagnostic is $75 and applies toward the repair total. Igniter replacements typically run $150-$250 parts and labor. Control board swaps land between $200-$360 depending on model. On Thermador or Bosch 36-inch units, factor in an extra 20-30 minutes of labor for panel removal — the pricing reflects that. Emergency same-day slots are open — call (323) 870-4790 or schedule online."
