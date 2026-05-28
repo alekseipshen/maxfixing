@@ -1,0 +1,47 @@
+title: "Lomita Range Hood — Fix Fan Failures & Duct Issues in 90717"
+
+intro: |
+  Ranch-style homes along Narbonne Avenue and over toward the Lomita Railroad Museum area were built when kitchen ventilation meant a window, not a duct system. Most of these houses got range hoods retrofitted during 1970s and 80s remodels — and that KitchenAid or GE unit has been in the same cabinet opening ever since. Gas cooking, LA grease, and deferred filter cleaning add up fast.
+
+  Lomita sits between Torrance and Carson, which puts it right in our regular service corridor. Calls here don't require scheduling two days out.
+
+localContext: |
+  Zip code 90717 is dense with post-war single-family homes on small lots. Kitchens tend to be compact — often galley layouts with hoods vented through exterior wall runs rather than rooflines. Those original duct paths, sometimes only 18 inches long with two bends, trap grease at every elbow.
+
+  Homes near Western Avenue and Lomita Boulevard sometimes have even tighter cabinet clearances where the stack meets the exterior wall, making access a real factor on service calls. The neighborhoods east of the 110 freeway have smaller setbacks — literally 6 inches from range top to cabinet bottom — which rules out any hood taller than that. We carry adapters specifically for these under-cabinet configurations.
+
+  Many 90717 properties are owner-occupied and have seen appliance upgrades over the decades without full duct redesigns. A Samsung or Bosch hood installed in 2018 might still be pushing air through a 4-inch galvanized duct from 1974.
+
+  That mismatch is often why the motor labors even when the filters are clean.
+
+commonProblems:
+  - title: "Blower Motor Failure from Grease-Saturated Windings"
+    description: |
+      Gas ranges push far more airborne grease into the hood than electric cooktops. When the grease filter goes too long without cleaning, the blower motor starts pulling contaminated air directly into its housing. GE and Whirlpool under-cabinet hoods common in these Lomita kitchens typically show seizure symptoms — grinding, then silence — around the 8-10 year mark.
+
+      On some GE models, the motor is a sealed unit with no field-serviceable bearings. Replacement is the only fix. Whirlpool's under-cabinet line from 2014–2020 used a modular blower assembly that's still in production as a service part — usually faster and $60–80 cheaper than a full motor swap.
+
+  - title: "Grease Filter Clogged Past What Hot Water Can Fix"
+    description: |
+      LA hard water leaves calcium deposits on aluminum mesh filters on top of the grease layer — a near-solid barrier that kills airflow. The motor overheats, and the thermal fuse blows. Samsung and LG under-cabinet models sold 2016–2022 had filters sized tighter than the blower demanded, so clogging hits well before the manual suggests it should.
+
+      A blown thermal fuse on a Samsung unit shows up as a hood that powers on — lights work, buttons respond — but the fan does nothing at any speed. That's the symptom. The fuse itself is cheap; labor runs about 45 minutes.
+
+  - title: "Exhaust Duct Baffle Stuck Shut at the Exterior Wall"
+    description: |
+      The damper flap that opens when the fan runs and closes when off sticks from grease or corrosion. In older 90717 homes, those dampers are often original 1970s metal units that haven't moved freely in years. Bosch and KitchenAid hoods both present this way — the control board reads fine, the blower wheel spins, but nothing actually exits the house.
+
+      Stuck dampers also create backdraft problems. The air pressure differential near the 110 freeway corridor — marine layer pushing in from the coast — can force exterior air back through a stuck-open damper, leaving a persistent exhaust smell in the kitchen even when the range is off. Cleaning or replacing the damper assembly fixes both the airflow and the smell.
+
+faq:
+  - q: "How fast can you get to Lomita for a range hood repair?"
+    a: "Most Lomita calls get same-day service. Driving from Torrance, we reach addresses near Narbonne or Western in 20–30 minutes. Call (323) 870-4790 before noon and we can usually arrive same day — evening slots open most weekdays too."
+
+  - q: "Do you fix Bosch, Samsung, and GE range hoods specifically?"
+    a: "All three, regularly. Bosch wall-mount hoods usually need the blower wheel cleaned or a control board swap. Samsung and GE under-cabinet units typically come in with seized blower motors or failed light socket assemblies. Common parts for all three are stocked on the van."
+
+  - q: "What does a range hood repair cost, and is same-day work realistic?"
+    a: "Most jobs land between $130 and $290. A stuck duct baffle or blown thermal fuse wraps in under an hour — same visit. Control board replacements run longer. We quote on-site before starting anything, so there's no guessing on your end. Schedule online or call (323) 870-4790."
+
+  - q: "The fan runs but I still smell smoke in the kitchen — what's happening?"
+    a: "That's almost always the damper. Stuck open, it lets outside air push back in; stuck partially closed, it restricts airflow enough that smoke recirculates into the room. Less commonly, it's a duct joint that separated inside the cabinet wall — grease-caked connections in older Lomita homes sometimes just let go. Either way, we can diagnose it on the same visit. Call (323) 870-4790 and describe what you're seeing."

@@ -1,0 +1,41 @@
+title: "Hermosa Beach Oven Repair — South Bay Beach-Home Specialists"
+
+intro: |
+  Salt air off the Pacific does a number on kitchen appliances over time. The renovated bungalows and two-story builds along Hermosa Avenue and near The Strand frequently have Wolf dual-fuel ranges or Thermador wall ovens spec'd into kitchen remodels — serious equipment that needs someone who has actually opened these units before. Temperature sensors drift, broil elements burn out, self-clean locks seize. Call (323) 870-4790 and we can usually get there same day.
+
+localContext: |
+  Most of 90254 is a tight grid of beach properties — 1940s and 1960s bungalows either preserved or rebuilt as two-story structures with proper kitchen builds. Space is a real constraint in the older footprints; a Viking or KitchenAid slide-in range often sits flush against custom tile or cabinetry, complicating access. Newer construction east of Pacific Coast Highway near Aviation Boulevard typically has built-in wall oven configurations with dedicated 240V circuits and full factory enclosures requiring factory-specific diagnostic tools.
+
+  Gas supply lines run through most of the original stock here. That matters for dual-fuel range diagnosis — the gas valve, igniter, and burner ports each age differently depending on how close the property sits to the waterfront. On units installed within two blocks of The Strand, corrosion on igniter electrodes shows up noticeably earlier than on homes farther inland. Parking for a service van off Pier Avenue or Hermosa Avenue is workable on weekday mornings; Saturday afternoons near the beach get tight, so morning windows book faster.
+
+commonProblems:
+  - title: "Temperature Sensor Drift — Oven Runs 50-75 Degrees Off"
+    description: |
+      Wolf and Thermador ranges in renovated Hermosa Beach homes regularly develop temperature sensor failures — the display reads 375°F but the cavity runs noticeably hotter or cooler. The RTD temperature probe is usually the culprit, though a degraded bake element produces nearly identical symptoms. Calibration alone rarely solves it. The sensor needs to be tested under load before any decision gets made about the control board.
+
+      On Wolf dual-fuel models, the probe sits in a specific socket at the rear of the oven cavity. Resistance readings at room temperature should land near 1080 ohms — anything significantly outside that range confirms the probe before you ever pull the board. Thermador's single-wall and double-wall configurations route the probe differently, which adds diagnostic time if you haven't worked these units before.
+
+  - title: "Broil Element Burnout Accelerated by Coastal Salt Air"
+    description: |
+      Ocean exposure speeds up oxidation on unprotected heating elements — Hermosa Beach sees broil element failures more often than inland ZIP codes do. A Viking range throwing an F1 or F3 error code after broiling is typically signaling element failure or a shorted relay on the control board. The broil element itself swaps out cleanly on most models, but Viking's wiring harness routing adds time to the job.
+
+      Bosch wall ovens in this area develop a related pattern: the broil element trips the thermal fuse rather than failing visually. The oven simply stops heating with no obvious burn mark — homeowners often assume a control board fault and delay the call. A resistance check on the element takes two minutes and usually confirms the issue before anything else gets touched.
+
+  - title: "Self-Clean Door Lock Mechanism Seizing Mid-Cycle"
+    description: |
+      The self-clean lock assembly is a known weak point on Thermador, Bosch, and KitchenAid wall ovens. The door latch solenoid sticks or the lock motor seizes during the cycle, trapping the oven at 500°F with no interrupt option. An E0 or F9 error code after a self-clean attempt almost always points to this assembly. Forcing the latch manually risks warping the inner door hinge and cracking the inner glass panel.
+
+      Letting the oven cool completely — minimum three hours — before attempting any manual release prevents most secondary damage. If the error code persists after a full cooldown and power reset, the lock motor assembly needs replacement rather than adjustment. KitchenAid and Thermador both use proprietary latch housings; the part has to match the model series exactly or the alignment is off from day one.
+
+faq:
+  - q: "How fast can you get to Hermosa Beach for oven repair?"
+    a: |
+      Hermosa Beach sits on our regular South Bay loop — we typically reach 90254 within one to two hours of your call. PCH and Artesia Boulevard are our usual entry routes; side street parking off Pier Avenue is manageable. Call (323) 870-4790 or book online to lock in a same-day window.
+
+  - q: "Do you repair Wolf and Thermador ovens common in Hermosa Beach homes?"
+    a: |
+      Yes — Wolf dual-fuel ranges, Thermador double wall ovens, and Viking built-ins are standard in the renovated homes near The Strand. Most of what we see is temperature sensor failure, gas igniter wear, and control board faults. We stock OEM-grade parts for all three brands and bring them on the first visit.
+
+  - q: "What does oven repair cost, and do you offer same-day appointments?"
+    a: |
+      Diagnostic visit runs $75–95 and that fee applies toward the repair. Most common fixes — heating element replacement, gas igniter swap, door latch repair — land between $150 and $280 for parts and labor combined. Same-day slots are available most weekdays; evening appointments can usually be arranged. Call (323) 870-4790 to check availability.
