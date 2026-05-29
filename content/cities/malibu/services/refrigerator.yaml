@@ -1,0 +1,31 @@
+title: "Malibu Refrigerator — Sub-Zero Service, Canyon Heat Stress"
+
+intro: |
+  PCH winds off Point Dume push salt moisture into condenser coils and fan motors — the Sub-Zero built-ins tucked into cabinetry along Malibu Road are especially exposed because those kitchens seal tight against ocean air. Summer canyon temperatures regularly hit the high 90s, forcing refrigerators in 90265 into nonstop compressor cycles. That thermal load accelerates bearing wear and refrigerant stress well before owners notice any temperature drift inside the unit.
+
+  Salt air is corrosive. Condenser fan blades in coastal kitchens show oxidation within two to three years — faster than inland units of the same age. A corroded fan running at reduced RPM is enough to let head pressure climb until the compressor overload trips.
+
+localContext: |
+  The 90265 housing stock divides sharply: Carbon Beach and Malibu Colony hold custom beachfront builds with panel-ready Thermador or Sub-Zero columns recessed into cabinetry, while hillside properties above Kanan Dume Road run Viking and Miele built-ins behind finish panels. Access is a real constraint. Carbon Beach homes have no driveway — service vans pull onto PCH. Canyon properties above Las Virgenes Road can add 15 minutes of private road before we reach the kitchen.
+
+  Malibu Park and the homes off Encinal Canyon Road are a different situation entirely. Those kitchens often have mid-range Bosch or KitchenAid french-door units, not built-ins — but the combination of propane-heated homes, variable water pressure from private wells, and limited cellular signal for remote diagnostics makes service logistics slower. We account for that on scheduling. The 90265 zip covers a lot of ground.
+
+commonProblems:
+  - title: "Compressor Overload Triggered by Canyon Heat and Sealed Cabinetry"
+    description: "It's a simple physics problem that hits expensive units hardest. Sub-Zero column units in tight built-in cabinetry trap heat around the condenser, and when inland canyon temperatures spike above 95°F, the compressor runs continuous cycles holding 37°F until the overload relay trips. The unit stops cooling with no warning light. This accounts for a significant share of our 90265 service calls every July and August. The fix usually involves cleaning the condenser, testing the overload relay, and verifying the condenser fan motor is pulling adequate CFM — sometimes a replacement fan motor is the only real solution when the oxidation is too advanced to clean out."
+
+  - title: "Ice Maker Assembly Failure from Mineral-Heavy Local Water"
+    description: "Las Virgenes Municipal Water District water runs above 250 mg/L hardness. That mineral load builds scale inside the water inlet valve and coats the ice maker assembly within 18 to 24 months. Thermador Freedom series and Viking built-in ice makers fail faster than most — their smaller fill valves restrict flow early and are often misdiagnosed as control board issues. Before replacing a $400 control board, we always flush the water line and check fill valve flow rate. Nine times out of ten, the board is fine. Scale is the culprit."
+
+  - title: "Evaporator Coil Ice Buildup After Defrost Timer Failure"
+    description: "KitchenAid french-door models in Malibu show a consistent pattern: the defrost timer and defrost thermostat fail together, leaving the evaporator coil packed with ice while the compressor keeps running normally. The refrigerator section warms while the freezer reads fine — a confusing symptom that usually requires six-plus hours of manual defrost before the coil is accessible. Owners often misread this as a compressor problem. It isn't. Once the coil clears, we verify the defrost heater element resistance and replace both the timer and thermostat as a set — replacing only one invites a repeat call within a few months."
+
+faq:
+  - q: "How fast can you get to Malibu for refrigerator repair?"
+    a: "From our West LA dispatch, Malibu is 35 to 45 minutes depending on PCH traffic. Morning slots are held specifically for coastal runs — call (323) 870-4790 before 9 AM and same-day service is usually available. Canyon runs above Kanan Dume or Mulholland Highway get afternoon scheduling to avoid PCH congestion. Our service van handles Carbon Beach addresses with PCH pull-out stops, no problem."
+
+  - q: "Do you repair Sub-Zero and Thermador built-in refrigerators?"
+    a: "Yes — the 90265 area is predominantly Sub-Zero 36-inch columns, Thermador Freedom series, and older Viking built-ins up in the canyon homes. We stock Sub-Zero compressor kits and evaporator fan assemblies that are often backordered at standard service centers. Miele column units included. Built-in and panel-ready units need a different approach than freestanding — the cabinetry has to come apart carefully and the unit leveled correctly on reinstall. We carry the shim kits and panel alignment tools for that."
+
+  - q: "What does a refrigerator repair call cost, and is same-day available?"
+    a: "Diagnostic fee is $85, credited toward the repair. Compressor and ice maker jobs typically run $250 to $500 in parts and labor combined. Sub-Zero compressor replacements are higher — parts alone run $400 to $600 depending on the series. Same-day and evening slots are available — call (323) 870-4790 or schedule online, especially if a full fridge is at risk. Emergency appointments kept open daily."

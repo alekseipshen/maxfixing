@@ -1,0 +1,42 @@
+title: "El Segundo Oven Repair — Tree Section Kitchens Fixed Fast"
+
+intro: |
+  The Tree Section's post-war bungalows and 1950s ranch homes on Eucalyptus and Pine have seen a lot of kitchen upgrades — KitchenAid double wall ovens and Bosch slide-ins are common replacements for the original General Electric units. Coastal proximity keeps humidity up year-round, which corrodes bake elements and door gaskets faster than inland ZIP codes. Same-day service covers all of 90245.
+
+  Salt air from El Segundo Beach, a mile west, accelerates metal fatigue on exposed heating elements faster than most homeowners expect. That's not a sales pitch — it's just physics. A KitchenAid bake element that might last 12 years in Pasadena sometimes shows hairline cracks in 7 here.
+
+localContext: |
+  Most homes in 90245 were built between 1945 and 1970, with kitchens remodeled at least once. Streets near Arena Street and the blocks around Center Street tend to have narrower galley-style kitchens — pulling a built-in wall oven takes an extra 30 minutes compared to a freestanding range.
+
+  Newer construction along Sepulveda Boulevard runs larger open-plan layouts with Thermador or KitchenAid 30-inch built-ins set into custom cabinetry. The Douglas Park neighborhood — those townhomes and newer condos east of Nash Street that went up after the old Raytheon campus redeveloped — mostly has Samsung or LG freestanding ranges. Different repair profile entirely. Samsung's linear compressor technology crossed into their range control boards too, and when the board goes on an LG slide-in out there, it throws an F-9 error and kills the bake function entirely while the broil still works.
+
+  El Segundo's tight street grid means parking a service van is straightforward — nothing like Santa Monica's permit zones. We can usually get into the Tree Section off Eucalyptus or Sycamore with no access issues. The older homes closer to Main Street and Grand Avenue sometimes have original 1950s electrical panels, which affects what oven models can safely replace existing units during a service call. Worth mentioning up front when you book.
+
+commonProblems:
+  - title: "Bake Element Burns Out After Heavy Use or Age"
+    description: |
+      A cracked or scorched bake element is the single most common oven call in El Segundo. The bottom of the oven stays cold, or you see visible arcing when you switch the oven on. KitchenAid and Bosch units use proprietary element shapes — a generic replacement often won't seat correctly in the element bracket, and a poor fit means it arcs again within months.
+
+      We stock OEM-spec parts and can usually swap it same visit. The coastal humidity accelerates oxidation at the element terminals, so we also clean and inspect the terminal block while we're in there. Takes 10 extra minutes and saves a callback.
+
+  - title: "Self-Clean Cycle Jams the Door Latch Assembly"
+    description: |
+      Run the self-clean on a Thermador or KitchenAid wall oven and sometimes the door latch motor burns out mid-cycle, leaving the door locked shut at 900°F. Forcing it cracks the frame — seen it happen. The repair is a latch motor replacement plus a control board reset.
+
+      Not a big job, but it needs the right part on hand. Thermador's latch assembly on the MED301 and ME301 series is different from the older MEMW301ES — ordering the wrong one wastes a day. We know the difference.
+
+  - title: "Oven Temperature Reads Off by 25–50 Degrees"
+    description: |
+      A drifting oven temp almost always traces back to the temperature sensor — the thin probe mounted on the back wall of the oven cavity — or a failing thermostat calibration. Bosch wall ovens sometimes throw an E015 error for this. Undercooking roasts and scorching the top of a cake are the giveaways before the error code ever appears.
+
+      Confirm the bad sensor with a multimeter reading, swap it, recalibrate. On Bosch 800 series units, recalibration is buried in a service menu most homeowners never find. We do it on-site before we leave.
+
+faq:
+  - q: "How fast can you get to El Segundo for oven repair?"
+    a: "El Segundo is a short run from our South Bay base — no highway bottlenecks most of the day. Same-day slots are almost always open. Call (323) 870-4790 and we're typically at your door within 2 hours."
+  - q: "Do you repair Bosch and KitchenAid ovens in El Segundo?"
+    a: "Yes — those two make up most of what we see in 90245. Thermador built-ins show up too, especially in the larger homes off Grand Avenue and in the newer Douglas Park townhomes. Typical repairs: bake element, temperature sensor, latch assembly, and control board resets on all three brands. Samsung and LG slide-ins in the newer construction east of Nash Street are the other common call — F-9 board failures on LG, SE errors on Samsung ceramic tops."
+  - q: "How does oven repair pricing work — is same-day available?"
+    a: "Diagnosis is on-site. A quote comes before any work starts. Most element and sensor jobs run $150–$280 parts and labor. Evening and weekend slots exist — emergency same-day carries no surcharge beyond the repair itself. Book online or call (323) 870-4790."
+  - q: "My oven is a built-in — does the tight kitchen in my older home cause problems for the repair?"
+    a: "Tree Section galley kitchens are tight, but we've pulled built-ins out of spaces with 1-inch clearance on each side. The real constraint is whether the cabinet surround has been modified from the original spec. Send a photo when you call (323) 870-4790 and we'll tell you upfront if the job needs extra time. No surprise charges at the door."

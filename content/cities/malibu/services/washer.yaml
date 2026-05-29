@@ -1,0 +1,39 @@
+title: "Malibu Washer — Coastal Salt Eats Parts Faster Here"
+
+intro: |
+  Salt air off the Pacific moves through every gap in a beach house — including the back panel of that Miele W1 front-loader in the utility room. Homes along PCH and up into Point Dume cycle through drum bearings and water inlet valves faster than their inland counterparts. We cover all of 90265, and most calls come from laundry rooms where the machine hasn't been touched since installation day.
+
+  Malibu is not a typical LA repair call. The combination of ocean humidity, high-mineral LADWP supply water, and sand from the beach means parts that last eight years in Encino might fail in four here.
+
+localContext: |
+  Malibu's housing spans everything from 1970s ranch-style builds in Malibu Park to newer hillside construction above Kanan Dume Road, many with laundry closets tucked into hallways with minimal clearance. Older beach cottages near Carbon Beach often run stacked units — Bosch or LG combos with maybe six inches on either side. LADWP water still tests 250–300 ppm hardness in 90265, even this far west on the coast.
+
+  That hardness number matters. Calcium and magnesium carbonate coat the inside of water inlet valve screens, clog spray lines, and eventually seize moving parts. A machine installed during a Malibu remodel in 2018 is already due for a valve flush or drain pump inspection.
+
+  Getting a service van to PCH addresses takes planning — parking restrictions near the Colony, tight driveways on the bluff side of Malibu Road, gated entrances in some of the hillside neighborhoods above Corral Canyon. We account for all of it. Diagnostic tools and the most common washer parts come with the van, so a second trip is rarely needed.
+
+commonProblems:
+  - title: "Drain pump seizure from mineral deposits mixed with coastal particulates"
+    description: "Fine particulates from the ocean air combine with LADWP calcium buildup to clog drain pumps faster than you'd see in Burbank or Pasadena. A Bosch front-loader throwing error code E18 is almost always a seized pump impeller or a blocked filter housing. Leave it too long and the control board starts logging repeated drain faults — that's when the repair bill climbs.
+
+    The fix is straightforward if caught early: pull the pump, clear the impeller, flush the filter housing, check the drain hose for secondary blockage. Ignored for a season, the pump motor burns out and the part cost doubles."
+
+  - title: "Drum bearing failure from sand tracked into beachfront laundry loads"
+    description: "Carbon Beach and Malibu Colony homes deal with fine sand constantly. It gets into laundry, works into the drum bearing during high-RPM spin cycles, and starts grinding the inner tub. That metallic scrape at 1000 RPM isn't an unbalanced load — it's bearing wear.
+
+    Miele and Bosch drums are serviceable, but the bearing replacement is a 3–4 hour job. The outer drum has to come apart. Some technicians skip Malibu for exactly this reason — labor logistics plus part sourcing. We stock bearings for both platforms and do this job regularly in 90265."
+
+  - title: "Water inlet valve failure — slow-fill or dead-fill cycles"
+    description: "The mesh screens inside a water inlet valve catch mineral sediment from the supply line. In 90265, those screens foul within 2–3 years without maintenance. A Samsung showing error 4E or an LG throwing LE is frequently a valve restricting flow to less than 20% capacity. New valve, flushed lines, and the machine fills on schedule again.
+
+    KitchenAid top-loaders in some of the older Malibu Park homes run a dual-valve setup — hot and cold inlet valves wired to a single control board relay. Both valves tend to scale at the same rate, so replacing just one often means a callback six months later. Swap both while the machine is open."
+
+faq:
+  - q: "How fast can you get to Malibu for washer repair?"
+    a: "PCH traffic is what it is, but we keep a technician in the West LA and Santa Monica corridor daily. Most Malibu calls get a same-day slot — call (323) 870-4790 before noon and we can usually be there by late afternoon. Evening slots available on request."
+
+  - q: "Do you work on Miele and Bosch washers? Seems like every house out here has one."
+    a: "Both are common in Malibu and both require proprietary diagnostic tools. Miele W1 series fault codes, Bosch drum bearing jobs, door latch assembly replacements — we carry the manufacturer diagnostic cables to pull fault logs directly and stock parts for both brands. Bosch's VarioDrum geometry also means the bearing access sequence differs from a standard front-loader, which is why a generic repair shop sometimes misquotes the job. We've done enough of these in the Colony and on Point Dume that the disassembly is routine."
+
+  - q: "What does a washer repair typically cost in Malibu?"
+    a: "Diagnostic fee is $85, applied toward repair if you proceed. A drain pump replacement or inlet valve swap usually runs $180–$260 total. Drum bearing jobs on front-loaders are more labor-intensive — typically $320–$420. KitchenAid or LG top-loader work tends to land in the lower range since access is simpler. Same-day service available, emergency calls included. Schedule at (323) 870-4790."

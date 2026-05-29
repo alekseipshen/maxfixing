@@ -1,0 +1,96 @@
+title: "El Segundo Range Repair — Modern Ranges in Postwar Kitchens"
+
+intro: |
+  The homes along Mariposa Ave and the blocks east of Sepulveda Blvd were built when a
+  standard 30-inch gas range was the default. Original supply lines, compact cabinet
+  cutouts, older gas hookups. Today those same kitchens hold KitchenAid dual-fuel
+  slide-ins, Thermador 36-inch ranges, and Bosch freestanding units that the original
+  plumbing was never designed for. Igniter failures and oven temperature problems in
+  90245 often trace straight back to that mismatch between old infrastructure and new
+  hardware.
+
+  Salt air from the coast is the other factor most repair companies don't mention. El Segundo
+  sits a few blocks from the Pacific, and that marine layer accelerates corrosion on burner
+  caps, igniter electrodes, and gas valve components faster than in Torrance or Hawthorne.
+  Same brand, same model — different failure timeline.
+
+localContext: |
+  El Segundo's residential grid — Grand Ave, Holly Ave, the streets around Recreation
+  Park — is almost entirely 1950s and 1960s tract homes. Compact kitchens and original
+  gas lines define most service calls in 90245.
+
+  The west side of the city sits less than a mile from the water, which means salt air
+  accelerates igniter and burner cap corrosion faster than in inland South Bay cities.
+  Chrome burner caps pit. Igniter ceramic cracks earlier. Valve seats gum up on ranges that
+  would run clean for another decade thirty miles east in Pasadena.
+
+  Street parking near the beach-adjacent blocks takes some planning, but we know the
+  neighborhood. We run South Bay calls out of a local dispatch point — 90245 isn't a
+  long haul for us.
+
+commonProblems:
+  - title: "Burner clicks constantly but won't light — ceramic igniter corrosion"
+    description: |
+      Coastal humidity breaks down ceramic igniter assemblies faster here than anywhere
+      inland. On KitchenAid and Bosch gas ranges, the spark electrode corrodes at the
+      gap and loses the voltage path needed to light the burner — gas flows, nothing
+      catches.
+
+      Cleaning the electrode ground and swapping the igniter module handles most of these
+      on the first visit. Sometimes the igniter switch on the control board is also degraded
+      and needs to be tested separately. If just the module is the problem, that's a
+      straightforward parts swap. If the control board is involved, that's a longer job,
+      but still usually same-day in El Segundo.
+
+  - title: "Oven won't reach temperature — bake element or sensor probe"
+    description: |
+      Thermador dual-fuel ranges in 90245 renovations regularly throw an E:01 or F3
+      fault when this happens. Usually the bake element is failing gradually — the oven
+      heats but caps out 40–50°F below setpoint no matter how long it preheats.
+
+      Element replacement is the right first move. If temperatures still drift after a new
+      element, the oven temperature sensor probe gets tested next. Probe resistance should
+      read around 1,080 ohms at room temperature on most Thermador models — anything
+      significantly off and it's reading the oven temperature wrong, which confuses the
+      control board into cutting heat prematurely. Both repairs typically close on the first
+      visit with parts on hand.
+
+  - title: "Gas smell near the range when the burners are completely off"
+    description: |
+      In El Segundo's older homes — especially on the blocks south of El Segundo Blvd
+      near the original 1950s subdivisions — gas lines and valve seats have been in the
+      wall for decades. On Samsung and LG slide-in gas ranges, a sticking gas valve
+      solenoid is the hardware culprit: it doesn't fully close after the burner cycles off.
+
+      Smell gas when nothing is running? Shut off the supply valve at the wall and call
+      (323) 870-4790 immediately. Gas smell calls get same-day priority every time. Don't
+      wait to see if it clears on its own.
+
+faq:
+  - q: "How fast can you get to El Segundo for a range repair?"
+    a: |
+      From our South Bay dispatch, most 90245 addresses are 30–40 minutes out. Same-day
+      appointments are usually available, and we can often arrive within 2 hours of your
+      call.
+
+      Grand Ave and the residential side streets near Recreation Park are straightforward
+      for a service van — no freeway dependency, easy in and out. Call (323) 870-4790 to
+      lock in a window.
+
+  - q: "Do you repair Thermador, KitchenAid, and Bosch ranges in El Segundo?"
+    a: |
+      Those three are the most common brands we see in 90245 kitchen renovations. We
+      carry parts for Thermador control boards and bake elements, KitchenAid gas valve
+      igniters and spark modules, and Bosch igniter assemblies.
+
+      Samsung and LG gas slide-ins come up often too — the dual burner valve assemblies on
+      those models have a known failure pattern after about five years. No problem there.
+
+  - q: "What does a range repair in El Segundo typically cost?"
+    a: |
+      Diagnostic fee is $75 and applies toward the repair. Most igniter, element, or
+      sensor repairs run $150–$360 parts and labor.
+
+      Control board replacements on Thermador or Bosch run higher depending on the model —
+      Thermador boards in particular vary a lot by generation. Evening slots available most
+      weekdays. Schedule at (323) 870-4790 or book online for next-day service.

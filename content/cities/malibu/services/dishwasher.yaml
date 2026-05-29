@@ -1,0 +1,30 @@
+title: "Malibu Dishwasher Repair — Hard Water, Coastal Homes, Premium Builds"
+
+intro: |
+  Salt air off the Pacific does real damage to appliances over time, and Malibu's municipal water adds another layer — some of the hardest supply in LA County, running through 90265 and depositing calcium in every spray arm port and heating element it touches. The Miele and Bosch panel-ready units built into custom kitchens along Carbon Beach take the worst of it. Mineral scale shortens cycles, wrecks wash performance, and eventually forces a repair call that could've been less expensive six months earlier. Hard water also attacks the water inlet valve — calcium restricts flow until the machine fills too slowly and throws a fill-timeout fault, which most homeowners misread as a control board issue.
+
+localContext: |
+  Homes from Point Dume down through Serra Retreat and the Malibu Colony compounds were mostly built or fully gutted between the mid-1990s and 2010s — kitchens designed from the start around integrated, panel-ready appliances with custom cabinetry. Zip code 90265 means tight access off canyon roads, no street parking for a service van, and dishwashers that aren't meant to be pulled without knowing the specific removal procedure for that brand. Sub-Zero, Thermador, and Miele dominate here, and each requires different diagnostic steps. Further inland, Malibu Park and the canyon neighborhoods along Malibu Canyon Road see a mix of KitchenAid and Bosch semi-integrated units — older installs where door gaskets have dried out from the heat and mineral-laden water has calcified the detergent dispenser spring to the point it won't open mid-cycle. Getting a service van up Kanan Dume Road during evening traffic is its own exercise — canyon addresses book better before 2pm.
+
+commonProblems:
+  - title: "Calcium Deposits Packing Spray Arm Ports — Poor Wash Results"
+    description: "Malibu's hard water accelerates mineral buildup faster than most LA neighborhoods. After two or three years, calcium packs the spray arm ports on integrated Miele and Bosch units until water pressure drops enough that dishes come out with food still baked on. Replacing clogged spray arms and descaling the interior usually restores full performance — but without a filter upgrade, the cycle repeats within 18 months."
+
+  - title: "Door Latch Assembly Failures on Built-In Units"
+    description: "Thermador and Miele panel-ready dishwashers conceal the door latch assembly behind a decorative cabinet front that costs more than most freestanding dishwashers to replace if damaged. When the latch striker wears out, the unit either refuses to start or logs a constant door-open fault. Accessing it properly means knowing the exact panel removal sequence for that model year — not something to improvise with a flathead."
+
+  - title: "E24 Error and Standing Water After Every Cycle"
+    description: "Bosch 800-series units — common in 90265 renovations — throw an E24 error code when the drain pump can't clear the tub. Usually the filter assembly is packed with debris that's worked back to the pump impeller. Clearing the impeller housing and testing the float switch takes about 45 minutes on-site. Most of the time, no parts are needed — just labor."
+
+  - title: "Dishes Still Wet — Heating Element or Moisture Sensor Failure"
+    description: "KitchenAid and Bosch condensation-dry models rely on a moisture sensor to gauge residual humidity and extend the drying phase when needed. When the sensor drifts out of calibration — common after hard water mineral coating builds up on the probe — dishes come out wet even on the heated dry setting. Separate issue on older units: the heating element itself burns out, which you confirm with a resistance check across the terminals. Both are straightforward replacements once diagnosed correctly. Call (323) 870-4790 if the machine started failing to dry after a longer dry spell without use — mineral coating accelerates during idle periods."
+
+faq:
+  - q: "How fast can you get to Malibu for a dishwasher repair?"
+    a: "PCH adds time — realistically 1.5 to 2.5 hours from Santa Monica depending on the hour. Same-day slots are available most days. Call (323) 870-4790 in the morning and we can usually reach the 90265 area before noon. Evening appointments available for canyon-road addresses harder to reach during peak traffic."
+
+  - q: "Do you repair Miele, Thermador, and Bosch dishwashers?"
+    a: "Yes — those three are most of what we see in Malibu. Typical work includes spray arm replacements and drain pump rebuilds on Bosch 800-series, door latch assembly replacements on integrated Miele units, and control board resets on Thermador Star Sapphire models. These machines need the right diagnostic tools, not a universal multimeter and guesswork."
+
+  - q: "What does a dishwasher repair typically cost in Malibu?"
+    a: "A spray arm swap or float switch replacement usually runs $130–$200. Control board work on a Miele or Thermador goes higher — $380–$550 depending on the part. We quote before anything gets touched. If the repair isn't worth it relative to replacement, we'll say so directly. Same-day and emergency slots available when the machine is your only option before a dinner event."
