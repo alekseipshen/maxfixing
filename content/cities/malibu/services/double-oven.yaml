@@ -1,0 +1,27 @@
+title: "Malibu Double Oven Repair — PCH Estates, Same-Day Service"
+
+intro: |
+  Point Dume and the Malibu Colony sit at the top of LA's kitchen appliance food chain — Wolf and Thermador double wall ovens built flush into custom cabinetry, running both cavities hard through dinner parties and long weekends. That setup is great until the upper oven goes cold mid-roast and you're staring at an F3 error code with guests arriving in two hours. Call us at (323) 870-4790 — we serve 90265 and are usually on-site within two hours.
+
+localContext: |
+  The housing mix in 90265 is wider than people expect. The Colony and the cliff-edge properties above PCH are newer builds or full gut-renos with built-in double ovens surrounded by millwork that has to come apart before you can reach the control board or door hinge assembly. Up in the canyons — Latigo, Kanan Dume, Decker — there are 1970s and 1980s ranch-style homes where the oven wall was retrofitted decades later, sometimes leaving almost no service clearance. Both situations need field experience, not guesswork.
+
+  Coastal salt air accelerates corrosion on terminal connectors and door gasket hardware faster than you'd see 20 miles inland. A Wolf double oven in a Malibu Road beachfront kitchen ages differently than the same model in Encino. That matters when diagnosing whether a dead upper cavity is a failed heating element or corroded wiring at the harness — two totally different repairs with different parts and labor.
+
+commonProblems:
+  - title: "Upper Cavity Goes Dead While the Lower Keeps Working"
+    description: "Wolf and Thermador double wall ovens run separate heating elements and thermal fuses for each cavity. Connector corrosion from coastal humidity can cut power to the upper element entirely — the board thinks there's a fault and shuts the circuit. A simple thermal fuse failure reads the same as a wiring issue until you test each leg. Diagnosis tells you which it is before any parts get ordered. On Wolf's E-series, check the upper bake element resistance first — an open circuit reading means the element itself, not the board."
+  - title: "Both Ovens Set to 375°F, One Runs at 310°F"
+    description: "Temperature drift between cavities almost always points to a failing RTD temperature sensor — the probe that feeds live readings to the control board. Thermador's double ovens are particularly prone to sensor drift after several years of heavy use. Recalibration alone masks the problem for a few weeks. The sensor itself needs to come out and be replaced to get accurate temp again. In Miele double ovens we sometimes see the same symptom caused by a partially failed door gasket — the cavity loses heat during the cycle and the board compensates by overcycling the element, which accelerates wear on the heating element and eventually triggers an F4 fault."
+  - title: "Control Board Lockout After a Power Event"
+    description: "Malibu sits at the tail end of long utility runs from the east, and brownouts during Santa Ana wind season are a real issue. A Miele or Gaggenau double oven control board can latch into a fault state — showing E0, F1, or a blank display — and won't reset with the breaker trick. OEM boards for these brands have lead times, so call early: (323) 870-4790. We can often source them faster than the manufacturer's service line. Some Gaggenau models have a secondary fuse block behind the kick panel that blows during voltage spikes — worth checking before ordering a $600 board."
+
+faq:
+  - q: "How fast can you get to Malibu for Double Oven repair?"
+    a: "We route from West LA and the Valley, so 90265 is usually 30-45 minutes depending on PCH conditions. Same-day slots are available most days, including early evening. Call (323) 870-4790 to check availability — we keep emergency slots open."
+  - q: "Do you repair Wolf, Thermador, and Miele double ovens?"
+    a: "Yes — those three make up the majority of what we see in Malibu. Viking and Gaggenau too. We carry common Wolf heating elements and thermal fuse assemblies in the van. Miele and Gaggenau control boards usually require ordering, but diagnostics happen same visit. KitchenAid double wall ovens show up more in the canyon homes — usually older installs — and parts for those are typically in stock."
+  - q: "What does double oven repair typically cost out here?"
+    a: "Diagnostic visit runs $85-$120. A heating element swap on a Thermador or Wolf lands around $220-$380 all-in. Control board replacement on premium brands can be $450-$650 depending on model and part availability. You get a firm quote before we touch anything — no surprises."
+  - q: "Can you service a double oven that's surrounded by custom cabinetry?"
+    a: "That's most of what we see in Malibu. The Colony builds and the newer PCH estates almost always have the oven buried in millwork. We bring the right panel removal tools and take photos before anything comes apart. If a cabinet panel needs to be removed to reach the control board or door hinge assembly, we do it carefully and put it back the same way. No one is sending a furniture crew behind us."

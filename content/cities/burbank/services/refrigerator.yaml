@@ -1,0 +1,33 @@
+title: "Burbank Refrigerator Repair — Built for San Fernando Valley Heat"
+
+intro: |
+  The San Fernando Valley bakes in summer, and Burbank sits right in the middle of it. Zip codes 91505 and 91506 regularly hit 100°F in July — that ambient heat forces refrigerator compressors into longer, harder cycles, wearing them down faster than they would in coastal LA. The KitchenAid french-door units common in Magnolia Park's 1950s ranch homes are already a decade or more into their service life. Add valley heat and LADWP's mineral-heavy water supply, and these units run into trouble earlier than owners expect.
+
+localContext: |
+  Most of Burbank's residential stock dates from the 1940s through the 1960s — bungalows and tract homes with kitchens sized for smaller appliances. In 91505 especially, full-depth or french-door refrigerators often sit wedged between original cabinetry with almost no clearance on either side, which complicates access during service calls. The Rancho district closer to 91506 has newer construction where Bosch and Sub-Zero built-ins are common — those require manufacturer-specific diagnostic equipment, not just a multimeter and a generic parts catalog. Condenser coil access on a Sub-Zero 700 series is nothing like pulling the back panel on a Whirlpool top-freezer; the service sequence is completely different.
+
+commonProblems:
+  - title: "Ice Maker Assembly Clogged by LADWP Mineral Scale"
+    description: |
+      LA tap water is mineral-heavy, and Burbank is no exception. Calcium scale accumulates inside the ice maker assembly and slowly restricts the water inlet valve until the unit stops producing ice or pushes out undersized cubes. Samsung french-door models with dual ice makers take the hardest hit — the upper bin's fill tube clogs first. Flushing the line and swapping the inlet valve usually restores full output without replacing the entire ice maker assembly. LG models in the same homes show the same pattern around the five-year mark, especially if the homeowner never switched to a filtered water line.
+
+  - title: "Compressor Running Hot Through Valley Summer Peaks"
+    description: |
+      Valley heat taxes refrigerators hard. West-facing kitchens in 91505 can see afternoon ambient temps that keep the compressor running without a real break between cycles. LG linear compressors will log error codes like r-IS when overheating; Samsung units throw an 88 or 5E before protective shutdown. In most cases, cleaning the condenser coil resolves overheating before the compressor itself needs to be touched — a $90 service call versus a $400 compressor replacement. KitchenAid side-by-sides with the condenser tucked underneath are especially prone to clogging because Burbank's dry summer air pulls in dust and pet hair fast.
+
+  - title: "Evaporator Coil Ice Buildup on Aging Burbank Refrigerators"
+    description: |
+      Plenty of refrigerators in Burbank's older neighborhoods are 12-15 years old — far enough along for defrost system failures to show up. Ice accumulates on the evaporator coil until airflow is blocked, the freezer packs solid, and the fresh food section climbs toward 50°F. Bosch and KitchenAid models typically fail at the defrost timer or the heating element. Caught early, it's a straightforward part swap; ignored, it strains the compressor and turns a small job into a large one. A failed defrost heater on a KitchenAid KRFF707ESS is a two-hour job. Waiting another month can mean the compressor starts showing thermal stress on top of it.
+
+faq:
+  - q: "How fast can you get to Burbank for a refrigerator repair?"
+    a: |
+      From our San Fernando Valley base, 91501 through 91506 is usually 30-45 minutes out. Same-day service is available most days — we're typically on-site within 2 hours of your call. Mornings work better for street parking near Downtown Burbank. Call us at (323) 870-4790 to check today's open slots.
+
+  - q: "Do you repair Bosch, Sub-Zero, and Samsung refrigerators in Burbank?"
+    a: |
+      All three are in regular rotation. Bosch counter-depth units most often come in with door latch assembly failures or drain pump clogs. Sub-Zero built-ins typically need compressor relay work or door gasket replacement. Samsung we see most for ice maker assembly failures and control board resets. LG and KitchenAid too — no referrals to another shop. Thermador column fridges show up occasionally in the newer Rancho district builds; those we handle as well.
+
+  - q: "What does a refrigerator diagnostic and repair cost in Burbank?"
+    a: |
+      The diagnostic is $75 and applies toward the repair if you move forward. Most part swaps — heating element, defrost timer, water inlet valve — run $150-$280 all-in. Compressor work runs higher; that estimate comes after the diagnostic confirms the root cause. Same-day appointments are available for urgent calls, with evening slots Tuesday through Saturday. Book online or call (323) 870-4790 to check availability.

@@ -1,0 +1,29 @@
+title: "Burbank Cooktop Repair — Magnolia Park Kitchens, Valley-Grade Service"
+
+intro: |
+  Post-war bungalows along Magnolia Boulevard got renovated kitchens starting in the 2000s — Bosch five-burners and KitchenAid induction units dropped into cabinets originally designed around a 1950s four-coil range. Those upgrades are holding up reasonably well, but the spark igniter modules take a pounding in Burbank summers when San Fernando Valley heat pushes ambient kitchen temps past 85 degrees. LA hard water accelerates electrode fouling on gas burners, and that combination is the most common call we get from the 91506 zip. Mineral content in MWD-sourced tap water averages around 300-400 mg/L total dissolved solids — enough to cake an igniter assembly in well under a year if the cooktop sees heavy daily use.
+
+localContext: |
+  Central Burbank between Olive Avenue and the 134 freeway is mostly 1947-to-1965 construction — single-story ranch homes and a few converted duplexes. Kitchens in those homes are compact by modern standards, which means getting tools into the space under a built-in cooktop takes some patience. The 91502 zip has a higher density of 1990s condos with galley kitchens where service access gets tight fast, and parking a service van on the street sometimes requires looping the block twice. Newer developments near Downtown Burbank tend to have glass-ceramic or induction cooktops built in by the developer, usually Samsung or LG units. The Media District over near Alameda Avenue skews slightly more upscale — KitchenAid and Bosch are common there, and we've seen a handful of Thermador gas cooktops in the larger homes backing up to the Verdugo Hills. Both age groups show up on our service logs regularly, and each one comes with its own access quirk.
+
+commonProblems:
+  - title: "Gas Burner Clicks but Won't Ignite — Fouled Electrode or Dead Igniter Module"
+    description: |
+      That rapid clicking with no flame is almost always a spark igniter electrode caked with mineral scale and baked-on grease. Burbank's MWD water supply leaves calcium deposits across the igniter assembly within 12-18 months of regular use. On a Bosch gas cooktop, the igniter module is a sealed unit — cleaning the electrode often isn't enough once the ceramic insulator has cracked from repeated heat cycling. The whole module needs swapping before the misfire starts pulling voltage through the control board and causing a secondary failure. We carry the Bosch SGZ1013UC module in the van for exactly this reason. If the clicking is intermittent and only happens on one burner, start with the burner cap — they warp slightly over time and break the electrode's ground path.
+  - title: "Cracked or Chipped Glass-Ceramic Cooktop Surface"
+    description: |
+      Samsung and LG glass-top units in the condo buildings near Downtown Burbank are the most frequent source of cracked surface calls. Thermal shock is almost always the cause — cold skillet dropped onto a hot zone, or cast iron set down hard on a unit that's still cycling heat. The glass-ceramic panel itself needs full replacement; the radiant heating element underneath is usually fine and can be reused. OEM glass panels matter here because the edge seal tolerances affect how the unit vents heat underneath — aftermarket panels sometimes run 1-2mm too thick and trap heat against the element housing. On Samsung flex-zone models, error code C-d0 or surface sensor faults often appear after a crack because the temperature probe reads incorrectly through the damaged panel.
+  - title: "One Burner Runs Too Hot or Won't Hold a Low Simmer"
+    description: |
+      KitchenAid and Thermador gas cooktops in the higher-income blocks near the Verdugo Hills corridor sometimes develop gas valve seat wear — the valve no longer fully seats at the low position, making a gentle simmer impossible without the flame flickering out entirely. The knob stem can also strip internally over years of daily use, so the valve doesn't actually move when you turn it. Replacing the valve assembly or just the knob fixes it in one visit. The valve assembly runs $80-120 in parts but is still a fraction of a replacement cooktop. If the Thermador is a star-burner model, check the simmer plate insert first — they get gummed up and block the secondary orifice, which mimics a valve problem.
+
+faq:
+  - q: "How fast can you get to Burbank for a cooktop repair?"
+    a: |
+      Usually 25-30 minutes from our North Hollywood base — straight up the 170, no freeway swap needed. Same-day slots are open most mornings before noon. Call (323) 870-4790 to check today's availability, or use the online scheduler if you need an evening appointment. For anything involving a gas smell near the cooktop, we treat it as urgent and move it to the front of the queue.
+  - q: "Do you repair Bosch and KitchenAid cooktops in Burbank?"
+    a: |
+      Both are regular calls in this area. Bosch gas units typically need igniter module replacements or burner cap cleaning after hard water buildup accumulates — the 5-burner 800 Series is the one we see most often. KitchenAid ceramic cooktops tend to develop control board or heating element failures after five to seven years. We stock common parts for both and usually complete the repair in a single visit.
+  - q: "What does cooktop repair cost in Burbank, and is same-day service available?"
+    a: |
+      Most repairs run $140-$320 depending on the part. The $79 diagnostic fee gets credited toward the repair if you proceed. Same-day service is standard for most calls — if a burner is completely out or there is any gas smell near the cooktop, we flag that as urgent and prioritize the slot. Evening appointments are available most weekdays. Schedule online or call (323) 870-4790 directly.

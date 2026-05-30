@@ -1,0 +1,81 @@
+title: "Burbank Ice Maker Repair — Hard Water Kills Fill Valves Fast"
+
+intro: |
+  Magnolia Park homes and the 1950s ranches along Alameda Avenue share something most
+  homeowners don't realize: the water running through 91505 is genuinely hard, and that
+  mineral load goes straight into ice maker assemblies. A KitchenAid french-door that made
+  perfect cubes last summer starts dropping misshapen crescents — or nothing — by fall.
+  Almost always the fill valve or water inlet valve, calcified shut from the inside.
+
+  The same pattern shows up in the newer construction off Hollywood Way near the airport.
+  Bosch counter-depth units installed during kitchen remodels in 2018–2020 are hitting that
+  4–5 year mark where the fill valve screens clog and the ice maker control board starts
+  throwing E1 or no-ice faults. Hard water doesn't care how new the machine is — it just
+  needs time to do its work.
+
+localContext: |
+  Most of the housing stock in 91506 and 91501 dates to the 1940s–1960s. Ranch layouts
+  with original galley kitchens mean tight clearance around refrigerators — not unusual to
+  find a counter-depth Bosch wedged between cabinetry with zero wiggle room. Apartments near
+  Downtown Burbank stack compact units in older buildings where supply lines haven't been
+  replaced in decades. Mineral deposits in those lines accelerate fill valve failure by
+  years.
+
+  Over in Burbank Hills and the streets above Glenoaks, the kitchens are larger but the
+  appliances are premium. Sub-Zero and Thermador built-ins are common up here, and they
+  require a different approach — specialized service tools, manufacturer-specific diagnostics,
+  and parts that don't come from a generic warehouse. Street parking near Providencia can
+  be tight on our service vans, but we've worked this area long enough to know where to
+  land. The 91505 zip alone accounts for a big chunk of our weekly ice maker calls.
+
+commonProblems:
+  - title: "Mineral Buildup Kills the Water Inlet Valve"
+    description: "Burbank tap water runs around 280–320 ppm hardness — well into 'very hard'
+      territory. Scale accumulates inside the water inlet valve screens over 12–18 months,
+      restricting flow until the ice maker stops cycling entirely. Samsung and LG french-door
+      models are especially prone; the solenoid ports are small and clog fast without a
+      filter upstream. On LG units, this often triggers an IF error code before production
+      stops completely. The fix is a new inlet valve plus flushing the supply line — skipping
+      the flush just pushes the problem 18 months down the road."
+
+  - title: "Frozen Supply Line Stops Production Overnight"
+    description: "Summer heat in this part of the Valley pushes refrigerators through long
+      run cycles. When the unit finally shuts down at night, the water line feeding the ice
+      maker assembly can freeze solid near the back wall. The real culprit is usually a
+      drifting freezer temperature sensor — common on older Whirlpool platforms running a
+      few degrees too cold. You'll notice the symptom first thing in the morning: no ice,
+      and sometimes a grinding noise as the auger motor tries to turn against a frozen
+      fill tube. Thermistor replacement and a thermostat calibration fix it cleanly.
+      Same-day service is available — call (323) 870-4790 if this sounds like what you're
+      dealing with."
+
+  - title: "Harvest Sensor Failure on KitchenAid and Bosch Units"
+    description: "The harvest sensor — optical on most KitchenAid models, mechanical on
+      older Bosch integrateds — tells the unit when the bin is full. Once it fails,
+      production stops or runs nonstop, flooding the tray. KitchenAid built-ins in Burbank's
+      Rancho-area homes tend to show this after 4–5 years. Replacing the module is usually
+      under an hour on the bench. On integrated Bosch columns, the ice maker control board
+      sometimes needs a full reset sequence after sensor replacement — a step many shops
+      skip, which is why the problem comes back. We carry the KitchenAid W10882923 module
+      and the common Bosch sensor assembly on the van most days."
+
+faq:
+  - q: "How fast can you get to Burbank for ice maker repair?"
+    a: "From our San Fernando Valley routes, Burbank is a straight shot down the 5 or
+      134 — we're typically in 91505 or 91506 within 90 minutes of your call. Same-day
+      slots are usually open, and evening appointments until 7pm are available most
+      weekdays. Call (323) 870-4790 to check what's available today."
+
+  - q: "Do you work on KitchenAid and Bosch ice makers specifically?"
+    a: "Yes — both come up constantly in Burbank's upper-middle neighborhoods. On
+      KitchenAid we replace harvest sensors and inlet valves most often. Bosch integrated
+      units usually need the fill valve assembly or a control board reset after a sensor
+      swap. Samsung and LG are handled routinely too — the IF and 1E error codes on those
+      are almost always a clogged inlet valve in hard-water areas like this one."
+
+  - q: "What does ice maker repair typically cost in Burbank?"
+    a: "Most jobs run $120–$250 depending on the part. Fill valve swap is on the lower
+      end; control board work climbs higher. Sub-Zero and Thermador parts carry a premium
+      over standard residential brands, and we'll tell you the exact number before starting.
+      You get a firm quote before we touch anything — no surprises. Emergency same-day and
+      evening slots are available for urgent calls."
