@@ -1,26 +1,59 @@
-title: "Aliso Viejo Wine Cooler Repair — Same-Day OC Service"
+title: "Aliso Viejo Wine Cooler Repair — 92656 Same-Day Service"
 
 intro: |
-  Homes in Glenwood and Pacific Ridge — the large residential clusters inside 92656 — were built in phases between 1997 and 2006, and most kitchens came pre-spec'd with 24-inch undercounter cutouts. The KitchenAid or Bosch dual-zone that went in during the original buildout is now 18–25 years old. Thermostats drift. Compressors develop start-relay problems. Gaskets crack in dry Southern California air. Same-day service is standard — call (323) 870-4790.
+  That Bosch under-counter unit on Pacific Park Drive looks permanent. Built flush into the granite island, you'd think it was part of the house. Then August hits Saddleback Valley and the compressor starts struggling.
+
+  Bottle temperatures drift upward.
+
+  Most wine coolers in 92656 went in during the 2000s renovation wave — they're 15-20 years old now. KitchenAid and Bosch are the brands we see most here. At that age, thermostats drift, door gaskets crack, and evaporator coils cake up with mineral scale from OC's hard water. Getting a built-in unit properly repaired requires someone who actually carries the parts on the truck — not ordering from a warehouse three days later.
 
 localContext: |
-  The 92656 zip is almost entirely master-planned construction — townhome rows, detached condos, and single-family clusters built to the same era's specs. Tight undercounter bays with minimal side clearance are standard throughout; the condenser coils on a built-in wine cooler can end up inches from cabinet walls that block airflow entirely. Hard Orange County water is a persistent issue here: the condensate drain pan slowly accumulates mineral deposits, eventually backing up into the unit and damaging the drain pump assembly before anyone notices. Aliso Viejo Ranch Road and Town Center corridors are the most call-dense zones we see in South OC. That stretch accounts for a disproportionate share of built-in wine cooler failures — mostly Bosch 500-series and KitchenAid 24-inch undercounter units that haven't been serviced since install. Mineral scale in the drain line, blocked condenser fins, worn door gaskets — these pile up quietly over a decade before anything obvious fails.
+  Aliso Viejo built out fast — 1993 to 2006. Townhomes, condos, planned HOA developments clustered off Aliso Creek Road, Pacific Park Drive, and the arterials feeding the 73 Toll Road. No pre-war stock here, no 1950s tract homes.
+
+  The 92656 zip code covers more ground than it looks. Glenwood and Westridge townhome clusters sit near Aliso Viejo Town Center. The Summit developments push toward Saddleback Mountain with larger single-family footprints. Pacific Ridge condos run along the 73 corridor — tighter kitchens, less service clearance, more compact appliance installs.
+
+  Kitchen remodels from that era dropped wine coolers under granite countertops, squeezed into cabinet bays with barely a few inches of service clearance on each side. The 92656 zip splits between two worlds: Sub-Zero and Thermador built-ins along the Aliso Creek Road corridor in the larger homes, and a substantial share of freestanding KitchenAid and Bosch units added during later remodels in the condo stock.
+
+  Reaching condenser components on those built-ins means pulling multiple access panels. Not a quick job.
 
 commonProblems:
-  - title: "Temperature Swings from Blocked Condenser Airflow in Built-In Installs"
+  - title: "Compressor Overload from Enclosed Summer Heat"
     description: |
-      Townhome kitchens near Town Center and Aliso Viejo Ranch Road regularly have zero side clearance on the wine cooler — nowhere for the condenser coils to shed heat. The compressor runs longer cycles trying to compensate, and the upper-zone temperature probe starts misreading by 5–8°F. A Bosch 500-series built-in in this condition will oscillate wildly between cycles and eventually throw a sensor fault code you cannot clear by cycling power.
-  - title: "Compressor Locked Out After Sustained Summer Operation"
+      Saddleback Valley hits 95-100°F in August. A wine cooler enclosed under a kitchen cabinet — standard in the Glenwood and Westridge floor plans — has almost no airflow buffer.
+
+      The compressor runs near-continuously until the thermal overload trips and cooling stops.
+
+      On KitchenAid dual-zone models, the condenser fan usually seizes first. The blade locks up, the compressor overheats, and both zones go warm before most owners notice. By that point you're replacing both components on the same call. We stock KitchenAid condenser fan assemblies and overload relays specifically because that failure pattern repeats every summer in this zip code — sometimes multiple calls in the same week from the same development.
+
+  - title: "Evaporator Coil Frost Causing Temperature Swings"
     description: |
-      Garage-adjacent and peninsula kitchens in 92656 hit ambient temps above 85°F from June through September. A wine cooler in those conditions runs the compressor without cycling off — until the PTC start relay overheats and fails. Once the relay goes, the unit hums once at startup and then cuts power entirely. LG and Samsung freestanding models are especially prone to this; the fix involves replacing the relay and load-testing the compressor under real operating temps before closing out.
-  - title: "Cracked Door Gasket Causing Condensation and Gradual Temp Loss"
+      Orange County Municipal Water District supply tests above 300 mg/L calcium hardness in most of Aliso Viejo's service area.
+
+      Mineral scale builds on the evaporator coil faster than the factory defrost cycle handles it. Bosch and LG under-counter units are particularly susceptible — the coil frosts over, airflow drops sharply, and you start seeing 8-10 degree swings between zones. Most owners call it a bad thermostat. The actual fix is descaling the evaporator coil and recalibrating the defrost timer, which is a different job entirely and takes longer than a thermostat swap.
+
+  - title: "Door Gasket Failure Driving Constant Compressor Cycling"
     description: |
-      Magnetic door seals on KitchenAid and Sub-Zero wine coolers typically degrade between year 8 and year 12 — the rubber loses its compression set and peels away at the corners. Warm, humid air infiltrates, the evaporator coil frosts unevenly, and moisture rings appear on bottle labels before the temperature alarm triggers. The repair is a factory-spec gasket plus a door hinge alignment check; Sub-Zero built-ins also need the closing tension recalibrated because of door weight.
+      A cracked door seal on a Sub-Zero or KitchenAid wine cooler leaks warm air around the frame. Sometimes less than 2mm of gap.
+
+      That's enough.
+
+      The compressor cycles almost continuously. The unit vibrates louder, monthly power draw climbs, and bottle temperature never stabilizes where you set it. Replacing the door gasket assembly fixes both the noise and the temperature instability in one visit — no refrigerant work required. This failure shows up most often on units installed during the 2003-2008 remodel wave across Pacific Ridge and the Summit developments — the original gaskets are simply at end of life.
 
 faq:
   - q: "How fast can you get to Aliso Viejo for wine cooler repair?"
-    a: "Daily routes through Orange County put us in this corridor regularly — Aliso Viejo falls between our Irvine and Laguna Niguel stops. Same-day service most days, usually on-site within 2 hours of booking. Call (323) 870-4790 or schedule online for immediate confirmation; evening slots are available."
-  - q: "Do you repair KitchenAid, Bosch, and Sub-Zero wine coolers?"
-    a: "All three show up constantly in Aliso Viejo homes and we carry common parts for each. Bosch dual-zones typically come in with control board errors or compressor start faults; Sub-Zero built-ins usually need a door gasket or thermostat sensor replacement. KitchenAid units most often fail at the condenser fan motor or the evaporator fan blade bearing. For the LG and Samsung freestanding units increasingly common in Glenwood townhomes, we stock PTC relays and compressor overload protectors on the van — no waiting on parts orders for those."
-  - q: "What does a wine cooler repair call cost in Aliso Viejo?"
-    a: "Diagnostic visit is $75, credited toward the repair if you move forward. Most jobs — condenser fan motor, door gasket, thermostat probe replacement — run $120–$280 parts and labor combined. Compressor work on a Sub-Zero or built-in premium unit runs higher. Same-day and emergency slots carry no additional surcharge; we quote before touching anything."
+    a: |
+      South OC runs several times a week. From our service area, Aliso Viejo is typically 30-40 minutes depending on the 241 Toll Road corridor — less if we're already working in Laguna Hills or Lake Forest that morning.
+
+      Same-day slots are usually open. Call (323) 870-4790 before noon and we can almost always get a technician out that afternoon or early evening. Emergency slots are available if the unit failed overnight and you have a collection that cannot wait.
+
+  - q: "Do you service Bosch, Sub-Zero, and KitchenAid wine coolers?"
+    a: |
+      Yes — those three are the most common brands we see in Aliso Viejo and across Saddleback Valley. Each has a different refrigerant circuit design and different part sourcing timelines.
+
+      Sub-Zero built-ins require specific torx tooling and proprietary gasket sizes most techs don't stock. We do. Most repairs finish same visit.
+
+  - q: "What does a wine cooler diagnosis involve, and what should I expect to pay?"
+    a: |
+      First visit covers a full check — compressor draw test, evaporator coil condition, thermostat calibration, door seal integrity. About 25-30 minutes before we give you a written quote. The diagnostic fee applies toward repair cost.
+
+      Typical wine cooler repairs run $150-350 depending on which component failed. Evening and weekend slots are available for working households. Call (323) 870-4790 or schedule online to lock in a time.

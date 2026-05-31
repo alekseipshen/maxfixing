@@ -1,0 +1,35 @@
+title: "Venice Wine Cooler — Ocean Salt Kills Compressors Quietly"
+
+intro: |
+  Ocean air off the Pacific corrodes wine cooler condenser coils faster than almost anywhere else in the metro — and Venice beach bungalows make it worse. A GE or Kenmore freestanding unit in one of the pre-war cottages off Abbot Kinney, sitting in a tight kitchen nook with barely three inches of rear clearance, will show heavy coil fouling within two summers. The compressor starts running nonstop, internal temp climbs past 65°F, and most people assume the whole unit is shot. Usually it just needs a condenser cleaning and a thermostat swap.
+
+  Most coastal neighborhoods have this problem. Venice has it worse.
+
+localContext: |
+  Most of 90291 mixes pre-WWII beach cottages, 1960s apartment conversions, and newer infill townhomes — but the wine cooler failures we diagnose consistently happen in the older stock. Frigidaire and Samsung freestanding units get shoehorned into under-counter cutouts with the rear vent pressed flush against the cabinet wall, cutting off condenser airflow entirely. Add salt-laced marine air blowing in two blocks off Venice Beach and the compressor runs hotter every season. Thermal overloads trip more frequently, door gaskets dry-crack ahead of schedule, and LA's notoriously hard water scales up inlet valves on dual-zone units inside two years.
+
+  The stretch along Pacific Avenue near Windward Circle sees the worst of it. Units on the ground floor of older complexes there show coil fouling in 18 months flat — half the timeline of anything east of the 405.
+
+commonProblems:
+  - title: "Compressor Running Constantly — Salt Air and Clogged Condenser Fins"
+    description: |
+      Salt particulates off the Pacific pack into condenser fin rows here faster than in any inland neighborhood. On GE and Kenmore units, fouled fins mean the condenser fan can't push real airflow — the compressor runs at full load chasing 55°F and never lands there. Internal temps read 10 degrees above set point. Some units throw a high-temp alarm or flash an "HI" warning on the display panel before the compressor trips entirely. Catch it at that stage and a fin cleaning plus a run-capacitor test puts the unit right for another two seasons. Neglect it another month and the compressor itself goes — that's a $400+ part before labor, on a unit that may not be worth it.
+
+  - title: "Temperature Swings from a Failed Door Gasket"
+    description: |
+      Coastal humidity dries and cracks vinyl door gaskets faster than manufacturers account for. On Frigidaire and Whirlpool wine coolers, a deformed gasket lets warm moist air push in every time the door closes — the thermostat reads the spike and hammers the compressor, then overshoots cold. Temps inside can swing 8 to 10 degrees across a single hour.
+
+      A new door gasket and thermostat recalibration costs a fraction of a new unit and locks the cabinet back into a stable range.
+
+  - title: "Vibration Noise from Worn Compressor Mounts"
+    description: "Venice bungalow floors from the 1940s have been settling unevenly for 80 years. An unlevel Samsung or Amana wine cooler puts constant lateral stress on the compressor mounting brackets — the rubber isolation mounts fatigue and split, turning a quiet unit into something that buzzes loud enough to rattle the glasses inside. Relevel the unit and swap the isolation mounts and the rattle disappears completely. Most techs can handle it same-day in under an hour."
+
+faq:
+  - q: "How fast can you get to Venice for wine cooler repair?"
+    a: "We run Lincoln Blvd and the 10 regularly — usually in 90291 within 2 hours of your call. Heads up: parking near the Venice Canals can be tight, so we'll text you 20 minutes before arrival so you can meet us out front. Call (323) 870-4790 or schedule online for a same-day slot."
+
+  - q: "Do you repair GE, Frigidaire, and Samsung wine coolers?"
+    a: "Yes — those are the three we see most often in Venice. GE thermostat module failures, Frigidaire door gasket replacements, Samsung control board errors showing E1 or E4 — we carry parts for all three on the van. Most same-visit repairs, no ordering needed."
+
+  - q: "What does wine cooler repair cost in Venice, and how fast can you come out?"
+    a: "Diagnostic is flat-rate, credited toward the repair if you proceed. Most fixes — compressor relay swap, thermostat replacement, door seal — run between $140 and $280 parts and labor combined. Same-day service available most days, evening slots too. Call (323) 870-4790 to lock in a time."

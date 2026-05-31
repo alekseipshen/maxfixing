@@ -1,0 +1,29 @@
+title: "North Hollywood Cooktop Repair — Fast Fixes for SFV Kitchens"
+
+intro: |
+  Gas cooktops dominate the kitchens along Lankershim and Burbank boulevards — most are Kenmore or GE four-burner drop-ins that came standard when these apartment complexes were built in the 1980s and 90s. The San Fernando Valley's triple-digit summers push people to cook more indoors, which burns through igniter electrodes faster than you'd see in coastal neighborhoods. A dead burner on a Tuesday night is usually a cracked spark electrode, and that's a same-day fix.
+
+  Newer construction around the NoHo Arts District shifted toward glass-ceramic electric cooktops — Samsung and GE smooth-top models that look clean until a surface element fails or a crack spreads from a dropped pan. Both gas and electric jobs come through the 91601 regularly. Different failure modes, same urgency when dinner is mid-way done.
+
+localContext: |
+  The 91601 and 91606 zip codes cover a wide range — two-story rental complexes off Tujunga Avenue, 1950s ranch houses near the NoHo Arts District, and newer mixed-use buildings closer to Lankershim. Kitchens in the older rental stock tend to be tight, with 30-inch drop-in cooktops set into laminate countertops that have softened over decades. Pulling a burner assembly out of a Frigidaire drop-in without cracking the surrounding laminate takes extra care that newer builds just don't require.
+
+  The stretch of Vineland Avenue near Burbank Boulevard has dense mid-century apartment stock — buildings where the original cooktops were replaced once, maybe twice, usually with whatever was cheapest at the time. That means mismatched igniter modules, non-original burner caps, and gas line connections that don't always match the current unit's specs. It adds 15–20 minutes of diagnostic time before a wrench touches anything, but it matters — skipping that step on a gas appliance isn't worth the shortcut.
+
+commonProblems:
+  - title: "Igniter clicks nonstop but the burner won't catch"
+    description: "Rapid clicking with no flame almost always traces back to a fouled or cracked spark igniter electrode. On older Kenmore and GE gas cooktops in North Hollywood rentals, the burner cap shifts out of alignment after years of use — that misalignment collapses the spark gap. Reseating the cap and swapping the electrode usually closes the call in one visit. If the igniter module itself is shorted, the whole module gets replaced — clicking that persists even after the burner lights means the module isn't releasing the spark signal, which stresses the igniter wiring over time and eventually kills adjacent burners too."
+  - title: "One burner scorches everything, the others barely simmer"
+    description: "Uneven output across burners on a Samsung or Whirlpool gas cooktop points to a clogged burner orifice. LA tap water is hard — mineral deposits pack the gas port over time and choke flow to a trickle. Removing the burner head, clearing the orifice, and verifying gas valve pressure gets all four burners back in range. In more advanced cases the gas valve itself needs replacement — a valve that won't seat fully will either run lean and flicker or stick open and run hot regardless of knob position."
+  - title: "Knob turns but the flame doesn't change"
+    description: "A stripped knob shaft on a Frigidaire or Amana unit means the valve stem is no longer catching. Rental units get hit hardest — a sticky knob gets forced instead of reported, and by the time we're called out the valve stem is sheared clean. Replacement parts for these models are common stock; it's rarely a waiting job."
+  - title: "Electric cooktop zone stops heating entirely"
+    description: "GE and Samsung glass-ceramic cooktops in newer NoHo condos show this most often — one cooking zone goes cold while the others work fine. Usually a failed radiant surface element or a burned-out infinite switch. The infinite switch controls heat level by cycling the element on and off; when it fails, the zone either won't heat at all or locks to a single temperature with no control. Diagnosing the exact failure requires a continuity check on both components before ordering parts — they look identical but fail differently and the repair cost changes significantly depending on which one is bad."
+
+faq:
+  - q: "How fast can you get to North Hollywood for cooktop repair?"
+    a: "Coverage includes 91601, 91602, and 91606 daily — usually on-site within 2 hours of your call. Street parking off Lankershim and Tujunga is straightforward for the van. Call (323) 870-4790 to lock in a same-day slot."
+  - q: "Do you repair GE and Kenmore gas cooktops in North Hollywood?"
+    a: "GE and Kenmore are probably half our North Hollywood calls. Frigidaire, Whirlpool, and Samsung come up constantly too. Typical jobs: igniter modules, gas valve assemblies, burner orifice cleaning, and control knob replacements on all four brands. For Kenmore units that are rebranded Frigidaire or Whirlpool — common in this area — parts cross-reference to the OEM manufacturer, which keeps availability high and turnaround fast."
+  - q: "What does a cooktop repair cost, and how does the process work?"
+    a: "Most single-burner fixes on a standard GE or Whirlpool gas cooktop run $85–$160 parts and labor. A full gas valve replacement on a Kenmore four-burner typically runs $140–$220 depending on the valve assembly. Cracked ceramic on an electric model is a different calculation — sometimes a full swap makes more sense than a surface repair. Flat quote before any work starts. Evening slots available most weekdays."

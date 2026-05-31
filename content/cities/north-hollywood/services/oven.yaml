@@ -1,0 +1,30 @@
+title: "North Hollywood Oven Repair — Valley-Tested, Same-Day"
+
+intro: |
+  Lankershim Boulevard cuts straight through some of the densest rental stock in the Valley, and most of those apartment kitchens are running Kenmore or Frigidaire freestanding ranges that haven't been touched since they were installed. The NoHo Arts District has new builds now, but the side streets — 91601, 91606 — are still full of appliances from the '80s and '90s. An oven that won't heat past 300°F or locks up after self-clean isn't a minor inconvenience. It's dinner. Electric ranges in the older buildings on Vineland and Tujunga are running on aging bake elements and control boards that were never meant to last 30 years. Gas ranges have their own failure points. Either way, we work on both.
+
+localContext: |
+  North Hollywood's housing runs from postwar bungalows near Lankershim to 1970s low-rise apartments stacked along the corridors off Vineland. Zip codes 91605 and 91606 have dense rental density with tight kitchens — ranges pushed against walls, limited clearance. Most of these units have gas hookups from original construction, so gas ranges dominate. Add Valley summers pushing ambient kitchen temps past 90°F and you have conditions that wear out bake elements, thermostat sensors, and igniter systems faster than the manufacturer specs account for. The buildings near the 170 freeway interchange along Sherman Way tend to be the oldest stock — we see a lot of Amana and early Whirlpool electric ranges there that predate digital controls entirely. Diagnosing those models requires knowing the mechanical thermostat behavior, not just reading error codes off a display.
+
+commonProblems:
+  - title: "Bake Element Burnout in Older 91606 Units"
+    description: "Frigidaire and Kenmore ranges from the late '80s and '90s are still cooking in half the rentals on the Vineland corridor — same original bake element, never replaced. The element either cracks visibly or develops a dead spot that cuts heat to one side of the oven, leaving one rack scorching while the other barely browns. Sometimes you'll see a visible orange blister on the coil surface before full failure, or catch a faint burning smell on preheat. Swap cost is typically $90–140 in parts, and the repair takes under an hour once we pull the range and access the terminal block."
+
+  - title: "Oven Won't Hold Temperature — RTD Probe Drift"
+    description: "GE and Whirlpool freestanding ranges use an RTD temperature sensor that drifts off calibration after heavy use in hot kitchens. You'll see an F3 or E2 error code, or just notice food consistently under- or over-cooked with the display reading fine. A failed probe is a $50 part, but diagnosing it correctly saves you from replacing a perfectly good control board. Resistance testing with a multimeter is the right first step — a working probe reads around 1,100 ohms at room temperature. Open or erratic reading means the board is fine and you're looking at a $150 total repair, not $400."
+
+  - title: "Self-Clean Cycle Locks the Door and Doesn't Release"
+    description: "Samsung ranges with motorized door latch assemblies jam more often in dusty Valley kitchens — debris gets into the mechanism during the high-heat cycle. Sometimes the latch jams locked. Other times, a thermal fuse blows during the 900°F clean cycle and cuts all oven function entirely. Both are fixable same-day once we confirm which component failed. If you ran a self-clean cycle and now the oven is completely dead — no display, no heat — the thermal fuse is the first thing to check. That's a $20 part and a 45-minute job."
+
+  - title: "Gas Igniter Won't Light on Kenmore and Whirlpool Ranges"
+    description: "The burner clicks but the flame won't catch — or it takes 15 seconds of clicking before gas finally ignites. That delay means the igniter is drawing power but not reaching the 3.2–3.6 amp threshold needed to open the gas valve. A weak igniter glows orange-yellow instead of bright white. Kenmore gas ranges in 91605 are one of our most common service calls for exactly this. Replacing the igniter module runs $120–180 parts and labor. Left alone, a weak igniter stops lighting entirely. Call (323) 870-4790 and we can usually get there the same day before that happens."
+
+faq:
+  - q: "How fast can you get to North Hollywood for oven repair?"
+    a: "From our Valley base, North Hollywood is a straight shot — 91601 to 91607 are all covered. Usually there within 2 hours of your call. Evening slots available most weekdays. Call (323) 870-4790 to confirm availability or schedule online."
+
+  - q: "Do you repair GE, Kenmore, and Frigidaire ovens?"
+    a: "Yes, those three make up most of our North Hollywood calls. On GE ranges we frequently replace bake elements and temperature sensors. Kenmore's common issue is the igniter on gas models. Frigidaire freestanding units often have door hinge and gasket problems after a decade in a rental. Parts for all three stay on the van, which means most repairs get done on the first visit."
+
+  - q: "What does oven repair cost, and do you charge for the diagnostic?"
+    a: "Diagnostic visit is $65, which applies toward the repair if you proceed. Most single-component fixes — heating element, thermal fuse, RTD probe, or gas igniter — land between $150–250 parts and labor. Control board replacements run higher, typically $280–400 depending on the model. Same-day appointments available; call (323) 870-4790 for an estimate before we arrive."

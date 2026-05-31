@@ -1,0 +1,33 @@
+title: "Venice Cooktop Repair — Beach Cottages to Canal Condos"
+
+intro: |
+  The walkstreet bungalows between Market Street and Speedway run small kitchens — most have GE or Frigidaire four-burners from the late 1990s or early 2000s, installed when these 1940s beach cottages got their first real remodel. A burner that won't light or a knob that snaps off mid-cook is a daily problem, not a "wait two weeks" situation.
+
+  Venice is on our regular circuit. We cover 90291 from the canal streets down to the boardwalk blocks, and same-day service is almost always available.
+
+localContext: |
+  Rental units along Lincoln Boulevard and the older blocks near Rose Avenue tend to have glass-ceramic or coil-element cooktops running well past the 10-year mark. Much of Venice's housing stock in 90291 dates to 1945–1970. Those kitchens often have 240V wiring that was never fully upgraded when a newer appliance went in — the terminal block connections corrode, or the circuit breaker is undersized for a modern slide-in range.
+
+  A Kenmore or Samsung slide-in that trips the breaker or throws an E1 error code frequently has an underlying electrical connection issue, not just a worn surface element. On gas cooktops, the flexible gas supply line behind the range is often the original 1960s-era connector — brittle, and occasionally leaking just enough to make the igniter cycle without catching. Knowing what you're actually looking at before ordering parts changes what the repair costs.
+
+  The Abbot Kinney corridor is different. Those remodeled rental spaces sometimes have Bosch induction cooktops or mid-range Samsung installations where the landlord went for something current-looking during a flip. Induction cooktops fail differently — usually the power control board or a damaged flex connector under the glass — and diagnosing them requires a separate set of tests than a gas or coil unit.
+
+  Salt air off the Pacific accelerates corrosion on any exposed metal component inside an appliance. Igniter electrodes, terminal screws, burner caps — everything degrades faster in 90291 than in, say, Sherman Oaks or Burbank. That context matters when we're deciding whether to repair or replace a part.
+
+commonProblems:
+  - title: "Gas Igniter Failures in Coastal-Air Kitchens"
+    description: "Older GE and Frigidaire gas cooktops in Venice's beach cottages develop spark igniter problems when marine moisture corrodes the igniter electrode tip. The burner clicks constantly but won't catch — or won't click at all. Sometimes it's just the electrode; other times the igniter module has shorted internally and the entire spark module needs to come out. Replacing the igniter module and cleaning the burner cap usually solves it, and parts are inexpensive on these GE and Frigidaire models. This is one of the most common calls we get from the 90291 zip — salt air moves through these kitchens year-round, and no amount of wiping down the stovetop stops the moisture from reaching the electrode socket."
+  - title: "Cracked Glass-Ceramic Surface on Samsung Units"
+    description: "Drop a cast-iron pan on a glass-ceramic cooktop and the damage is instant. Venice's compact kitchens mean people cook in tight quarters and accidents happen. A cracked surface on a Samsung NE-series model can't be patched — the entire glass panel needs to come out to prevent electrical arcing underneath the cooktop frame. The repair is straightforward if the part is available. Some of the older NE58 and NE63 panels are now backorder-only from Samsung, and we'll tell you that upfront rather than taking your money and making you wait three weeks."
+  - title: "Coil Burner Cycling on Frigidaire and Kenmore Ranges"
+    description: "That Frigidaire coil burner that heats up fine, then drops to almost nothing, then climbs back up — that's a failing infinite switch, not the coil element itself. The infinite switch regulates heat output, and when it wears out it can't hold a steady temperature. Swapping it is a 30-minute job on most Frigidaire and Kenmore models. The harder call is confirming it's actually the switch and not a loose pigtail connector or a partially failed heating coil — one costs $35 in parts, the other costs $15. A quick continuity test before ordering anything saves time and keeps the repair bill lower."
+
+faq:
+  - q: "How fast can you get to Venice for cooktop repair?"
+    a: "Venice is on our regular route — roughly 20–30 minutes from most starting points. We cover all of 90291, including the walkstreet zones (van parks on the nearest cross street, no problem). Call (323) 870-4790 and we can usually lock in a same-day slot, including evenings."
+  - q: "Do you repair GE and Frigidaire cooktops in Venice?"
+    a: "GE, Frigidaire, and Kenmore are probably the majority of what we fix out here. Most common repairs: igniter modules, infinite switches, terminal block connections. Samsung glass-ceramic comes up a lot too, especially in the newer condo buildings near the Venice Canals. Bosch induction we handle as well — those need a power board diagnosis before anything else gets replaced."
+  - q: "What does a cooktop repair cost, and how fast can you come?"
+    a: "Diagnostic runs $75, applied toward the repair if you move forward. Most fixes — igniter swap, control knob replacement, surface element switch — land between $120 and $250 parts and labor. Same-day and emergency slots are available. Book at (323) 870-4790."
+  - q: "My gas burner flame is orange instead of blue — is that a problem?"
+    a: "Yes, and don't keep cooking on it. Orange or yellow flame on a gas burner means incomplete combustion — either the burner ports are clogged with grease and mineral deposits, or the air-to-gas mixture is off. In a small Venice kitchen with limited cross-ventilation, that's putting carbon monoxide into a tight space. Start by cleaning the burner ports and the orifice opening. If the flame is still off after that, the issue may be at the gas valve regulator or the orifice itself. Call us at (323) 870-4790 — we can usually get there the same day."

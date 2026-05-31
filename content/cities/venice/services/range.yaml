@@ -1,0 +1,45 @@
+title: "Venice Range Repair — Beach Bungalows, Old Gas Lines"
+
+intro: |
+  Salt air off the Pacific hammers igniter systems harder than most homeowners realize — the 1940s cottages tucked into Venice's canal district around 90291 log more spark igniter failures than almost any other range complaint we see. A GE or Kenmore freestanding range in one of these beach rentals will start clicking non-stop on a humid morning and simply never light. Two-hour response window — call (323) 870-4790.
+
+  Oakwood, a few blocks inland from the beach, has its own set of older duplex and triplex rentals with ranges that haven't been serviced in years. The salt-air corrosion that destroys igniter electrodes near the waterfront doesn't disappear at Lincoln Blvd.
+
+localContext: |
+  Venice housing is a real patchwork: canal-district bungalows from the 1940s, 1970s stucco apartment blocks near Lincoln Blvd, and newer condos off Abbot Kinney Blvd — all in zip 90291. The older units almost universally have original gas supply lines feeding the range, sometimes undersized, sometimes corroded at the rear connector. Compact galley kitchens in the beach cottages leave minimal clearance behind the unit, which means pulling a range for service is a deliberate two-person operation, not a five-minute job.
+
+  The Oakwood neighborhood runs similarly old — mostly postwar construction with gas ranges swapped in and out by landlords over decades. Supply connectors that don't match the current unit's BTU draw are common. Flex lines that were fine in 1998 are now brittle at the fittings.
+
+  Street parking on the canal-district side is tight. Our vans carry stock for GE, Kenmore, Whirlpool, and Frigidaire gas range repairs not because Venice is unusual but because the West LA route hits enough of these jobs that stocking out isn't an option. We account for the access logistics before dispatching, not after arriving.
+
+commonProblems:
+  - title: "Spark igniter clicks constantly but burner won't catch"
+    description: |
+      Coastal moisture and salty air accelerate carbon buildup on igniter electrodes — a pattern we see constantly in Venice's older beach rentals and canal-area bungalows. The igniter fires but loses its gap, and the burner never lights. On GE and Kenmore models from the 2000s and 2010s, a replacement igniter plus a quick check of the spark module usually closes the job in under an hour.
+
+      The spark module fails separately from the electrode. It's the control board component that sends voltage to each burner position, and a clicking igniter that stops mid-cook usually means the module is losing output intermittently, not the electrode tip itself. Resistance testing at the electrode wire harness pins the diagnosis before any parts leave the van.
+
+  - title: "Oven temperature running 40-60 degrees off"
+    description: |
+      A degraded gas valve igniter is almost always behind this — it glows but can't reach the temperature needed to open the valve consistently. Frigidaire and Whirlpool freestanding ranges from that generation are particularly prone to it. The oven ends up scalding hot one cycle and barely warm the next. Resistance spec on the igniter with a multimeter confirms it before any parts get ordered.
+
+      Bake element failure is a separate failure path on dual-fuel units. Venice condos near Abbot Kinney sometimes have electric ovens on gas cooktops, and the bake element in an Amana or Samsung model will partially short and cause the same symptom. Visible scorching or a broken element wire confirms it immediately. Two different diagnosis paths, two different fixes — not interchangeable.
+
+  - title: "Faint gas smell when the range is completely off"
+    description: |
+      A gas valve that isn't seating fully, or a cracked supply line fitting at the rear of the unit, is almost always the culprit. Samsung and Amana freestanding models in rental units develop this as the gas valve ages past ten years. Don't test the burners — call (323) 870-4790 right away. We carry leak detection equipment on every van and can trace the source on the first visit.
+
+      The flex connector between the wall shutoff and the range is worth knowing about separately. Older aluminum flex lines — especially common in the 1970s-era apartment buildings near Lincoln Blvd — develop micro-fractures at the fittings over time. Not visible, not obvious, but detectable with soapy water at the joints. That check happens on every gas range job in this area, every time, before we close out.
+
+faq:
+  - q: "How fast can you get to Venice for a range repair?"
+    a: "Venice sits on our West LA daily route — 20 to 30 minutes from the nearest tech, depending on Lincoln Blvd or Venice Blvd traffic. Same-day slots open most days. Call (323) 870-4790 before noon and we'll usually get you on the schedule."
+
+  - q: "Do you repair GE and Kenmore gas ranges in Venice?"
+    a: "Those two are the most common calls we get in this area, followed closely by Whirlpool and Frigidaire. Typical jobs: igniter replacement, gas valve swap, control board diagnosis, burner orifice cleaning. Parts for all four brands usually ride on the van already."
+
+  - q: "What does a range repair typically cost, and how does scheduling work?"
+    a: "Flat-rate diagnostic visit, then a written quote before any work starts — no surprises. Most igniter replacements run $80-$150 in parts plus labor. Gas valve work runs higher. Evening slots are available when daytime doesn't work, and same-day service is usually possible."
+
+  - q: "There's a gas smell near my range — what should I do before you arrive?"
+    a: "Shut off the gas at the wall valve behind the unit and stop using all burners. Cracked supply fittings and aging gas valves are both common in Venice's older rental stock — neither gets better with time. Call (323) 870-4790 immediately. Same-day and evening slots exist specifically for situations like this, and we'll bring leak detection gear on the van."
