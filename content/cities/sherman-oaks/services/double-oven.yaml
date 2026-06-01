@@ -1,0 +1,175 @@
+title: "Sherman Oaks Double Oven — Valley Heat Pushes Both Cavities Hard"
+
+intro: |
+  Kitchens in the Sherman Oaks flats between Ventura Boulevard and Moorpark Street run
+  hard — families that actually cook, not just reheat. The GE Profile double wall ovens
+  installed during the late-1990s and early-2000s remodel wave in this neighborhood are
+  hitting 20-plus years, and the upper cavity is usually the first thing to quit. It stops
+  climbing past 200°F during preheat, the bake element has lost continuity, and suddenly
+  half the oven is dead the week before a holiday meal. Sherman Oaks sits in the interior
+  Valley, and summer ambient temps push 100°F+ regularly — that thermal stress accelerates
+  wear on heating elements, door gaskets, and control board components faster than in
+  coastal LA. The Chandler Estates blocks south of Riverside Drive have a high
+  concentration of older Kenmore and Whirlpool double wall units from the same era, many
+  still in original cabinet surrounds. Most of what we see is fixable in a single visit:
+  a failed bake element, a drifting temperature sensor, a cracked door hinge spring. A
+  $200 repair is not a $2,000 appliance replacement.
+
+localContext: |
+  Sherman Oaks housing breaks into two main pockets relevant to double oven repair. The
+  91401 zip — Hazeltine Avenue corridor, Cedros, Dickens Street — is heavy on 1960s and
+  1970s California ranch homes that received kitchen renovations in the 1990s. Those
+  updates typically brought in built-in double wall ovens from Kenmore, GE, and Whirlpool,
+  units now approaching or past their 20-year mark. Control boards in these models are
+  the common failure point at this age. The 91403 zip, particularly the hillside streets
+  west of Sepulveda Boulevard, skews toward mid-2000s remodels with Samsung and GE
+  electric double wall units — failure patterns there center on electronic control board
+  faults and door latch assembly wear. Valley heat accelerates gasket compression and
+  thermal fuse fatigue in both populations. Service van access is straightforward in
+  Sherman Oaks — residential blocks with driveways and available street parking mean
+  technicians arrive with full parts inventory rather than a stripped kit. No parking
+  permits, no elevator waits. That operational difference shows up in how fast repairs
+  actually get completed.
+
+commonProblems:
+  - title: "Upper Oven Not Heating — Bake Element Burnout in Aging Wall Units"
+    description: |
+      The upper cavity heating issue is the most common double oven call in Sherman Oaks.
+      In Whirlpool and Kenmore double wall units built between 1995 and 2010, the bake
+      element burns out first — it's cycling more often than the lower oven because most
+      households use the upper cavity as the primary baking space. A failed bake element
+      shows up as an oven that preheats to 150-200°F and stalls, or one that takes 45
+      minutes to reach 350°F. The element itself tests open on a continuity check. Parts
+      run $35-$65 depending on model; labor to access the element inside a built-in
+      cabinet surround adds $80-$120. Total repair lands at $150-$220 and takes about 90
+      minutes on-site. If the element passes the continuity test but the oven still won't
+      heat, the oven temperature sensor — an RTD probe, roughly $25-$40 — is the next
+      component to test. Both parts are stocked for GE and Kenmore units.
+
+  - title: "Temperature Mismatch Between Cavities — RTD Probe Drift and Control Board Faults"
+    description: |
+      Running both ovens at different temps — 375°F on the lower for a roast, 325°F on the
+      upper for a casserole — only works accurately if both temperature sensors are reading
+      correctly. Samsung double wall ovens in the 91403 zip, particularly the NE59 series
+      installed during the mid-2000s remodel cycle, develop a 25-50°F drift between cavities
+      after 6-8 years of regular use. The failing RTD probe reads low; the control board
+      overfires the heating element trying to compensate; food burns on one rack and
+      undercooks on another. Replacing the RTD probe runs $40-$80 in parts. If the probe
+      checks out and the mismatch persists, the control board has developed intermittent
+      relay faults — common after Valley summer power fluctuations stress the electronics.
+      A replacement control board for Samsung double wall units runs $180-$320 depending on
+      model year. That's still well under the cost of a replacement appliance.
+
+  - title: "Control Board Failure — Error Codes, Dead Displays, Locked-Up Keypads"
+    description: |
+      GE double wall ovens — the JKD and JT series installed across Sherman Oaks kitchens
+      in the early 2000s — throw F3 and F7 error codes at the end of their control board
+      lifespan. F3 means the oven temperature sensor circuit is open or shorted at the
+      board connection. F7 means a stuck keypad relay that won't clear with a power reset
+      and requires board replacement. The control board sits behind the control panel fascia;
+      accessing it in a tight built-in surround sometimes means pulling the oven partially
+      out of the cabinet, which adds 20-30 minutes to the job. Replacement boards for GE
+      double wall models run $160-$280 and typically ship within 2 business days. The most
+      common configurations are stocked in the service van for same-day swap. Before
+      condemning the board outright, we check the thermal limiter — a $15 fuse that blows
+      upstream of the board and mimics a dead control panel with zero error codes.
+
+  - title: "Broken Door Hinge — Lower Cavity Door Droops, Breaks the Gasket Seal"
+    description: |
+      Double wall oven doors weigh 18-25 lbs each, and hinge spring assemblies take that
+      load every single time the door opens. Frigidaire Gallery double wall units — popular
+      in Sherman Oaks kitchens from the late 1990s through the mid-2000s — develop hinge
+      spring fatigue around year 12-15. The door starts drooping, falling open on its own,
+      or sitting slightly out of level. A misaligned door breaks the contact between the door
+      gasket and the oven frame, which lets heat escape and runs cook times 15-20% longer.
+      Hinge assembly replacement on a Frigidaire double wall unit runs $60-$110 per hinge
+      in parts, plus an hour of labor. The door gasket gets inspected at the same time —
+      a compressed or cracked gasket on the lower cavity adds $30-$50 and prevents the
+      heat-loss issue from returning in six months. Doing both in one visit is the right
+      call on units over 15 years old.
+
+  - title: "Self-Clean Cycle Damage — Thermal Fuses, Door Lock Motors, and What They Cost"
+    description: |
+      The self-clean cycle runs oven cavities to 900°F+, which is intentional — but it
+      destroys components that are already marginal. Thermal fuses, positioned near the
+      control board to protect against runaway heat, blow during self-clean at elevated
+      rates in Sherman Oaks homes because kitchen ambient temps during a Valley summer
+      are already 85-95°F before the oven contributes. A blown thermal fuse shuts the oven
+      off completely mid-cycle with no displayed error code. The fuse itself is $8-$20;
+      accessing it in a Whirlpool or GE double wall unit takes 30-45 minutes. Door lock
+      motor assemblies also take serious stress during self-clean — a seized lock motor
+      traps the door closed until the cavity cools, which can take 2-3 hours. Replacement
+      lock motors run $40-$90 depending on model. The practical advice: on units over 12
+      years old, run self-clean no more than twice a year and never when ambient temps
+      are above 85°F indoors.
+
+faq:
+  - q: "How fast can you get to Sherman Oaks for a double oven repair?"
+    a: |
+      Sherman Oaks is a 15-25 minute drive from our Van Nuys base, depending on 405
+      traffic through the Sepulveda Pass. Most days, same-day service is available if
+      you call before noon. Evening slots run 4-7pm Tuesday through Saturday for
+      households where someone needs to be home during working hours. Parking on
+      residential streets south of Ventura Boulevard is usually easy — driveways and
+      open street spots mean the service van arrives stocked with parts, not a stripped-
+      down kit requiring a second trip. Call (323) 870-4790 to lock in a slot and we will
+      confirm a technician ETA at the time of booking.
+
+  - q: "What does double oven repair cost in Sherman Oaks?"
+    a: |
+      Most repairs land between $150 and $420 depending on which component failed. A bake
+      element replacement runs $150-$220 total parts and labor. A temperature sensor swap
+      is $120-$180. Control board replacement for GE or Whirlpool units comes in at
+      $280-$420. Door hinge assembly repair runs $180-$260 for both hinges. The diagnostic
+      visit is $85 and gets applied toward the repair if you proceed. Exact pricing is
+      confirmed before any work starts — no estimates that expand once the panel is off.
+      Parts for GE, Kenmore, Samsung, Whirlpool, and Frigidaire are available same-day or
+      next-day through local suppliers.
+
+  - q: "Can you repair both electric and gas double ovens in Sherman Oaks?"
+    a: |
+      Both types are in the rotation. Electric double wall ovens are the majority in
+      Sherman Oaks residential kitchens — 240V hardwired units installed in cabinet
+      surrounds, and all standard electric failure modes are handled. Gas double ranges
+      do appear in older Valley homes that retained gas infrastructure through multiple
+      kitchen remodels; gas-specific repairs include igniter replacement, gas valve
+      solenoid testing, and burner orifice cleaning. Igniters for common Frigidaire and
+      GE gas configurations are stocked in the van. Call (323) 870-4790 and describe
+      what the oven is doing — model number helps — and parts availability gets confirmed
+      before scheduling so the first visit is a repair visit, not just a look.
+
+  - q: "My double oven is showing an error code — what does it mean?"
+    a: |
+      Error codes are consistent enough by brand that a preliminary read helps before the
+      technician arrives. GE F3 points to a temperature sensor circuit fault — open or
+      shorted probe connection. F7 on a GE double wall oven means a stuck keypad relay on
+      the control board. Samsung SE indicates keypad or control board communication error.
+      Whirlpool F5 is a door latch assembly fault. Frigidaire F10 — runaway temperature
+      reading — usually means a shorted RTD probe or a failing control board. If you can
+      read the code and provide the model number, the correct parts get loaded into the van
+      before arrival. That said, the code identifies the circuit, not always which specific
+      component within that circuit has actually failed. The $85 diagnostic confirms it and
+      produces a firm quote.
+
+  - q: "What warranty comes with a double oven repair?"
+    a: |
+      Parts carry manufacturer warranty — 90 days to 1 year depending on the component and
+      supplier. Labor is covered for 90 days from the repair date. If the same failure
+      returns within that window, a technician comes back at no additional diagnostic charge.
+      The exception: running a self-clean cycle on a unit that had thermal fuse or control
+      board work done, and the cycle causes a new failure — that is wear-and-tear, not a
+      workmanship issue. Upfront assessment includes an honest read on whether a repair is
+      a durable fix or a temporary one. On a 22-year-old Kenmore with multiple component
+      failures, the straight answer sometimes is that further investment doesn't make
+      financial sense at that appliance age.
+
+  - q: "Do you cover cities near Sherman Oaks, and how quickly can you schedule?"
+    a: |
+      The full San Fernando Valley is in daily rotation — Studio City, Encino, Tarzana,
+      Van Nuys, Reseda, Woodland Hills, North Hollywood, and Burbank all see regular
+      service. South of the hill, West LA, Culver City, and Santa Monica are covered.
+      For Sherman Oaks and adjacent Valley cities, same-day availability is most common
+      for morning calls. Studio City and Encino calls typically get a technician on-site
+      within 2 hours. Scheduling runs seven days a week, including weekend morning slots
+      that book up quickly in summer when Valley appliance calls spike. Call (323) 870-4790
+      to check the day's availability — same-day slots fill by early afternoon.

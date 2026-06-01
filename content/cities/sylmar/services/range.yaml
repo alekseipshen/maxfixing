@@ -1,0 +1,138 @@
+title: "Sylmar Range Repair — Aging Gas Lines Off the 210"
+
+intro: |
+  Off Foothill Boulevard in the 91342 zip, a lot of kitchens are running Kenmore and GE ranges
+  that went in during the Reagan administration. These aren't collector's items — they're just
+  appliances that got used hard and never serviced. The San Fernando Valley heat from June through
+  September pushes everything past its limits, and gas ranges in older Sylmar homes are dealing
+  with supply lines, fittings, and igniters that haven't been touched in decades. Spark igniter
+  failures on GE and Frigidaire freestanding models are the most common service call from this
+  part of the Valley. The neighborhoods up near Veterans Memorial Park and along Olive View Drive
+  have tight kitchens — the kind where you're working with 18 inches of clearance between the
+  stove and a cabinet island — so technicians who don't know the neighborhood end up struggling
+  before they even open a toolbox.
+
+localContext: |
+  Sylmar's housing stock runs the range. The flatter streets near the 210 and Foothill
+  intersection have 1960s and 1970s single-family homes with standard 30-inch freestanding gas
+  ranges — mostly Whirlpool, Kenmore, and Frigidaire. Up toward the hillsides off Roxford Street
+  and near the Olive View-UCLA Medical Center campus, newer developments have slide-in models and
+  the occasional higher-end installation. Zip code 91342 covers most of the city, and out here
+  the gas infrastructure in older homes was grandfathered — flexible connectors that should have
+  been replaced years ago, shutoff valves that stick. Heavy daily cooking use in large households
+  accelerates wear on components like the spark module, burner caps, and control boards faster
+  than manufacturers' published service intervals suggest. Technicians working in Sylmar need gas
+  diagnostics in their core toolkit, not just the standard electric playbook.
+
+commonProblems:
+  - title: "Spark Igniter Clicking Constantly or Refusing to Catch"
+    description: "In the older GE and Kenmore freestanding models that dominate 91342 kitchens, the
+      spark igniter electrode is the first component to go. You'll know it when you hear clicking
+      that won't stop after the burner lights, or when the burner just won't catch at all no
+      matter how many times you try. The electrode itself cracks from repeated thermal cycling, and
+      the spark module can lose its ground connection in humid or greasy conditions. On older
+      Frigidaire units, the igniter wire harness deteriorates near the burner box from years of
+      heat exposure — a visual inspection catches it immediately. Replacing an electrode runs
+      $25–$60 for the part depending on the model; labor brings the total repair to $120–$180.
+      Usually under an hour on-site."
+
+  - title: "Uneven Flame or One Burner Running Too Weak"
+    description: "A partially blocked burner port is the usual culprit when one flame looks like a
+      crescent instead of a full ring. In Sylmar kitchens that see heavy daily cooking — rice,
+      beans, large family meals — grease and food residue pack into the burner cap ports over time.
+      Bosch and KitchenAid sealed-burner models are actually more prone to this than older
+      open-burner Whirlpool units because the ports are smaller and harder to clear without
+      removing the cap entirely. A clogged gas orifice inside the burner base can cause the same
+      weak-flame symptom, and that's not something you fix with a toothpick — the orifice needs
+      the correct drill bit or a replacement part. A consistently weak or irregular flame across
+      multiple burners can also signal a failing gas valve assembly, which costs more to address
+      ($180–$280 in parts) and usually comes with sluggish response on every burner
+      simultaneously."
+
+  - title: "Oven Not Heating Even Though the Stovetop Works Fine"
+    description: "On gas ranges, the oven burner has its own dedicated igniter — a glow-bar style
+      component called a bake igniter — completely separate from the surface burner ignition
+      system. When the oven won't heat but the stovetop runs normally, that bake igniter is the
+      first thing to test. Frigidaire and GE models in 91342 fail here more than any other single
+      component. A glow-bar igniter that's weakening will actually glow orange-red but won't draw
+      enough current — typically below 3.2 amps — to open the gas valve, so the burner tube never
+      gets fuel. That's a common misdiagnosis: homeowners see the igniter glowing and assume
+      something else is wrong. Replacing a bake igniter runs $140–$200 for parts and labor. On
+      electric slide-in models — Whirlpool and Samsung being common in newer Sylmar builds — the
+      bake element burns out instead, leaving visible cracks or scorched spots."
+
+  - title: "Control Panel Dead or Throwing Error Codes"
+    description: "Electronic control boards on Samsung and LG ranges are a documented weak point,
+      especially in neighborhoods where voltage fluctuations happen regularly. Sylmar sits on the
+      edge of the LADWP distribution grid, and the streets near Hubbard Street see brief voltage
+      dips during peak summer load — enough to stress capacitors or corrupt stored settings on the
+      control board. An F3 or F5 error code on a GE range almost always points to the oven
+      temperature sensor rather than the board itself, and that's a $70–$110 fix that takes 20
+      minutes. Before condemning the control board, a technician should always check sensor
+      resistance — a failing sensor mimics a dead board and replacement runs $260–$450 for the
+      board versus $85 for the sensor. Getting that diagnosis wrong is expensive."
+
+  - title: "Gas Smell Near the Range — Not Something to Wait On"
+    description: "Supply line flexible connectors behind older ranges — the corrugated stainless hoses
+      between the wall shutoff and the range inlet — have a rated lifespan of 10–15 years. In
+      Sylmar homes where the range hasn't been pulled from the wall in 20-plus years, those
+      connectors develop micro-cracks at the fittings. The shutoff valve threads can also degrade.
+      A gas smell near the appliance with the burners off is a supply-side issue until proven
+      otherwise. Pressure-testing the supply line and checking every fitting with a combustible gas
+      detector takes 15 minutes and rules out the dangerous scenarios fast. A new corrugated
+      connector costs $18–$35 and the labor is minimal — same-day fix. If the smell is coming
+      from the range valve itself with knobs turned fully off, the gas valve assembly needs
+      replacing: $150–$220 depending on the model."
+
+faq:
+  - q: "How fast can you get to Sylmar for range repair?"
+    a: "Same-day service in Sylmar is standard most weekdays. Typical arrival time is under 2 hours
+      from the call — the city sits right off the 210 near the Foothill junction, and the Valley
+      route runs through Sylmar, Mission Hills, and Pacoima daily. Morning calls consistently get
+      faster windows than afternoon slots because of 210 westbound congestion near Paxton Street
+      after 3 PM. Evening appointments are available Tuesday through Friday. Call (323) 870-4790
+      and we'll confirm your window on the spot."
+
+  - q: "What does range repair in Sylmar typically cost?"
+    a: "Diagnostic fee is $75, applied toward the repair if you approve the work. Igniter
+      replacements — spark or bake — usually land between $120 and $200 total including parts and
+      labor. Control board replacements on Samsung or GE models run $260–$450 depending on the
+      specific board. Gas valve work sits around $180–$280. Supply line connector replacements are
+      on the lower end, usually $80–$120. Full pricing is quoted before anything is touched — no
+      estimate surprises. Call (323) 870-4790 or schedule a same-day appointment online."
+
+  - q: "Do you repair both gas and electric ranges in Sylmar?"
+    a: "Both. Gas is the majority in Sylmar — most of the housing stock near Maclay Avenue and the
+      older blocks east of the 210 runs on natural gas, with Kenmore and Whirlpool freestanding
+      models being the most common units. Common gas-specific parts stay on the truck: bake
+      igniters, spark modules, gas valve assemblies, and supply line connectors. Electric ranges —
+      Whirlpool, Samsung, and GE slide-ins are most common in newer Sylmar builds — have different
+      failure patterns. Bake elements, control boards, and temperature sensors are the usual
+      suspects. Both gas and electric repairs are same-day if parts are in stock, which they are
+      for the major brands."
+
+  - q: "Can you fix an oven that won't heat if the stovetop burners still work?"
+    a: "Yes, and this is one of the more frequent calls from 91342. On gas ranges the oven ignition
+      system is separate from the surface burners — the bake igniter is its own component mounted
+      below the oven burner tube, and it fails independently. GE and Frigidaire models are the
+      most common in this zip with exactly that failure. Testing the igniter's current draw
+      on-site takes five minutes — if it's pulling under 3.2 amps, it can't open the gas valve
+      even though it glows. That repair is usually completed the same visit. Schedule through
+      (323) 870-4790 and mention the oven-only symptom when you call."
+
+  - q: "What warranty do you offer on range repairs in Sylmar?"
+    a: "Parts carry a 90-day warranty and labor is covered for 30 days. Same component fails within
+      that window and we come back at no charge. On larger repairs — control boards, gas valve
+      assemblies — OEM parts are sourced directly where available, which adds the manufacturer's
+      own coverage on top of ours. Aftermarket parts get used when OEM isn't available or the
+      price difference is significant, and you're told which one you're getting before the order
+      is placed. Supply is reliable for GE, Whirlpool, Frigidaire, and Kenmore, so OEM is the
+      default for those brands."
+
+  - q: "Do you cover Mission Hills, Pacoima, and other areas near Sylmar?"
+    a: "Sylmar is one stop on a daily Valley route that includes Mission Hills (91345), Pacoima
+      (91331), Arleta, and Granada Hills. Coverage extends from Santa Clarita south to the 101
+      corridor and east toward Pasadena. The 91342 zip and the adjacent 91340 and 91345 zips are
+      all in the regular service area — not outliers that add a travel surcharge. Scheduling runs
+      next-day or same-day depending on volume. Call (323) 870-4790 to confirm same-day
+      availability; early-morning calls almost always get a same-day window."

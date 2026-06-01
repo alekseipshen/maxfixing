@@ -1,0 +1,158 @@
+title: "Sherman Oaks Range Hood — Fan Repair & Grease Filter Service"
+
+intro: |
+  Summer cooking in the San Fernando Valley is a different experience than anywhere else in LA.
+  The Valley floor in Sherman Oaks regularly hits 100°F+ on bad days, and running a gas burner
+  adds another layer of heat that most range hoods weren't designed to handle. The GE and Kenmore
+  units we see along Ventura Boulevard's apartment corridor were spec'd for average conditions —
+  not 95-degree weekdays where the blower motor runs hotter, draws more current, and the thermal
+  cutout trips earlier than it should. Denser blocks near Van Nuys Boulevard sit in a heat pocket
+  that accelerates wear on every kitchen appliance, and range hoods take the worst of it because
+  most homeowners don't notice the fan slowing down until smoke starts rolling out around the
+  sides. Up toward the residential streets above Riverside Drive, the same story plays out in
+  1960s ranch homes where the original ductwork was sized for much less powerful blowers than what
+  got installed during the last kitchen remodel.
+
+localContext: |
+  Sherman Oaks housing stock is mostly mid-century — 1950s and 1960s ranch-style homes that got
+  kitchen updates at some point, but the range hood was usually an afterthought. Zip codes 91401
+  and 91411 carry heavy apartment density, and those older multi-family buildings often have
+  undersized 4-inch duct runs that choke airflow from day one. A duct in a converted 1960s
+  building near Kester Avenue might run 14 feet horizontally before hitting the exterior wall —
+  double the recommended length for a standard-CFM blower. In zip 91403, more single-family
+  stucco ranchers turn up with drop ceilings where the duct terminates into a cavity instead of
+  exhausting outside. LA's hard water hits range hoods too: mineral buildup inside recirculating
+  units and on mesh filters is common on this side of the hill. The combination of Valley heat,
+  aging ductwork, and mineral-laden water means range hoods in Sherman Oaks fail faster than
+  manufacturer warranties account for.
+
+commonProblems:
+  - title: "Blower Motor and Capacitor Burned Out From Valley Heat"
+    description: |
+      The capacitor is a small cylindrical component that helps the blower motor start under load.
+      In Sherman Oaks, ambient kitchen temperatures during summer push this part past its rated
+      thermal threshold faster than the manufacturer's lifecycle data predicts. We pull dead
+      capacitors out of Samsung and LG over-the-range units constantly from July through September.
+      Testing takes two minutes with a multimeter — if the capacitor reads below rated microfarads,
+      it needs to go. Parts run $15-40. Full motor replacements on mid-range units are $90-180
+      depending on the model. While we're in there, we check the motor shaft bearings, because a
+      heat-stressed capacitor usually means the motor has been laboring for months, putting extra
+      wear on the bearing surfaces. Call (323) 870-4790 — capacitor swaps are typically same-day.
+
+  - title: "Grinding or Rattling Noise That Gets Worse Every Week"
+    description: |
+      A range hood making grinding sounds usually has one of two problems: worn motor shaft
+      bearings or a cracked fan blade clipping the housing on each rotation. On Whirlpool and
+      Frigidaire over-the-range models, the blower wheel assembly is secured by a single center
+      nut that can work loose over years of vibration — the blade wobbles slightly and produces
+      a rhythmic thudding that changes pitch as you cycle through fan speeds. Worn bearings are
+      different: a continuous metal-on-metal grind that stays consistent regardless of speed
+      setting. Replacement fan blades run $20-45 for common models. The diagnostic matters,
+      though. Installing a new blade when the bearing is the real problem just delays the proper
+      fix by a few months. We identify the noise source on-site in under 20 minutes.
+
+  - title: "Grease Baffle Filter Completely Clogged — Airflow Nearly Gone"
+    description: |
+      Baffle filters and mesh screens should be cleaned every 4-6 weeks in a household that cooks
+      regularly. By the time most Sherman Oaks residents call us, the filter is so saturated that
+      the range hood is moving maybe 30% of its rated CFM — smoke just rolls around the sides
+      instead of getting captured. On GE and Kenmore models with stamped aluminum mesh inserts,
+      sustained back-pressure from a blocked filter pushes the blower motor into thermal overload
+      territory, accelerating bearing wear and stressing the control board. Cleaning the filter
+      is a dishwasher cycle or a short soak in degreaser. But if it's been clogged for months,
+      we also inspect the duct collar gasket for grease intrusion and check whether grease has
+      migrated into the motor housing — that requires a deeper cleaning and occasionally a
+      motor flush, adding $80-140 to the visit.
+
+  - title: "Vent Duct Disconnected Inside the Wall or Ceiling"
+    description: |
+      This is more common in Sherman Oaks apartments than anywhere else we run calls. Ductwork
+      installed in the 1960s used friction-fit connections — no metal foil tape, no screws —
+      and sections have pulled apart inside wall cavities over time. The range hood fan runs and
+      sounds normal, but all the exhaust air is dumping into the ceiling space. Grease vapor
+      condenses inside the disconnected duct section and eventually drips back down through
+      light fixtures or seams. Reconnecting a separated duct joint in a drop-ceiling kitchen
+      on Kester or Dickens Street takes 1-3 hours depending on how much drywall or ceiling tile
+      needs to come down for access. If the existing duct run is undersized — common in 91411 —
+      we recommend upgrading to a proper 6-inch collar while the hood is already off the wall,
+      since the labor cost is largely sunk at that point.
+
+  - title: "Range Hood Lights Dead While Fan Still Runs — Control Board or Socket"
+    description: |
+      Lights and fan sharing the same control board means one failed component can take out
+      both or either independently. On older GE Profile and Frigidaire slide-control models,
+      the board handles fan speed switching and the lighting circuit together — when the board
+      starts failing, you often lose lights first while the fan keeps running normally. Socket
+      corrosion is a separate issue, common in Sherman Oaks homes where cooking steam and
+      grease have been cycling through the hood for 15+ years without a service. A corroded
+      socket reads as an open circuit even with a good bulb installed. Socket replacement runs
+      $40-80 in parts with about an hour of labor. Control board replacements are $80-200
+      depending on whether a compatible aftermarket board exists for the specific model. We
+      stock common boards for GE Profile and Kenmore Elite series; other models sourced within
+      24 hours.
+
+faq:
+  - q: "How fast can you get to Sherman Oaks for range hood repair?"
+    a: |
+      Sherman Oaks sits right at the 101 and 405 interchange, so we can reach most of the city
+      in 20-35 minutes from our usual staging area. Traffic on the 405 through the Sepulveda
+      Pass is the main variable — morning slots before 9am or evening appointments after 6pm
+      avoid the worst of the backup. Call us at (323) 870-4790 and we'll give you a real ETA
+      based on where we're starting that day. For a range hood that's completely stopped working,
+      we typically have same-day availability on weekdays and can usually be on-site within 2
+      hours of a call placed before noon.
+
+  - q: "What does range hood repair cost in Sherman Oaks?"
+    a: |
+      The diagnostic visit is $75-95 and gets credited toward the repair if you proceed. Most
+      common repairs — capacitor swap, blower wheel replacement, light socket fix — run $150-280
+      all-in. Duct reconnection in an older apartment with a single separated joint comes in
+      around $200-320 depending on ceiling access and how many sections need to come apart.
+      Control board replacements land at $280-450 on most residential models. We give exact
+      pricing after the on-site diagnostic — no phone guesses. The quote takes about 20 minutes
+      and there's no obligation to proceed on the spot.
+
+  - q: "Do I need a permit to replace a range hood in Sherman Oaks?"
+    a: |
+      Repair work — motor, board, fan blade, filters — doesn't require a permit. Swapping to
+      the same size hood at the same duct location is also typically permit-exempt in LADBS
+      jurisdiction, which covers all of Sherman Oaks. Upsizing the duct, changing the exhaust
+      termination point, or converting from a recirculating setup to a ducted exterior-venting
+      system is a permit-required modification. Sherman Oaks falls under the Los Angeles
+      Department of Building and Safety portal for permit applications. When permits are
+      required, we handle the paperwork — contractor license #1136541 is on file with LADBS
+      and the process usually adds 1-2 weeks to the project timeline.
+
+  - q: "Can you service and clean a range hood, not just fix broken parts?"
+    a: |
+      Full service is something we do on a regular basis. A complete range hood service covers:
+      removing and degreasing all baffle or mesh filters, cleaning the grease catch tray,
+      wiping the interior housing above the filters where grease accumulates on the housing
+      walls, inspecting and cleaning the blower wheel (grease buildup on the wheel can cut
+      airflow by 40-60%), lubricating the motor shaft if the design allows access, and testing
+      all fan speeds and lighting. On a Whirlpool or Samsung over-the-range unit that hasn't
+      been touched in 3+ years, the full service takes 45-75 minutes. Valley households that
+      do high-heat wok cooking or frequent frying load up the blower wheel faster than the
+      manufacturer's maintenance schedule anticipates — annual service is realistic, not
+      optional.
+
+  - q: "How long should a range hood last, and when does repair stop making sense?"
+    a: |
+      A well-maintained residential range hood typically lasts 15-20 years. Most GE and
+      Frigidaire units in Sherman Oaks apartments from the 1990s and early 2000s are at or
+      past that mark. The repair-vs-replace threshold is roughly 50% of replacement cost: if
+      a repair quote exceeds half the price of a comparable new unit, we'll tell you that
+      directly before you commit. A new mid-tier over-the-range hood from GE or Whirlpool
+      runs $350-550 installed. If the repair is $300+ on a 20-year-old unit with discontinued
+      parts, replacement is usually the better call. We won't source an $180 control board
+      for a hood that's going to fail somewhere else in 18 months.
+
+  - q: "What other cities near Sherman Oaks do you cover, and how do I schedule?"
+    a: |
+      Sherman Oaks is a central point for our whole Valley service area. Studio City, Encino,
+      Van Nuys, North Hollywood, and Tarzana are all within 15-20 minutes of the 91401-91423
+      zip corridor. South of the hill, we cover West Hollywood and Beverly Hills on the same
+      routes. Scheduling is fastest by phone — call (323) 870-4790 and someone will look at
+      the actual calendar and give you a confirmed time, not an automated booking window.
+      Evening appointments until 7pm are available Tuesday through Saturday for households
+      where daytime access isn't possible.

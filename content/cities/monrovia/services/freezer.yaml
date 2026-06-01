@@ -1,23 +1,55 @@
-title: "Monrovia Freezer Repair — Foothills Heat Demands It"
+title: "Monrovia Freezer Repair — Foothill Heat, Fast Response"
 
 intro: |
-  The craftsman bungalows and 1950s ranch homes along Mayflower Avenue and Foothill Boulevard get real summer heat — foothills temps in Monrovia regularly crack 95°F during July and August, and that puts serious strain on any freezer trying to hold 0°F. That LG upright tucked into a south-facing garage is working near its limits by late June. Monrovia's hard tap water makes things worse, mineralizing drain lines and accelerating evaporator coil icing in ways coastal zip codes never see. Frost problems stack up fast out here. We see it every week.
+  Up along Myrtle Avenue and into the neighborhoods climbing toward the San Gabriel foothills, a lot of homes have standalone chest freezers or KitchenAid upright units that take a real beating through July and August.
+
+  The valley heat is relentless. A compressor running fine in March can fail completely by mid-summer when garage temps hit 100°F — and in Monrovia, attached garages on those 1960s ranch homes offer zero insulation from the heat.
+
+  That frost buildup on the back wall usually means the defrost timer or evaporator coil needs attention. Catch it early and the repair is a few hundred dollars. Wait until the freezer section stops holding temperature entirely and you're looking at compressor replacement — a very different conversation.
 
 localContext: |
-  The 91016 zip runs mostly older residential stock — craftsman bungalows and California ranch houses built between the 1930s and 1960s, with kitchens that were never designed around modern full-size freezers. The newer developments near the old Monrovia Nursery site along Huntington Drive skew larger, and remodeled kitchens there often have Sub-Zero or KitchenAid built-in freezer columns that need brand-specific service. Standalone garage freezers — upright units and chest boxes running 24/7 in uninsulated spaces that hit triple digits by August — are everywhere in this neighborhood. They fail faster than anything kitchen-integrated.
+  Most of 91016 was built out between the late 1940s and early 1970s. The 91010 zip along the northern edge — streets like Norumbega Drive climbing above Foothill Boulevard toward Hillcrest Park — tends to have newer construction with built-in refrigeration from Thermador or Sub-Zero.
+
+  Single-family ranch homes on streets like Primrose and Norumbega often have attached garages where families keep a second chest freezer — sometimes a 20-year-old Frigidaire or Maytag that's been running continuously since the Clinton administration. Kitchens in these older homes weren't designed for large freestanding units, so access is tight. Our technician confirms clearance and street parking before pulling equipment — residential blocks off Myrtle are fine, permit zones are rare.
+
+  The Mayflower Village pocket near Mayflower and Foothill runs a mix of 1950s bungalows and small apartment buildings — compact kitchens, tight doorways, and older wiring that occasionally causes voltage fluctuation issues for control boards. Old Town Monrovia along Myrtle has a handful of mixed-use residences above retail where service access requires coordinating with building managers. Homes near the newer developments around Magnolia Avenue have Sub-Zero and Thermador built-ins that require completely different diagnostic tools than a standard upright.
+
+  Hard water is also a real factor here — Monrovia sits at the base of the San Gabriel Mountains, and the municipal supply running through the Foothill Municipal Water District carries elevated mineral content. Calcium and magnesium deposits build up inside ice maker assemblies and drain lines faster than most homeowners expect, especially in units that have been running 5+ years without a cleaning cycle.
 
 commonProblems:
-  - title: "Frost Overload in Garage Freezers During Valley Summer Heat"
-    description: "Monrovia garages routinely top 100°F from June through September. That constant ambient heat forces the defrost timer to fall behind — the evaporator heater can't complete a proper cycle, and ice starts layering on the evaporator coil until airflow through the cabinet nearly stops. Samsung upright models with single-door magnetic seals are hit hardest by this pattern. By the time you see heavy frost coating the interior walls, the defrost system has been silently failing for weeks and the back of the freezer is warmer than it should be."
-  - title: "Door Gasket Failure Driving the Compressor to Burn Out"
-    description: "Cracked or warped door gaskets are common in any freezer over 10 years old — and a lot of Monrovia's garage units are exactly that age or older. Warm air leaks in continuously, the compressor runs non-stop trying to compensate, and still can't hold temperature below 0°F. KitchenAid chest freezers with original rubber seals from the mid-2000s eventually trip the compressor's thermal overload protector. A new gasket is a $120-$160 repair. Ignoring it means a compressor job starting at $350."
-  - title: "Thermistor Drift Causing Partial Thaw and Refreezing Cycles"
-    description: "LG and Bosch units with digital control boards occasionally lose calibration on the internal thermistor. The board reads colder than the actual cabinet temp, cycles the compressor off too early, and the freezer slowly drifts into the mid-20s°F. Food thaws slightly and refreezes every cycle — you notice ice crystals forming on everything in the drawer. A clogged condenser fan makes it measurably worse by restricting heat exchange and pushing internal temps even higher through the day."
+  - title: "Frost Buildup from Summer Heat Cycling — Defrost System Failure"
+    description: |
+      Monrovia summers regularly push ambient garage temperatures past 95-100°F. That forces freezers to run almost continuously, putting heavy wear on the defrost timer and heating element.
+
+      When either fails, ice starts accumulating on the evaporator coil — eventually blocking airflow entirely. LG bottom-freezer models in 91016 show this pattern frequently by late August. The ice shelf gets 2-3 inches thick before the owner notices the freezer section has stopped getting cold. A defrost heater replacement is a straightforward repair; a neglected evaporator coil can crack under repeated thermal stress and become a parts-sourcing headache.
+
+  - title: "Loud Compressor Noise at Night — Condenser Fan Motor Wearing Out"
+    description: |
+      That rattling or grinding hum after 10pm is usually the condenser fan motor struggling with dust accumulation.
+
+      Monrovia's dry, dusty foothills climate fills condenser coils faster than coastal neighborhoods. Once airflow is restricted, the compressor overheats trying to compensate — the noise gets worse each night until it doesn't start at all. Samsung side-by-side units are especially prone to fan blade cracks after 4-5 years in a warm garage. A fan motor swap typically runs $120-$180 in parts and labor. Ignoring it means full compressor failure, which is a much larger bill.
+
+  - title: "Temperature Swings After Warm Spells — Door Gasket Warping"
+    description: |
+      Santa Ana wind events bring low humidity and heat that warp door gaskets faster than coastal climates. A failing gasket on a KitchenAid or Bosch upright freezer lets warm air seep in continuously.
+
+      The thermostat overcorrects trying to maintain temperature. Food ends up partially thawed one morning and hard-frozen the next. The gasket itself is usually under $50 in parts — but the key is catching it before the compressor logs too many compensating hours and the control board starts throwing error codes.
 
 faq:
-  - q: "How fast can you get to Monrovia for a freezer repair?"
-    a: "We run San Gabriel Valley routes every day. Monrovia in 91016 is usually a 30-40 minute drive from whichever tech is already working in the area. Same-day appointments are almost always available on weekdays. Call (323) 870-4790 and we can typically be there the same afternoon, or set up an evening slot if that works better for you."
-  - q: "Do you repair Sub-Zero and KitchenAid freezers in Monrovia?"
-    a: "Both are common in this area. Sub-Zero built-ins need manufacturer-specific refrigerant tools and proprietary evaporator assemblies — most shops don't stock them, we do. KitchenAid uprights and chest models show up constantly in the older homes here, and LG and Samsung garage units round out most of what we diagnose in 91016."
-  - q: "What does freezer repair cost in Monrovia, and can you come the same day?"
-    a: "Diagnostic visit is $75, credited toward any repair we do. Door gasket replacements run $120-$180. Defrost system and evaporator coil work lands between $180-$290 parts and labor. Compressor replacements start around $320. Same-day and evening slots are open most days — call (323) 870-4790 to check availability and get a same-visit estimate."
+  - q: "How fast can you get to Monrovia for freezer repair?"
+    a: |
+      Monrovia sits right on our San Gabriel Valley route. From Arcadia or Temple City we're typically 15-25 minutes out, and the 210 freeway makes the run from Pasadena straightforward.
+
+      Most days we have same-day availability. Call (323) 870-4790 by noon and we can usually be there the same afternoon. Evening slots are available most weekdays — useful if both adults in the house work.
+
+  - q: "Do you repair LG and Samsung freezers in Monrovia?"
+    a: |
+      LG and Samsung are two of the most common brands we see in 91016. Bottom-freezer drawer models on LG have well-documented issues with ice maker assembly blockages and evaporator coil icing after 4-5 years — often showing an Er IF or Er FF error code before the owner notices the temperature problem.
+
+      KitchenAid and Bosch units are also common here. The Sub-Zero built-ins in newer homes near Magnolia need brand-specific tools and refrigerant certification that most general shops don't have on hand.
+
+  - q: "What does freezer repair cost in Monrovia, and how does the process work?"
+    a: |
+      Diagnosis is done on-site. We check compressor load, door gasket seal, condenser fan operation, defrost cycle function, and the control board before quoting anything.
+
+      Most Monrovia freezer repairs land between $150 and $350 depending on parts. If a compressor swap is needed, we tell you the number before touching anything — no surprise charges. Emergency and evening slots are available. Call (323) 870-4790 or book online for same-day service.

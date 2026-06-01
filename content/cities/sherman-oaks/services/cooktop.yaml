@@ -1,0 +1,181 @@
+title: "Sherman Oaks Cooktop Repair — SFV Gas & Electric Service"
+
+intro: |
+  Kitchens in the 1960s ranch homes between Dickens Street and Moorpark Street were built around
+  gas cooktops — usually a Kenmore or GE four-burner drop-in that got swapped in during some
+  1990s renovation and hasn't been looked at since.
+
+  Hard tap water in the San Fernando Valley does real damage to burner ports over time. Calcium
+  deposits crust over the orifice openings, the spark electrode corrodes, and one day a burner
+  clicks twenty times and never catches. Over near the Sherman Oaks Galleria, the apartment stock
+  from the 1980s runs a different problem — electric coil cooktops on aging circuits that throw
+  error codes or hold at full heat because the infinite switch has worn out.
+
+  Sherman Oaks isn't a single neighborhood; the housing and appliance mix changes block by block.
+  Samsung glass-ceramic units in renovated condos near Ventura Boulevard, old Frigidaire drop-ins
+  in the flat rental blocks east of Sepulveda — both need different tools and different parts, and
+  both are jobs we handle routinely from our base in the area.
+
+localContext: |
+  The 91401 zip — roughly the grid between Van Nuys Boulevard and Sepulveda, north of Ventura —
+  runs heavily toward 1960s and 1970s apartment construction. Kitchen footprints are tight: standard
+  30-inch cooktop cutouts, sometimes a 24-inch if the galley layout was maxed.
+
+  Electric cooktops in these units often sit on 40-year-old wiring that was sized for coil
+  elements, not induction. That matters because an undersized or intermittently tripping breaker
+  will fry a control board on a newer Samsung or LG glass-top in one surge.
+
+  Over in 91403, south of Ventura toward the hills, the homes get bigger and kitchens get
+  remodeled — Bosch five-burner gas units and KitchenAid induction cooktops dropped into granite
+  counters. These require manufacturer-specific diagnostic tools and firmware reads, not just a
+  multimeter. Gas lines in the older Sherman Oaks ranch homes can also develop low-pressure issues
+  that cause lazy ignition on Whirlpool and Frigidaire drop-ins — the burner lights eventually,
+  but slowly and with a pop. Parking for service vans along the residential side streets off
+  Ventura is rarely a problem, and travel from Encino puts us at most addresses in 20-30 minutes.
+
+commonProblems:
+  - title: "Igniter clicks but the burner won't catch — corroded spark electrode"
+    description: |
+      The spark electrode on Kenmore and GE four-burner gas cooktops is a ceramic-tipped pin that
+      arcs across a small gap to the burner cap. When the tip corrodes, cracks, or gets packed with
+      grease, the arc is too weak to ignite the gas.
+
+      Sherman Oaks's hard water makes this worse — mineral scale bridges the gap and bleeds the
+      spark before it can do anything. Sometimes the problem is upstream: the igniter module that
+      powers all four electrodes fails, and nothing clicks at all.
+
+      Replacing a single electrode runs $40–75 for the part; the igniter module is $85–140
+      depending on model. Labor is one hour. Kenmore and GE parts are stocked in our van for the
+      most common model lines. If you've already pulled and cleaned the burner cap and seat and it
+      still won't light, the electrode tip is cracked — cleaning won't fix that.
+
+  - title: "Cracked ceramic glass on a Samsung or LG electric cooktop"
+    description: |
+      Tempered glass cooktop surfaces crack from impact — cast iron dropped from counter height is
+      the usual story — but they also crack from thermal stress if a cold pan hits a hot surface
+      too fast. The spider-crack pattern from the impact point looks dramatic but the elements
+      underneath are usually fine.
+
+      Samsung's 30-inch NE-series and similar LG models use a one-piece ceramic glass panel; OEM
+      replacement panels run $175–340 depending on size. The surface element, infinite switch, and
+      wiring harness under the glass are typically undamaged, so it makes financial sense to replace
+      the glass rather than the whole cooktop — especially on a unit under 8 years old.
+
+      A cracked surface isn't just cosmetic: it's a real electrical hazard and should come off the
+      counter until repaired. We source most Samsung and LG glass panels in 2–4 business days;
+      installation once parts arrive takes about 90 minutes.
+
+  - title: "Burner runs at one power level regardless of knob position"
+    description: |
+      On gas cooktops, consistent output regardless of where the knob is set usually points to a
+      blocked or failing valve body. The orifice inside each valve controls gas flow; when mineral
+      deposits from Sherman Oaks tap water partially obstruct it, the flame stays fixed at whatever
+      level the deposit allows.
+
+      Whirlpool and Frigidaire drop-in cooktops are common culprits — valve orifice cleaning or
+      replacement runs $35–80 per burner. On electric coil cooktops, the infinite switch is the
+      component that cycles power on and off to simulate temperature control; a failing switch
+      locks the element at full heat until the burner glows orange regardless of setting.
+
+      GE and Frigidaire infinite switches run $20–55 each. Either repair is 45–90 minutes on the
+      bench. Call (323) 870-4790 to schedule — if the parts match what we stock, same-day repair
+      is possible.
+
+  - title: "Knob spins freely and doesn't control the gas valve"
+    description: |
+      Kenmore and Amana cooktop knobs use a plastic D-shaft insert that grips a metal valve stem.
+      After years of heat cycling — and Sherman Oaks kitchens run hot in summer — the plastic
+      fatigues, the grip loosens, and you end up spinning the knob while the valve stem doesn't move.
+
+      Sometimes it's the knob insert alone, which costs $18–45 for a full four-knob set in the
+      right model match. But if the valve stem itself is corroded or sheared — usually from years
+      of spill runoff soaking down into the manifold — the whole valve assembly needs to come out.
+      Valve replacement runs $65–120 per burner.
+
+      We carry generic and OEM knob sets for Kenmore, GE, Amana, and Whirlpool models in the van.
+      On-site the diagnosis is fast: knob-only swap, or a full valve pull — you know before we
+      touch anything. Don't leave a burner without a working knob — there's no reliable way to
+      verify it's fully off without the stem engaging.
+
+  - title: "Control board failure — error codes, blank display, or dead surface"
+    description: |
+      Sherman Oaks apartment circuits in the 91411 area sometimes see cooktops share a breaker
+      with other high-draw kitchen appliances. Power surges or repeated trips kill the control
+      board on Samsung and LG glass-ceramic cooktops — the display goes blank, or stays lit with
+      an E1, E2, or UE error that doesn't clear on reset.
+
+      Control boards run $120–280 for most models; sourcing the right board for a discontinued
+      Samsung can take 5–7 business days. If the board has a single failed capacitor rather than
+      a burned trace, repair cost drops to $60–100 — we inspect the board first before pricing
+      replacement. Loose connectors on the wiring harness sometimes mimic board failure and take
+      10 minutes to find and reseat.
+
+      On Whirlpool and GE electric cooktops, similar symptoms can come from a failed thermal fuse
+      that cuts power as a safety shutoff — a $15 part that causes a very expensive-looking failure.
+
+faq:
+  - q: "How fast can you get to Sherman Oaks for a cooktop repair?"
+    a: |
+      From our Encino base, most Sherman Oaks addresses land within 20–30 minutes — the Ventura
+      Boulevard and Sepulveda corridor is a regular route, and we know where traffic stacks up
+      around the 101 interchange at peak hours. Same-day appointments are available most weekdays;
+      call us at (323) 870-4790 before noon and we can typically get there the same afternoon.
+
+      For situations involving a gas burner that won't fully shut off or persistent ignition
+      clicking near a flame, we treat those as priority calls and can usually be on-site within
+      2 hours of your call. Evening slots are available Tuesday through Thursday.
+
+  - q: "What does a cooktop repair cost in Sherman Oaks?"
+    a: |
+      Diagnostic visit runs $75–95, applied toward the repair if you proceed. Simple jobs —
+      igniter electrode swap, knob replacement set, single infinite switch — come out to $120–185
+      all in. Mid-range repairs like valve bodies, igniter modules, or glass panel replacement run
+      $200–320. Control board replacement on a Samsung or LG induction or glass-ceramic cooktop
+      can reach $360–430 with OEM parts.
+
+      You get a written estimate before we touch anything. Schedule online or call (323) 870-4790
+      — same-day visits include exact on-site pricing with no hidden diagnostic fees added at
+      the end.
+
+  - q: "Do I need a permit to replace a cooktop in Sherman Oaks?"
+    a: |
+      A like-for-like swap — same fuel type, same cutout dimensions — typically doesn't require a
+      permit from the City of Los Angeles Department of Building and Safety. Converting from gas to
+      electric, or adding a dedicated 240V circuit for an induction cooktop, does require an
+      electrical permit, and the circuit work must be done by a licensed electrician.
+
+      Changing or rerouting any gas line triggers a plumbing permit. We handle standard cooktop
+      replacement without permits; if your project involves a fuel-type conversion, we'll flag that
+      upfront and point you to the right licensed trades before you commit to the job.
+
+  - q: "Can you repair induction cooktops, not just gas?"
+    a: |
+      Yes. Induction cooktops have their own failure pattern — the induction coil itself rarely
+      fails, but the control board, IGBT power module, and thermal fuse are common fault points on
+      Bosch, Samsung, and LG units. Most induction error codes (E0, E1, F3, or similar depending
+      on brand) point to the power module or an out-of-range temperature sensor.
+
+      We carry diagnostic tools for induction-specific testing, including coil output measurement.
+      For gas cooktops, we stock parts for Kenmore, GE, Whirlpool, Frigidaire, and Amana — the
+      full range of units common in Sherman Oaks's residential housing stock.
+
+  - q: "What warranty covers a cooktop repair from MaxFixing?"
+    a: |
+      Labor is guaranteed for 30 days — same fault returns, we come back at no charge. Parts carry
+      a 90-day warranty; major components like control boards and valve assemblies often come with
+      manufacturer warranties of 6–12 months, which we'll note at the time of repair.
+
+      One honest note: if a cooktop is 15 or more years old and the repair would cost more than
+      60% of a comparable new unit, we'll tell you that rather than take the job. Repair makes
+      sense on units with good service history. It doesn't always make sense on an end-of-life
+      Kenmore from 2005 with a failing manifold and a cracked burner grate.
+
+  - q: "Do you cover nearby neighborhoods beyond Sherman Oaks?"
+    a: |
+      The mid-Valley corridor is our regular territory. Encino, Van Nuys, Studio City, Tarzana,
+      Reseda, and North Hollywood are all routine stops — most under 30 minutes from our base.
+      South of the hill we reach Beverly Hills and West Hollywood.
+
+      Call (323) 870-4790 to confirm we cover your specific address and get on the schedule. If
+      you're in the 91403 or 91401 zip and need a same-day or next-morning slot, those book out
+      fastest — calling before 10am gives the best odds.

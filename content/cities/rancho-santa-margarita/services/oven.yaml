@@ -1,29 +1,106 @@
-title: "Rancho Santa Margarita Oven Repair — Thermador & Wolf Specialists"
+title: "Rancho Santa Margarita Oven — Wall Oven Repair in RSM"
 
 intro: |
-  Premium kitchen remodels landed hard on the 92688 zip code through the 2000s and into the 2010s. Thermador double wall ovens and Wolf dual-fuel ranges replaced the original GE units in a lot of the Robinson Ranch and Trabuco Highlands homes. When the bake element burns out or a thermal fuse trips mid-cycle on one of those built-ins, you need someone who actually stocks the right parts. Call (323) 870-4790 — same-day service is usually available.
+  The master-planned neighborhoods ringing Lake Rancho Santa Margarita were developed mostly
+  between 1988 and 2002, and builders often spec'd Wolf or Thermador double wall ovens in the
+  higher-tier floor plans. Those ovens are now two decades old. A temperature sensor that drifts
+  low isn't obvious until your roast comes out wrong — by then you realize it's been off for
+  months. We run into this constantly in the 92688 zip, and we stock common Wolf and Thermador
+  parts on the van.
+
+  The neighborhoods near Tijeras Creek Golf Club and along Antonio Parkway tend to have the
+  larger floor plans — 3,000-plus square feet where double wall ovens were standard, not an
+  upgrade. Sub-Zero refrigerators and Wolf ovens often came as a package in those builds, and
+  they age together.
 
 localContext: |
-  The 92688 zip covers RSM's core residential tracts — Spanish-style homes in Robinson Ranch, townhome clusters near Rancho Santa Margarita Lake, and larger lots up toward Trabuco Highlands. Homes built through the 1990s here typically have either the original GE or Maytag wall ovens that were never touched, or upgraded KitchenAid and Thermador units dropped in during 2000s-era remodels. Access is easy — attached garages, level driveways, no parking gymnastics for a service van.
+  Homes in Dove Canyon and Trabuco Highlands run large — 2,500 to 4,000 square feet with
+  built-in wall ovens set flush into custom cabinetry. Pulling a unit out means working around
+  that millwork, and not every tech carries the right trim hardware.
 
-  Newer construction closer to the Tijeras Creek Golf Club area tends toward fully integrated panel-ready appliances — Miele and Gaggenau wall ovens tucked behind cabinetry with custom door overlays. Those require pulling trim panels before you even reach the oven cavity. It's extra time, but not unusual work on RSM service calls.
+  The 92688 zip has a high share of 1990s-era construction where original appliances are still
+  in service. Aging control boards and failed thermal fuses are the most common calls we get
+  out here. The Castellana and Robinson Ranch communities along the eastern edge of RSM skew
+  toward the larger lots — those homes got Viking or Thermador from the builder, and
+  replacement parts for those brands aren't stocked at the hardware store down on Santa
+  Margarita Parkway.
+
+  Access matters too. The winding streets off Santa Margarita Parkway in the gated sections of
+  RSM can add time — we account for that when scheduling, so the 2-hour window we quote is
+  realistic. The 241 corridor gives us clean southbound access from most of Orange County, and
+  we run calls from Trabuco Canyon Road all the way down to the communities bordering
+  O'Neill Regional Park.
+
+  Coto de Caza sits right on the RSM edge and shares the same builder-era Wolf and Thermador
+  installs — same 92679 zip, same 1990s construction, same failure patterns. We cover both.
+  Portola Hills and the Wagon Wheel Canyon corridor are about 15 minutes up the 241 from
+  central RSM, and we see the same oven vintage out there too.
+
+  Some of the townhome clusters along Avenida de las Flores have stacked or compact wall oven
+  configurations — different installation constraints than the freestanding ranges you find
+  further west in Ladera Ranch. We've worked enough of these RSM builds to know which units
+  need extra clearance time before the first screw comes out. The two-story townhomes off
+  Las Flores Drive are a good example: narrow kitchen pass-throughs mean the oven comes
+  out sideways, and you need a helper or a specific strap to do it without wall damage.
 
 commonProblems:
-  - title: "Self-Clean Cycle Locks Thermador and Wolf Doors Shut Permanently"
-    description: "Running a self-clean cycle pushes oven temps to around 900°F, and the door latch assembly takes the full heat load every time. On Thermador wall ovens common throughout Robinson Ranch, the bimetal thermostat inside the latch mechanism distorts after repeated exposure — sticking the lock closed long after the oven cools. You might see an E031 or E032 fault code on the display, or nothing at all except a door that simply won't budge. Replacing the latch motor or thermal limiter clears it. If the control board also threw a fault during the runaway cycle, that gets checked on the same visit so you're not calling back two weeks later for a follow-up problem."
+  - title: "Temperature Sensor Drift in Wolf and Thermador Wall Ovens"
+    description: "Twenty-year-old Wolf dual-fuel ovens in RSM homes frequently develop a faulty
+      RTD temperature sensor — the probe that tells the control board how hot the cavity actually
+      is. A bad sensor shows normal preheating behavior but the oven runs 30–50°F low. Error
+      code F3 or E1 often flags this first. Swap the sensor, recalibrate, done.
 
-  - title: "Bake Element Failures in Late-1990s KitchenAid Wall Ovens"
-    description: "Cold spots on the lower rack — or baked goods taking 25 minutes longer than they should — usually point to a failed bake element. In older KitchenAid ovens throughout 92688, the element terminals oxidize at the connection point and eventually arc. Sometimes you'll see a visible scorch mark on the ceramic. Occasionally the issue is upstream: a failed oven thermostat or temperature sensor sending wrong data to the relay board, making the element cycle off too early. Testing the sensor resistance takes two minutes with a multimeter and rules that out before ordering parts. The element swap itself runs under an hour and doesn't require pulling the whole oven out of the cabinet."
+      The fix is quick. The diagnosis takes longer — because a sensor reading off by 40°F at
+      350° may read accurate at 200°. Testing across the full range, not just one setpoint, is
+      the only way to catch an intermittent drift before it comes back two months later.
+      Dove Canyon homes with Wolf double wall stacks have two sensors to check, not one."
 
-  - title: "Viking Gas Broiler Won't Ignite in Larger Homes Off Antonio Pkwy"
-    description: "Viking ranges sit in a lot of the bigger custom homes off Antonio Pkwy and Plano Trabuco Road. The broiler typically goes first — specifically the gas valve igniter, which loses arc strength over time. You'll hear clicking, catch a brief gas puff, then nothing happens. That's the igniter assembly or the spark module, not a gas supply problem. On older Viking units the spark electrode gap widens with carbon buildup and the module can't generate enough voltage to jump it cleanly. A technician can test both components and replace on the same visit. Call (323) 870-4790 if this is happening — it's a same-day fix in most cases."
+  - title: "Broil Element Burnout After Heavy Self-Clean Cycles"
+    description: "Running self-clean at 880°F stresses the broil element hard. Cracks form near
+      the connection terminals, and you'll see uneven browning on one side of the food or no
+      browning at all. On KitchenAid and Bosch slide-in ranges common in RSM, the broil element
+      sits close to the top of the cavity — visible damage is usually obvious when you look
+      inside.
+
+      Before ordering a new element, check the relay on the control board. Some KitchenAid boards
+      have a broil relay that burns out independently of the element itself. Replacing only the
+      element and missing a bad relay means a second service call in a few months."
+
+  - title: "Self-Clean Door Lock Jam on Older Thermador Units"
+    description: "The door latch assembly on late-1990s and early-2000s Thermador wall ovens
+      uses a solenoid-driven lock that wears out over time. The oven gets stuck mid-clean or
+      won't lock at all, throwing an F-9 code. Forcing it open damages the latch bracket.
+
+      Fix is replacing the latch assembly — a two-hour job with the right part in hand. We
+      keep the common Thermador latch kits on the van specifically because this failure is
+      predictable in 92688-area homes built before 2000. Trabuco Highlands and Robinson Ranch
+      both have a high concentration of that exact Thermador vintage. If you're seeing F-9,
+      don't try to manually release the lock — call (323) 870-4790 and we'll get out same day."
 
 faq:
-  - q: "How fast can you get to Rancho Santa Margarita for an oven repair?"
-    a: "From our regular South OC routes, RSM is usually 25-35 minutes via the 241 and Santa Margarita Pkwy. Same-day slots available most weekdays — call (323) 870-4790 and we'll give you the next open window. Evening appointments available on request."
+  - q: "How fast can you get to Rancho Santa Margarita for oven repair?"
+    a: "Usually within 2 hours of your call. The 241 and Antonio Parkway give us clean access
+      from most of Orange County. Call (323) 870-4790 — if you're in the 92688 zip, we can
+      often get there same morning or fit you into an evening slot the same day."
 
-  - q: "Do you repair Thermador, Wolf, and Viking ovens?"
-    a: "Those are the three premium brands we see most in the 92688 zip. Thermador double-cavity wall ovens, Wolf dual-fuel ranges, Viking gas ranges — we carry common parts for all of them and can typically diagnose on the first visit, skipping a second trip in most cases."
+  - q: "Do you repair Wolf and Thermador ovens common in Dove Canyon and Trabuco Highlands?"
+    a: "Yes — Wolf, Thermador, and Viking are the three brands we see most in those neighborhoods.
+      We carry RTD sensors, door latch assemblies, and control boards for all three. KitchenAid
+      and Bosch too, which show up regularly in the smaller RSM floor plans and the Avenida de
+      las Flores townhome sections."
 
-  - q: "What does oven repair typically cost in Rancho Santa Margarita?"
-    a: "Diagnostic visit is $75 and that amount applies toward the repair. Bake element replacement usually runs $150-280 parts and labor. Control board swaps on Thermador or Wolf land higher — $300-450 depending on the part. Miele and Gaggenau parts run at a premium, but labor is comparable since the diagnostic process is similar. You get an exact quote before we touch anything. Same-day emergency service available at (323) 870-4790."
+  - q: "What does an oven repair diagnostic cost in Rancho Santa Margarita?"
+    a: "Diagnostic fee runs $75–$95, applied to the repair if you proceed. Most broil element
+      burnouts and thermal fuse replacements are same-day fixes — we usually have the part or
+      can get it next morning. Total parts and labor for an element or sensor job typically
+      runs $150–$280."
+
+  - q: "Can you pull a built-in oven out of custom cabinetry without damaging the trim?"
+    a: "That's the main concern with RSM homes — the millwork around a flush-mounted Wolf or
+      Thermador is expensive to redo if it gets scratched on extraction. We use felt pads on
+      any surface contacting the cabinetry, and we photograph the install before pulling the
+      unit so the reinstall matches exactly. The Castellana neighborhood in particular has
+      some elaborate built-in configurations with matching panel overlays — we've done enough
+      of those to know exactly where the hidden mounting brackets sit. If a part needs to be
+      ordered, we reseat the oven in the cabinet and return when it arrives — you're not stuck
+      without a kitchen for days."

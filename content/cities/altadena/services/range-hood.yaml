@@ -1,83 +1,45 @@
-title: "Altadena Range Hood — Vent Repairs for Craftsman & Ranch Kitchens"
+title: "Altadena Range Hood — Old Ducts, New Hoods, Fixed Right"
 
 intro: |
-  Eaton Canyon air might be pristine, but inside a 91001 kitchen it's a different story.
-  Bosch and KitchenAid wall-chimney hoods in Altadena's renovated Craftsman homes pull hard
-  during dinner — until the blower motor quits and smoke just sits there. Older soffit
-  cavities and narrow duct runs in these houses make range hood repairs more involved than a
-  quick swap, and that's exactly the kind of job we handle regularly on the north end of the
-  San Gabriel Valley. Most service calls here take two hours minimum just because of access —
-  pulling a chimney hood off a vaulted ceiling with original plaster walls is not a 20-minute
-  job.
+  The Craftsman bungalows along Mariposa Street and the hillside lots climbing toward the San Gabriel foothills were built in an era when range hoods barely existed as a standard feature. Retrofit kitchens in these 1920s-1940s homes often have a Bosch or KitchenAid chimney hood crammed into ductwork that was never sized for modern CFM output. That mismatch between a high-output blower and a restrictive original duct run is exactly where problems start — and it's why range hood jobs in Altadena tend to run deeper than they first appear.
+
+  Tight attic clearance and century-old wall cavities change the job from the moment the first panel comes off.
 
 localContext: |
-  The housing stock along Maiden Lane and the blocks north of Altadena Drive runs mostly 1940s
-  through 1960s — Craftsman bungalows, postwar ranches, a few mid-century moderns. Zip code
-  91001 is full of kitchens where the original 6-inch round ductwork was never upgraded when
-  owners installed newer hoods. That mismatch creates back-pressure that kills blower motors
-  years ahead of schedule, and makes proper filter cleaning harder than it needs to be.
-
-  Renovated kitchens on Loma Alta Drive and near the Mt. Wilson Trail entrance tend to have
-  higher-end hood installations — Thermador insert hoods dropped into custom cabinetry, or
-  Sub-Zero refrigeration paired with a Wolf range and matching ventilation. Those setups require
-  proprietary blower assemblies and control boards that aren't available at any local supply
-  house. We stock common Bosch and KitchenAid parts in the van; specialty Thermador and Wolf
-  components typically ship next-day from our distributor in Chatsworth.
-
-  Gas cooking is the norm in most Altadena homes. That matters for range hood sizing — a
-  gas burner puts out significantly more heat and combustion byproducts than electric, so an
-  undersized or partially blocked hood isn't just inconvenient, it's a carbon monoxide concern.
-  We check CO clearance on every gas range hood call.
+  Most of the 91001 zip is pre-1960 construction — Craftsman bungalows, Spanish Colonial revivals, and mid-century ranches that received kitchen remodels decades later without anyone touching the ventilation rough-in. Duct runs typically go through attic space or wall cavities using flexible aluminum sections that separate at the seams over time. LA's notoriously hard water accelerates grease-and-mineral buildup inside older plumbing and exhaust ductwork alike, and Altadena's hillside neighborhoods north of Altadena Drive have some of the tightest kitchen layouts we encounter anywhere in the San Gabriel Valley — compact galley setups with limited clearance above the range. East Altadena streets like Maiden Lane near Farnsworth Park require extra parking planning that flat-neighborhood calls don't. The elevation and mature oak canopy in this part of 91001 also mean attic access is trickier than it looks from street level.
 
 commonProblems:
-  - title: "Blower Motor Burnout from Back-Pressure in Undersized Ductwork"
-    description: "A 1950s Altadena ranch with a modern KitchenAid chimney hood bolted over original
-      6-inch round duct puts serious load on the blower motor every single use. That constant
-      strain burns out the motor windings in 3-5 years instead of 10. We pull the motor, test
-      the run capacitor, and verify CFM output against your actual duct diameter before sourcing
-      a replacement. On KitchenAid models the run capacitor is the first thing to fail — it's a
-      $35 part that mimics a dead motor. Always worth checking before pulling the whole assembly."
-  - title: "Grease Filter Saturation Causing Noise and Smoke Spillback"
-    description: "Baffle filters and mesh grease filters on Bosch and Samsung under-cabinet hoods
-      can saturate in 6-8 weeks of daily cooking. A clogged filter forces the blower wheel to
-      spin against resistance — vibration noise follows, and eventually smoke pushes back into
-      the kitchen. If cleaning the filter doesn't stop the noise, debris hardened onto the blower
-      wheel blades is almost always the next thing to check. On Bosch Serie 800 wall-mounts, a
-      partially blocked blower wheel also triggers the fault indicator light — homeowners often
-      call assuming it's a control board issue when it's just a fouled wheel that needs a soak
-      and scrub."
-  - title: "Disconnected Duct Sections Misread as Fan Failure"
-    description: "Older Altadena homes near Christmas Tree Lane often have ductwork that got rerouted
-      during 1980s kitchen renovations. A disconnected or kinked duct section looks exactly like
-      a dead Thermador or LG hood from the cook's perspective — air moves, but goes nowhere. We
-      trace the full duct run and confirm airflow before quoting any blower motor or control
-      board replacement. Found a completely disconnected flex duct in an attic cavity last spring
-      on a call near Altadena Town and Country Club — the homeowner had replaced the hood twice
-      in four years thinking both were defective."
-  - title: "Control Board Failures on Bosch and LG Multi-Speed Hoods"
-    description: "Touch-control panels on Bosch and LG slide-out hoods fail when grease vapor
-      infiltrates the electronics over time. Symptoms are specific: one speed setting stops
-      responding, or the display cycles randomly between modes. Bosch DHU965E and DHI9 series
-      see this regularly after 6-8 years in high-use kitchens. LG LSHD3089ST units sometimes
-      throw a fan error that looks like a blower fault but clears after control board replacement.
-      Call (323) 870-4790 to describe exactly what the display is doing — we can usually narrow
-      it down before arriving."
+  - title: "Grease Filter Fully Blocked — Fan Runs but Airflow Stops"
+    description: |
+      LA hard water and daily cooking combine to turn mesh and baffle grease filters into near-solid plaques within months. The blower wheel keeps spinning, but the blocked filter creates back-pressure that overloads the motor windings.
+
+      On Bosch 800 Series hoods — one of the most common installs we see in 91001 — a long-clogged filter eventually burns out the capacitor entirely. That turns what could have been a $40 cleaning into a full motor replacement. Once the hood starts smelling hot during cooking, the motor windings are already stressed past the point of a simple fix.
+
+  - title: "Blower Motor Grinding or Stuck at One Speed"
+    description: |
+      That low grinding or rattling noise from behind the hood canopy is usually the blower wheel off-balance from grease accumulation, or the motor shaft bearings worn through from heat cycles. Altadena's summer heat pushes well past 95°F in the foothills, and kitchens without working hoods trap radiant heat from the cooktop — wearing out bearings faster than in coastal zip codes.
+
+      The control board on KitchenAid chimney hoods is wired directly into the fan speed circuit. Board failure shows up as a fan locked into one setting, touch controls that stop responding, and sometimes an error code on the panel display.
+
+  - title: "Vent Duct Separated Inside the Wall or Ceiling"
+    description: |
+      This is the most common range hood call we get from Altadena. Flexible aluminum duct routed through attic space pulls apart at the joints over time — foil tape loses adhesion, and blower motor vibration does the rest.
+
+      The hood sounds completely operational while grease-laden steam exhausts straight into the attic cavity. Samsung and LG under-cabinet units will silently switch into recirculating mode when duct static pressure drops, so homeowners often have no idea the exhaust connection failed months ago. By the time attic insulation shows grease staining, that reconnection job has grown into a cleanup call too.
 
 faq:
-  - q: "How fast can you get to Altadena for range hood repair?"
-    a: "From our San Gabriel Valley coverage area, Altadena is usually 25-35 minutes out. Same-day
-      slots are open most weekdays and some evenings. Call (323) 870-4790 and we'll check the
-      first available window right on the call."
-  - q: "Do you service Bosch and Thermador range hoods?"
-    a: "Yes — Bosch, Thermador, and KitchenAid are the brands we see most in Altadena kitchens.
-      Typical fixes include control board failures on Bosch units, blower motor replacements on
-      Thermador wall-mounts, and run capacitor issues on older KitchenAid models."
-  - q: "What does range hood repair typically cost in Altadena?"
-    a: "Most repairs run $120-$280. Blower motor replacement lands on the higher end; a faulty fan
-      switch or light socket is usually under $130. Same-day emergency service is available —
-      call (323) 870-4790 or schedule online for the earliest slot."
-  - q: "Can you repair a range hood that's built into custom cabinetry?"
-    a: "Built-ins are our most common call in the 91001 zip. The job takes longer — sometimes the
-      hood insert has to come out completely to reach the blower assembly — but it's very doable.
-      Bring photos of the installation when you call so we can confirm part availability before
-      showing up. Most insert repairs are finished same visit."
+  - q: "How fast can you get out to Altadena for range hood repair?"
+    a: |
+      Altadena sits about 20-30 minutes from our regular San Gabriel Valley routes, and we're in the 91001 zip nearly every weekday. Same-day slots are usually available if you call before noon. Reach us at (323) 870-4790 and we'll route the closest available tech your way.
+
+  - q: "Do you repair Bosch and KitchenAid range hoods, or just standard brands?"
+    a: |
+      Bosch and KitchenAid are the most common hood brands we service in this neighborhood. Thermador wall-chimney units and Viking island hoods come up regularly in the larger hillside properties above Altadena Drive. Most frequent repairs across all of them: blower wheel rebalancing, motor replacement, control board swap, and duct resealing at disconnected joints.
+
+  - q: "What's the usual process and cost for a range hood repair visit?"
+    a: |
+      Diagnostic is a flat fee — you know the cost of the visit upfront. Most repairs including motor, control board, or duct work get done same-day if the parts are already on the van. Evening slots are available for homes in 91001. After diagnosis, you get a firm quote before anything is touched.
+
+  - q: "My range hood filter says to clean it monthly — is that realistic?"
+    a: |
+      Monthly is the manufacturer's target, but most households in 91001 run baffle or mesh filters two to three months before they hit critical saturation. Metal baffle filters on KitchenAid and Thermador hoods handle a dishwasher cycle fine for routine cleaning. The problem is when it gets skipped entirely — grease migrates to the blower wheel, and the motor starts working against itself. Call (323) 870-4790 if the fan sounds labored or airflow has dropped noticeably; evening slots are available.

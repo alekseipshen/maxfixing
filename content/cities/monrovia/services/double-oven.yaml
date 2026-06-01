@@ -1,49 +1,67 @@
-title: "Monrovia Double Oven Repair — SGV Same-Day Service"
+title: "Monrovia Double Oven Repair — Same-Day Service, 91016"
 
 intro: |
-  Myrtle Avenue is the landmark most people reference, but the real kitchen upgrades in Monrovia happened in the quieter residential blocks between Foothill Blvd and Duarte Road. Craftsman bungalows and Spanish Colonials gut-renovated through the mid-2010s ended up with KitchenAid and Bosch wall units pressed into custom millwork. Those kitchens are 10-12 years into daily use now.
+  The craftsman bungalows along Lime Avenue and the newer hillside builds pressing up against Monrovia Canyon Park both land on our dispatch board for the same call: a KitchenAid double wall oven where the upper cavity went cold and the lower one still works fine.
 
-  Upper cavity stops heating. Control boards start throwing error codes. That's the repair window we're squarely in.
+  That split-cavity failure is the most common double oven complaint we handle across the San Gabriel Valley. Looks alarming. Usually isn't catastrophic.
+
+  Most of the time it's a failed heating element, not a dead control board. Monrovia's 91016 sits right off the 210, and we can usually have a technician at your door within two hours of your call, same day.
 
 localContext: |
-  The 91016 zip covers most of Monrovia's older residential core, where 1920s and 1940s homes sit alongside postwar ranches from the 1950s. Tighter kitchen layouts in those period homes mean double wall ovens often go into custom-built cabinetry with almost no service clearance. Pulling a unit to reach the lower cavity's heating element is a two-person job. We account for that when we book the call, not when we're already standing in your kitchen.
+  Monrovia's housing stock runs almost a full century — from the craftsman bungalows near Old Town Myrtle Avenue built in the 1910s and 1920s, to the hillside streets above Foothill Boulevard that filled in mostly between 1990 and 2010.
 
-  Up in the 91017 zip, toward Monrovia Canyon Park, homes skew slightly newer with more generous kitchens. Samsung and LG units are common there. Thermador built-ins show up closer to the Arcadia border — high-end renovations from the early 2020s that brought in ranges and wall units at the same time.
+  That second wave is where we see the most double ovens.
 
-  Most of Monrovia runs on gas. Gas valve igniter issues on wall ovens don't always throw a clean error code — sometimes the unit just won't light, or ignites late and loud. That's a completely different diagnostic path than swapping an electric heating element.
+  Built-in Thermador and KitchenAid wall units went into a lot of those kitchens when original owners upgraded during the early 2000s renovation boom. The Mayflower Village neighborhood along Huntington Drive has a heavy concentration of those mid-century ranch homes — remodeled kitchens, tight original cabinetry, and double wall ovens shoehorned into spaces that weren't designed for them. Bungalow kitchens in 91016's older blocks north of Foothill can be tight — we've worked around original 1940s cabinetry that leaves almost no clearance on either side.
+
+  The newer Monrovia Nursery tract development off Foothill and Mountain Avenue is a different story entirely. Those homes — mostly 2003–2012 builds — came standard with larger kitchen footprints and the original buyers spec'd Bosch and KitchenAid double ovens from the start. That's a population of ovens now hitting the 12–18 year mark, right when heating elements and control boards start to go.
+
+  Access logistics get planned before arrival, not after. Parking on the narrower hillside streets above Canyon Boulevard requires a smaller service vehicle — we account for that on the dispatch end.
 
 commonProblems:
-  - title: "Upper Cavity Dead While Lower One Works Fine"
+  - title: "Upper cavity dead — lower oven still heats normally"
     description: |
-      Each cavity in a KitchenAid or Bosch double wall oven runs its own heating element and thermal fuse. The upper unit burns hotter, more often — broiling, holiday baking — so its element fails first.
+      Each oven runs its own bake and broil heating element circuit, even on a shared control board. When the upper cavity dies but the lower one works, it's almost never the board.
 
-      This isn't a control board problem. Swap the element, reset the thermal fuse, done. Misdiagnosed as a board failure, this repair gets expensive fast.
+      It's a failed heating element in the upper chamber.
 
-  - title: "Both Cavities Running 25-30 Degrees Off"
+      KitchenAid double wall ovens throw an F7 or F1-E1 error code at this point. Replacing just the upper bake element avoids the $600+ control board cost and gets the oven back the same day. We stock the most common KitchenAid element configurations on the van.
+
+  - title: "One oven runs 40–60 degrees off while the other stays accurate"
     description: |
-      Temperature mismatch — both sections heating but nothing baking correctly — almost always traces to a failed temperature sensor probe, not the element. Samsung models show this as a flashing display or an F3 error code. The probe mounts at the back of the cavity and runs about $40 in parts.
+      Temperature drift between cavities usually traces back to a degraded temperature sensor probe, not a faulty thermostat.
 
-      LG units often show the same symptom as an F9 fault or a persistent preheat loop. Different probe location, same diagnostic logic. Straightforward fix if caught early.
+      Bosch double ovens — particularly the HBL series that sold well in 91016's newer construction between 2005 and 2015 — develop sensor calibration issues after eight to ten years of use. Sometimes recalibration through the service menu is enough. Other times the probe needs replacing entirely. Either way, it's a same-day repair in most cases.
 
-  - title: "Control Board Locks Up After a Power Surge"
+      Jumping straight to a control board swap on this symptom is almost always the wrong — and most expensive — first move.
+
+  - title: "Oven door sags, won't seal, or pulls away from the frame"
     description: |
-      Monrovia's older grid infrastructure means voltage fluctuations hit appliances harder than in newer developments. Bosch and KitchenAid double ovens are sensitive to surges — the control board burns out, the display goes blank, or the unit shows a locked error state. Replacement boards run $200-350 depending on the series. We carry common Bosch boards in the van.
+      Door hinge assemblies wear out faster on double ovens than on single-cavity units.
 
-  - title: "Lower Door Hinge Worn Through, Won't Stay Open"
-    description: |
-      Lower oven doors take constant abuse — daily use, kids leaning on the glass, heavy casseroles balanced on the open door. The spring-loaded door hinge assembly on KitchenAid and GE models fatigues after 8-10 years. A broken hinge lets cold air leak in during preheat, compounding existing temperature problems and showing up as uneven baking.
+      The lower door gets pulled open at a steep downward angle dozens of times a week, and Thermador built-ins with their heavy triple-pane glass doors put serious stress on the pivot points. A failing hinge lets heat bleed around the door gasket, throws off temperature sensor probe readings by 15–25 degrees, and eventually warps the gasket beyond adjustment.
 
-      Hinge kits run $60-90 in parts. Catch it early and it's a quick fix. Let it go and you're baking crooked indefinitely.
+      Hinge rebuild kits for the Thermador, Bosch, and KitchenAid configurations most common in Monrovia are on the van. We plan the access logistics before arrival — not while standing in a tight 1940s kitchen trying to figure out the clearance.
 
 faq:
   - q: "How fast can you get to Monrovia for a double oven repair?"
     a: |
-      We run the 210 corridor regularly — Monrovia is 20-25 minutes from our central SGV base depending on traffic. Most calls in the 91016 zip get same-day slots. Call (323) 870-4790 and we'll lock in a window for today.
+      Monrovia is a quick exit off the 210 — we run that corridor every weekday and most Saturdays. Call (323) 870-4790 and we can typically reach a 91016 address within two hours.
 
-  - q: "Do you repair KitchenAid and Bosch double ovens specifically?"
-    a: |
-      Those are the two brands we see most in Monrovia kitchens. We also service Samsung and LG double ovens, plus Thermador and Wolf units in the higher-end renovations closer to the Arcadia border. Most common parts for these brands ride along in the van already.
+      Same-day slots are available most days. Evening appointments after 5 PM are held for homeowners who can't be home during business hours — those fill first, so call early.
 
-  - q: "What does double oven repair cost in Monrovia, and how do you handle tight cabinet access?"
+  - q: "Do you service KitchenAid, Bosch, and Thermador double ovens?"
     a: |
-      Diagnostic is $85, credited toward the repair. Most heating element and sensor probe jobs run $180-320 total, parts and labor. Tight cabinet cutouts — common in the older 91016 homes — don't add cost but do require a morning slot. Evening appointments available for simpler jobs. Call (323) 870-4790 to schedule.
+      All three show up regularly in Monrovia kitchens.
+
+      KitchenAid double wall ovens most often come in for heating element replacements or door hinge assembly work. Bosch HBL units typically need temperature sensor calibration or door latch assembly repairs. Thermador built-ins — more common in the hillside homes above Canyon Boulevard toward Monrovia Canyon Park — usually need hinge rebuild kits or control board diagnostics.
+
+      OEM parts on premium brand repairs. We tell you upfront if a substitute is the better call.
+
+  - q: "What does double oven repair typically cost in the 91016 area?"
+    a: |
+      Most repairs fall between $150 and $420 in parts and labor. A heating element replacement on a KitchenAid or Thermador unit usually runs $150–$230.
+
+      Control board replacements push into the $300–$500 range depending on the model.
+
+      You get a firm written quote before we start anything — no surprises on the invoice. For urgent same-day work, call (323) 870-4790 directly; evening slots are usually the last to fill.

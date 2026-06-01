@@ -1,64 +1,48 @@
-title: "Rancho Santa Margarita Double Oven — Built-In Repair, Same Day"
+title: "Rancho Santa Margarita Double Oven — Built-In Oven Repair"
 
 intro: |
-  Kitchens throughout 92688 — Robinson Ranch, Melinda Heights, Tijeras Creek — were
-  finished with double wall ovens as standard spec when these tracts went up between
-  1998 and 2008. Thermador and KitchenAid were the developer favorites. Now, 18-25
-  years later, those same units are hitting the failure window hard: upper bake elements
-  burning out, control boards throwing error codes, door hinge assemblies that droop
-  and won't seal. Two technicians cover all of 92688, and same-day slots fill fast.
+  The homes flanking Rancho Santa Margarita Lake — most finished between 1990 and 2006 — got significant kitchen renovations in the decade that followed. Thermador 30-inch double wall ovens landed in a lot of those upgrades, paired with custom cabinetry built specifically around their cutout dimensions.
+
+  Those units are now 15 to 20 years old.
+
+  Control boards age out, heating elements crack, door hinges fatigue. Parts are available; repair almost always beats replacement by a wide margin. Replacement costs for a comparable Thermador or Wolf double wall oven run $4,000 to $8,000 installed. A repair on a 15-year-old unit typically costs $200 to $450 — sometimes less if the fault is a sensor or connector rather than a board.
 
 localContext: |
-  Nearly all of Rancho Santa Margarita's housing stock sits in 92688 — master-planned
-  tracts built between 1990 and 2006 with finished kitchens that rarely got touched
-  until an appliance broke. The 30-inch cabinetry cutouts for built-in double wall
-  ovens leave almost no room to access the rear junction box and wiring harness without
-  pulling the unit first. Wolf and Viking built-ins in the larger homes along Dove
-  Canyon Drive sit inside custom millwork that requires full panel removal before
-  diagnostics can even start — that adds 30-45 minutes to a standard visit.
+  The 92688 zip covers the bulk of RSM — single-family homes on winding streets off Rancho Santa Margarita Parkway and Melinda Road.
+
+  Larger floor plans near Dove Canyon and Robinson Ranch spec'd 30-inch or 27-inch double wall ovens at build. The cabinetry cutouts are brand-specific, which means swapping a Thermador for a Bosch is not plug-and-play — the rough opening dimensions differ by an inch or two, and the trim kit covers that gap only if you stay within the same product line. That makes repair the faster and cheaper call almost every time.
+
+  Dove Canyon homes especially tend toward stacked Wolf or Thermador configurations. The original builder packages in that tract leaned premium, and those kitchens were not designed around standard box-store appliance dimensions. Switching brands means custom cabinetry work on top of the appliance cost itself.
 
 commonProblems:
-  - title: "Upper Cavity Dead, Lower Oven Still Working Fine"
-    description: "That split pattern almost always traces to the upper bake element — or the relay
-      that controls it inside the control board. Thermador double ovens route the upper
-      cavity through a dedicated relay, so when that relay fails, the upper goes dark
-      while the lower keeps cycling normally. If the element itself tests open on a
-      multimeter, expect $90-140 for the part depending on model year. RSM homes from the
-      2002-2008 build window often share the same Thermador line — we stock those elements
-      and can usually close the repair same day."
-  - title: "Both Ovens Running 25-30°F Below the Set Temperature"
-    description: "A drifting RTD temperature probe is the most common culprit when both cavities
-      run cold — not the heating element, not the board. KitchenAid double wall ovens
-      from the KEBS208 series, common in RSM tract builds around 2006-2012, are known for
-      sensor resistance drift after year 12 or so. The probe sits flush in the oven wall
-      and degrades from years of heat cycling. A replacement probe and calibration cycle
-      usually runs under $160 total. Most ovens also have a built-in offset mode that can
-      compensate up to 35°F while waiting on parts."
-  - title: "F-Code Errors or a Touchpad That Locks Up and Won't Clear"
-    description: "F2, F3, and F7 error codes on Wolf and Thermador double ovens almost always point
-      to a failed triac or relay on the control board — the board itself runs $180-350
-      depending on model. Getting to it inside a built-in cabinet installation adds
-      40-50 minutes of disassembly. On older Viking 30-inch models, the touchpad membrane
-      delaminates and causes phantom key presses before the display goes dark entirely.
-      Call (323) 870-4790 — we carry control boards for the most common RSM-area models
-      and can usually do a same-day swap."
+  - title: "Lower Oven Completely Dead While Upper Still Fires"
+    description: "Each cavity runs its own heating element and thermal fuse independently. In Thermador double wall ovens from the 2005–2012 era — common throughout RSM kitchens — the lower bake element fails first. It handles the heavier load: daily dinners, Thanksgiving roasts, everything.
+
+    That one element failure kills the entire lower cavity. Most element replacements land under $200 all-in, and we carry common Thermador bake elements in the van. The upper cavity keeps working perfectly the whole time, which confuses homeowners into thinking the unit is partially fine. It is not — a failed bake element also stresses the thermal fuse, and if the fuse blows before you call, the repair price goes up."
+
+  - title: "Top Cavity Runs Scorching Hot, Bottom Runs Cold"
+    description: "Temperature gaps between cavities usually trace back to a failing RTD probe — the oven temperature sensor — not a blown control board.
+
+    Wolf built-in double ovens develop probe calibration drift after 12 to 15 years of daily use. Bad sensor data causes the board to over-fire or cut the element early. Bake times and results go sideways in both cavities. Sensor swaps are a fraction of what a board replacement costs. Before anyone quotes you a new board, that probe needs to be tested first."
+
+  - title: "Touch Panel Frozen or Rebooting Mid-Cook"
+    description: "Frozen displays and random reboot loops mimic control board failure but often are not. On KitchenAid and Bosch wall ovens, loose ribbon cable connectors or corroded pin contacts produce the exact same symptoms. We check connectors before quoting a board every time — probably half of these calls turn out to be a $60 to $80 connector fix. Assuming the board is dead and ordering one outright is an expensive mistake.
+
+    Miele double ovens have a known issue with moisture infiltrating the control panel housing. A failed door gasket on the upper cavity lets steam work its way into the electronics bay over months. By the time the panel starts glitching, the gasket has been leaking for a while. The F24 and F35 error codes on Miele models usually point there first."
+
+  - title: "Lower Door Sagging and Breaking the Gasket Seal"
+    description: "Hinge spring failure is the most overlooked double oven problem in the area.
+
+    The lower cavity door takes the most abuse — open and shut dozens of times a week, loaded with heavy cast iron. On Viking 30-inch double ovens, worn hinge roller brackets let the door sag, tearing the door gasket seal. Heat escapes, bake cycles stretch by 20 or 30 minutes, and the unit starts throwing false door-open error codes.
+
+    Replace the gasket without fixing the hinge and it tears again within a few months. The bracket has to come out first."
 
 faq:
   - q: "How fast can you get to Rancho Santa Margarita for Double Oven repair?"
-    a: "Usually within 2 hours. From our Mission Viejo base, Antonio Parkway to the 241
-      gets us to most 92688 addresses in under 20 minutes. Same-day service is almost
-      always available if you call (323) 870-4790 before noon. Evening slots are open
-      most weekdays — we can typically arrive by 6 or 7 PM. Parking is never an issue
-      in RSM residential neighborhoods."
-  - q: "Do you repair Thermador and Wolf built-in double wall ovens?"
-    a: "Yes — both are standard in RSM's higher-end tracts, especially around Dove Canyon
-      and the larger Melinda Heights builds. On Thermador we see control board relay
-      failures and upper bake element burnouts most often. Wolf built-ins mostly come in
-      for door hinge assembly wear — the 30-inch E-series hinges tend to sag badly around
-      year 15. We also service Viking, KitchenAid, and Bosch double ovens regularly."
-  - q: "What does a double oven repair visit cost, and how does the process work?"
-    a: "Diagnostic is $85, credited toward any repair you approve on the spot. Control
-      board replacements typically run $250-450 parts and labor combined. Heating element
-      swaps land around $140-200. For same-day or emergency service in Rancho Santa
-      Margarita, call (323) 870-4790 directly. For a scheduled window, book online and
-      choose morning or evening — we send a 30-minute text heads-up before arrival."
+    a: "From Mission Viejo or Aliso Viejo, RSM is a straight shot — usually 15 to 20 minutes down Oso Parkway to Rancho Santa Margarita Parkway. Same-day slots open most weekdays and Saturdays. Call (323) 870-4790 and we'll confirm what's available today."
+
+  - q: "Do you repair Thermador and Wolf double wall ovens?"
+    a: "Those are the two brands we see most often in 92688. Thermador Masterpiece series, Wolf E-Series 30-inch, KitchenAid built-in wall oven combos. We carry common parts for all three and have the proprietary diagnostic connectors each brand requires. Viking and Miele are also in the rotation."
+
+  - q: "What does a double oven service call actually cost in RSM?"
+    a: "Diagnostic fee is $85 to $95, credited toward the repair if you move forward. Heating element and RTD sensor swaps typically run $180 to $275 total. Control board replacement is higher — we quote before ordering anything. Evening appointments available for most of 92688, often same day or next morning. For urgent situations — holiday week, unit down with guests coming — call directly at (323) 870-4790 and ask about emergency scheduling."
