@@ -1,23 +1,53 @@
-title: "Hermosa Beach Cooktop — Salt Air Kills Igniters, We Fix Them"
+title: "Hermosa Beach Cooktop — Coastal Kitchens, Fast Repairs"
 
 intro: |
-  The salt air rolling off The Strand doesn't just affect outdoor furniture — it works into your kitchen too. Corroded spark igniter electrodes are the top cooktop complaint we get in the 90254 zip, especially on the Wolf and Thermador units standard in Hermosa Beach's remodeled cottages and newer townhomes near Pier Avenue. A burner clicking fifteen times before it lights is almost never the knob. Usually it's the igniter electrode, corroded from the inside by sea air working into the assembly over a few years. The ceramic insulator degrades first, then the electrode tip itself oxidizes and loses spark consistency entirely.
+  The Strand-facing properties along Hermosa Avenue pack full kitchens into 900 square feet — and Wolf or Thermador cooktops end up in a surprising number of them after the inevitable renovation.
+
+  Salt air off Santa Monica Bay corrodes spark igniters on gas burners faster than anything you'd see five miles inland in Torrance. That's not an exaggeration. A unit that's two years old in 90254 can show igniter corrosion that you'd normally associate with a six-year-old appliance sitting in Reseda. The combination of marine humidity, sea-salt particulate, and the temperature swings between foggy mornings and afternoon sun is genuinely hard on burner hardware.
+
+  Cooktop problems here escalate fast, especially in summer when the backup plan falls apart the moment you realize PCH traffic makes dinner delivery a 90-minute ordeal.
 
 localContext: |
-  Most of the housing stock along the walk streets west of Valley Drive dates from the 1950s and early 1960s — tight beach cottages that got full kitchen remodels somewhere between 2005 and 2015. A Viking slide-in or Bosch induction cooktop often ends up sitting in a cabinet cutout that wasn't originally sized for it. Reaching the gas valve or spark module in those builds requires the right extension tools. The 90254 zip also skews heavily toward condos and townhomes, so elevator access and permit-restricted parking add real time to every service call. On Hermosa Avenue north of 8th Street, red zones and beach parking enforcement mean we plan the logistics before we even load the van.
+  Hermosa Beach's 90254 zip is dense with 1940s and 1950s beach bungalows that got full kitchen remodels in the 2010s. That renovation wave is exactly when Miele induction and Thermador gas-on-glass cooktops started appearing in these narrow galley kitchens.
+
+  Getting behind a built-in unit here means working around cabinetry that leaves maybe six inches of clearance. Not unusual to spend 20 minutes just creating safe access before any diagnostic work begins. The newer townhomes along 2nd Street and Pacific Coast Highway skew premium too — Viking and Wolf installations on flex-gas lines that need specific fittings not every shop carries.
+
+  Bosch and KitchenAid show up in the mid-century remods as well, usually induction. Those KitchenAid 36-inch models are popular in the tighter kitchens where a full 48-inch Viking range wouldn't clear the upper cabinets.
 
 commonProblems:
-  - title: "Burner Won't Light — Salt Corrosion Attacking the Igniter Electrode"
-    description: "Coastal salt air accelerates oxidation on spark igniter electrodes faster than anywhere in the inland Valley. The electrode tip corrodes, the ceramic insulator cracks, and you're clicking a dozen times before the burner catches — if it catches at all. Wolf and Thermador open-burner designs pull ocean air directly across the igniter assembly every time you cook. We carry the replacement electrode in the van for most common Wolf 36-inch models and can usually close it out same visit."
-  - title: "Cracked Ceramic Glass Surface — Small Kitchens, Heavy Pans"
-    description: "Bosch and KitchenAid smooth-top cooktops share a common failure point: the ceramic glass surface doesn't survive a cast iron skillet dropped from counter height. Even a hairline crack compromises the radiant heating element underneath and creates a real electrical hazard — don't cook on a cracked surface. In compact 90254 beach cottage kitchens, counter space is tight and heavy cookware lands hard. Surface glass replacement is the only correct fix. Patching ceramic looks fine for a week, then fails. We source OEM glass panels directly and match the original thickness spec — aftermarket panels often sit proud of the trim ring and cause secondary cracking."
-  - title: "Uneven Flame — Hard Water Clogging Burner Ports in the Cap"
-    description: "LA hard water carries the same mineral load in 90254 as anywhere else in the metro — calcium deposits build up inside the burner cap ports regardless of proximity to the beach. On Thermador and Viking gas cooktops, scaled ports cause one side of the flame ring to run hotter than the other. Simmer settings turn unpredictable. Thorough port reaming and a burner cap inspection usually restores even distribution completely without swapping any parts."
+  - title: "Salt Air Corroding Spark Igniters on Gas Cooktops"
+    description: |
+      Ocean spray reaches well past the beach. It works into spark electrode tips on gas cooktops and corrodes the igniter module until you get that endless clicking with no flame — the burner tries, sparks, but nothing catches.
+
+      On Wolf and Thermador units, the electrode assembly sits just above the burner cap, fully exposed to whatever the kitchen air is carrying. Coastal corrosion attacks the ceramic insulator on the electrode tip first, then the metal contact. Replacement runs about 30 minutes once you have the correct part on hand — and these are van-stock items on South Bay service days. The fix is straightforward. The delay is usually just scheduling.
+
+  - title: "Cracked Ceramic Glass from Marine-Layer Thermal Cycling"
+    description: |
+      Hermosa mornings stay cold under the marine layer even into July. A chilled pan dropped onto a Miele or Bosch induction cooktop that's been sitting at 63°F, then pushed immediately to high heat, puts real thermal stress on the ceramic glass surface.
+
+      Hairline cracks spread from the edges outward. Once a heating zone fails the unit will usually throw an error code — Miele shows F47 or similar fault codes for zone faults — and the whole glass panel needs replacement, not a patch. That's a bigger job, typically 2 to 3 hours, and the glass has to be ordered. Mentioning the crack early keeps costs down; ignoring it until the zone shorts out adds a control board to the bill.
+
+  - title: "Clogged Burner Ports Causing Uneven Flame on Gas Units"
+    description: |
+      Poor kitchen ventilation in these older bungalows accelerates grease buildup inside burner ports. Clogged ports produce a lopsided, uneven flame — low on one side, normal on the other — that's easy to misread as a gas pressure issue.
+
+      Thermador Star Burners trap carbon deposits around the igniter tip specifically, because of how the five-point burner cap sits. Cleaning the ports, inspecting the gas valve orifice, and checking the cap seating usually resolves it without parts. Takes about 45 minutes on-site. If the flame color is yellow or orange instead of blue, that's the signal to call before it gets worse.
 
 faq:
-  - q: "How fast can you get to Hermosa Beach for cooktop repair?"
-    a: "South Bay is covered daily — Hermosa Beach runs about 20 to 30 minutes from our Redondo Beach and Manhattan Beach routes on a normal weekday. Street parking near The Strand gets difficult on summer afternoons, so we text you 15 minutes out to coordinate a spot. Same-day slots are available most weekdays. Call (323) 870-4790 and we'll check what's open today."
+  - q: "How fast can you get to Hermosa Beach for a cooktop repair?"
+    a: |
+      South Bay routes run daily — Redondo Beach, Hermosa, Manhattan Beach, all on the same loop. Nearest tech is typically 45 to 90 minutes out from wherever the morning's first job lands.
+
+      Same-day slots are usually available. Call (323) 870-4790 and we'll confirm your window. Evening appointments work too if you're not home during the day — just mention it when you call.
+
   - q: "Do you repair Wolf, Thermador, and Viking cooktops in Hermosa Beach?"
-    a: "Yes — those three are the brands we see most in the 90254 zip. On Wolf gas units it's usually the spark module or igniter electrode. Thermador dual-fuel cooktops tend to develop control board faults or a sticking simmer valve. Viking problems often trace back to the gas valve igniter assembly. We stock common parts for all three and try to avoid a return trip."
-  - q: "What does a cooktop repair call typically cost in Hermosa Beach?"
-    a: "Diagnostic is $75 and applies toward the repair if you move forward. Most cooktop jobs — igniter replacement, burner cap cleaning, gas valve work, surface heating element swap — run between $150 and $300 parts and labor. Evening and emergency slots available if the cooktop goes out mid-week before a dinner. Schedule online or call (323) 870-4790 for same-day availability."
+    a: |
+      Yes — all three show up constantly in the renovated homes here. Wolf gas cooktops most often need spark igniters or gas valve assemblies; the igniter wiring harness corrodes at the connector near the burner box, not just at the electrode tip.
+
+      Thermador Star Burner caps wear in a specific pattern we know well — the star points degrade unevenly and throw the flame geometry off. Viking induction units come in with control board faults and failing heating zones, sometimes triggered by the F8 or E1 error codes. Miele and Bosch induction we handle as well, including glass panel replacements when the surface cracks.
+
+  - q: "What does a cooktop repair typically cost, and how does the process work?"
+    a: |
+      Flat diagnostic fee, credited toward the repair if you proceed. Most jobs — igniter swap, burner cap cleaning, ceramic surface evaluation — land between $150 and $380 parts and labor.
+
+      Common Wolf and Thermador parts ride on the van for South Bay days. Glass panel replacements run higher, $400 to $650 depending on the unit, because the part has to be ordered. Evening slots are available if daytime is tight — schedule at (323) 870-4790.

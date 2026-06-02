@@ -1,86 +1,90 @@
-title: "Burbank Double Oven — Fast Repair Near Magnolia Park"
+title: "Burbank Double Oven Repair — Both Cavities Working Again"
 
 intro: |
-  Kitchens in Magnolia Park run hard — four or five nights a week, home cooks and
-  entertainment industry workers who actually use both cavities at the same time.
-  Bosch and KitchenAid double wall ovens fill most of the remodeled bungalows along
-  Magnolia Boulevard, and they develop specific failure patterns over time: upper
-  cavity barely reaches 350°F while the lower cavity runs fine, or the control board
-  starts throwing error codes right after a heat wave. Both are fixable, usually
-  same day.
+  The post-war bungalows and remodeled craftsmen off Magnolia Boulevard tell the
+  story — Burbank homeowners have been quietly upgrading kitchens for years, swapping
+  old ranges for KitchenAid wall units that run both cavities hard during the holidays.
+  One cavity goes out, and suddenly a $2,400 appliance is half useful.
 
-  We're in Burbank constantly. Call (323) 870-4790.
+  That's the call we get most from the 91505 side of town.
+
+  Usually a failed heating element. Sometimes a control board that's confused about
+  which cavity it's supposed to be managing — common on KitchenAid KODE-series units
+  after the firmware clock drifts past a certain threshold.
 
 localContext: |
-  Burbank's housing stock is mostly postwar — 1945 to 1965 ranch homes and
-  bungalows with kitchens that weren't designed for 30-inch double wall ovens.
-  In the 91504 and 91506 zip codes, a lot of these units were added during full
-  kitchen remodels, cut into existing cabinet runs with tight clearances. That
-  original rough-in work ages. Hinges wear unevenly, door seals compress, and heat
-  distribution problems that start small get worse every year without intervention.
+  Most of the housing stock between Glenoaks Boulevard and Hollywood Way was built
+  between 1945 and 1965 — kitchens that have been renovated once or twice, with
+  wall units fitted into cabinetry that wasn't originally designed for them.
 
-  Closer to the Warner Bros. lot and the Media District along Olive Avenue, you see
-  newer construction — condos and townhomes built after 2005 with 27-inch or 30-inch
-  double wall ovens spec'd into the original design. KitchenAid and Bosch are the
-  dominant brands in those buildings. These installs run cleaner than the postwar
-  retrofits, but they're not immune: control board failures and door latch sensor
-  faults show up in year 6 or 7 regardless.
+  Tight clearances in zip 91506 mean we're working in cramped alcoves where accessing
+  the wiring harness behind a Bosch built-in takes twice as long as a standard
+  install. We account for that in the estimate up front — no surprises on the invoice.
 
-  Summer is the real stress test. The 91505 streets east of Hollywood Way regularly
-  hit 105°F in July and August. Burbank sits in a heat pocket that catches valley
-  air and holds it — south-facing kitchens with limited ventilation take the hardest
-  hit. That thermal load accelerates component wear faster than the same models
-  running year-round in coastal cities. Double ovens with failing thermal fuses and
-  degraded door gaskets don't announce themselves until the first big holiday meal.
+  Newer construction up toward the Burbank Hills runs Thermador and KitchenAid
+  built-ins flush into custom cabinetry. Different challenges. Same urgency when
+  Thanksgiving is three days out.
+
+  One more thing specific to 91505 and 91506: a handful of mid-century homes on
+  the Magnolia Park streets still carry aluminum branch wiring from the original
+  construction. Intermittent control board faults in these houses sometimes trace
+  back to a loose connection at the junction box — not the appliance at all. We
+  check for that before ordering parts, because a $400 board replacement won't fix
+  a wiring problem.
 
 commonProblems:
-  - title: "Upper Cavity Dead While the Lower Oven Runs Fine"
-    description: |
-      Each cavity in a double wall oven runs its own separate heating element —
-      they don't share. When only the upper stops producing heat, that element has
-      burned out or the thermal fuse on its circuit has tripped. KitchenAid 30-inch
-      double wall models hit this failure point around year 8 or 9. Both parts are
-      stocked for common KitchenAid configurations, and the repair usually turns
-      around same day once we confirm which component failed.
+  - title: "Upper Cavity Dead, Lower Still Works — Or Vice Versa"
+    description: "Each cavity has its own heating element and broil element wired through a
+      separate relay on the control board. When one relay burns out, that cavity goes
+      cold while the other runs fine. Bosch double ovens — especially the HBL series
+      — develop this fault after 6-8 years of regular use. Replacement relay boards
+      run $180-$240 in parts; the diagnosis takes about 20 minutes with a multimeter.
+      Three of those relay swaps in the Magnolia Park neighborhood alone in the past
+      two months. The HBL8651UC is the one we see most often."
 
-  - title: "Temperature Swings — Set to 375°F, Reads Something Else"
-    description: |
-      A consistent 40–60°F gap between your set temp and what's actually baking
-      usually means the RTD temperature sensor probe has degraded. Bosch double
-      ovens — common in the 91504 and 91505 neighborhoods — have that probe
-      mounted behind the back wall of each cavity. A failing sensor feeds bad
-      readings to the control board, making calibration adjustments feel random.
-      Recalibrating buys a few weeks; replacing the probe is the real fix.
+  - title: "Temperature Mismatch Between Top and Bottom Oven"
+    description: "Both sides heat, but one runs 40-50°F off the set point. Nine times out
+      of ten it's a failed oven temperature sensor — a thin probe mounted inside the
+      cavity that sends resistance readings back to the control board. KitchenAid
+      KODE500ESS units are notorious for this after the sensor coating degrades around
+      year four. Recalibrating through the menu only masks it temporarily; the probe
+      needs replacing. Part itself runs $35-$60; total job lands around $150-$200
+      if that's the only failure. If the control board has already compensated too
+      aggressively, it may need a reset as well."
 
-  - title: "Error Codes on the Display, Oven Locked and Won't Respond"
-    description: |
-      Samsung and LG double oven ranges that show F9, E6, or similar fault codes
-      are almost always dealing with a failed door latch assembly. The latch sensor
-      sends a false "door open" signal that traps the control board in error mode,
-      making the whole unit unresponsive to input. Burbank summers push the San
-      Fernando Valley past 105°F regularly, which accelerates board degradation in
-      south-facing kitchens with limited ventilation.
+  - title: "Door Hinge Broken — Cavity Won't Seal"
+    description: "A door that sags or doesn't close flush bleeds heat continuously and forces
+      the heating element to cycle almost nonstop just to hold temperature. Thermador
+      wall oven hinges are under constant stress from the door weight — the
+      spring-loaded pivot pins wear out and the door starts to drop, typically after
+      8-10 years. Running a unit with a compromised door seal also accelerates thermal
+      fuse failures, so fixing the hinge before it cascades into a board-level repair
+      is the smarter call. On gas-adjacent installs in older Burbank homes near
+      Hollywood Way, we've also seen the igniter assembly get coated in cooktop
+      grease through the shared cabinet space — different fault, same cramped access."
 
 faq:
-  - q: "How fast can you get to Burbank for Double Oven repair?"
-    a: |
-      Burbank sits right off the 5 and the 170 — we're usually there within 2 hours
-      of the call. Residential street parking around Magnolia Park and the hillside
-      neighborhoods is straightforward. Call (323) 870-4790 to lock in a same-day
-      window, or schedule online if evenings work better for your household.
+  - q: "How fast can you get to Burbank for a double oven repair?"
+    a: "Burbank is usually 25-35 minutes from our nearest tech. We cover the San
+      Fernando Valley daily, and Burbank is a regular stop — Magnolia Park, the
+      Rancho neighborhood, up into the Hills. Same-day slots are available most
+      weekdays, evening appointments too. Call (323) 870-4790 and we'll tell you
+      exactly what's open today. Most calls placed before noon get a same-day visit."
 
-  - q: "Do you repair Bosch and KitchenAid double wall ovens in Burbank?"
-    a: |
-      Both, plus Thermador and Samsung. Bosch double ovens most often come in with
-      temperature sensor drift or a worn door seal. KitchenAid is almost always a
-      burned-out heating element. Thermador units past the 10-year mark tend toward
-      control board faults — we stock the common boards and usually turn those
-      around the same visit.
+  - q: "Do you repair Bosch and KitchenAid double ovens specifically?"
+    a: "Both are common in Burbank and we carry parts for them on the van. Bosch
+      built-ins frequently need control board relay replacements and door latch
+      assemblies. KitchenAid wall units more often come in for temperature sensor
+      swaps and broil element replacements. Thermador we handle too — they just take
+      more time to access properly given the flush-mount cabinetry. Samsung and LG
+      models show up in newer builds around 91502; those tend to throw F3 or E1
+      error codes pointing to a shorted temperature sensor circuit."
 
-  - q: "What does double oven repair cost, and how does the process work?"
-    a: |
-      Heating element replacements run $150–260 in parts and labor combined.
-      Control board swaps land between $300–460 depending on brand. We diagnose
-      on-site and give you a flat quote before anything gets touched — no surprises.
-      Evening and weekend slots are available. Call (323) 870-4790 or book online
-      if you need something looked at before the weekend.
+  - q: "What does a double oven repair typically cost, and do you come out the same day?"
+    a: "Diagnostic visit is $85, applied toward any repair. Most heating element and
+      sensor jobs run $200-$380 total including parts — that covers labor, the part,
+      and a function test before we leave. Control board replacements land higher,
+      $320-$500 depending on the model. KitchenAid and Bosch boards are usually in
+      stock or next-day. Thermador boards sometimes take 2-3 days to source; we
+      confirm availability before scheduling so you're not waiting around. Evening
+      slots available — call (323) 870-4790 or schedule online."

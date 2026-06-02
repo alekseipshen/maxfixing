@@ -1,0 +1,157 @@
+title: "Sun Valley Dishwasher Repair — Clogs, Drains & Error Codes Fixed"
+
+intro: |
+  Ranch homes along Strathern Street and the older apartment blocks tucked off Glenoaks Blvd
+  share one thing: Kenmore and GE dishwashers installed when Reagan was president, still running
+  daily loads in kitchens that were never updated. Sun Valley's 91352 tap water comes in at
+  280-320 mg/L hardness by LADWP's own distribution tests — that's the kind of mineral load
+  that chokes a spray arm in 18 months and turns a detergent dispenser into a solid block of
+  calcium scale. Dishes coming out gritty usually aren't a wash cycle problem at all. More often
+  it's a blocked lower spray arm or a float switch caked with deposits that's throwing a false
+  flood signal and cutting the cycle short. We run service calls through Sun Valley constantly —
+  knowing exactly where to fit a van on tight driveways off Tuxford Street — and we stock the
+  most common GE and Whirlpool drain pumps and latch assemblies on every truck.
+
+localContext: |
+  Sun Valley's housing stock breaks into a few clear types that each create their own repair
+  situations. The 1950s and 1960s ranch-style homes around Sun Valley Park were built with
+  kitchens that barely fit a full-size dishwasher to begin with — cramped under-counter
+  installations with awkward drain hose routing that loops too low and triggers OE drain errors
+  on newer Samsung units. The denser apartment strips along Van Nuys Blvd and Sunland Blvd,
+  most built between 1965 and 1980, often have original water supply lines that are undersized
+  or partially corroded — low water pressure at the inlet valve causes incomplete fill and an
+  F8 or E1 error code that looks like an electronics problem but is actually just a tired inlet
+  valve that can't open fully. The industrial patchwork near the Golden State Freeway adds
+  another wrinkle: mixed-use properties with commercial-grade Whirlpool or GE units running
+  three or four times the cycle count they were rated for. Parts wear faster on those machines,
+  especially the drain pump impeller and the door latch spring.
+
+commonProblems:
+  - title: "Gritty Dishes, Cloudy Glasses — Spray Arm Blockage in Sun Valley"
+    description: |
+      The lower spray arm is almost always the first casualty in 91352's hard water. Calcium
+      carbonate deposits plug the small jets along the arm within 18-24 months if the machine
+      isn't descaled periodically. Pull the arm off — quarter-turn counterclockwise on most GE
+      and Kenmore units — and hold it up to a window. If you can't see daylight through more
+      than half the holes, it's blocked. A thorough soak in citric acid solution restores flow
+      without replacement. When the arm is actually cracked or warped, a direct OEM replacement
+      runs $15-40. Left unfixed, the restricted flow starves the wash pump motor, which
+      overheats and burns out — that's a $180-250 repair instead of a $0 cleaning. We carry
+      descaling solution on the truck and typically clear this call in under 45 minutes.
+
+  - title: "Standing Water After the Cycle — Drain Pump Failure"
+    description: |
+      Two inches of dirty water sitting in the tub after a full cycle points straight to the
+      drain pump — until the filter basket is ruled out first. On GE, Frigidaire, and Samsung
+      models, the cylindrical filter sits under the lower spray arm and takes 30 seconds to
+      remove. A clogged filter will stall drainage completely and is free to fix. If the filter
+      is clear and water still won't drain, the drain pump's impeller is either jammed by
+      debris — broken glass, toothpick fragments — or the pump motor has burned out. Sun
+      Valley's older plumbing adds one more possibility: drain hoses connected to a garbage
+      disposal with the knockout plug never removed, which blocks the outlet entirely regardless
+      of pump condition. Drain pump replacements on GE and Whirlpool units run $45-90 for the
+      part, with total repair cost landing at $130-190 including labor.
+
+  - title: "Door Latch Failure — Machine Won't Start or Won't Stay Closed"
+    description: |
+      A dishwasher that refuses to start despite a full load and correct settings almost always
+      has a door latch assembly problem. The latch on Kenmore, GE, and Samsung units is a
+      plastic hook-and-catch mechanism with a microswitch embedded in the housing. When the
+      plastic hook fatigues — or scale buildup prevents the catch from fully engaging — the
+      microswitch stays open and the control board never gets a start signal. In busy Sun Valley
+      households where the door gets bumped closed with an elbow or a hip, latch wear happens
+      faster than the manufacturer's spec assumes. Replacement latch assemblies run $20-55
+      depending on the model. The swap itself takes about 20 minutes. Older Kenmore models
+      sourced from Whirlpool or Frigidaire platforms sometimes use a combined latch-switch unit —
+      confirm the model number before ordering to avoid getting the wrong configuration.
+
+  - title: "Detergent Dispenser Stuck — Dishes Come Out Unwashed"
+    description: |
+      A dispenser that stays shut through an entire cycle leaves dishes coated in food residue
+      and detergent residue simultaneously. On most GE and Frigidaire models, the dispenser
+      door is triggered mid-cycle by a wax motor or bi-metal actuator. When the actuator fails,
+      the door simply never opens. Hard water scale is the other cause — the hinge and latch
+      mechanism corrode until they physically can't move. Mineral-caused failure responds to
+      mechanical cleaning plus a citric acid treatment. A failed wax motor or actuator means
+      replacing the full dispenser assembly: $30-65 on GE and Whirlpool units, installed in
+      30-45 minutes. If the same dispenser keeps failing every few months on the same machine,
+      the problem may be upstream — a control board that's not delivering the correct timing
+      signal to the actuator. That's a different diagnosis, and we'll tell you if that's what
+      we're seeing.
+
+  - title: "Error Codes That Keep Coming Back — E1, OE, 7E"
+    description: |
+      Samsung units in 91352 throw OE drain errors and 7E waterwall sensor faults more than
+      almost any other machine we service in the Valley. The OE code points to the same drain
+      pump and filter blockage issues described above. The 7E is a waterwall sensor fault —
+      on Samsung models with a waterwall system, the sensor rail can get coated with mineral
+      buildup and start misfiring. GE dishwashers use a different error language: a repeating
+      beep pattern mid-cycle often means the float switch is stuck in the raised position because
+      scale has formed underneath the tub floor. Clearing error codes from the panel does
+      nothing until the actual component — float switch, drain pump, inlet valve — is repaired
+      or replaced. Whirlpool and Frigidaire units are simpler to diagnose; error codes map
+      directly to specific components without much ambiguity. If your machine is throwing the
+      same code more than twice a week, call us at (323) 870-4790 and we'll give you a straight
+      answer within 10 minutes of looking at it.
+
+faq:
+  - q: "How fast can you get to Sun Valley for a dishwasher repair?"
+    a: |
+      We approach Sun Valley from the north on the 5 or cut across on Glenoaks Blvd from the
+      Arleta side — drive time from our nearest tech is usually 20-35 minutes. Same-day slots
+      are open most weekdays, and we keep evening appointments available until 7 PM for anyone
+      who can't leave work early. Call (323) 870-4790 in the morning and we can confirm a
+      same-day window within the hour. If the machine is holding water, locking dishes inside,
+      or leaking onto the floor, say so when you call — urgent situations get priority
+      scheduling and we'll adjust the route to get there the same afternoon.
+
+  - q: "What does a dishwasher repair in Sun Valley typically cost?"
+    a: |
+      Single-component repairs — drain pump swap, door latch replacement, spray arm cleaning,
+      detergent dispenser actuator — run $120-220 total, parts and labor. Diagnostic visit is
+      $65-85 and applies toward the repair cost if you move forward. Control board replacements
+      land higher, typically $200-330 depending on the model and parts availability. GE and
+      Whirlpool parts are cheap and usually on the truck. Samsung components run 20-30% more
+      and occasionally need a one-day parts order. We quote the exact number before touching
+      anything — flat rate per job, not hourly, so the price doesn't change if the repair
+      takes longer than expected.
+
+  - q: "My dishwasher is 15-20 years old — is it worth fixing?"
+    a: |
+      It depends almost entirely on what's broken, not the age. A late-1990s or early-2000s
+      Whirlpool or GE built on the domestic mechanical platform is genuinely repairable — fewer
+      sensors, standard parts, logic that fails in predictable ways. If the repair cost stays
+      under 50% of what a comparable new unit would cost installed, fixing it makes financial
+      sense. Control board failure on a machine that old is trickier — boards may be
+      discontinued or priced at $200+ for a $400 machine. We'll tell you on-site. If it's a
+      $50 drain pump and 40 minutes of labor, we'll say fix it. If it's a $280 control board
+      on a machine showing other signs of wear, we'll say that too.
+
+  - q: "Can you fix a dishwasher that's leaking from the door?"
+    a: |
+      Door leaks almost always come from a failed door gasket — the rubber perimeter seal that
+      runs around the door opening. On GE, Frigidaire, and Kenmore units, the gasket hardens
+      and cracks over time, especially in Sun Valley homes without central AC where summer
+      kitchen temps regularly hit 85-90°F. A replacement gasket runs $15-45 and installs in
+      20-30 minutes. If the door itself is warped from being slammed, the latch tension may
+      also need adjustment to get an even seal. We check the full door geometry on any leak
+      call — not just the gasket — because a partial fix that still drips will rot the cabinet
+      floor and create water damage that costs far more than the repair.
+
+  - q: "Do you carry Samsung and Whirlpool parts on the truck for Sun Valley calls?"
+    a: |
+      GE, Whirlpool, and Kenmore parts are stocked on every run — drain pumps, door latch
+      assemblies, spray arms, float switches, inlet valves. For Samsung, we carry the most
+      common failure parts: drain pumps and door latch assemblies. Those cover roughly 70% of
+      Samsung repair calls we see. LG parts typically need a next-day order from our parts
+      distributor in Van Nuys. When you call (323) 870-4790, mention the brand and the symptom
+      — we'll confirm parts availability before dispatching and avoid a situation where we
+      diagnose the problem but can't finish the repair same-visit.
+
+  - q: "Do you cover Pacoima and Arleta in addition to Sun Valley?"
+    a: |
+      Yes — Pacoima (91331), Arleta, Panorama City, North Hollywood, and Sunland-Tujunga are
+      all part of our regular northeastern Valley route. Sun Valley and Pacoima are typically
+      the first stops on our northbound morning runs, so early-morning slots in those areas get
+      the fastest response — usually within two hours of booking. Same-day service is available
+      throughout the corridor. Schedule online or call (323) 870-4790 to get on the day's route.

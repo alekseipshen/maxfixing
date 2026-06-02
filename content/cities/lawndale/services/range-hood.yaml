@@ -1,43 +1,81 @@
-title: "Lawndale Range Hood Repair — South Bay Same-Day Service"
+title: "Lawndale Range Hood — Old Kitchens, Older Ducts, Fixed Fast"
 
 intro: |
-  The 1950s and '60s ranch homes packed along streets off Hawthorne Boulevard were never built with real kitchen ventilation in mind. A GE or Samsung over-the-range unit shoved into those original cabinets barely clears the cabinet opening — and when the blower motor starts grinding or the grease filter clogs solid, the whole kitchen fills with smoke before dinner's half done.
-
-  Range hoods in Lawndale take a hard beating. And when they go, they usually go fast.
+  The postwar bungalows lining Firmona Avenue and Prairie Avenue were built with cramped
+  kitchens and undersized overhead ventilation. Most of those original 4-inch duct runs
+  are still inside the walls — untouched since 1958. Drop in a new Samsung under-cabinet
+  hood and that narrow flex duct can't move the air it needs. Grease backs up into the
+  blower wheel within months. South Bay air is humid enough that the buildup congeals
+  fast, and suddenly the hood isn't venting anything at all.
 
 localContext: |
-  Most of the housing stock in the 90260 zip code went up between 1950 and 1975. Compact kitchens, drop ceilings, ductwork running up through cabinet stacks before hitting an exterior wall — that's the standard layout in the blocks between Prairie Avenue and Inglewood Avenue, from 166th Street down toward 190th.
+  Zip code 90260 is packed with 1950s and early-'60s wood-frame homes, many cut into
+  duplexes over the decades. Kitchens run 8 by 10 feet on a good day. Getting real access
+  to a wall-mounted Whirlpool or GE hood means squeezing between upper cabinets with
+  sometimes 5 inches of clearance. The streets near Lawndale High School on Inglewood
+  Avenue are tight — we use a compact work vehicle specifically for South Bay neighborhoods.
+  A lot of LG and Samsung units came in recently from big-box stores, dropped onto ductwork
+  that was never sized for modern CFM ratings.
 
-  A mid-range KitchenAid or Bosch chimney hood added during a 2010s remodel is often fighting a duct run designed for a 200 CFM bathroom fan, not a 600 CFM cooking hood. That mismatch chokes airflow and burns out blower motors way ahead of schedule.
-
-  The Del Aire pocket just east of Aviation Boulevard has seen a lot of kitchen renovations in recent years — owners upgrading to Bosch or KitchenAid while the ductwork behind the walls is still original 4-inch flex from 1962. The Bodger Park area runs similar: newer appliances, old bones. That combination is exactly why we see so many blower motor failures in Lawndale compared to newer construction in Torrance or Hawthorne.
-
-  One more thing — the South Bay salt air doesn't help. Homes within a mile of the 405 corridor get more airborne particulate than people expect, and it accelerates corrosion on fan housings, control board connectors, and light socket assemblies inside the hood.
+  The corridor along Hawthorne Boulevard from Marine Avenue down to 166th Street has a
+  mix of older rental units and owner-occupied homes that have been partially updated —
+  new appliances, original ductwork. That combination is exactly where we see the most
+  blower failures. Over near the Bodger Park and Alondra neighborhoods, the lots run
+  slightly larger, but the interior kitchen layouts are just as constrained. Some owners
+  have converted garages into ADUs and added a second ventilation run off the same line —
+  that drops the static pressure enough that the original hood can barely pull smoke off
+  a front burner. Bosch and KitchenAid chimney hoods require a minimum 600 CFM duct path;
+  most of these converted setups are delivering 300 at best.
 
 commonProblems:
-  - title: "Grease Filter Packed Solid — Hood Stops Moving Air Entirely"
-    description: "Heavy cooking in compact Lawndale kitchens means aluminum mesh grease filters pack solid within a few months — sometimes faster. On Samsung over-the-range units, that restriction forces the blower motor to work overtime until it overheats or seizes. LA cooking styles put a higher grease load on these hoods than most manufacturers rated for.
-
-    Pull the filter out: if it's brown and dripping, airflow is already seriously compromised. Left too long, the motor bearing starts to go. That's a $200 repair instead of a $15 filter cleaning."
-
-  - title: "Blower Motor Grinding — Starts as a Rattle, Gets Worse Fast"
-    description: "Old 4-inch duct runs in 1950s Lawndale homes weren't sized for the 400-600 CFM output of a KitchenAid or Bosch chimney hood. That duct restriction pushes back against the blower wheel, creating a rattle at high speed that turns into a constant grind over weeks. Eventually the motor bearing fails completely.
-
-    It's rarely just the motor — the duct transition usually needs clearing or upsizing too. On KitchenAid units specifically, the blower wheel can crack from the vibration before the motor fully seizes. We check both every time."
-
-  - title: "Hood Lights Dead — Usually Socket Corrosion, Not the Bulb"
-    description: "Grease vapor and repeated heat cycles corrode the light socket assembly on older GE and Whirlpool over-the-range units. The bulb tests fine but won't make proper contact — socket replacement is the actual fix, not another trip to the hardware store for bulbs.
-
-    On newer Samsung or Bosch units with integrated LED control boards, a failing board knocks out both the lights and fan speed controls simultaneously. The fan will still spin on one speed but the controls go unresponsive. That's a board swap, not a wiring issue — and it's a common failure mode on Samsung over-the-range models from 2018-2022."
+  - title: "Blower Motor Burns Out From Grease Overload"
+    description: |
+      High-heat cooking — heavy oil, repeated stir-fry sessions — packs the blower wheel
+      solid with grease until the motor winding overheats and fails. On Samsung and LG
+      under-cabinet units this happens quietly: the hood still turns on, but airflow drops
+      to almost nothing. Replacing the blower motor assembly and scrubbing the wheel clears
+      it. Skip it and the next failure is the control board, which costs three times more.
+  - title: "Grinding Rattle That Gets Worse Every Week"
+    description: |
+      A loose motor mounting bracket vibrating inside the hood housing makes these tight
+      Lawndale kitchens sound like someone's running a table saw. Whirlpool and GE
+      wall-mount hoods are especially prone to this once the rubber dampers wear out. In
+      most cases, reseating the bracket and replacing the worn fan blade stops the noise
+      completely — no need to pull the whole unit.
+  - title: "Duct Disconnected Inside the Wall — Hood Vents Into Nowhere"
+    description: |
+      These 1960s builds used flex duct stapled to framing with whatever was on hand. Over
+      time the joints separate, or attic debris collapses the run entirely. A KitchenAid
+      chimney hood pumping into a disconnected duct sends all that grease smoke right back
+      into the kitchen. The charcoal filter can absorb some of it, but not cooking smoke
+      from a gas burner running at full flame. Gas range ventilation failures in 90260 are
+      more common than people realize — the grease-smoke combination accelerates liner
+      deterioration inside the duct faster than an electric setup would.
 
 faq:
   - q: "How fast can you get to Lawndale for range hood repair?"
-    a: "Lawndale sits right on our South Bay corridor — usually there within 2 hours for same-day calls. The 90260 zip is about 20 minutes from our main route down the 405, and we run morning and evening slots to avoid the Hawthorne Boulevard crunch at rush hour. Call (323) 870-4790 to check availability, or book online."
-
-  - q: "Do you repair KitchenAid and Bosch range hoods in Lawndale?"
-    a: "Both are common here after kitchen remodels. On KitchenAid hoods we typically replace the blower motor and grease filter housing. Bosch chimney units tend toward control board failures and blower wheel issues — the 500 and 800 series have different board part numbers, so bring your model number when you call. We also handle Samsung, GE, and Whirlpool over-the-range models — whatever's above your stove."
-
-  - q: "What does range hood repair cost, and is the diagnostic included?"
-    a: "Diagnostic is rolled into the service call — no separate fee. Blower motor replacement typically runs $150-250 in parts and labor. Control board swaps on Bosch or Samsung units usually land $200-350. Flat quote before we touch anything.
-
-    Same-day slots available, evenings too — call (323) 870-4790."
+    a: |
+      South Bay is a daily run for us — usually at your door in Lawndale within 2 hours.
+      We come down the 405 to Crenshaw Boulevard, which keeps the route predictable. Call
+      (323) 870-4790 and we'll find a same-day slot, including evenings.
+  - q: "Do you repair Samsung and LG range hoods in this area?"
+    a: |
+      Yes — those are the most common units we pull apart in 90260. Samsung, LG, and
+      Whirlpool under-cabinet models are straightforward; parts are in stock. We also
+      handle KitchenAid and Bosch chimney-style hoods if you've upgraded from the
+      original builder-grade unit.
+  - q: "What does range hood repair cost, and how does the process work?"
+    a: |
+      Blower motor replacement runs $150–$260 depending on the model. A grease filter
+      clean-out or light socket swap is closer to $80–$110. Diagnosis happens on-site —
+      no separate trip charge for the estimate. Same-day emergency slots are available;
+      call (323) 870-4790 to book before noon for afternoon service.
+  - q: "Can you work on older ductwork in Lawndale's duplex conversions?"
+    a: |
+      That's probably half the calls we get in this zip code. Flex duct from the '60s that
+      was fine for an original 200 CFM exhaust fan can't support a modern Bosch hood pulling
+      450 CFM. We inspect the full duct run, identify where it's collapsed or disconnected,
+      and either re-route through the cabinet soffit or recommend a recirculating conversion
+      if the wall run can't be salvaged. Either way, you get a straight answer on-site —
+      not a second appointment to figure it out. Evening slots open most weekdays; call
+      (323) 870-4790 to check availability.

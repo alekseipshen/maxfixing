@@ -1,77 +1,86 @@
-title: "Dana Point Range Repair — Coastal Gas & Electric Specialists"
+title: "Dana Point Range Repair — Harbor Hills to Monarch Beach"
 
 intro: |
-  Salt air off Dana Point Harbor is harder on kitchen appliances than most homeowners expect — igniter
-  electrodes corrode faster here than anywhere 20 miles inland. The hillside homes in Lantern Village
-  and the newer builds near Monarch Beach run serious cooking equipment: KitchenAid slide-ins, Thermador
-  pro ranges, the occasional Bosch dual-fuel. Call us at (323) 870-4790 and we're usually at your door
-  within two hours of booking.
+  Salt air off the Pacific doesn't just rust your patio furniture — it corrodes range igniter
+  modules faster than any inland zip code in the county. Homes along Stonehill Drive and through
+  the Monarch Beach hillside developments run a lot of KitchenAid and Thermador slide-ins, and
+  those gas valve igniters take a beating from coastal humidity. Down toward the Strand and near
+  the harbor, LG french-door ranges are common too — their igniter wire harnesses oxidize almost
+  as fast once salt moisture gets into the terminal connections.
+
+  Burner ignition failures and oven temperature drift. Those are the two calls we get most from Dana Point.
+
+  The marine layer isn't just a morning inconvenience. Year-round moisture accelerates oxidation
+  on igniter wire harnesses, deposits salt film on control board connectors, and corrodes
+  temperature sensor probe contacts — problems that develop in 92629 faster than 20 miles
+  inland toward Irvine or San Juan Capistrano. We're usually out within a couple of hours
+  from our South OC route.
 
 localContext: |
-  Most of Dana Point's residential housing went up between the mid-1970s and early 1990s. The 92629 zip
-  is a mix of townhomes, detached single-family homes, and small condo complexes where kitchen footprints
-  run compact and range access can be tight. Capistrano Beach — the 92624 corridor along PCH — trends
-  toward older Ranch-style homes, many still on original gas supply infrastructure. Modern pro-style ranges
-  installed on aging gas lines occasionally need regulator checks before we can properly diagnose burner
-  problems. The hillside streets above Baby Beach add another wrinkle: steep driveways and narrow side
-  yards mean parking the van close isn't always possible. We bring a full tool kit on every call regardless,
-  so we're not making two trips when the bake element and the RTD probe both need swapping on the same visit.
+  Gas lines in this part of Dana Point go back to the early 1970s.
+
+  Most of the hillside residential stock was built between the late 1960s and mid-1980s, and
+  those older stub-outs occasionally create low-pressure symptoms that look exactly like a
+  failing gas valve igniter — until you run a pressure test on the supply side and find the
+  regulator is just tired. Down near Doheny State Beach and the harbor approaches in 92624,
+  kitchens in older bungalows run compact. Pulling a range fully for service means removing
+  cabinet trim or disconnecting a gas flex line that hasn't moved in 30 years. We carry the
+  correct flex connectors and brass shutoff fittings for those jobs, so the visit doesn't
+  turn into a parts run.
+
+  Monarch Beach custom builds are a different category. Thermador and Wolf pro-depth ranges
+  are standard up there, and the dual-ring burner assemblies on those units won't accept
+  generic aftermarket parts that don't seat properly on the brass valve body — we stock OEM
+  burner heads and valve components specifically for those configurations.
 
 commonProblems:
-  - title: "Corroded Igniter Electrodes — A Coastal Salt Air Problem"
-    description: |
-      Living within a mile of the harbor means your range igniter electrodes deal with salt-laden air
-      every time a sea breeze moves through the kitchen. The ceramic insulator develops hairline cracks,
-      moisture gets in, and the electrode tip oxidizes. Thermador and KitchenAid sealed-burner designs
-      are particularly sensitive here — the ignition module reads a degraded electrode as a continuous
-      fault and disables the entire burner circuit until the part is swapped. On Thermador star-burner
-      units the ignition harness itself corrodes at the connector pins, which mimics a bad module on
-      diagnostics. We pull the connector and test resistance directly before ordering parts — saves
-      homeowners from paying for a control board they didn't need.
-
-  - title: "Oven Runs Below Set Temperature — RTD Probe or Bake Element Failure"
-    description: |
-      Oven display reads 375°F but casseroles come out underdone. The bake element is the usual culprit
-      — it glows orange on one end and dark on the other, or throws an F3 or F4 error code on Samsung
-      and LG freestanding models. Sometimes it's the RTD temperature probe sending inaccurate resistance
-      readings to the control board, not the element itself. We test both before replacing anything. Bosch
-      dual-fuel ovens in Dana Point townhomes add a gas broiler circuit to the mix — if the broil igniter
-      is also acting up, it's usually a shared control board issue and worth diagnosing together rather
-      than scheduling two separate calls.
-
-  - title: "Gas Smell Near the Range — Valve Body or Manifold Leak"
-    description: |
-      Even a faint sulfur smell near a Bosch slide-in or GE freestanding range needs immediate attention.
-      The gas valve body and the pressure regulator upstream of the burner manifold develop micro-leaks
-      over time — especially on units that haven't been serviced in five or more years. Shut the supply
-      valve, open windows, and call us. We carry calibrated combustible gas detectors and can
-      pressure-test the manifold on the same visit. Older 92624 homes with galvanized flex connectors
-      behind the range are worth inspecting every few years regardless — the corrugated stainless steel
-      connectors that replaced them hold up much better in coastal conditions but still develop pinhole
-      fatigue at the crimp fitting after a decade of micro-vibration from the range itself.
+  - title: "Marine Layer Humidity Destroying Igniter Modules"
+    description: "The spark igniter module on most gas ranges — KitchenAid, Bosch, even
+      Thermador — corrodes faster in coastal zones. Dana Point's morning marine layer keeps
+      moisture elevated year-round, and the igniter wire harness oxidizes at the terminals.
+      Symptom: clicking without flame on one or two burners while the others light fine.
+      This isn't the gas valve. It's the igniter harness connection — usually the terminals
+      themselves — and it's a straightforward fix. Left unaddressed, moisture tracks into
+      the spark module itself, which means replacing the whole module assembly instead of
+      just cleaning and reseating the harness leads. Catching it early saves about $80
+      in parts."
+  - title: "Oven Temperature Drift After 5–7 Years of Coastal Use"
+    description: "An oven running 30°F off usually means the temperature sensor probe has
+      oxidized — the probe mounts at the rear oven wall and reads inaccurate after years of
+      heat cycling in humid air. LG and Samsung slide-ins both show this pattern reliably
+      past the 5-year mark. A healthy probe reads around 1080 ohms at room temperature;
+      a corroded one drifts higher, which tells the control board the oven is already at
+      temp and cuts the heating element early. Replacing the probe takes under an hour;
+      recalibrating the control board offset takes ten minutes after that."
+  - title: "Gas Odor at the Burner Knob — Thermador and Viking Rangetops"
+    description: "A faint gas smell that appears when you rotate a burner knob but don't
+      ignite it points to a deteriorated gas valve stem seal inside the burner assembly.
+      On Thermador dual-ring burners common in Monarch Beach kitchens, the sealed valve
+      hardens and cracks past the 10-year mark. This isn't a wait-and-see situation — call
+      us at (323) 870-4790 and we'll get out the same day."
 
 faq:
-  - q: "How fast can you get to Dana Point for Range repair?"
-    a: |
-      Dana Point runs about 30 minutes from our south Orange County base — Crown Valley Pkwy or PCH
-      depending on conditions. Same-day slots fill by noon, so call (323) 870-4790 early for afternoon
-      availability. Evening appointments are open Tuesday through Saturday. Emergency morning visits
-      before 8 AM are also available — just ask when you call.
-
-  - q: "Do you repair Thermador, KitchenAid, and Bosch ranges?"
-    a: |
-      All three are common in Dana Point and all three are in regular rotation on our service calls.
-      Thermador star-burner igniters and dual-fuel control boards we carry on the van. KitchenAid and
-      Bosch slide-ins use proprietary gas valve components we stock separately. Samsung and LG F-code
-      errors — F3, F4, F5 — are usually bake element or RTD sensor issues and almost always same-day fixes.
-      Sub-Zero and Wolf built-ins do show up occasionally in the Monarch Beach and Headlands neighborhoods;
-      those require pre-ordering parts in most cases, but diagnostics are same-day so you know exactly
-      what's needed before committing to the repair.
-
-  - q: "What does a Range repair cost in Dana Point, and can you fix it the same day?"
-    a: |
-      Diagnostic fee applies toward the repair if you go ahead — no double charge. Gas valve work,
-      igniter replacements, and element swaps are same-day in most cases once we confirm parts on hand.
-      Most Dana Point range repairs run $150–$380 combined parts and labor. Premium brand components —
-      Thermador ignition modules, Bosch dual-fuel valve assemblies — sit at the higher end of that range.
-      Call (323) 870-4790 to check morning availability — same-day slots move fast.
+  - q: "How fast can you get to Dana Point for a range repair?"
+    a: "From our South OC route, Dana Point is typically 60–90 minutes depending on PCH
+      traffic. Crown Valley Parkway access keeps it predictable from the 5. Call
+      (323) 870-4790 — same-day slots are usually available, including evening slots.
+      Gas smell calls go to the front of the queue."
+  - q: "Do you repair Thermador and KitchenAid ranges in Dana Point?"
+    a: "Both brands are common in the Monarch Beach and hillside neighborhoods here. Thermador
+      work usually involves gas valve igniters or dual-ring burner heads — those need OEM
+      burner caps and venturi tubes, not aftermarket parts that gap wrong and produce uneven
+      flame pattern. KitchenAid repairs lean toward control board failures and bake element
+      replacements. Bosch comes up regularly too — mostly door latch assemblies and igniter
+      modules on 800 Series units, which are popular in newer Dana Point builds near the
+      Lantern District."
+  - q: "What does range repair cost and how does the process work?"
+    a: "Flat-rate diagnostic, then an upfront repair price before we start. Most jobs —
+      heating element swaps, temperature sensor probe replacements, igniter work — get done
+      same visit. Parts for LG, Samsung, and Bosch are usually stocked in the van or sourced
+      next-day. Emergency slots exist for any gas-related calls."
+  - q: "My range works but occasionally smells like gas near the knobs. Is that urgent?"
+    a: "Yes. A valve stem seal leak on a Thermador or Viking burner assembly can be
+      intermittent for weeks before it becomes consistent. Schedule same-day service by
+      calling (323) 870-4790 — we carry valve stem repair kits for common Thermador and
+      Wolf configurations. Strong or persistent smell means leave the house and call
+      SoCalGas first, then us."

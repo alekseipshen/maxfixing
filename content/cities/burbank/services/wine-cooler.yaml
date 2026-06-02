@@ -1,33 +1,33 @@
-title: "Burbank Wine Cooler — San Fernando Valley Heat Takes a Toll"
+title: "Burbank Wine Cooler Repair — Valley Heat Works Against You"
 
 intro: |
-  Summer temps in Burbank crack 105°F on a regular basis, and that sustained ambient heat pushes wine cooler compressors to run nearly nonstop just to maintain 55°F. The 1950s and 1960s ranch homes filling Magnolia Park and the Rancho neighborhoods weren't designed with climate-controlled wine storage in mind, so residents depend on standalone or built-in units year-round. A KitchenAid 46-bottle dual-zone running through a Burbank August will show compressor stress before the weather breaks — usually by way of rising cabinet temps and a unit that never shuts off.
+  Summer afternoons in Burbank's Magnolia Park neighborhood routinely crack 102°F — full San Fernando Valley heat, and wine coolers hate it. A KitchenAid dual-zone unit tucked under the counter in a 1960s ranch house fights ambient temps its compressor was never rated for. Most calls from the 91505 zip land between June and September, when the unit finally surrenders trying to hold 55°F while the kitchen around it sits at 85°.
+
+  There's a second peak we see every January. Someone loads the cooler past capacity after the holidays, airflow collapses, and the control board starts throwing temperature deviation errors. Two different failure modes, same phone call to us.
 
 localContext: |
-  Most of the housing stock in 91505 and 91506 went up between 1945 and 1975 — compact kitchen layouts, tight overhead cabinet clearances, original electrical panels not sized for a 200-watt wine column. Sub-Zero and Bosch built-in wine units show up regularly in the fully renovated homes along Buena Vista Street and in the blocks near Glenoaks and Victory Boulevards. Getting to the compressor on a built-in job in these kitchens often means an extra hour of disassembly before any actual repair starts. Burbank's LADWP water also runs above 300 ppm TDS, so mineral scale inside drain lines and evaporator coils is a persistent issue regardless of brand.
+  Burbank's housing stock leans heavily on postwar construction — 1940s and 1950s bungalows in the Rancho neighborhood, 1960s ranchers near Glenoaks Boulevard, older apartment buildings along Hollywood Way. Built-in wine coolers in these homes often sit inside enclosed cabinetry with almost no ventilation clearance, which compounds the heat problem dramatically.
+
+  Zip code 91502 mixes small condos and single-family homes where under-counter Bosch and U-Line units are common. Kitchen access for a service call is genuinely tight — 30-inch galley kitchens where pulling a built-in unit requires removing the adjacent cabinet drawer first. Parking a service van on Hollywood Way or Olive Avenue during business hours means meters or a quick loop for street parking. Half the 91502 condos have the kitchen on the second floor, so we bring a hand truck rated for stairs.
+
+  The Burbank Hills area — zip 91505 above Glenoaks Canyon — skews premium. Sub-Zero wine preservation columns and Thermador built-ins are common in the newer construction up there. Those units require OEM tooling and access to manufacturer service manuals that most general appliance shops don't stock.
 
 commonProblems:
-  - title: "Compressor Burnout From Weeks of Triple-Digit Valley Heat"
-    description: |
-      When Burbank ambient temps stay above 95°F for a week straight, the wine cooler compressor runs without a recovery cycle. That continuous operation heats motor windings past design spec. LG and Samsung freestanding units are particularly vulnerable — the rear-mounted condenser fan pulls dust and debris from the floor, the condenser coil clogs, thermal resistance builds inside the sealed system, and eventually the thermal overload protector trips. Cabinet temperature climbs to 72°F overnight. No error code displays. The wine heats silently until someone opens the door.
+  - title: "Compressor Burning Out From Enclosed Cabinet Heat"
+    description: "Burbank summers push ambient kitchen temps well past what most wine coolers expect. The compressor runs continuously trying to compensate, which overheats the motor and eventually trips the thermal overload protector. KitchenAid built-in units in poorly ventilated cabinets are especially vulnerable — a compressor that cycles nonstop for three weeks straight in July rarely survives August. On these calls we typically test the overload protector (usually open), check the start relay with a multimeter, and measure winding resistance at the compressor terminals. An open winding means the compressor is dead. A shorted start relay means it's salvageable. Either way, cutting a small vent into the cabinet face after the repair is the only way to prevent the same failure next summer."
 
-  - title: "Calcium Scale Blocking the Evaporator From LA Hard Water"
-    description: |
-      Burbank municipal water consistently tests above 300 ppm TDS — among the harder supplies in the Valley. Mineral deposits accumulate on the evaporator coil fins and pack inside the condensate drain tube over time. Bosch dual-zone units develop a temperature split between chambers: upper zone holds 55°F, lower zone drifts to 68°F and won't stabilize. Partially blocked evaporator channels can't distribute refrigerant evenly anymore. Catching the scale buildup before it bonds to the aluminum fins is the difference between a cleaning and a coil replacement.
+  - title: "Temperature Swings From Mineral Scale on the Evaporator Coil"
+    description: "LA hard water leaves calcium deposits on the evaporator coil, blocking heat transfer and causing 10–15 degree swings across zones. Reds drift warm while whites stay cold — a classic sign. Sub-Zero wine preservation units in Burbank Hills homes see this faster than budget models because of the tighter tolerances in the refrigeration circuit. Descaling the coil and recalibrating the thermostat usually resolves it without touching any major components."
 
-  - title: "Door Gasket Failure on Sub-Zero Built-In Wine Columns"
-    description: |
-      Sub-Zero 424 and 427 wine columns installed in Rancho-area kitchen renovations typically develop door gasket wear after 8 to 10 years of valley heat cycling. A cracked or deformed gasket lets warm ambient air infiltrate continuously, so the compressor never shuts off — you'll hear it running all afternoon. Sub-Zero uses a spline-groove gasket design rather than a standard compression seal, meaning generic replacements won't seat correctly. Sourcing the right part number before starting labor isn't optional. Mismatched gaskets fail within two weeks of installation.
+  - title: "Rattling From Worn Compressor Mounts and a Loose Condenser Fan"
+    description: "That low hum that graduates into a rattle after a few years? Usually a degraded compressor mount or a condenser fan blade that's shifted on its shaft. Samsung and LG freestanding wine coolers are particularly prone to this by year three or four. Homeowners often mistake it for full compressor failure — it rarely is. We check the fan blade seating, inspect the rubber compressor grommets, and run a current draw test before calling it a bad compressor. Most of the time the fix is under $120 and takes about an hour on-site in Burbank."
 
 faq:
   - q: "How fast can you get to Burbank for wine cooler repair?"
-    a: |
-      We run through the Valley daily — Burbank is 25 to 40 minutes from our nearest tech depending on the 134 or the 5. Same-day slots are available most days for calls placed before noon, and evening windows open up most weekdays. Call (323) 870-4790 and we'll lock in a time for today or tomorrow morning.
+    a: "Burbank runs 45–90 minutes from our nearest tech. Call before 11 a.m. and we can almost always make same-day. The 5 and 134 interchange turns ugly after 2 p.m., so earlier is better. Reach us at (323) 870-4790."
 
-  - q: "Do you repair Bosch and Sub-Zero wine coolers in Burbank?"
-    a: |
-      Yes — Bosch dual-zone columns and Sub-Zero 424/427 built-ins are both in regular rotation throughout 91505 and 91506. We also service KitchenAid, LG, and Samsung units. Bosch jobs typically come down to the drain pump motor or a failed control board. Sub-Zero almost always involves the door gasket assembly or a compressor relay burning out after sustained summer operation. Parts are stocked for both brands.
+  - q: "Do you service Bosch and Sub-Zero wine coolers in Burbank?"
+    a: "Yes — Bosch dual-zone and Sub-Zero wine preservation units are two of our most common calls here. We also work on KitchenAid built-ins and U-Line under-counter units regularly. Bosch typically needs control board or inlet valve work; Sub-Zero comes down to evaporator coil service or door gasket replacement most of the time. For Sub-Zero specifically, we stock OEM gaskets for the 424, 427, and 700 series — aftermarket versions available online don't seal correctly on those frames, and a poor seal defeats the entire temperature-stability design. Same-day availability in 91501–91506 most weekdays."
 
-  - q: "What does wine cooler repair cost in Burbank, and how long does it take?"
-    a: |
-      Diagnostic visit is $85 and applies toward the repair if you move forward. Most single-component jobs — door gasket replacement, compressor relay swap, evaporator coil descaling — get finished the same visit with parts included, no callback needed. Emergency and evening appointments are available for urgent situations. Typical repair range in Burbank runs $155 to $400 depending on parts and access time for built-in units.
+  - q: "What does a wine cooler repair cost, and can I get a same-day slot?"
+    a: "Most repairs land between $150 and $350 depending on the part. Compressor replacement runs higher — typically $400–$550 on a mid-range unit, more on Sub-Zero or Thermador. Same-day slots are available most weekdays across the 91501–91506 zip range, with evening appointments available too. Call (323) 870-4790 or schedule online to lock something in."

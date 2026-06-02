@@ -1,99 +1,23 @@
-title: "Calabasas Freezer — Built-In & Sub-Zero Repair in 91302"
+title: "Calabasas Freezer — Built-In Sub-Zero & Column Unit Repairs"
 
 intro: |
-  Those gated communities off Las Virgenes Road were designed around premium kitchen appliances
-  from day one — Sub-Zero column freezers, Thermador panel-ready units built flush into custom
-  cabinetry.
-
-  A freezer drifting off temp in a 91302 home isn't just an inconvenience; it's a few hundred
-  dollars of Wagyu and organic produce at stake. The 101 corridor from Agoura Road to the
-  Commons shopping center is our regular run — same-day appointments are available most days,
-  and we're usually on-site within 2 hours of your call.
-
-  Built-in diagnostics take longer than freestanding units. Panel removal, cabinet clearance
-  checks, and refrigerant pressure reads all come before we even confirm the fault. That's
-  just what working with premium appliances in custom kitchens requires.
+  Gated communities like The Oaks and Calabasas Park Estates run their kitchens on Sub-Zero column freezers and Thermador refrigerator-freezer combos — and when those units go down, the HOA gate and coded entry points add a real logistics wrinkle for service vans. We run the 101 corridor every day, so 91302 is a familiar stop. Most calls here involve Sub-Zero F-series column freezers showing temperature drift or ice maker assembly failures that look like compressor problems until you actually check the defrost cycle — an easy misread if you haven't worked built-ins before. Thermador Freedom series units throw their own curveballs: the control board interprets a failing evaporator thermistor as a fan fault, so the unit logs a blower error while the actual problem is upstream. Getting the diagnosis right the first time matters here because ordering panel-specific parts for a Calabasas built-in takes longer than stocking a Whirlpool drum bearing.
 
 localContext: |
-  Most of Calabasas's housing stock went up between the late 1980s and early 2000s — custom
-  builds and tract homes in developments like The Oaks, Calabasas Park, and Mountain View
-  Estates. Kitchens were planned around built-in appliances from the start, meaning panel
-  removal and cabinet clearance come before any freezer diagnosis even begins.
-
-  Sub-Zero 700-series units from the 1990s are extremely common in this zip. Parts
-  availability is solid, but the diagnostic still takes longer than a freestanding unit
-  because the evaporator compartment sits behind insulation panels that have to come out.
-  Viking built-in freezers from the same era have similar access requirements — compact
-  compressor compartments that need proper lighting and a magnetic thermometer, not just a
-  quick visual check.
-
-  Calabasas sits in the western San Fernando Valley where summer temperatures regularly
-  crack 100°F. That ambient heat load matters: a freezer that holds -5°F in January may
-  struggle to stay at 10°F in August, even with no mechanical fault. Understanding the
-  difference between a climate-related symptom and an actual compressor or fan failure
-  saves homeowners from unnecessary part replacements.
-
-  Miele and Wolf built-in units are increasingly common in newer builds near Lost Hills Road.
-  These require model-specific firmware reads to pull fault codes — a generic multimeter
-  approach won't surface a control board issue on a Miele column freezer.
+  Calabasas's residential stock in 91302 and 91372 is mostly 1985-to-2005 luxury construction — custom-built homes and planned HOA communities with appliance alcoves sized for 30- and 36-inch column freezers. Panel-ready Sub-Zero and Thermador units sit flush with custom cabinetry, which means reaching the condenser coil or evaporator assembly requires pulling drawer fronts and disconnecting integrated panels before diagnostics can even start. Add restricted parking near the Las Virgenes Road corridor and you need a technician who has done this specific work before. Some homes near Lost Hills Road have kitchen layouts where the freezer column shares a cabinet run with a full-height wine column — pulling one unit for service means carefully managing both integrated door panels without scratching the finish. Viking built-ins in these homes often date to the early 2000s, putting them squarely in the compressor endurance window where refrigerant leaks and capacitor failures start showing up alongside routine wear parts.
 
 commonProblems:
-  - title: "Freezer Temperature Rising During Summer — Valley Heat Overload"
-    description: "San Fernando Valley heat hits 100°F-plus from June through September, and a
-      freezer's condenser fan motor takes the brunt of it. Sub-Zero column freezers are
-      particularly prone to fan failures under sustained heat load — air stops circulating,
-      temps drift from -5°F toward 20°F, and you notice only when things get soft.
-
-      Condenser cleaning plus fan motor replacement resolves most of these calls. One thing
-      homeowners often miss: a clogged condenser on a Sub-Zero can push compressor discharge
-      temps high enough to trigger a thermal cutout, making the unit look dead when it's
-      actually just overprotecting itself. Clean the coils first, then diagnose."
-
-  - title: "Frost Wall Building Up at the Back of the Cabinet"
-    description: "This one almost always traces to a dead defrost heater or a failed defrost
-      timer on the evaporator coil — not ice maker overflow, as homeowners usually assume.
-      Thermador and Viking built-in freezers show it as a slow warm-up over several days,
-      ice accumulating until airflow is fully blocked.
-
-      The defrost circuit needs a proper resistance test before ordering parts. A defrost
-      heater that reads open on a multimeter is a confirmed replacement. A heater that reads
-      in-spec but still fails to fire points to the defrost thermostat or the control board —
-      same symptom, different fix, different price. Skipping the resistance test is how
-      unnecessary parts get ordered."
-
-  - title: "Door Seal Deterioration on Panel-Ready Units"
-    description: "Panel-ready freezers hide the door gasket behind a decorative overlay, which
-      makes a failing seal easy to miss for months. Bosch and Sub-Zero both use
-      compression-style gaskets that harden and crack after 8-10 years in Southern California
-      heat.
-
-      Signs: visible frost along the door frame, compressor running almost non-stop, or a
-      faint warm spot you can feel at the door edge with your hand. Gasket swap runs about
-      45 minutes once the panel is off. KitchenAid built-in freezers use a magnetic gasket
-      instead — different replacement procedure, slightly quicker to source."
+  - title: "Evaporator Coil Frost Buildup in Sub-Zero Column Freezers"
+    description: "Sub-Zero column units in 91302 throw E24 errors or false 'Door Ajar' alerts that have nothing to do with the actual door. A failed defrost timer lets frost pack the evaporator coil until airflow stops completely — freezer temps climb into the 20s and then the drawer stops holding any temperature at all. Manual defrost plus defrost timer replacement handles it in a single visit. If the coil is blocked badly enough, the defrost heater element also needs inspection — a shorted heater can keep the timer cycling without actually clearing the frost buildup behind the back panel."
+  - title: "Condenser Fan Failure During Calabasas Summer Heat"
+    description: "August and September push daytime temps in the Valley past 95°F, forcing freezer compressors in older Thermador and Viking built-in units to run almost continuously. The condenser fan motor wears out first — without it, the compressor can't shed heat even though it keeps running. You'll see readings bounce between -5°F and 18°F on the same afternoon, which looks random but tracks directly to that fan failure. On Viking units, a worn fan blade occasionally contacts the shroud before the motor fully seizes — listen for intermittent ticking before the temperature swings start."
+  - title: "Door Gasket Failure on Panel-Ready Miele and Bosch Units"
+    description: "Panel-ready door gaskets on Miele and Bosch column freezers are model-specific parts — no universal seal compresses correctly against an integrated door panel. Once the magnetic strip loses its grip, warm Calabasas air bleeds in constantly and triggers heavy frost buildup on the back wall. Most Bosch units we service in the 91372 zip are 5-8 years old, right at the typical gasket failure window. A secondary sign is the drain pan underneath filling faster than normal — condensate from warm air intrusion overwhelms the standard evaporation rate and you end up with standing water below the unit."
 
 faq:
-  - q: "How fast can you get to Calabasas for freezer repair?"
-    a: "From our San Fernando Valley base, Calabasas is 20-35 minutes depending on 101 traffic.
-      Same-day appointments are available most mornings — call (323) 870-4790 before noon and
-      we're typically there the same afternoon, sometimes within 2 hours. Evening slots exist
-      for calls that come in later."
-
-  - q: "Do you service Sub-Zero and Thermador freezers in Calabasas?"
-    a: "Yes — those two brands make up roughly half our Calabasas freezer calls. Common jobs
-      include Sub-Zero evaporator coil blockages, Thermador control board failures, and Viking
-      compressor diagnostics. All three require specific tooling and model-specific wiring
-      diagrams that standard appliance shops don't carry.
-
-      Miele column freezers are less common but not rare in the newer builds near the 101 and
-      Lost Hills Road. Fault code retrieval on Miele requires a proprietary interface — we
-      carry it."
-
-  - q: "What does freezer repair cost in Calabasas, and how do I book?"
-    a: "Diagnosis is $75-95 and applies toward the repair if you proceed. A defrost heater or
-      door gasket job typically runs $150-250 all in. Compressor work on a Sub-Zero is quoted
-      after diagnosis — it varies significantly by model and refrigerant type (R-134a vs.
-      R-600a on newer units).
-
-      Emergency and evening slots are available for food-safety situations. Call (323) 870-4790
-      or schedule online — turnaround on quotes is same-day."
+  - q: "How fast can you get to Calabasas for a freezer repair?"
+    a: "Typically within 2 hours of your call. We cover the 101 corridor daily and can coordinate HOA entry with advance notice — just give us your community name when you call. Reach us at (323) 870-4790 to check same-day and evening availability."
+  - q: "Do you service Sub-Zero and Thermador built-in freezers?"
+    a: "Yes — both are our most common work in Calabasas. Sub-Zero column units need proprietary evaporator components and model-specific door gaskets. Thermador Freedom columns have control board behavior that generic scan tools miss entirely. Viking and Miele built-ins are also in our regular rotation out here."
+  - q: "What does a freezer repair diagnostic involve?"
+    a: "Flat-rate diagnostic runs 30-45 minutes on most built-in units and is credited toward any repair you approve. Common fixes — defrost timer, condenser fan motor, door gasket — usually run $150-$350 parts and labor. If the compressor is failing on an older Sub-Zero, we'll tell you that before anything is ordered. Same-day and emergency slots available at (323) 870-4790."

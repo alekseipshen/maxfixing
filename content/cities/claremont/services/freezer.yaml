@@ -1,108 +1,110 @@
-title: "Claremont Freezer Repair — Inland Heat, College-Town Homes"
+title: "Claremont Freezer — Repair When Valley Heat Turns Up"
 
 intro: |
-  College-town neighborhoods around the Claremont Colleges see a surprising mix
-  of appliances — older bungalows on College Avenue running basic Whirlpool chest
-  freezers, renovated homes on Indian Hill Boulevard with KitchenAid column units.
-  Inland SGV heat is real here.
+  The older Craftsman homes north of Foothill Boulevard and the 1960s ranches
+  clustered around the Claremont Colleges pack a lot of freezer-dependent
+  households into 91711. A KitchenAid upright working overtime through a July
+  heat wave in a south-facing garage is a repair call waiting to happen.
 
-  A freezer that held temp fine in March starts struggling by the Fourth of July,
-  especially once the compressor is past its fifth year. The 91711 zip code sits
-  roughly 1,200 feet above sea level and 30 miles from any marine layer — the
-  thermal stress on refrigeration equipment is genuinely different from West LA
-  or Pasadena. Add the temperature swings near the San Gabriel foothills, where
-  nights drop 30 degrees below afternoon highs, and you get gaskets that crack
-  prematurely and compressors that cycle constantly just to keep up.
+  Compressors in chest units out here hit their thermal limits faster than
+  manufacturers account for — the San Gabriel Valley doesn't cool off at night
+  the way coastal LA does. Daytime highs near the base of the San Gabriel
+  Mountains regularly sit 8–12 degrees above what the Westside sees in the
+  same heat wave.
 
-  Claremont homeowners also tend to keep appliances longer than average. A
-  KitchenAid column freezer bought when the kids were in middle school is now
-  a 12-year-old machine trying to survive a 102°F August afternoon.
+  That temperature gap matters a lot to a freezer compressor.
 
 localContext: |
-  Most of the homes within the 91711 zip code's college-core streets date to the
-  1920s through 1950s — tight utility spaces, older electrical layouts, and
-  kitchens that weren't built for today's larger column freezers. Doorways on
-  some of the Craftsman bungalows off Bonita Avenue are narrow enough that a
-  standard 36-inch built-in column requires a partial panel removal just to get
-  a technician in for diagnosis. That's not unusual. We plan for it.
+  Claremont's housing runs from pre-war bungalows near the Village to
+  mid-century ranches on streets east of Indian Hill Boulevard. Zip code 91711
+  carries a lot of owner-occupied homes where appliances stay in service until
+  something breaks.
 
-  North Claremont, where 1980s and 1990s tract homes sit near Baseline Road,
-  runs bigger side-by-side and built-in units. Different era, different failure
-  modes entirely.
+  Anything built before 1975 often has a chest freezer in a detached garage or
+  poorly ventilated utility room — conditions that grind down compressors years
+  ahead of schedule. Tight kitchens in the older bungalow stock also mean
+  limited clearance when a technician needs to pull a unit out for access.
+  We've learned to park on side streets near the Village rather than block
+  narrow driveways.
 
-  The newer construction along Mountain Avenue and near the Village shopping
-  district includes townhomes and condos with stacked laundry and compact
-  European-style kitchen appliances — Bosch and Thermador column units that
-  require different tools and calibration than the domestic brands. Residents
-  in those areas typically call us when they're seeing an E24 or E20 error
-  code and the manual offers zero clarity on what it actually means.
+  Homes closer to the Padua Hills area tend toward newer construction with
+  built-in configurations — Sub-Zero column freezers behind cabinetry panels,
+  Thermador drawer units set into islands. Those require a different service
+  approach entirely.
 
 commonProblems:
-  - title: "Freezer stops holding temp when summer inland heat spikes"
-    description: |
-      Claremont sits about 30 miles from the coast — July and August regularly hit
-      98°F. That's brutal on a compressor already a decade old. Condenser coils on
-      KitchenAid column freezers accumulate dust fast in this climate, restricting
-      airflow until the unit overheats and stops freezing within 24 hours.
+  - title: "Compressor Overheating in Garage-Stored Chest Freezers"
+    description: "Garage ambient temps in Claremont push past 95°F regularly by July.
+      The compressor runs near-constant under that thermal load, and once the
+      condenser fan motor starts to drag, internal temps climb from 0°F toward
+      20°F before anyone notices.
 
-      The condenser fan motor is usually next. Once airflow is restricted, the fan
-      runs hotter than spec and the bearings wear out within a season. By the time
-      the homeowner notices the freezer compartment sitting at 20°F instead of 0°F,
-      the repair is a condenser cleaning plus a fan motor swap — straightforward,
-      but only if caught before the compressor itself overloads. A compressor
-      replacement on a KitchenAid column is a $600–$900 job. The fan motor is $180.
+      Samsung and LG units throw fault codes early — the LG ER FF error is
+      almost always the condenser fan before it's anything else. Older Whirlpool
+      and Frigidaire chest freezers just quietly stop holding temperature, no
+      warning at all. A failed condenser fan motor is usually a same-day fix
+      when we have the part on hand — and for those two brands, we usually do.
 
-  - title: "Ice wall buildup inside the cabinet, drawer won't close"
-    description: |
-      Frost accumulates when the defrost timer or defrost heater fails — the
-      evaporator coil ices over and blocks cold air circulation entirely. Samsung
-      french-door models with bottom freezer drawers get this constantly: once the
-      defrost cycle stops running, you'll see error codes like 22E or 24E before
-      the drawer jams solid.
+      Moving the unit indoors isn't always an option. We carry thermal spacers
+      that improve airflow clearance for garage installations when repositioning
+      isn't feasible."
 
-      The fix on Samsung units is usually a defrost heater replacement and a manual
-      defrost to clear the ice wall. Takes about 90 minutes on-site. LG bottom-freezer
-      models throw an Er FF code for the same root problem — frozen evaporator fan.
-      Same diagnosis, slightly different part number.
+  - title: "Frost Buildup Choking the Evaporator Fan"
+    description: "Heavy ice accumulation on the evaporator coil is one of the most
+      common freezer complaints we get from Claremont homeowners. A worn door
+      gasket is the usual culprit — humid summer air leaks in, freezes on the
+      coil, and eventually blocks the evaporator fan completely.
 
-  - title: "Door gasket cracking and leaking warm air"
-    description: |
-      A failed door gasket on a Sub-Zero or Thermador built-in isn't obvious at
-      first. The unit just runs constantly and your electricity bill climbs. Claremont's
-      day-to-night temperature swings near the foothills accelerate gasket hardening
-      and cracking. Left too long, the compressor burns out from the extra load.
+      Sub-Zero column freezers and KitchenAid uprights both develop this.
+      When the defrost heater also fails to cycle, the frost builds unchecked
+      until the unit reads 25°F and the homeowner pulls out everything to check.
+      The KitchenAid KUFX25RHBL is particularly prone to defrost heater failure
+      around the 7-year mark — the bimetal thermostat loses calibration before
+      the heater element itself goes.
 
-      Sub-Zero gaskets are brand-specific and take 2–4 days to source. If you're
-      seeing condensation pooling inside the door frame, or the seal fails the
-      dollar-bill test — place a bill in the door, close it, tug — that's your
-      answer. Call before it becomes a compressor job.
+      Door gasket replacement on most uprights takes under an hour."
+
+  - title: "Control Board Failures After Peak-Demand Brownouts"
+    description: "SCE holds steady most of the year, but summer demand on the San
+      Gabriel Valley grid brings voltage sags that hit sensitive electronics hard.
+      Thermador and Bosch freezers run sophisticated digital control boards — a
+      brownout at the wrong moment can corrupt the firmware or blow an internal
+      relay.
+
+      Classic symptoms: erratic temperature display, or the compressor cycling
+      every few minutes without stabilizing. Sometimes the unit shows E1 or
+      E3 fault codes that clear on reset, then return.
+
+      The board swap itself is straightforward once diagnosed. Getting the right
+      board for a panel-ready Thermador model takes a day to source, but that's
+      the only delay — labor on board replacement runs under 90 minutes."
 
 faq:
   - q: "How fast can you get to Claremont for a freezer repair?"
-    a: |
-      From our San Gabriel Valley dispatch we're typically 25–35 minutes out,
-      running routes along the 210 and Foothill Boulevard daily. Same-day slots
-      are usually open — call (323) 870-4790 before noon and we can generally
-      arrive by early afternoon.
+    a: "Same-day service is standard for Claremont. We run the 210 corridor
+      regularly — the Indian Hill Boulevard exit puts us into most neighborhoods
+      in under 20 minutes from Pomona. Street parking is easy on residential
+      blocks near the Village and along Foothill. Call (323) 870-4790 in the
+      morning and we can usually lock in a same-day window, evening slots
+      included."
 
-      Evening appointments are available for urgent situations. If your freezer
-      is full and you're worried about food loss, mention that when you call —
-      we prioritize those.
+  - q: "Do you repair Sub-Zero and Thermador freezers, or just the common brands?"
+    a: "Both. Sub-Zero column freezers are common in the larger homes north of
+      Foothill near the Padua Hills area — they need specific tooling to access
+      the evaporator compartment without damaging the cabinet surround.
+      Thermador drawer units have a proprietary drain pump setup that generic
+      parts won't fit. We stock the right components for both.
 
-  - q: "Do you repair KitchenAid and Sub-Zero freezers in Claremont?"
-    a: |
-      Both are common here, especially in renovated homes north of Foothill. On
-      KitchenAid column units we most often replace the evaporator fan motor or
-      ice maker assembly. Sub-Zero work usually comes down to the condenser fan
-      or a failed door gasket. LG and Samsung units come through regularly too.
+      For everyday brands — Whirlpool, LG, KitchenAid, Samsung — most
+      91711 households are covered same-day."
 
-      Bosch and Thermador column freezers are becoming more common in Claremont's
-      newer townhome developments — we carry parts for those as well and can usually
-      pull the repair history by serial number before arriving.
+  - q: "What does freezer repair cost, and what does the process look like?"
+    a: "Flat-rate diagnostic visit first. We check the compressor, door gasket
+      seal, defrost circuit, and control board before quoting anything. Common
+      parts — door gasket or defrost heater on an LG or Whirlpool — run
+      $80–$160 installed. Premium brands cost more for parts, not more for
+      labor.
 
-  - q: "What does freezer repair typically cost, and how does the visit work?"
-    a: |
-      Diagnosis runs $85 — waived if you book the repair same visit. Most jobs
-      land between $150–$350 parts and labor. If your freezer is full of food,
-      emergency evening slots are available. Call (323) 870-4790 or schedule online;
-      we usually respond within 2 hours on weekday requests.
+      Schedule online or call (323) 870-4790. Emergency and evening slots
+      are available, and we're usually there within 2 hours for same-day calls
+      booked before noon."

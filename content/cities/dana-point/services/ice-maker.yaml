@@ -1,23 +1,99 @@
-title: "Dana Point Ice Maker — Coastal Hard Water Kills Fill Valves"
+title: "Dana Point Ice Maker — Mineral Scale & Fill Valve Repairs"
 
 intro: |
-  Coastal humidity off Dana Point Harbor is the backdrop, but the real problem inside local ice makers is the water supply. South Coast Water District delivers at 340–380 ppm TDS through most of 92629 — one of the harder water profiles on the OC coast. That calcium load attacks the water inlet valve and clogs fill lines within 3–4 years on a typical ice maker. A KitchenAid french-door in a Lantern Bay condo hits this failure right on schedule. Sub-Zero built-ins up in Monarch Beach follow the same timeline, just with more expensive replacement parts when they finally give out.
+  Ocean air off Dana Point Harbor keeps the climate mild — but inside kitchens
+  along Lantern Village and up in the Monarch Beach estates, appliances battle
+  Orange County's mineral-heavy water supply daily. OC tap water in 92629 runs
+  200-plus ppm dissolved solids. That calcium load coats the water inlet valve
+  quietly, for months, until the Sub-Zero built-in stops producing altogether
+  and nobody can figure out why.
+
+  Hard water is the invisible culprit in South OC. Most homeowners assume a failed
+  control board or a broken module. Half the service calls from Dana Point turn out
+  to be a scaled-up fill valve or a clogged water filter — not a dead assembly.
+  Knowing the difference saves a few hundred dollars.
 
 localContext: |
-  Most of the residential stock in 92629 dates to the 1970s and 1980s — two-story townhomes and condos built during the harbor development boom, with kitchens not designed around counter-depth refrigerators or built-in ice systems. Retrofit ice maker plumbing creates tight clearances behind the unit that make water inlet valve access genuinely difficult. Toward Capistrano Beach, older single-family homes from the 1960s have original copper supply lines that restrict fill tube routing and can produce low-pressure ice output even when the valve itself tests fine.
+  Capistrano Beach (92624) blends 1970s beach bungalows with newer townhome
+  complexes built close to the waterline. Older homes here often have under-counter
+  units wedged into tight galley kitchens — access alone is a half-hour job
+  before any repair starts.
+
+  Salt air accelerates oxidation on exposed connections.
+
+  The Monarch Beach area — further up Niguel Road toward the Ritz-Carlton — is
+  a different story entirely. Sub-Zero column refrigerators and Thermador built-ins
+  are standard in those homes, and they require brand-specific tools and OEM
+  replacement parts that most shops don't stock locally. Newer builds near the
+  harbor and along Selva Road typically run KitchenAid or Samsung French-door
+  configurations with integrated ice production. Fill valves on both take mineral
+  stress every single cycle. Door gaskets and solenoid contacts near the coastline
+  corrode years ahead of what you'd see in Irvine or Mission Viejo.
 
 commonProblems:
-  - title: "Fill Tube Icing Over From Coastal Temperature Swings"
-    description: "Summer nights in Dana Point can drop 20 degrees from afternoon highs — that temperature cycling inside the refrigerator door section causes the water fill tube to freeze and block ice production with no obvious warning. Samsung french-door models are particularly prone: the fill tube sits directly behind the ice bucket and ices over in place. Thawing it incorrectly cracks the plastic housing; the proper fix involves draining and reseating the full line, not just applying external heat."
-  - title: "Water Inlet Valve Blocked by 370 PPM Hard Water"
-    description: "South Coast Water District supply tests at 340–380 ppm TDS through most of 92629 — that calcium concentration coats the water inlet valve screens and slowly restricts flow until the ice maker stops cycling altogether. On a heavily-used unit, this surfaces within 3 years. Bosch and KitchenAid models with integrated ice systems show it faster than standalone units: the solenoid valves are smaller-bore, the inlet screens are harder to reach, and replacing the valve requires pulling the refrigerator out from the wall."
-  - title: "Ice Level Sensor Failures in Sub-Zero and Thermador Built-Ins"
-    description: "Built-in refrigerators common in Monarch Beach homes — Sub-Zero 700 series, Thermador Freedom column units — use optical ice level sensors that misread due to frost accumulation on the emitter lens. Once that happens, the ice maker assembly either cycles constantly or shuts down entirely based on a false full signal. Cleaning the sensor lens is a temporary fix at best. The emitter module typically needs replacement, and the control board often requires recalibration to correctly read the new sensor output."
+  - title: "Calcite Scale Sealing the Fill Valve Shut"
+    description: |
+      OC water deposits calcium carbonate inside the water inlet valve orifice
+      until flow drops below what the appliance needs to complete a cycle. Sub-Zero
+      and Thermador built-ins are particularly vulnerable — the valve orifices are
+      narrower than on a standard Whirlpool unit. The cycle runs, the bin stays empty,
+      and the homeowner assumes the whole assembly failed.
+
+      Usually it's just the valve. A replacement water inlet valve on a KitchenAid
+      or Bosch built-in runs $85-$140 in parts. On a Sub-Zero, expect closer to
+      $190-$240 for the OEM solenoid assembly. Same-day turnaround in most cases —
+      call (323) 870-4790 if you're in 92629 or 92624 and want an afternoon slot.
+
+  - title: "Frozen Fill Tube in Capistrano Beach Bungalows"
+    description: |
+      Dana Point nights dip into the 40s from December through February. Water lines
+      routed through exterior walls — common in 92624's older bungalows — freeze
+      solid by morning. The fill tube inside the freezer compartment ices over too.
+
+      That LG French-door model won't cycle at all when the supply line is blocked.
+      Most homeowners chase the ice maker assembly when the fix is actually thawing
+      and rerouting the line. Adding foam insulation to the exposed run usually
+      prevents a repeat. Forty-minute job, no parts needed if the line itself is intact.
+
+  - title: "Hall Effect Sensor Failure on Samsung Units"
+    description: |
+      Samsung's French-door models — popular in Dana Point's newer developments along
+      Pacific Coast Highway — use a hall effect sensor to read bin level. When the
+      sensor fails, the control board thinks the bin is full and kills production
+      entirely. No error code displays. The module just stops.
+
+      Sensor swap and recalibration typically runs 60-90 minutes on-site. The Samsung
+      RF28 and RF23 series show this failure most often, usually between three and five
+      years of use. If your unit stopped producing with nothing on the display panel,
+      that sensor is the first component to test before condemning the whole module.
 
 faq:
   - q: "How fast can you get to Dana Point for ice maker repair?"
-    a: "Routing south on the 5 from our South OC coverage zone typically puts us in 92629 within 90 minutes of your call. Street parking near the harbor-area townhomes is manageable most weekdays — we've got the routes figured out. Call (323) 870-4790 to schedule; same-day slots are usually available, and evening appointments run through most of the week."
-  - q: "Do you repair Bosch and KitchenAid ice makers in Dana Point?"
-    a: "Both are common in local kitchens and we service them regularly. Bosch 800-series fill valve replacements and KitchenAid ice maker assembly swaps are standard repairs for us. Sub-Zero and Thermador built-ins need specialized tools and OEM parts that most generalist shops don't stock — we carry the diagnostic equipment for both lines."
-  - q: "What does ice maker repair cost, and can you come the same day?"
-    a: "Fill valve replacements typically run $120–$220 parts and labor. Ice maker assembly swaps on premium brands push $280–$450 depending on the unit. Same-day service is available for Dana Point — call (323) 870-4790 to check availability. Emergency slots exist for units that are actively leaking or have stopped producing ice during a heat spell."
+    a: |
+      South OC is a regular service route — Dana Point sits 30-40 minutes from our
+      nearest tech on most weekdays. Call (323) 870-4790 before noon and same-day
+      appointments are almost always available. Evening slots open up when morning
+      windows book out.
+
+  - q: "Do you work on Sub-Zero and Thermador built-in ice makers?"
+    a: |
+      Sub-Zero column units and Thermador built-ins show up constantly in Monarch
+      Beach and Strand at Headlands homes — yes, we carry parts for both. KitchenAid
+      and Bosch built-in models are also common throughout Dana Point. All handled,
+      no referral needed.
+
+  - q: "What does ice maker repair usually cost in Dana Point?"
+    a: |
+      Diagnosis runs $75-$95, applied to the repair total. Water inlet valve
+      replacements and sensor swaps — the two most common fixes here — typically
+      land between $150-$260 all-in. Emergency same-day calls are available; flag
+      it when you schedule at (323) 870-4790 or book online.
+
+  - q: "Is Dana Point's water hardness really that hard on appliances?"
+    a: |
+      OC Municipal Water District draws supply from the Colorado River and local
+      groundwater — both high in dissolved minerals. Independent tests in 92629 and
+      92624 regularly show 250-300 ppm total dissolved solids. That's well below the
+      EPA's 500 ppm limit but hard enough to visibly scale any internal component
+      the water contacts. Descaling a built-in unit in this zip code annually isn't
+      overkill. It's basic maintenance.

@@ -1,29 +1,86 @@
-title: "Dana Point Wine Cooler — Harbor-View Homes, Real Repairs"
+title: "Dana Point Wine Cooler Repair — Salt Air & Compressor Fixes"
 
 intro: |
-  Lantern Village homes along Street of the Golden Lantern in 92629 were built in the 1970s with kitchens that weren't designed around wine storage. Homeowners drop a Bosch dual-zone cooler into a cabinet alcove and the condenser fan starts struggling within a few years — starved for airflow and running hotter than rated. Dana Point's coastal air is milder than the inland valleys, but that marine humidity still accelerates mineral buildup on internal components at a pace the factory service schedule doesn't account for. Salt air deposits on condenser coils are a real factor here, not a hypothetical one. Units in ground-floor kitchens facing the harbor side pick it up faster than anything sitting in an interior cabinet.
+  Sitting a few blocks from the harbor off Dana Point Harbor Drive, homes in 92629
+  deal with something most wine cooler manuals don't account for: persistent salt air
+  corrosion on condenser coils. A KitchenAid dual-zone unit in the Lantern District
+  started warm-cycling last August — the condenser fan was pulling in salt-laden air
+  off the coast every night for three years. By the time the owner called, the coil
+  looked sandblasted.
+
+  That's a Dana Point pattern, not a coincidence. The ocean is close enough that on
+  still nights you can smell it on Pacific Coast Highway, and your wine cooler's
+  condenser is breathing that same air 24 hours a day.
 
 localContext: |
-  The 92629 zip stretches from downtown Dana Point through hillside neighborhoods near Dana Hills High School down to the harbor-adjacent streets where a wine cooler is almost expected in any recent kitchen remodel. Capistrano Beach (92624) mixes 1960s cottages with newer construction — under-counter Sub-Zero and KitchenAid wine drawers are common in the renovated homes. Built-ins in these tight coastal kitchens need a technician who knows the clearance specs and doesn't need to improvise a workaround. Monarch Beach and the streets around PCH near Ritz Cove have a higher concentration of Thermador and Sub-Zero column units installed during full kitchen renovations — these aren't plug-in boxes, they're integrated into cabinetry with dedicated circuits. Getting those out for a compressor swap takes planning, not just a screwdriver.
+  Capistrano Beach (92624) has a lot of 1970s-1980s oceanview condos where undercounter
+  wine coolers were retrofitted into original cabinetry with almost zero rear clearance.
+  No airflow means the compressor runs hotter and longer than designed.
+
+  Closer to Monarch Beach, newer custom builds tend to have Sub-Zero and Thermador
+  columns — but those west-facing kitchens catch direct afternoon sun, pushing ambient
+  temps well past the unit's rated operating range. On particularly warm inland-wind days,
+  ambient kitchen temps near those south-facing windows can hit 85°F, which is outside
+  the operating envelope for most residential wine columns. The thermostat compensates
+  by running the compressor nearly continuously until something gives — usually the
+  start relay or the fan motor.
+
+  Both the condo clearance problem and the solar gain problem are fixable. Neither
+  is rare here. And neither shows up as an obvious error code on most units — the
+  wine cooler just stops holding temp and the owner assumes it's broken.
 
 commonProblems:
-  - title: "Compressor Running Nonstop — Especially in Late Summer"
-    description: |
-      Dana Point's climate is mild, but south-facing kitchen alcoves in these hillside homes still push a wine cooler well above its design-load ambient temp in late July. A worn thermostat stops cycling the compressor correctly, and a condenser coil caked in coastal dust compounds the problem. That Bosch 24-bottle unit running around the clock is chewing through its compressor lifespan faster than you'd expect. Check the coil first — if it's packed with lint and salt residue, the compressor is working against a heat exchanger that's half as effective as spec. Cleaning the coil and replacing the thermostat often resolves the symptom before the compressor itself needs attention.
-  - title: "Temperature Swings Ruining the Wine"
-    description: |
-      A consistent 4-5 degree fluctuation across the cabinet almost always traces to a door gasket that's lost compression along the bottom edge, or a thermistor reading ambient air instead of internal temperature. KitchenAid under-counter models in coastal zip codes see gasket wear faster than inland units — the salt-humidity cycle degrades the rubber seal at the corners first. Once the evaporator coil starts frosting over — which follows about six weeks after the seal goes — the repair scope grows considerably. A frosted evaporator blocks airflow, the fan motor starts running hotter, and what started as a $90 gasket job turns into a $300 repair. Catch the temperature swing early and the fix stays simple.
-  - title: "Vibration and Rattling in an Otherwise Quiet Home"
-    description: |
-      Vibration from a wine cooler in a Monarch Beach home is usually a loose condenser fan blade or compressor mounting bracket that's worked free after years of normal cycling. Sub-Zero wine storage columns use vibration-isolation mounts rated for decades — but those mounts wear. Left running, the compressor absorbs the extra load and eventually fails early. A new fan blade and mounting hardware runs around $60. A replacement compressor on a premium unit does not. LG and Samsung freestanding units occasionally develop vibration from an off-balance internal shelf bracket rather than the compressor — worth ruling out before ordering parts.
+  - title: "Condenser Coil Corrosion from Salt Air Exposure"
+    description: "Coastal 92629 accelerates condenser coil corrosion — typically 3-5 years
+      before significant heat dissipation drops, versus 8-10 years inland. The unit keeps
+      running, but the compressor short-cycles trying to compensate, eventually tripping
+      the thermal cutout.
+
+      LG and KitchenAid built-ins within a mile of Doheny State Beach show this pattern
+      consistently. Salt crystallizes in the condenser fins and blocks airflow the same
+      way a clogged dryer vent does — the heat just has nowhere to go. Coil cleaning buys
+      time. Full replacement is the lasting fix, and on most undercounter models it's a
+      two-hour job with the right condenser assembly on hand."
+
+  - title: "Temperature Fluctuation from Worn Door Gasket"
+    description: "Dana Point's coastal humidity — regularly 85-90% overnight in summer —
+      compresses and degrades door gaskets faster than drier inland climates. A degraded
+      gasket lets warm, moist air seep in continuously, forcing the thermostat to chase
+      a setpoint it can't hold.
+
+      On Bosch dual-zone models, the lower zone door takes the most traffic and the
+      lower-zone gasket fails first. You'll see 8-12°F swings before anything looks
+      obviously wrong. On Samsung units the symptom often triggers an error code (typically
+      a temperature sensor fault) that masks the real cause — the gasket, not the sensor,
+      is the problem."
+
+  - title: "Vibration Noise in Condo-Installed Units"
+    description: "1970s concrete construction in Capistrano Beach condos transmits compressor
+      vibration directly through the cabinet and into shared walls — neighbors notice it
+      too. Shock absorbers and compressor mounting grommets on older Thermador and Sub-Zero
+      wine columns break down after years of coastal humidity exposure.
+
+      Replacing the vibration-isolation mounts and re-leveling the unit with adjusted feet
+      resolves most cases without touching the compressor itself. Takes about 90 minutes
+      on-site. Much cheaper than a compressor swap and the fix usually holds for years."
 
 faq:
   - q: "How fast can you get to Dana Point for wine cooler repair?"
-    a: |
-      Dana Point sits on our dedicated Orange County service route. Usually on-site within 2 to 3 hours of your call — morning slots almost always land same day. Traffic on the 5 near San Clemente can push afternoon windows. Call (323) 870-4790 to lock in a morning appointment before the day fills.
+    a: "Dana Point is on our South OC daily route — typically there within 2 hours of your
+      call. Street parking on Del Obispo Street and PCH is straightforward for the service
+      van. Same-day slots fill fast in summer; call ahead at (323) 870-4790 to lock one in."
+
   - q: "Do you repair Bosch and Sub-Zero wine coolers in Dana Point?"
-    a: |
-      Yes — Bosch dual-zone units and Sub-Zero wine columns are the two we pull parts for most often in this area. Bosch typically needs condenser fan motor or thermostat work. Sub-Zero comes in for door gasket replacement and control board resets. KitchenAid and EuroCave show up regularly too. For Sub-Zero columns with error codes on the display panel, bring the code when you call — it cuts diagnosis time and often lets us show up with the right part already on the van.
-  - q: "What does wine cooler repair typically cost in Dana Point?"
-    a: |
-      Diagnosis is $75, applied toward the repair. Most jobs — gasket swap, fan motor, thermistor replacement — run $150 to $280 parts and labor combined. Compressor work on a premium unit is a separate conversation. Evening slots are available most days, and same-day emergency visits are possible. Call (323) 870-4790 or schedule online.
+    a: "Both are common here and we stock parts for them. On Bosch units we most often replace
+      the thermostat, drain pump, or control board. Sub-Zero columns typically need door
+      gasket replacement, condenser fan service, or thermostat recalibration. LG, KitchenAid,
+      Thermador, and Samsung units covered too."
+
+  - q: "How does pricing work, and do you carry parts on the van?"
+    a: "Diagnostic fee applies toward the repair if you proceed. Compressor start relays,
+      door gaskets, thermostats, and condenser fans are stocked on the van for most brands —
+      same-day repair is the norm, not the exception.
+
+      For Sub-Zero and Thermador, some specialty parts ship next-day from our warehouse, so
+      worst case is a two-visit job. Evening slots are available most weeknights. Book online
+      or call (323) 870-4790 to check today's openings."

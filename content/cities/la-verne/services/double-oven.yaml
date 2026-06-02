@@ -1,25 +1,99 @@
-title: "La Verne Double Oven — Repairs for Kitchens That Actually Work"
+title: "La Verne Double Oven — Foothills Repairs in 91750, Same Day"
 
 intro: |
-  University of La Verne anchors the east side of town, and the neighborhoods stretching out from there — 1970s ranch homes and split-levels on Wheeler Avenue, Baseline Road, and streets off Arrow Highway — went through serious kitchen overhauls starting around 2012. KitchenAid wall oven pairs showed up in a lot of those jobs. Now they're 10-15 years old. Control board errors, a dead upper heating element, a sagging door — we see all of it in 91750 and get there same-day.
+  Homes on the hillside side of Foothill Blvd went through a kitchen renovation wave
+  between 2005 and 2015 — KitchenAid double wall ovens and Bosch built-in units were
+  popular picks during those remodels. Both brands are now pushing 15 to 20 years old,
+  which is exactly when bake elements burn out and control boards start throwing error
+  codes.
+
+  We run 91750 regularly. Call (323) 870-4790 and we can usually be there the same day —
+  most afternoons are open.
 
 localContext: |
-  La Verne's residential core is 1960s-1980s tract housing. Kitchens weren't built for double wall ovens — retrofitting required custom framing and tight cabinet cutouts, which makes access awkward when a lower oven thermostat or door hinge assembly needs replacing. Blocks closest to Live Oak Park on White Avenue and Lordsburg Road tend to have the older homes. Head north toward the foothills near Via Verde, and newer construction there came with Bosch or Thermador pairs already built in.
+  La Verne's housing breaks into two clear eras.
 
-  A lot of the original 1960s builds in La Verne ran on gas — ranges, water heaters, everything. Some of those kitchens still have active gas lines even after a wall oven retrofit, which matters when we're diagnosing ignition-side failures on gas-equipped models. Arrow Highway–corridor homes specifically were built fast and framed tight; cabinet depths are often 23 inches instead of 24, so pulling a lower oven for hinge work or a thermostat probe swap means working in less clearance than the service manual assumes. Near Brackett Field to the east, the post-1990 developments around White Avenue and Baseline came with wider kitchen footprints — those are the homes most likely to have a full-depth Thermador or Bosch installation that the original builder spec'd. La Verne's hard water from the upper San Gabriel Valley system also accelerates scale buildup in steam-assist oven models, which can clog steam injectors and trigger false temperature faults within five years.
+  The 1960s and 70s ranch-style homes spread across the quieter blocks near Bonita Avenue
+  and Arrow Highway originally had single-oven kitchens that got converted to double-wall
+  setups during later remodels — tight cabinetry cutouts, sometimes mismatched venting,
+  and access that can be genuinely awkward. Pulling a built-in Bosch unit from those older
+  cutouts sometimes means working around a soffit that was never meant to accommodate the
+  deeper cavity depth.
+
+  Newer tract developments closer to the Pomona foothills went in with proper rough-ins
+  from the start. Sub-Zero refrigerators and Thermador wall ovens aren't unusual up in
+  those neighborhoods — homeowners who invested in premium appliances expect brand-specific
+  diagnosis, not generic part swaps.
+
+  Gas supply is the other factor. A lot of La Verne homes run gas cooktops alongside
+  electric wall ovens, so we carry both gas igniter components and standard electric
+  heating elements on the van. Either way, the 91750 stock is aging, and the appliances
+  don't give much warning before they fail.
 
 commonProblems:
-  - title: "Upper Oven Cold, Lower Works Fine — The Classic 10-Year KitchenAid Problem"
-    description: "KitchenAid wall oven pairs like the KODE500 series hit a familiar failure point around year 10-12. The upper bake element burns out, or the relay on the control board stops triggering it. Lower oven works perfectly, upper stays cold. Symptom is consistent, diagnosis is fast, and the replacement heating element is usually a same-day part pull. Seen this exact failure on a dozen La Verne kitchens this past year alone."
-  - title: "25-Degree Temperature Swing Between Cavities — Often the Sensor, Not the Board"
-    description: "Bosch units in particular show this pattern: upper cavity reads 350°F, actual temp is 310°F or less. The temperature sensor — an RTD probe mounted at the back of the cavity — drifts over time and reads high, so the oven stops heating early. An F3 error code usually confirms it. Testing the probe resistance takes five minutes and saves you from buying a $400 control board you didn't need. This is one of the most misdiagnosed failures we see across the San Gabriel Valley — La Verne included."
-  - title: "Thermador Door Hinge Failure — Heavy Doors Need Proper Hardware"
-    description: "Built-in Thermador double ovens like the MED302 have doors that weigh 25-30 pounds each. The hinge pivot pins wear, the door starts to sag, and eventually the latch assembly won't seal. Heat escapes, cook times get unpredictable. Full hinge replacement means pulling the door completely — common in La Verne's newer hillside homes near Via Verde where these ovens were spec'd during original construction. The pivot hardware on these models isn't stocked at big-box stores; we carry it."
+  - title: "Lower Oven Won't Heat — Failed Bake Element"
+    description: |
+      The lower cavity takes the most punishment: daily preheating cycles, long roasting
+      sessions, the occasional self-clean run. KitchenAid and Bosch double wall units both
+      mount a visible bake element at the floor of the lower compartment, and those elements
+      crack or arc out after years of thermal cycling. The symptom is clear — the oven clicks
+      on, the upper cavity reaches temperature normally, but the lower stalls well below 200°F.
+
+      Bosch units often flag an E301 code before the element fails completely — that's the
+      board reporting an open circuit in the lower cavity. We check the thermal fuse first.
+      A blown fuse costs a fraction of a new element and gets overlooked more often than
+      it should.
+
+  - title: "Upper and Lower Cavities Running at Completely Different Temperatures"
+    description: |
+      A 40 to 60°F gap between cavities almost always points to a failing temperature
+      sensor — the RTD probe — in one compartment. Samsung and LG double ovens are especially
+      prone to this after the 8 to 10 year mark. The board misreads the temp, overcompensates,
+      and one side runs scorching while the other barely heats. Five minutes with a multimeter
+      testing probe resistance tells you whether it's the sensor or the control board causing
+      the drift.
+
+      Samsung NV models throw a specific SE error when the probe drifts past threshold. LG
+      units log it differently — you'll see F3 in the lower display before the temperature
+      split becomes obvious to whoever's cooking.
+
+  - title: "Random Error Codes Locking Out Both Cavities at Once"
+    description: |
+      Bosch and Thermador double ovens route both cavities through a single control board, so
+      when it starts failing, you lose everything at once. Capacitor degradation is the typical
+      failure mode in the San Gabriel Valley heat — summer temperatures in La Verne run hot
+      enough to accelerate it noticeably. Before replacing the board — which runs $350 to $500
+      on these models — we always test the door latch assembly first. A stuck or misread latch
+      throws the exact same lockout code and is a much cheaper fix.
+
+      Thermador double ovens, specifically the MED272 and ME272 series common in higher-end
+      La Verne remodels, have a secondary thermal limiter that trips before the board does.
+      That part runs under $40. Always worth ruling out before ordering a control board.
 
 faq:
-  - q: "How fast can you get to La Verne for double oven repair?"
-    a: "San Gabriel Valley routes run daily. From Claremont or Pomona, reaching 91750 takes 20-30 minutes. Same-day slots are usually open Monday through Saturday. Call (323) 870-4790 to check availability — or book online and we'll confirm your window by text within the hour."
-  - q: "Do you repair Bosch and KitchenAid double ovens specifically?"
-    a: "Those are the two most common wall oven brands in La Verne. KitchenAid calls usually mean a heating element or a failed bake relay on the control board. Bosch calls are often the temperature sensor or a door latch assembly. We also handle Thermador, LG, and Samsung models. Most parts for these brands ship from local Inland Empire distributors, so even uncommon failures rarely mean a multi-day wait. Evening appointments are available if daytime doesn't work — call (323) 870-4790 and we'll find a slot."
-  - q: "What's the usual cost, and do you carry parts with you?"
-    a: "Diagnosis runs $75, applied toward the repair if you move forward. Heating element replacement is typically $150-$280 depending on brand. Control board jobs run $300-$500. Common parts — KitchenAid and Bosch heating elements, RTD sensors, latch assemblies — stay stocked in the van. If the part isn't on the truck, we order same-day and schedule the follow-up install for the next morning."
+  - q: "How fast can you get to La Verne for a double oven repair?"
+    a: |
+      La Verne is a direct run along the San Gabriel Valley corridor, easy off Foothill Blvd.
+      Most 91750 calls get a same-day slot — evening appointments available most weekdays.
+      Call (323) 870-4790 and we'll check what's open today.
+
+  - q: "Do you repair KitchenAid, Bosch, and Thermador double ovens?"
+    a: |
+      All three show up constantly in La Verne and we stock parts for them. KitchenAid bake
+      elements and door hinges, Bosch control boards and temperature sensors, Thermador igniter
+      assemblies — these are routine calls for us. LG and Samsung units included.
+
+  - q: "What does a repair visit actually involve?"
+    a: |
+      Diagnosis happens on the first visit and we quote before opening anything up. Most bake
+      element and temperature sensor jobs close the same day. Control board replacements
+      occasionally need a part ordered, but we aim for 24 to 48 hours. Book at (323) 870-4790
+      or schedule online.
+
+  - q: "Is it worth repairing a 15-year-old KitchenAid or Bosch double oven?"
+    a: |
+      For most failures — yes. A bake element or RTD probe on a 15-year-old KitchenAid is
+      worth fixing. The cabinet cutout alone would cost more to modify than the repair. Control
+      board on a 20-year-old unit is a different conversation, especially if Bosch has
+      discontinued the part. We'll give you a straight answer on the first visit, not a
+      sales pitch.

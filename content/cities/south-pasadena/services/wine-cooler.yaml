@@ -1,29 +1,45 @@
-title: "South Pasadena Wine Cooler — Hard Water, Tight Craftsman Kitchens"
+title: "South Pasadena Wine Cooler — Built for Craftsman Kitchens"
 
 intro: |
-  The Craftsman bungalows lining Marengo Avenue and the blocks off Mission Street were designed for a different kitchen era. Tight galley layouts, pantry nooks, almost no counter clearance to spare. A KitchenAid 46-bottle under-counter wine cooler fits beautifully into a renovated kitchen — until the thermostat control board starts logging errors and internal temps climb past 65°F. These older South Pasadena homes don't give service techs much room to maneuver. We navigate it every week. South Pasadena's 91030 zip runs a mix of original Craftsman cabinetry and modern remodels — and whoever installed your wine cooler probably had to shim it in sideways.
+  Craftsman bungalows along Meridian Avenue were built in the 1910s and 1920s — long before anyone imagined squeezing a Sub-Zero wine column into a butler's pantry or under a custom island. That's exactly what's happening in South Pasadena now.
+
+  Tight kitchen footprints create real ventilation problems.
+
+  San Gabriel Valley summers regularly push 98°F, and a wine cooler compressor fighting ambient heat in a poorly vented cabinet doesn't last. Most calls we get from the 91030 zip trace back to exactly that combination — bad clearance, high ambient temp, dead compressor within two years of install.
+
+  Same-day service is usually available. Call (323) 870-4790 and we'll have someone out within 2 hours.
 
 localContext: |
-  Most of 91030 is dense residential — blocks of houses built between 1910 and the early 1950s, mostly Craftsman bungalows and Spanish Colonial revivals near the Arroyo Seco corridor. Retrofitted wine coolers here sit in converted pantry cutouts or under kitchen islands added during remodels from the 1990s onward. Bosch 24-inch undercounter units are a frequent sight. Parking on residential streets off Meridian Avenue is fine; the real challenge is working inside kitchens that were never designed for modern appliances. South Pasadena households skew toward serious wine storage — Thermador and Sub-Zero columns in the higher-end remodels along Fremont Avenue, Bosch and KitchenAid undercounters in the smaller bungalow kitchens. That mix means we carry parts for both the budget-friendly 24-inch compressor units and the dual-zone built-ins that cost more to replace than repair.
+  Nearly all of South Pasadena's residential housing in 91030 was built between 1905 and 1950. Spanish Colonial Revivals cluster near Fair Oaks Avenue. Craftsman bungalows run through the residential blocks west of the Rialto Theatre. These are beautiful homes — and genuinely difficult kitchens to work in.
+
+  Narrow galley layouts, rear ventilation gaps blocked by cabinetry added in later decades, electrical panels from the 1960s that can't support newer high-end coolers without a dedicated 20-amp circuit. Built-in KitchenAid and Thermador units are common in South Pasadena, and both require precise clearance tolerances that century-old kitchens rarely provide out of the box.
+
+  Access is its own issue. Parking a service van near some of these mid-block Craftsman properties on Rollin Street or Prospect takes planning — we account for that when scheduling. It's a small thing, but it's the difference between a technician arriving ready to work and one who's been circling for 20 minutes.
+
+  SGV water hardness runs above 280 ppm in much of the area. That mineral load is relentless on internal drain components, humidity sensors, and ice-maker assemblies in dual-zone coolers. If your cooler is more than four years old and was never descaled, that's usually the first place we look.
 
 commonProblems:
-  - title: "Calcium Scale Choking the Drain Pan and Evaporator Coil"
-    description: |
-      San Gabriel Valley tap water runs seriously hard — calcium carbonate deposits build fast inside the drain pan and along the evaporator coil. In undercounter KitchenAid and Bosch units, that mineral buildup leads to pooling water, a musty smell, and eventually temperature instability as the coated evaporator coil loses efficiency. We see this in 91030 constantly. Drain line clearing combined with coil cleaning usually resolves it in a single visit, no parts needed. Left alone, the scale migrates to the fan blades and the condenser fins — at that point you're looking at a full coil replacement instead of a 30-minute cleaning.
-  - title: "Compressor Running Nonstop Through South Pasadena's Hot Months"
-    description: |
-      June through September brings real heat. Ambient temps in un-air-conditioned Craftsman kitchens can hit 85°F or higher, and the compressor compensates by running without stopping. If the condenser fan motor is even slightly worn, the unit overheats and trips into thermal protection — usually at the worst possible moment. Catching it early means a condenser fan motor swap, not a full compressor replacement. The difference in parts cost is roughly $80 versus $400 or more. On LG dual-zone models specifically, a failing fan shows up as an Er dH error code on the display before the compressor ever shuts down — that's your window to fix it cheap.
-  - title: "Door Gasket Failure on Sub-Zero and U-Line Columns"
-    description: |
-      Sub-Zero and U-Line wine columns installed during kitchen remodels 10 to 15 years ago are hitting the age where the door gasket cracks and deforms. A compromised seal lets warm room air in continuously, forces the compressor into overdrive, and causes temperature swings of 8 to 10 degrees. Moisture appears on the exterior glass. On a Sub-Zero unit, swapping the door gasket takes about 45 minutes. Temperature stabilizes immediately after.
+  - title: "Compressor Overheating in Blocked Cabinet Installations"
+    description: "A KitchenAid undercounter cooler with less than two inches of rear clearance builds heat fast — especially during July in the San Gabriel Valley. The condenser coils can't shed heat, so the compressor runs nonstop trying to compensate. Continuous cycling kills the compressor within months.
+
+    Cleaning the condenser coils and verifying clearance specs takes about 30 minutes. That alone often solves it entirely. If the compressor is already damaged, the repair cost jumps significantly — which is why catching it early matters. A warm cabinet, a unit running constantly, or a faint burning smell near the motor housing are all signals worth acting on before they escalate."
+
+  - title: "Hard Water Scale Blocking the Condensate Drain"
+    description: "Calcium deposits accumulate in the condensate drain tube until water backs up and pools at the cabinet base.
+
+    Bosch wine coolers with integrated humidity controls are especially vulnerable here. The float sensor misreads when scale surrounds it — triggering erratic temperature swings that look exactly like a refrigerant problem but aren't. We've seen this misdiagnosed as a refrigerant leak twice in the last six months. The actual fix is a drain flush and sensor cleaning. Refrigerant work would have cost three times more and solved nothing."
+
+  - title: "Door Gasket Failure Causing Temperature Fluctuation in Thermador Units"
+    description: "A cracked or hardened door gasket lets warm air infiltrate the cabinet continuously. The thermistor reads rising temps and signals the compressor to compensate — but the lower zone never stabilizes. It hovers 8-10°F above setpoint. The display is lying about what's actually happening inside.
+
+    Thermador column wine coolers in South Pasadena homes show this pattern frequently on the lower zone door. The gasket itself runs $80-120 in parts. Misdiagnosing it as a refrigerant issue or control board fault doubles the repair cost unnecessarily. One quick visual check — run your hand along the door seal with the cooler running. Any airflow means the gasket's gone."
 
 faq:
   - q: "How fast can you get to South Pasadena for wine cooler repair?"
-    a: |
-      Usually 45 to 60 minutes from the call. We work the 110 Freeway corridor regularly — Pasadena, South Pasadena, Alhambra, San Gabriel. Street parking near the Gold Line station and on the residential blocks off Mission Street is no problem. Call (323) 870-4790 to check today's availability — morning same-day slots tend to fill first.
-  - q: "Do you repair Bosch and KitchenAid wine coolers in South Pasadena?"
-    a: |
-      Both are the most common brands we see in these kitchens. Bosch undercounter units frequently need door gasket assembly replacement or thermostat calibration. KitchenAid 24-inch models tend to develop drain pump failures after five or six years of use — the pump motor seizes from the same hard water sediment that clogs the drain pan. Sub-Zero and U-Line wine columns come up regularly too — both require brand-specific gaskets and control board diagnostics. Thermador columns are less common in South Pasadena but we stock the standard parts for those as well.
-  - q: "What does wine cooler repair cost, and is same-day service available?"
-    a: |
-      Diagnosis is $79, credited toward the repair if you move forward. Typical fixes — drain line clearing, door gasket swap, or control board replacement — run $150 to $280. Compressor work on premium brands costs more; we quote before ordering anything. Evening and weekend emergency slots are available if the cooler fails ahead of a planned dinner or gathering.
+    a: "We run regular routes through the San Gabriel Valley and reach South Pasadena via the 110 or 710 — typically within 2 hours of booking. Same-day slots before noon are usually open. Call (323) 870-4790 and we'll confirm availability immediately. Evening appointments are also available for homeowners who can't take time off mid-day."
+
+  - q: "Do you repair Sub-Zero, Thermador, and KitchenAid wine coolers in South Pasadena?"
+    a: "Those three are the most common units we see in this neighborhood. Sub-Zero SG-series units often need condenser fan motor replacement or door gasket resealing. Thermador column coolers frequently require thermistor swaps. KitchenAid undercounters commonly develop drain pump clogs from hard water buildup. Parts for all three are stocked on the van — no waiting on a parts order for standard failures."
+
+  - q: "What does wine cooler diagnosis cost, and do I need to wait days for an appointment?"
+    a: "Flat-rate diagnostic — we assess on-site and give a firm quote before any work starts. Simple repairs like a drain flush or gasket replacement run $120-180. Compressor or control board work is higher but quoted upfront with no surprises. Book online or call (323) 870-4790 — most South Pasadena jobs are scheduled same-day."

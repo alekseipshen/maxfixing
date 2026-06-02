@@ -1,84 +1,33 @@
-title: "Beverly Hills Refrigerator Repair — Built-Ins, Hard Water & Same-Day"
+title: "Beverly Hills Refrigerator Repair — Built-In Sub-Zero Specialists"
 
 intro: |
-  Flats north of Wilshire and the hillside estates above Sunset both share one
-  problem: refrigerators here work harder than the spec sheet suggests. The
-  90210 water supply runs calcium-heavy, and that mineral load quietly kills
-  ice maker assemblies — a Sub-Zero BI-36U can go from perfect ice to zero
-  output inside a single summer. Two technicians, same-day slots, Beverly Hills
-  is a regular stop on the route.
+  The Flats — that grid of streets between Santa Monica and Sunset Boulevards — is packed with custom kitchens. Sub-Zero and Thermador column refrigerators sit recessed behind flush cabinet panels. Getting to those panels takes real time before a technician even touches the appliance. Beverly Hills municipal water tests around 350–400 ppm hardness. That mineral load clogs ice maker assemblies steadily. Most ice makers fail completely within three to four years if no one flushes the water inlet line. It's a predictable problem in 90210, and one we see constantly.
 
 localContext: |
-  Post-war bungalows on the south side of Beverly Hills (zip 90212) were built
-  with tight kitchen footprints — getting a side-by-side out for compressor
-  work means removing cabinet panels or working at an angle most repair crews
-  skip. The hillside homes above 90210, some dating to the 1930s, run Sub-Zero
-  and Thermador built-ins recessed into custom millwork; a standard hand truck
-  does nothing for those calls. Access matters as much as the diagnosis itself.
-
-  Parking for a service van on the residential blocks between Doheny and Roxbury
-  is usually fine mid-week, but the narrow driveways on Benedict Canyon calls
-  require coordinating with the homeowner beforehand. These are logistics most
-  national chains do not bother with. Local technicians who know the streets handle
-  them as a matter of routine.
+  Zip code 90210 mixes 1950s ranch houses in the Flats with newer Mediterranean estates up near Coldwater Canyon Park. The older 1960s and 1970s Flats kitchens often have 30-inch cabinet openings. That detail matters a lot when a compressor swap requires sliding a refrigerator fully out. In 90212, south of Wilshire, condominiums have compact built-ins where the drain pan sits four inches off the floor, directly behind the toe-kick panel. Not great access. In 90211, Bosch French-door units show up regularly — popular in the mid-century remodels along Rexford Drive and Roxbury Drive. Each of these homes has its own quirk, and Beverly Hills addresses tend to mean premium brands with parts you cannot grab at a big-box store.
 
 commonProblems:
-  - title: "Ice Maker Failure from Mineral Scale (A Beverly Hills Staple)"
-    description: "LA municipal water in Beverly Hills sits around 300–350 ppm
-      hardness. That calcium deposits directly onto the water inlet valve
-      screen and the ice maker assembly's fill tube, restricting flow until
-      the ice maker stops cycling entirely. KitchenAid french-door models are
-      especially prone — the fill tube geometry traps scale faster than most
-      designs. Descaling and valve replacement usually fixes it without
-      touching the control board. Samsung's RF series throws an error code
-      (typically 8E or 14E on the display) before the ice maker quits
-      completely — if you're seeing that, the inlet valve screen is the first
-      place to check before assuming a board failure."
-  - title: "Compressor Noise in Built-In Sub-Zero and Thermador Units"
-    description: "A rattling or high-pitched hum coming from a recessed
-      built-in is almost always either the condenser fan motor hitting a
-      debris buildup or a compressor starting capacitor failing. Sub-Zero
-      BI-42S units see this frequently after 8–10 years — the condenser fan
-      in that model sits in a tight cavity that collects lint from nearby
-      cabinetry. Ignoring it means the compressor overheats. Catching it
-      early is a $200 fix; ignoring it becomes a $1,400 compressor swap.
-      Thermador Freedom column units develop a similar rattle from the
-      condenser fan blade loosening on the motor shaft — two screws and a
-      blade swap, but you have to pull the unit from the cavity to reach it,
-      which is where most generalist repair calls fall apart."
-  - title: "Refrigerator Not Cooling — Defrost System Failure in Older Units"
-    description: "A Samsung or LG french-door that cools fine, then gradually
-      warms over 24–48 hours, is usually a defrost timer or a failed defrost
-      heater letting ice accumulate on the evaporator coil until airflow
-      completely stops. The food compartment hits 50°F while the freezer
-      stays cold — classic symptom. Most Beverly Hills homes run these units
-      in kitchens without great cross-ventilation, which accelerates the
-      defrost cycle load. LG's linear compressor models (any LS or LT prefix)
-      also display an Er FF or Er rF error code when the evaporator fan is
-      blocked by ice — do not ignore that code, it will not self-resolve
-      without manual defrost or heater replacement."
+  - title: "Ice Maker Shuts Down — Mineral Scale Is Usually the Cause"
+    description: |
+      Beverly Hills tap water carries heavy calcium content. The water inlet valve on a refrigerator narrows slowly from deposits. Flow eventually drops below the ice maker's minimum threshold, and production stops entirely. On Samsung French-door models, an ice bridge also forms above the auger — a solid block the automatic defrost cycle cannot break. Clearing the valve and testing the ice maker thermal fuse takes about 45 minutes once the unit is accessible. On Sub-Zero ice makers, the fill tube often ices over first. That is a 10-minute fix if caught early, a full evaporator coil pull if ignored for a season. Hard water damage is cumulative, so the second repair is always more expensive than the first.
+
+  - title: "Warm Refrigerator When Summer Temperatures Climb"
+    description: |
+      Beverly Hills is not the Valley, but 90–95°F days still push condenser fan motors hard. A fan clogged with pet hair runs hot. The compressor cycles more often. Internal temps creep up 6–8 degrees before anyone notices food spoiling. LG and KitchenAid French-door units typically show this first as a warm bottom drawer, with the main cabinet still holding temperature for another day or two. By then the compressor is working twice as hard. Catching a failing condenser fan before the compressor overheats saves a $600 repair versus a $150 one. Call (323) 870-4790 if your fridge feels warmer than usual — same-day diagnosis is usually available.
+
+  - title: "Built-In Sub-Zero Running Warm in One Zone Only"
+    description: |
+      Sub-Zero BI-48 and BI-36 models use a dual-circuit refrigeration system. A failed defrost timer kills one zone quietly — no obvious alarm fires. Ice builds up on the evaporator coil behind the back panel. Airflow drops, that section warms, the other stays cold. Homeowners often assume the fridge is fine because half of it still works. Both the defrost heater and the thermostat need bench testing before pulling the coil. That step confirms which component actually failed, not just which one looks suspicious. Skipping it means replacing parts twice.
 
 faq:
   - q: "How fast can you get to Beverly Hills for refrigerator repair?"
-    a: "Beverly Hills is a core service area — from our staging point near
-      Culver City, we're typically on Doheny or Rexford within 45 minutes.
-      Same-day appointments are available most days; call (323) 870-4790
-      before noon and we can usually confirm a slot for that afternoon.
-      Street parking on residential blocks is straightforward for service vans.
-      Evening slots until 7 PM are also available most weekdays for households
-      that cannot do a midday window."
-  - q: "Do you repair Sub-Zero and Thermador refrigerators?"
-    a: "Yes, and those are the brands we see most often in this zip code.
-      Sub-Zero BI-series built-ins, Thermador Freedom column units, and
-      occasionally Miele — we carry brand-specific parts for all three.
-      Bosch and KitchenAid counter-depths are also very common here; door
-      gasket replacements and control board resets come up often on both.
-      Sub-Zero's proprietary refrigerant charge and sealed system design
-      requires specific recovery equipment that most general appliance
-      shops skip — we have it on the truck."
-  - q: "What does a refrigerator repair visit typically cost in Beverly Hills?"
-    a: "Diagnostic fee runs $85 and applies toward the repair. Most fixes —
-      inlet valve, defrost heater, evaporator fan, door gasket — land between
-      $180 and $380 parts and labor. Built-in Sub-Zero compressor work is
-      higher, usually quoted on-site after the diagnosis. Emergency and
-      evening slots are available; call (323) 870-4790 to check availability."
+    a: |
+      Usually within two hours from our West LA base. Residential blocks in the Flats have open street parking — no downtown garage logistics to work around. Call (323) 870-4790 to check same-day slots. Most afternoon openings show up by 10 a.m. Evening appointments are available too, typically after 5 p.m. for anyone who cannot be home during the day.
+
+  - q: "Do you repair Sub-Zero and Thermador refrigerators in Beverly Hills?"
+    a: |
+      Both, regularly. Sub-Zero BI units require specific tooling for the sealed dual-circuit system and cabinet removal — standard residential tools will not get the job done. Thermador columns most often have control board or evaporator fan motor failures. Bosch French-door models come up frequently in 90211 — the drain pump clogs with mineral scale and starts pooling water under the crisper drawers. That pooling usually shows up six to eight months after a heavy scale buildup season, so if you noticed it once and it cleared, expect it back.
+
+  - q: "What does refrigerator repair typically cost, and how quickly can you come out?"
+    a: |
+      Diagnostic visit is $85, applied to the repair if you proceed. Most common fixes — compressor relay, water inlet valve, door gasket replacement — run $150–$350 parts and labor combined. Built-in Sub-Zero work starts higher because cabinet access adds 30–45 minutes before the actual repair begins. Same-day and evening slots are available. Call (323) 870-4790 for emergency scheduling, including weekends.
