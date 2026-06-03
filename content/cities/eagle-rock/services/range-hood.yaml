@@ -1,0 +1,168 @@
+title: "Eagle Rock Range Hood Repair — Grease, Old Ductwork, Real Fixes"
+
+intro: |
+  That film of grease coating the cabinet faces above the stove is usually the first sign the
+  blower wheel has seized or the grease filter went too long without a cleaning. The older
+  craftsman homes along Yosemite Drive and the bungalows tucked up near Occidental College
+  have kitchens designed for 1930s cooking — lower ceilings, narrow cabinetry returns, and
+  ductwork measured in inches rather than engineered for modern airflow. A GE over-the-range
+  unit running three or four nights a week on a gas burner throws a serious amount of grease
+  particulate, and most mesh filters can handle maybe 30 cooking sessions before airflow drops
+  noticeably. The range hoods in these 90041 homes are working harder than they were designed
+  to, in tighter spaces than the installation manual assumed. Colorado Boulevard's older
+  apartment buildings add another layer — recirculating hoods with charcoal filters that
+  tenants haven't touched in years, slowly pushing cooking odors back into the living space
+  instead of filtering them out.
+
+localContext: |
+  Eagle Rock's housing breaks down roughly into two bands. Below Colorado Boulevard, you're
+  mostly looking at 1920s and 1930s craftsman bungalows with original kitchen footprints —
+  compact, galley-style, with low soffit clearance above the range. Up in the hills toward
+  Mount Washington, where zip code 90065 bleeds into the area, you start seeing 1950s and
+  1960s ranch houses with slightly more cabinet depth but ductwork that often runs horizontal
+  for 12 or more feet before hitting an exterior wall. That long duct run is a grease trap.
+  Dampers get stuck open or closed; the exhaust fan loses velocity; grease pools in the duct
+  lining. Both the 90041 flats and the hillside homes share LA's notoriously hard water
+  problem — LADWP water will scale up any water-cooled or spray-type hood system within a
+  year. Kenmore and Whirlpool over-the-range units from the mid-2000s are the most common
+  call we get in this neighborhood, and both lines have well-documented fan motor wear
+  patterns that show up right around the eight-to-ten year mark.
+
+commonProblems:
+  - title: "Seized Blower Wheel from Grease Accumulation — Most Common Call in 90041"
+    description: |
+      Grease doesn't just coat the filter — it migrates past a saturated mesh filter and
+      builds up directly on the blower wheel. Once that wheel is coated, it becomes
+      unbalanced. The motor works harder, draws more current, and eventually either trips
+      the thermal overload or burns the winding. Near Glen Arbor Avenue, we pull GE
+      JVM3160 over-the-range units out of these craftsman kitchens constantly — usually
+      because the grease filter hasn't been washed in two or three years. The fix means
+      pulling the hood, disassembling the blower housing, degreasing the wheel with a
+      solvent cleaner, and checking the motor's run capacitor while everything is apart.
+      Replacement blower wheels for GE over-the-range models run $45–$80 in parts; a full
+      motor swap adds another $90–$140. Most of these jobs close out in a single two-hour
+      visit.
+
+  - title: "Duct Damper Stuck Closed — Fan Runs but Nothing Exhausts"
+    description: |
+      The spring-loaded damper flap at the duct termination is a component most homeowners
+      never think about until the hood stops exhausting air. Grease buildup on the damper
+      blade — or a wasp nest in the exterior vent cap, which shows up more than you'd
+      expect on Eagle Rock's hillside properties — causes the flap to stick closed. The
+      fan runs, the motor sounds fine, but nothing is moving. On the 1950s ranch homes
+      near Toland Way in the 90065 corridor, ductwork often terminates through a soffit
+      rather than an exterior wall, making damper access genuinely difficult. A Frigidaire
+      FHWC3060LS we serviced last spring had a damper stuck so long the charcoal filter
+      had fully saturated — cooking odor was pumping back into the kitchen on every use.
+      Damper parts are cheap at $15–$35, but soffit-mounted duct access adds labor time.
+      Budget $120–$200 all-in for this repair type.
+
+  - title: "Range Hood Lighting Failures Tied to Older Branch Circuits"
+    description: |
+      A lot of the over-the-range units in Eagle Rock's pre-1970 homes sit on circuits
+      that were extended without being upgraded — 15-amp branch circuits feeding a
+      microwave-hood combo, a refrigerator, and a toaster on the same run. Voltage drop
+      causes LED or incandescent hood lights to flicker and fail early. Samsung
+      over-the-range models are especially sensitive to undervoltage on the lighting
+      circuit, throwing control board error codes when the actual problem is line voltage.
+      Before replacing any lighting components, we check the circuit voltage at the outlet
+      under load. Reading below 118V with the microwave running means the fix isn't a
+      $40 light socket — it's an electrician. All our technicians work under contractor
+      license #1136541, and we document wiring findings in writing. A new LED module or
+      bulb socket runs $12–$30; when wiring is the root cause, we can refer to a trusted
+      local electrician rather than selling you parts you don't need.
+
+  - title: "Fan Motor Replacement — Honest Cost Breakdown for Eagle Rock Homes"
+    description: |
+      Fan motor failure is the most expensive common range hood repair, and the price
+      breakdown matters before you call anyone. On a standard Whirlpool or Kenmore
+      over-the-range unit in the original $400–$600 price range, motor replacement with
+      labor typically runs $180–$280 depending on the model. The motor itself lands at
+      $70–$130; labor is $80–$120 for a clean swap on an accessible unit. Older installs
+      sandwiched in tight craftsman soffits near Caspar Avenue add 30–45 minutes — figure
+      an extra $40–$60 if clearance on each side is under two inches. A $250 repair on a
+      12-year-old Kenmore hood is usually worth doing. On a unit that's 15-plus years old
+      with a rusted grease cup and a deteriorating duct collar, replacement often wins on
+      total cost — new over-the-range units from GE and Frigidaire start around $200 at
+      Home Depot, with installation adding $100–$150 for a straightforward duct swap.
+
+  - title: "Grease Filter Neglect — What 'Overdue' Actually Looks Like, and What It Costs"
+    description: |
+      Mesh grease filters on most GE and Samsung over-the-range hoods are dishwasher-safe
+      and rated for monthly cleaning under normal cooking conditions. Normal in Eagle Rock
+      often means a gas burner running four to five nights a week with significant oil —
+      anything that throws aerosol grease at high heat. At that rate, monthly cleaning is
+      the floor, not the ceiling. A filter that's overdue turns dark brown and develops a
+      tacky coating that won't come clean in a standard dishwasher cycle — it needs a
+      degreaser soak or outright replacement. Beyond the filter, oversaturated mesh lets
+      grease reach the blower housing and the grease cup, which can overflow onto the
+      stovetop or become a fire hazard. Replacement mesh filters for most over-the-range
+      units cost $15–$40 and take two minutes to swap. Charcoal filters in recirculating
+      hoods — common in 90041 apartments that can't duct to the exterior — need full
+      replacement every three to six months. Cleaning won't restore them.
+
+faq:
+  - q: "How fast can you get to Eagle Rock for range hood repair?"
+    a: |
+      Eagle Rock sits right off the 134, and from our main service area we can typically
+      reach 90041 within 45 minutes to an hour on a standard call. Same-day slots are
+      open most weekdays — call (660) 999-9960 before noon and there's a solid chance
+      we're there that afternoon. Parking on the residential streets near Occidental
+      College and along the Colorado Boulevard corridor is usually workable; it's not the
+      parking nightmare you hit in denser parts of LA. We give a two-hour arrival window
+      and send a text when we're 20 minutes out.
+
+  - q: "What does range hood motor or blower repair cost in Eagle Rock?"
+    a: |
+      For most Whirlpool, Kenmore, and GE over-the-range units common in this area, motor
+      replacement with labor runs $180–$280 total. Tight craftsman-soffit installs add
+      $40–$60 on the labor side. Mid-range units like Bosch or Zephyr wall chimney hoods
+      cost more — motors run $150–$250 before labor. We provide a firm written estimate
+      after diagnosis; no additions after the fact. For a free on-site estimate, call
+      (660) 999-9960. We don't charge for estimates when we're already routing through
+      the area on a same-day call.
+
+  - q: "Do you need a permit to replace a range hood in the City of Los Angeles?"
+    a: |
+      Swapping a like-for-like range hood — same footprint, same duct connection — does
+      not generally require a permit in the City of Los Angeles. Adding new ductwork,
+      rerouting an existing duct run, or upgrading from a recirculating unit to a ducted
+      exhaust system does require a mechanical permit through LADBS (Los Angeles
+      Department of Building and Safety). All work is performed under contractor license
+      #1136541. For ducted upgrades in Eagle Rock homes where a new duct penetration means
+      cutting through original plaster or tile, we walk you through the permit process and
+      can pull the permit on your behalf. Standard mechanical permit processing at LADBS
+      runs two to three weeks.
+
+  - q: "Can you repair a range hood that's grinding or rattling loudly?"
+    a: |
+      Grinding almost always means the blower wheel is contacting the housing — either
+      grease buildup has made the wheel too large to spin freely, or the mounting nut has
+      loosened and the wheel is wobbling. Rattling at startup usually points to a loose
+      fan blade or a debris fragment inside the blower housing. Both are diagnosable and
+      fixable in a single visit in most cases. Samsung over-the-range units have a known
+      issue where the blower wheel hub cracks around the 7–10 year mark — the wheel stays
+      on but develops a progressive wobble. Hub and wheel replacement on that model runs
+      about $95–$140 parts and labor combined. Call (660) 999-9960 and describe what you're
+      hearing — we can often identify the likely cause before we arrive.
+
+  - q: "How long should a range hood last, and when does repair stop making sense?"
+    a: |
+      A well-maintained over-the-range unit — filters cleaned monthly, grease cup emptied
+      regularly, ductwork cleared every couple of years — should run 12 to 15 years
+      reliably. The Kenmore and Whirlpool units most common in 90041 homes hit their first
+      major failure between years 8 and 12. Under 10 years old with a repair under $250?
+      Fix it. Over 12 years old with multiple failing components — bad motor, cracked
+      grease cup, deteriorating duct collar — replacement usually wins on total cost. New
+      over-the-range units from GE and Frigidaire start around $200–$350; a clean
+      installation swap on an existing duct connection adds $100–$150 in labor.
+
+  - q: "Do you cover neighborhoods near Eagle Rock, and how does scheduling work?"
+    a: |
+      From Eagle Rock we regularly cover Highland Park, Glassell Park, Mount Washington,
+      Atwater Village, and east into Pasadena and Arcadia. West calls go to Silver Lake,
+      Los Feliz, and Echo Park without adding significant travel time. The 134 and the 2
+      freeway make Eagle Rock a natural hub for this stretch of the northeast San Gabriel
+      Valley. Scheduling runs Monday through Saturday with morning and afternoon windows;
+      evening slots open on select weekdays. Call (660) 999-9960 to lock in a time — same-
+      day calls made before 11 AM have the best shot at a same-afternoon arrival.

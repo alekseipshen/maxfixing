@@ -1,0 +1,161 @@
+title: "Eagle Rock Wine Cooler Repair — Craftsman Kitchens, Hot Summers"
+
+intro: |
+  Narrow galley kitchens in Eagle Rock's 1920s Craftsman bungalows were built for icebox-era
+  storage, not modern wine coolers. Most units end up shoved against a cabinet wall with two
+  inches of clearance on the rear vent — and that chokes the condenser fan before the first
+  summer even hits. Up on the hillside streets above Colorado Boulevard and over toward the
+  Dahlia Drive corridor, afternoon temperatures inside older homes push past 85°F, forcing a
+  Frigidaire or Kenmore compressor-based cooler to cycle nonstop just to hold 55°F. That
+  constant runtime burns through components years early. Right now the bulk of our calls out
+  of the 90041 zip are Samsung 18-24 bottle freestanding units that are 3-4 years old,
+  starting to show temperature swings of 8-10 degrees — not dead yet, but headed there fast
+  without a proper diagnosis.
+
+localContext: |
+  Eagle Rock sits in a heat pocket between the San Gabriel foothills and the Verdugo Hills.
+  The 134 freeway corridor traps hot air on still days, and the hillside blocks in zip 90041
+  can read 6-8°F hotter than the NOAA station reading. That's a real problem for wine coolers
+  installed in kitchens with no cross-ventilation. Older homes along Eagle Rock Boulevard and
+  over toward the Glassell Park border (zip 90065) were built between 1910 and 1945 — most
+  have 22-inch countertop depth, meaning any "built-in" style unit is actually jammed flush
+  against a cabinet back, blocking rear exhaust entirely. The combination of ambient heat and
+  blocked airflow is why GE and Whirlpool units in these homes run hot at the condenser and
+  develop door gasket failures faster than the manufacturer's lifecycle projections. Mineral
+  buildup from LA's hard water also clogs the drain tray and internal tubing on dual-zone
+  units more quickly than homeowners expect.
+
+commonProblems:
+  - title: "Compressor Never Shuts Off — Heat and Clogged Condenser Working Together"
+    description: |
+      A compressor that runs continuously is almost always a heat-load problem disguised as
+      a mechanical failure. In Eagle Rock, the typical culprit is a condenser coil packed
+      with two or three years of dust and pet hair, cutting heat transfer by 40-50% and
+      forcing the compressor into overdrive. On Frigidaire and Kenmore units, that sustained
+      load eventually trips the thermal overload protector and the cabinet starts warming.
+      Before calling it a compressor failure, a technician should also check the thermistor —
+      the small temperature sensor that signals the control board when to cycle. A drifting
+      thermistor reads colder than reality and keeps the compressor running past setpoint.
+      Thermistor replacement runs $15-40 in parts; full condenser coil cleaning and service
+      adds $65-85 in labor. Catching this early sidesteps a $280-350 compressor replacement
+      down the road.
+
+  - title: "Temperature Swings Ruining Wine — Thermoelectric Units Struggling in Summer"
+    description: |
+      Thermoelectric (Peltier module) coolers are everywhere in Eagle Rock apartments —
+      quiet, no vibration, perfect for tight spaces. The problem is physics: a Peltier module
+      can only cool about 20°F below ambient temperature. Kitchen temps of 82-84°F in July
+      mean the unit physically cannot hold 55°F, regardless of settings. Most homeowners
+      blame the unit; the real issue is the internal circulation fan degrading after 3-4
+      years, reducing heat transfer off the hot side of the module. Samsung and GE both make
+      popular thermoelectric models in the 6-18 bottle range common in this neighborhood.
+      Fan assembly replacement runs $45-70 in parts and takes about an hour. Full Peltier
+      module swap is $80-120 in parts plus labor. Units over 6 years old with a failed
+      module are usually better replaced — budget units start around $90 new.
+
+  - title: "Vibration Rattle on Tile and Hardwood Floors"
+    description: |
+      Eagle Rock's pre-war Craftsman kitchens almost universally have tile or original
+      hardwood floors — hard surfaces that amplify every harmonic from a compressor-based
+      wine cooler. The buzz and rattle is usually not a failing compressor. It's the
+      vibration-dampening feet hardening with age, or the internal shelf brackets resonating
+      against the chassis walls. On Whirlpool and GE compressor units over 5 years old,
+      the compressor mounting grommets also harden and start transmitting vibration directly
+      into the frame. Rubber feet are under $15; mounting grommets run $20-35. The fix is
+      typically 30-45 minutes on site. If the vibration comes with a refrigerant hiss or a
+      slow gurgling from the evaporator, that's a separate leak issue — R600a or R134a
+      recharge runs $180-250 depending on refrigerant type and access to the service port.
+
+  - title: "Door Seal Failure Causing Warm Spots and Interior Condensation"
+    description: |
+      Door gasket degradation accounts for roughly 30% of the "not cooling" calls we get in
+      Eagle Rock, and most homeowners have already convinced themselves the compressor is
+      dead. The gasket on older Kenmore and Frigidaire units dries and cracks from heat
+      cycling — it's a rubber extrusion that wasn't built to survive 85°F kitchens year
+      after year. The tell: condensation on the lower bottle shelves, or a faint smell of
+      mustiness near the door hinge. Close the door on a dollar bill — if it pulls out
+      without resistance, the seal is compromised. Replacement gaskets run $25-60 depending
+      on model; the swap is usually a 20-minute job. Stock sizes for Frigidaire, Kenmore,
+      and GE are something we carry on the van. Full diagnostic and gasket repair lands
+      around $95-135 all-in.
+
+  - title: "Blank Display Panel or Erratic Temperature Readings — Control Board Failure"
+    description: |
+      Digital control boards replaced simple mechanical thermostats in most wine coolers
+      made after 2015, and they're the first thing to fail when the home's wiring has
+      voltage fluctuations. Eagle Rock's older housing stock — particularly blocks along
+      Figueroa Street toward the 90065 border — still runs on 60-amp or 100-amp service
+      with older panel wiring, and small voltage spikes kill sensitive control boards over
+      time. Samsung dual-zone units in newer Eagle Rock condos show this most often, usually
+      around year 4-5: blank display, flashing error code, or the unit locking at one
+      temperature. OEM replacement boards for Samsung models run $85-140. Before ordering
+      a board, a good technician checks the door switch and wiring harness first — those
+      fail more often and cost $20-40 to fix. Repair timeline is same-day if the part is
+      in stock, or 2-3 days for less common models.
+
+faq:
+  - q: "How fast can you get to Eagle Rock for wine cooler repair?"
+    a: |
+      Eagle Rock is straightforward for us — we're usually coming from the Glendale or
+      Pasadena side, which puts arrival around 20-35 minutes depending on 134 freeway
+      traffic. Same-day appointments are available most weekdays, typically within a
+      2-hour window. For urgent calls — a unit that's completely warm with a dinner party
+      scheduled — call (660) 999-9960 directly and we'll see what we can do that afternoon.
+      Evening slots before 7 PM are available Tuesday through Saturday for Eagle Rock and
+      the surrounding 90041 and 90065 areas.
+
+  - q: "What does wine cooler repair in Eagle Rock typically cost?"
+    a: |
+      Diagnostic fee is $65, which gets credited toward the repair if you move forward.
+      Simple fixes — a door gasket swap, condenser cleaning, or a fan replacement — run
+      $95-150 all-in. Mid-tier repairs like a thermistor or control board land at
+      $150-220 depending on parts availability. Compressor replacement is the ceiling at
+      $250-350, and at that price point we'll give you a straight answer on whether the
+      unit is worth it versus buying new. Call (660) 999-9960 for a quick phone estimate —
+      describe the symptoms and we can usually narrow the likely cause before we're even
+      in the driveway.
+
+  - q: "Do Eagle Rock homeowners need permits for wine cooler installation?"
+    a: |
+      Freestanding and countertop wine coolers don't require permits in the City of Los
+      Angeles — they plug into a standard 15-amp outlet and that's it. Under-counter or
+      built-in units that require a dedicated circuit may need an electrical permit if
+      new wiring gets run, which is handled through the LA Department of Building and
+      Safety. For Eagle Rock rentals, that permit is typically the landlord's
+      responsibility. MaxFixing operates under contractor license #1136541 and can walk
+      you through whether your specific installation requires a permit pull — most
+      Craftsman kitchens in the 90041 area have sufficient existing circuits and don't
+      need new wiring.
+
+  - q: "Can you repair thermoelectric wine coolers, or only compressor-based units?"
+    a: |
+      Thermoelectric units are actually a large chunk of our Eagle Rock calls. Peltier
+      module coolers like the smaller GE and Samsung countertop models are popular in
+      apartments where compressor noise is an issue. The most common failures are the
+      internal circulation fan (stocked for most popular models), the Peltier module
+      itself, and the control board. Module replacement runs $60-100 in parts and about
+      an hour on site. One important caveat: if your kitchen regularly hits 80°F in
+      summer, a thermoelectric unit cannot physically hold 55°F — that's a physics
+      limitation, not a defective unit, and no repair will change it. A compressor-based
+      model would be the right recommendation in that scenario.
+
+  - q: "What warranty do you provide on wine cooler repairs?"
+    a: |
+      Parts carry the manufacturer's warranty, which ranges from 90 days to one year
+      depending on the component. Labor is warrantied for 90 days — same issue within
+      that window, we come back at no charge. Compressor replacements use OEM or
+      OEM-equivalent parts with a 1-year parts warranty. For units over 10 years old,
+      major component repairs like compressors and control boards don't come with a labor
+      warranty, since secondary failures on aged units are common — we'll flag that
+      clearly before doing the work. Straightforward repairs on units under 7 years old
+      (gasket, fan, thermistor) are solid investments with predictable lifespans.
+
+  - q: "What other neighborhoods near Eagle Rock do you serve?"
+    a: |
+      Coverage runs from Eagle Rock (90041, 90065) into Highland Park, Glassell Park,
+      Atwater Village, Silver Lake, Glendale, and Pasadena — the whole northeast LA
+      corridor is regular territory. Two technicians cover the full metro from Irvine
+      up to Santa Clarita, so scheduling is rarely a problem. Most Eagle Rock calls get
+      a same-day or next-morning slot. To check availability or book an appointment,
+      call (660) 999-9960 — if it's a same-day emergency, say so and we'll work around
+      the schedule.
