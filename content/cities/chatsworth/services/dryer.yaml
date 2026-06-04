@@ -1,0 +1,149 @@
+title: "Chatsworth Dryer Repair — Valley Heat, Old Vents, Real Fixes"
+
+intro: |
+  Devonshire Street runs hot in July — and so does the laundry room in most of the ranch-style
+  homes lining the blocks around Chatsworth Park South. The 91311 zip holds a heavy concentration
+  of houses built between 1965 and 1978, which means exhaust duct runs added as afterthoughts:
+  long, kinked paths venting into attic crawlspaces instead of out through the exterior wall.
+  Those configurations don't meet current code, and they strangle airflow until the thermal fuse
+  blows and a Kenmore or Whirlpool stops heating entirely. Most homeowners assume the heating
+  element died. Usually, it didn't. Near the Santa Susana Pass trailhead, we regularly see Samsung
+  and GE electric dryers with moisture sensors coated in dryer sheet residue — the sensor reads
+  "dry" at 20 minutes and cuts the cycle short, leaving damp clothes. The fix takes less than
+  30 minutes, but only if you know exactly where to look.
+
+localContext: |
+  The housing stock in 91311 skews older — a lot of it is single-story ranch construction from
+  the late 1960s through the mid-1970s, with laundry rooms tucked into interior hallways or
+  converted garages. Both of those layouts create the same problem: long duct runs with multiple
+  90-degree elbows, restricting airflow and forcing the dryer to work twice as hard. Along
+  Topanga Canyon Boulevard heading toward the hills, horse-property parcels run older Maytag and
+  Frigidaire gas dryers on flex connectors that haven't been inspected in years — gas igniter
+  failures are routine in those setups, especially when the unit hasn't been serviced in a decade.
+  The neighboring 91304 zip (Canoga Park) shares the same building vintage, and our service calls
+  cover both areas without any gap. The consistent theme across both zips: undersized or blocked
+  blower wheel paths, degraded drum rollers, and thermal fuses that fail not because the part is
+  worn out, but because the underlying airflow restriction was never addressed.
+
+commonProblems:
+  - title: "Thermal Fuse Blown — the Real Cause Is Almost Always the Exhaust Duct"
+    description: |
+      A blown thermal fuse cuts power to the heating element when the dryer overheats — and it
+      almost never blows on its own. In 91311 homes, the cause is almost always a blocked or
+      kinked exhaust duct. Lint accumulates at bends, or the duct was never properly run to an
+      exterior vent in the first place. Replacing just the thermal fuse (it's a $4 part) without
+      clearing the duct means the new fuse blows within a few weeks. The actual fix involves
+      replacing the fuse, pulling the duct, clearing the blockage, and sometimes rerouting the
+      exhaust path entirely. On Whirlpool and Kenmore units specifically, we carry the OEM thermal
+      fuse kit in the van. The whole job usually takes 1.5 to 2 hours and runs $150–$220 depending
+      on how much duct work is involved.
+
+  - title: "Dryer Takes 90 Minutes Per Load — Moisture Sensor or Blower Wheel"
+    description: |
+      Two different failures produce this symptom, and diagnosing which one matters before you
+      order parts. A contaminated moisture sensor — coated in fabric softener residue from dryer
+      sheets — tells the control board the clothes are dry before they are. The cycle ends at
+      20–25 minutes with damp laundry. That's common in Samsung and GE Profile models where the
+      sensor bars sit near the drum opening and pick up residue fast. A failing blower wheel is
+      the other culprit: when blades crack or lint packs the housing, hot air can't move
+      efficiently through the drum. In Chatsworth's summer heat, a partially blocked blower wheel
+      also causes the motor to cycle off mid-load to prevent overheating. Cleaning the moisture
+      sensor is a 10-minute fix. Replacing the blower wheel assembly on a GE or Whirlpool runs
+      $180–$260 including parts and labor.
+
+  - title: "Drum Not Spinning — Drive Belt or Idler Pulley Failure"
+    description: |
+      Motor running, drum sitting still? That's a snapped drive belt almost every time. The drive
+      belt wraps around the drum and connects to the motor via an idler pulley — when the belt
+      snaps, the motor runs but nothing moves. Frigidaire and Amana models built in the 2000s and
+      early 2010s are particularly prone to this in households that dry heavy loads regularly:
+      denim, towels, work clothes. The idler pulley should get replaced at the same time — it's a
+      $12 part, and if it's been under enough tension to wear out the belt, the pulley bearing is
+      usually gone too. Skipping the pulley means a callback in six months. Labor plus parts on a
+      belt-and-pulley job runs $160–$230. We stock belts for Kenmore, Whirlpool, Frigidaire, and
+      Amana platforms in the van, so there's usually no parts delay.
+
+  - title: "Loud Thumping or Squealing — Drum Rollers and Rear Drum Bearing"
+    description: |
+      A rhythmic thumping or squealing during the dry cycle points to worn drum rollers or a
+      failing rear drum bearing. Most dryers have two to four drum rollers — small wheels that
+      support the drum as it spins — and when the rubber wears to the metal shaft, they thump on
+      every rotation. On older Maytag and Kenmore heavy-duty units common on the horse properties
+      near the Santa Susana foothills, the rear drum bearing also wears out after 10–12 years of
+      consistent use. Ignoring the noise accelerates wear on the drum itself, which is a much
+      more expensive secondary repair. Drum rollers run $25–$45 in parts; the drum bearing adds
+      another $30–$60. Combined with labor, expect $200–$320 for a full drum support rebuild.
+      A rebuilt drum support typically extends the dryer's useful life another 7–10 years.
+
+  - title: "Gas Dryer Not Heating — Igniter or Gas Valve Coil Kit"
+    description: |
+      Electric dryers get heating elements. Gas dryers get igniters and gas valve coil kits —
+      completely different failure modes that need different diagnosis. A failed igniter glows but
+      can't sustain enough current to open the gas valve, so the burner never lights. On Whirlpool
+      and Kenmore gas dryer platforms (which share the same chassis), the igniter is a ceramic
+      component that becomes brittle with age and breaks without warning. The gas valve coil kit —
+      typically two or three solenoids — fails more gradually, producing intermittent no-heat
+      cycles that seem to self-correct before failing permanently. In Chatsworth and Canoga Park,
+      where SoCal Gas service is the standard and gas dryers dominate, this is one of our most
+      frequent calls. Igniter replacement runs $120–$175. Gas valve coil kit replacement is
+      $140–$200. Both jobs include a full gas connection check before we leave the house.
+
+faq:
+  - q: "How fast can you get to Chatsworth for dryer repair?"
+    a: |
+      From our usual staging area, Chatsworth is accessible via the 118 westbound — we're typically
+      at homes in the 91311 zip within 45 to 75 minutes of a confirmed booking. Same-day
+      appointments are available most days, including evenings. Parking in most Chatsworth
+      neighborhoods is straightforward: single-family homes with driveways mean no van logistics
+      headaches. Call us at (323) 870-4790 to check same-day availability. If you're calling
+      before noon, there's a solid chance we can send a technician out the same afternoon and
+      have your dryer running before dinner.
+
+  - q: "What does dryer repair typically cost in Chatsworth?"
+    a: |
+      Most repairs land between $120 and $320 depending on what failed. A thermal fuse swap with
+      duct clearing runs $150–$220. Drive belt and idler pulley replacement is $160–$230. Full
+      drum roller and bearing rebuilds come in at $200–$320. Gas igniter replacement on Whirlpool
+      or Kenmore gas units is $120–$175. Diagnostic is $75, credited toward the repair if you
+      book it. Exact pricing gets confirmed before we touch anything — no quotes that change after
+      disassembly. Call (323) 870-4790 to lock in a same-day or next-day slot and get a clear
+      number before we start.
+
+  - q: "Do I need a permit to have my dryer exhaust duct rerouted in Chatsworth?"
+    a: |
+      For a straight duct cleaning or repair, no permit is required. If the duct is being fully
+      rerouted — say, from an attic vent path to a proper exterior wall penetration — that can
+      require a mechanical permit from the City of Los Angeles Department of Building and Safety
+      (LADBS). Chatsworth falls under LADBS jurisdiction, not a separate city permit office.
+      Minor mechanical permits are typically same-day over-the-counter pulls. We handle the
+      paperwork when it's needed and flag it upfront — no surprises. Our contractor license
+      number is #1136541, on file with the CSLB.
+
+  - q: "Can you repair a gas dryer that smells like gas when it runs?"
+    a: |
+      A gas smell during operation is a service call, not a DIY situation. The two usual sources
+      are a cracked or loose gas line flex connector at the back of the unit or a gas valve that
+      isn't seating properly between cycles. On Whirlpool and Kenmore gas platforms, the valve
+      body itself can develop micro-cracks after 10-plus years. We check the full gas supply path
+      — from the shutoff valve to the burner assembly — using a calibrated leak detector, not a
+      soap-bubble test. If the unit is unsafe to run, we'll say so directly and explain the repair
+      options before any work begins.
+
+  - q: "How long should a dryer last, and when does repair stop making sense?"
+    a: |
+      A well-maintained dryer typically runs 12–15 years. Past that, repairs can still make sense
+      depending on the failure — a $150 thermal fuse and duct job on a 14-year-old Whirlpool is
+      reasonable. A $380 control board replacement on the same machine is harder to justify. The
+      general rule: if the repair exceeds 50% of a comparable new unit's price, replacement
+      probably wins. We'll give you that number honestly during the diagnostic, no pressure
+      attached. Parts we install carry a 90-day labor warranty; OEM components for GE and
+      Whirlpool platforms typically carry a 1-year manufacturer warranty on the part itself.
+
+  - q: "Do you cover areas near Chatsworth, like West Hills or Canoga Park?"
+    a: |
+      Yes — coverage runs from Chatsworth (91311) through West Hills (91307), Canoga Park (91304),
+      and east into Northridge and Granada Hills. We also handle calls north into Santa Clarita
+      and south through the Valley corridor. Scheduling is usually same-day or next-day. Evening
+      appointments are available Tuesday through Saturday. Call (323) 870-4790 or schedule online
+      — we confirm a 2-hour arrival window, not a vague all-day block, so you're not waiting
+      around all morning for a technician who shows up at 4 p.m.
