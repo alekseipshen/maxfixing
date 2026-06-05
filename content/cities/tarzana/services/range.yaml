@@ -1,0 +1,168 @@
+title: "Tarzana Range Repair — Gas & Electric Fixes in the Valley"
+
+intro: |
+  The strip of 1970s split-levels and 1980s ranch homes along Corbin Avenue tells
+  Tarzana's appliance story in a single block — built fast, fitted with whatever GE or
+  Frigidaire was on sale at Sears, and still running on those same units 40 years later.
+  A surface igniter that clicks endlessly without producing flame, or an F3 error code
+  on a Kenmore oven at 6pm on a weeknight, isn't something you can wait a week on.
+  Tarzana's mix of owner-occupied homes south of Ventura Boulevard and apartment
+  complexes closer to Reseda means we see everything from basic Amana freestanding
+  ranges to older dual-fuel units that haven't had a service call in decades. Most
+  failures trace back to a single component — a cracked spark module, a fouled burner
+  cap, or a thermocouple that's finally given out. Nine times out of ten, that's a
+  same-day fix.
+
+localContext: |
+  The 91356 zip covers most of Tarzana's residential core, from the hillside streets
+  south of Ventura Boulevard up to the Braemar Country Club neighborhood — housing built
+  mostly between 1955 and 1985, still running the original 30-inch freestanding ranges
+  that came with the house. The 91357 zip pushes north toward Reseda, where apartment
+  density increases and landlords favor lower-cost Samsung or Frigidaire slide-in models
+  that take heavier daily use. San Fernando Valley summers regularly push indoor temps
+  into the upper 80s even with air conditioning running, which accelerates control board
+  degradation and causes bake elements to cycle harder than they were rated for. Gas
+  ranges in this area also deal with aging flex connector lines and misaligned burner
+  heads from kitchen remodels done over the decades — problems that initially look like
+  gas valve failures but often have simpler causes. LA's hard municipal water supply
+  doesn't just hit ice makers; it deposits mineral scale in steam-clean cycles and clogs
+  the small orifices in sealed burner assemblies over time.
+
+commonProblems:
+  - title: "Burner Won't Ignite — Dead Spark Module or Clogged Orifice"
+    description: |
+      The most common range call we get in Tarzana is a burner that clicks nonstop but
+      never lights. The culprit is almost always either a failed spark module — the
+      small electronic component sending voltage to each igniter electrode — or a clogged
+      burner orifice packed with grease and boil-over residue. On older Kenmore and GE
+      gas ranges in the 91356 zip, a failed spark module can kill one burner or take out
+      multiple simultaneously depending on how the ignition circuit is wired. Replacing
+      the module runs $85–$150 in parts, and the job typically takes under an hour. We
+      carry common spark modules for GE and Whirlpool platforms in the van. If the
+      electrode tip itself is cracked or carbon-fouled, that's a $20–$40 part and a
+      20-minute swap. Continuing to trigger a dead igniter risks cracking the ceramic
+      electrode further, which turns a small repair into a larger one.
+
+  - title: "Oven Not Reaching Temperature — Bake Element or Oven Sensor Failure"
+    description: |
+      Electric ranges in Tarzana's older condos and rental units near Ventura Boulevard
+      show this pattern constantly: the oven preheats, the preheat indicator clears, but
+      food comes out undercooked by 30 or 40 degrees. Usually the bake element — the
+      lower coil in the oven cavity — has developed a hairline crack or a visible burn
+      spot that kills heat output without triggering an obvious error code. On Samsung and
+      Frigidaire electric models, a failed oven sensor (also called a thermistor or RTD
+      probe) causes the same symptom but typically logs an SE or F10 error. The sensor
+      mounts at the back upper wall of the oven cavity and runs $25–$60 in parts.
+      Bake elements for standard 30-inch ranges land at $30–$80 depending on brand. Both
+      are same-day repairs when we have the part on hand, which we do for the Frigidaire
+      and GE platforms most common in this area.
+
+  - title: "Gas Smell Near the Range — Flex Connector and Valve Seat Failures"
+    description: |
+      A faint gas odor isn't automatically a range problem — in Tarzana homes with older
+      flex connector lines, the connector itself may have a micro-crack or corroded
+      fitting that lets a small amount of gas escape. Homes in the Corbin Avenue and
+      Lindley Avenue corridors that haven't been remodeled since the 1970s sometimes
+      still have original aluminum flex connectors, which are no longer code-compliant
+      and can develop stress fractures under decades of vibration. We test with a
+      combustible gas detector before making any assumptions about the appliance being
+      the source. If the valve seat inside the range's gas valve has worn, a Whirlpool or
+      Amana burner valve assembly replacement runs $90–$160 in parts. Any gas line work
+      is performed under contractor license #1136541 in compliance with LA County gas
+      appliance codes. Call us immediately if you smell gas — don't wait on this one.
+
+  - title: "Uneven Flame or Weak Heat — Venturi Tube Blockage and Burner Cap Issues"
+    description: |
+      Busy Tarzana kitchens see this one constantly: one burner runs weak or lopsided
+      even on the high setting while the others perform normally. The usual cause is a
+      blocked venturi tube — the small metal channel that mixes gas and air before
+      combustion — clogged with grease from repeated boil-overs. A misaligned burner cap
+      is the other frequent cause; if the cap sits crooked after cleaning, the flame
+      ports don't align and the flame comes out uneven or lazy. On GE and Whirlpool
+      sealed-burner gas ranges, this is typically a 30-minute diagnostic and cleaning,
+      running $75–$125 for the service call with no parts needed. If the venturi tube is
+      corroded or physically bent — common on ranges 15-plus years old — replacement
+      parts cost $20–$50. Left uncorrected, the heat imbalance accelerates wear on the
+      surrounding burner box and the control panel above it.
+
+  - title: "Control Panel Malfunction — Error Codes and Touchpad Lockouts"
+    description: |
+      The control board is the expensive repair on modern ranges, which makes accurate
+      diagnosis critical before ordering anything. Samsung ranges — popular in Tarzana's
+      newer rental units and recently remodeled kitchens — frequently show SE errors and
+      touchpad lockouts caused by moisture intrusion, power surge damage, or worn
+      membrane switches. On Frigidaire and GE models, F-series error codes typically
+      indicate either a runaway oven sensor or the control board losing communication
+      with it. A control board replacement on a mid-range Samsung or GE slide-in runs
+      $200–$400 in parts alone. Before ordering the board, we always test the oven
+      sensor resistance with a multimeter first — if the sensor reads within spec, the
+      board is the likely failure. On ranges over ten years old, we'll give you a straight
+      cost-versus-replace assessment before we pull any parts.
+
+faq:
+  - q: "How fast can you get to Tarzana for range repair?"
+    a: |
+      Tarzana sits right off the 101 Freeway at Reseda Boulevard, so we can reach most
+      addresses in 91356 and 91357 within 30–45 minutes from our dispatch point depending
+      on Valley traffic. Same-day appointments are available most days, and we work within
+      a two-hour arrival window. Evening slots are open for households that can't do a
+      midday call — we know most people are at work until 5. Call us at (323) 870-4790
+      to check same-day availability; we'll tell you exactly how soon we can be there
+      rather than giving you a vague window.
+
+  - q: "What does range repair in Tarzana typically cost?"
+    a: |
+      A diagnostic service call runs $75–$95 and gets applied toward the repair if you
+      move forward. Simple fixes — spark module swap, burner cap cleaning, igniter
+      electrode replacement — usually land in the $100–$175 total range. Mid-complexity
+      repairs like a bake element, oven sensor, or gas valve assembly typically come in
+      at $175–$300 parts and labor combined. Control board replacements sit at the high
+      end: $300–$500 depending on brand and board availability. Exact pricing comes after
+      the diagnostic, before any work starts. Call (323) 870-4790 or schedule online for
+      a same-day estimate.
+
+  - q: "Do range repairs in Tarzana require a permit?"
+    a: |
+      Standard appliance repair — swapping a bake element, replacing a control board,
+      cleaning burner orifices — doesn't require a permit in the City of Los Angeles,
+      which governs Tarzana. Permits come into play when gas line modifications are
+      involved: replacing a flex connector, relocating a gas shutoff, or running new
+      supply line. Any gas line work we perform is done under contractor license #1136541
+      and complies with LA Department of Building and Safety requirements. If your repair
+      triggers a permit requirement, we handle the paperwork and coordinate the inspection
+      directly with LADBS so it doesn't fall on you.
+
+  - q: "Can you repair a range that has a gas smell or suspected leak?"
+    a: |
+      Yes — gas odor calls get priority scheduling. If you smell gas, turn off the
+      range, crack a window, and avoid using any switches or open flames until we arrive.
+      We diagnose with a combustible gas detector and isolate whether the source is the
+      appliance, the flex connector, or the shutoff valve behind the unit. A lot of
+      Tarzana's older homes have stainless corrugated connectors that have never been
+      replaced — those develop small leaks at the compression fittings over time and are
+      straightforward to swap on-site. For range-internal gas valve failures, we stock
+      common Whirlpool and Amana valve assemblies and can usually complete the repair
+      the same visit.
+
+  - q: "How long should a range last before repair stops making sense?"
+    a: |
+      A well-maintained gas or electric range runs 15–20 years with normal use. Ranges
+      in Tarzana's older housing stock are often 20–30 years old and still fully
+      repairable — age alone doesn't disqualify a unit. The calculation shifts when a
+      single repair exceeds 50–60% of what a comparable replacement costs. A $350 control
+      board on a $400 range doesn't pencil out, and we'll say so before ordering the
+      part. GE, Whirlpool, and Frigidaire parts stay available for 10–15 years after a
+      model's production run ends, so mid-life repairs on those platforms are generally
+      worth doing. Samsung and LG parts availability drops off faster — factor that into
+      the decision on older units.
+
+  - q: "Do you cover Woodland Hills and Encino in addition to Tarzana?"
+    a: |
+      Tarzana sits between Woodland Hills to the west and Encino to the east, and we
+      cover both — along with Reseda, West Hills, and Calabasas. The 101 corridor makes
+      routing across the western Valley straightforward on most days. Scheduling is
+      typically same-day or next-morning for this entire stretch. For higher-end
+      appliances in the Calabasas hills — Viking and Thermador ranges show up regularly
+      in those properties — we carry the specialized diagnostic tools those brands
+      require. Call (323) 870-4790 to book or check same-day availability; we can usually
+      confirm a slot before noon.

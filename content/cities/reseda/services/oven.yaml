@@ -1,0 +1,176 @@
+title: "Reseda Oven Repair — Gas & Electric Range Service, Same Day"
+
+intro: |
+  Scattered across the blocks around Reseda Park and running south toward Victory
+  Boulevard, you'll find a lot of 1960s tract homes still running the same gas
+  range hookup they had when the house was new — or close to it. A Kenmore
+  freestanding gas range from 2009 cooks fine for years, then one Tuesday morning
+  the oven won't climb past 280°F and the igniter is done. That's a specific
+  failure: the gas valve igniter weakens gradually and stops generating enough
+  heat to open the valve fully. The Sherman Way corridor tells a different story
+  — denser apartment buildings where landlords swap in a Whirlpool or Samsung
+  electric range when the old one dies, and those units come with their own
+  failure modes: F9 door latch errors, temperature sensors drifting 60 degrees
+  low, broil elements that glow orange for eight seconds then go dark. Reseda
+  doesn't have a lot of high-end kitchen buildouts. The calls here are practical
+  — get the oven working before Sunday dinner. That's exactly what we do.
+
+localContext: |
+  ZIP 91335 covers most of Reseda, and the housing stock there is heavily
+  concentrated in the 1958–1975 build window — single-family ranch homes with
+  galley kitchens sized for 30-inch freestanding ranges. GE, Frigidaire, and
+  Kenmore gas units are the dominant platforms in those homes, some original,
+  most replaced once or twice since. Toward the eastern edge where 91335 meets
+  91356 near Tarzana, the housing mix shifts slightly toward larger lots and
+  some more recent construction, but the appliance profile stays similar.
+  Valley heat is a real factor: July and August temperatures near the Reseda
+  Recreation Center on Lindley Avenue regularly push 100°F+, and that ambient
+  load makes thermal fuses and temperature sensors fail at higher rates than in
+  coastal neighborhoods. Older flex gas lines in the pre-1970 homes near Vanowen
+  Street can also complicate service access — sometimes the range has to come out
+  further than expected to reach the shutoff safely. We account for that on
+  every call, gas or electric.
+
+commonProblems:
+  - title: "Oven Stuck Below 300°F — Bake Element or Gas Igniter Worn Out"
+    description: |
+      An oven that plateaus at 275°F when the dial says 375°F is one of the most
+      common repair calls in Reseda. On GE and Kenmore electric ranges, the bake
+      element — the U-shaped coil at the floor of the cavity — is usually the
+      cause. It either burns through visibly (look for a crack or blister on the
+      coil) or fails internally with no obvious sign. Replacement on a GE JB655
+      or similar freestanding model runs $120–$180 parts and labor. On Kenmore
+      or Frigidaire gas ranges, the gas valve igniter is more likely the problem
+      — as igniters age past six or seven years, they draw less current and can't
+      open the valve fully, so the oven fires but can't hold temperature. Gas
+      igniter replacement typically runs $150–$220. Both repairs are same-day in
+      most cases.
+
+  - title: "Broiler Sparks and Dies Within 2 Minutes"
+    description: |
+      A broiler that lights briefly then drops out is a separate failure from a
+      dead bake circuit — and it's common in the older Frigidaire and Amana gas
+      ranges that show up throughout the 91335 housing stock. The broil burner
+      has its own igniter assembly, independent of the bake igniter, and it fails
+      on its own timeline. The symptom is a broiler that sparks, produces a small
+      flame, then extinguishes before the burner reaches full temperature —
+      usually within 90 seconds. On electric ranges, the broil element fails
+      differently: arcing marks appear at the terminal connection where the
+      element meets the socket, and the element stops heating entirely or cycles
+      erratically. Broil element or broiler igniter replacement runs $130–$190
+      in Reseda. Whirlpool and GE electric broil elements are stocked on the
+      truck for most 30-inch platforms.
+
+  - title: "Self-Clean Cycle Leaves the Door Locked Shut"
+    description: |
+      Self-clean lock failures are among the more disruptive oven problems
+      because the appliance becomes completely unusable — the door latch mechanism
+      engages during the 800°F cycle, and if the door lock motor or thermal
+      limiter fails mid-cycle, the door stays locked afterward. Samsung and LG
+      electric ranges see this regularly; older Whirlpool freestanding models do
+      too. Repair cost depends on the failure point: a door lock motor assembly
+      runs $85–$130 in parts, while a thermal limiter — a small safety fuse
+      inside the top panel — is under $30 but requires panel removal to access.
+      Some apartment buildings along Sherman Way require management notification
+      before appliance work, especially in units under rent stabilization. We
+      handle that coordination without it becoming your problem. Contractor
+      license #1136541 is on file for any building that requires proof before
+      granting access.
+
+  - title: "Uneven Baking — Hot on One Side, Undercooked on the Other"
+    description: |
+      Uneven heating inside the oven cavity is almost never the element itself —
+      it's typically a failing oven temperature sensor, sometimes called an oven
+      probe, that sends inaccurate readings to the control board. The board
+      cycles the heating element incorrectly, and one half of the oven ends up
+      40–60°F hotter than the other. On Whirlpool and KitchenAid electric
+      ranges, the sensor is a thin metal rod mounted at the upper rear of the
+      cavity; replacement runs $80–$140 all in. Convection-equipped models have
+      an additional variable — a failed convection fan motor stops air
+      circulation, and hot spots develop near the element. Fan motor replacement
+      runs $140–$200. Calibration testing after either repair confirms the fix
+      at no extra charge. If calibration drifts again within 30 days, the
+      return visit is on us.
+
+  - title: "Control Board Errors on Samsung and LG Electric Ranges"
+    description: |
+      Reseda's apartment buildings cycle through Samsung and LG electric ranges
+      quickly — landlords pick them up on sale, and the control boards take heavy
+      daily use. F9 error codes on Samsung ranges typically indicate a door latch
+      or lock circuit fault; SE codes usually mean a shorted touchpad membrane.
+      On LG, an F3 code points to a failed oven temperature sensor. Control board
+      replacement on these brands runs $200–$350 depending on the model — genuine
+      OEM boards are worth the premium over aftermarket, which have a noticeably
+      higher rate of early failure. If the touchpad membrane is the only issue,
+      that's cheaper at $80–$140. Common control boards for the Samsung NE and
+      NX series and LG LRE platform are stocked on the truck, covering most of
+      what shows up in 91335 apartment kitchens.
+
+faq:
+  - q: "How fast can you get to Reseda for oven repair?"
+    a: |
+      Reseda sits right on our regular Valley circuit — typical drive time from
+      our dispatch point is 20–35 minutes, routed via the 101 or along Sherman
+      Way when the freeway is slow. Most calls in 91335 land a same-day or
+      next-morning slot. Evening appointments run Tuesday through Saturday for
+      anyone who can't be home during the day — that covers most of the apartment
+      residents on Sherman Way who work standard hours. Call (660) 999-9960 and
+      we'll give you a specific arrival window, not a four-hour guessing block.
+
+  - q: "What does oven repair cost in Reseda?"
+    a: |
+      It depends on what failed. A bake element swap on a GE or Whirlpool
+      electric runs $120–$180. Gas igniter replacement is $150–$220. Control
+      board replacement on a Samsung or LG is the expensive end — $200–$350.
+      Diagnostic is $65, applied toward the repair if you proceed. Phone
+      estimates on range repairs aren't reliable because two ovens with identical
+      symptoms can have completely different failed components — a temperature
+      sensor versus a control board versus a loose terminal. Book a visit at
+      (660) 999-9960 and we'll price it exactly before touching anything.
+
+  - q: "Do you need a permit to repair an oven in Reseda?"
+    a: |
+      Standard oven repair — swapping a heating element, replacing a sensor,
+      fixing a control board — doesn't require a permit in the City of Los
+      Angeles, which governs Reseda. Permits become relevant if you're converting
+      from electric to gas or extending a gas line to a new location; that work
+      requires a City of LA mechanical permit, which we pull on your behalf under
+      contractor license #1136541. Apartment buildings along Sherman Way
+      sometimes require building management approval before appliance work,
+      particularly in rent-stabilized units. That process is straightforward and
+      we've handled it enough times to know exactly what paperwork building
+      managers want to see.
+
+  - q: "Can you repair gas ranges in Reseda, or only electric?"
+    a: |
+      Gas ranges make up the majority of calls in the older Reseda neighborhoods.
+      The pre-1975 homes on streets like Etiwanda Avenue and Vanowen Street were
+      built with gas ranges and most never converted to electric. Gas valve
+      igniter replacement, burner orifice cleaning, gas line inspection at the
+      appliance connection, and flex connector assessment are all standard scope
+      for us. New gas line installation requires a licensed plumber — but any
+      repair on the range itself, including the supply components at the
+      appliance, is within our work. Kenmore, GE, and Frigidaire gas freestanding
+      platforms are the most common units we see in 91335.
+
+  - q: "What warranty do you offer on oven repairs in Reseda?"
+    a: |
+      Parts carry the manufacturer warranty — 90 days to one year depending on
+      the component and sourcing. OEM parts from GE, Whirlpool, and Samsung
+      typically carry 12 months; aftermarket parts we sometimes use for
+      discontinued models carry 90 days. Labor is warranted for 90 days on every
+      repair — same part fails within that window, we come back at no charge.
+      For older ranges where the repair estimate approaches the cost of a
+      comparable replacement unit, we'll say so before you commit. No point
+      spending $280 on a control board for a 2004 Kenmore if a solid used
+      replacement is $350 delivered.
+
+  - q: "Do you cover areas near Reseda, like Tarzana or Northridge?"
+    a: |
+      Valley coverage runs from Sherman Oaks north to Chatsworth and west to
+      Calabasas, so Tarzana (91356), Northridge (91324 and 91325), Canoga Park,
+      and Winnetka are all on the regular rotation. West Hills and Woodland Hills
+      are covered too. Calls in adjacent neighborhoods often get grouped on the
+      same day route, which shortens response time for everyone in that cluster.
+      Call (660) 999-9960 to check the next open slot for your specific address —
+      we'll tell you exactly when we can be there.

@@ -1,0 +1,187 @@
+title: "Reseda Ice Maker Repair — Hard Water in 91335 Kills Ice Makers Fast"
+
+intro: |
+  Hard water readings in Reseda's 91335 zip regularly clock between 300 and 350
+  parts per million — among the highest mineral concentrations in the entire San
+  Fernando Valley. That calcium load hits ice makers harder than any other
+  refrigerator component. The water inlet valve clogs first, then fill rates
+  drop, and eventually the harvest cycle stalls completely. Homes around Reseda
+  Park and along the residential blocks off Saticoy Street see this constantly:
+  a GE side-by-side bought six years ago, perfectly maintained otherwise, and
+  the ice maker just stops. No error code, no warning — one morning the bin is
+  empty and stays that way. The fill valve screen is packed solid with white
+  scale. It's not a defective appliance. It's the water. Knowing that changes
+  everything about how this repair gets diagnosed and fixed — and it means
+  cleaning the symptom without addressing the mineral source just brings the
+  same problem back in another 18 months.
+
+localContext: |
+  Most of Reseda's single-family housing was built between 1950 and 1975 —
+  stucco ranches and two-story apartment complexes with original copper supply
+  lines still running through the walls. That narrow-gauge plumbing was designed
+  for the water pressure of the 1960s, not today's demand. In zip 91335, water
+  pressure during afternoon peak hours can drop below 25 PSI, which is right at
+  the floor of what most ice maker fill valves need to complete a full mold fill.
+  The denser rental corridor near Reseda Boulevard and Sherman Way — a lot of it
+  zip 91337 addresses — has smaller kitchen footprints, refrigerators pushed
+  flush against exterior walls, and water shutoff valves buried under built-in
+  cabinetry. Getting a Whirlpool or Kenmore unit out far enough to access the
+  supply line can take 20 minutes before the repair even starts. Combine
+  substandard water pressure, high mineral content, aging plumbing, and cramped
+  access conditions and an ice maker service call in Reseda takes longer and
+  requires more diagnostic steps than the same call in a newer home in Valencia
+  or Santa Clarita.
+
+commonProblems:
+  - title: "Clogged Water Inlet Valve from Mineral Scale — the Root Cause in Most 91335 Kitchens"
+    description: |
+      The water inlet valve on refrigerators like the Samsung RS25J500DSR and most
+      GE Profile side-by-side models has a small stainless mesh screen at the
+      solenoid inlet. In Reseda, that screen accumulates calcium and magnesium
+      deposits until flow drops below the threshold needed to complete a fill cycle.
+      You'll see smaller cubes before you see no cubes — that partial-fill stage is
+      the valve telling you it's struggling. LA's DWP has documented tap hardness
+      in this part of the Valley at 275–325 ppm, which means the valve screen
+      reaches critical restriction in 3–5 years without a filter. Replacement inlet
+      valves run $40–80 for OEM-spec parts; labor adds $90–120. Total repair cost
+      lands between $130 and $200 depending on valve configuration. We stock valves
+      for Samsung, GE, and Frigidaire on the truck — same-day completion is the
+      norm for this job.
+
+  - title: "Harvest Thermostat Failure Caused by Valley Summer Heat"
+    description: |
+      Reseda kitchens in July and August can hold ambient temperatures well past
+      90°F by mid-afternoon, especially in west-facing rooms without dedicated
+      cooling. The ice maker harvest thermostat — the small bimetal sensor mounted
+      to the ice mold — is calibrated to trigger at a specific temperature, usually
+      around 15°F, signaling the heater strip to warm the mold and release the ice
+      slab. When a compressor is working overtime against 95°F ambient heat, freezer
+      temperature swings more than it should, and the thermostat trips incorrectly
+      or not at all. On Frigidaire Gallery and Amana top-freezer models, this shows
+      up as a full, frozen mold that never ejects. The thermostat itself costs
+      $15–30. Correctly diagnosing it requires a multimeter check — skipping that
+      step leads to replacing the full ice maker assembly at $150+ when a $25 part
+      would have done it. Total repair with labor: $110–160.
+
+  - title: "Frozen Supply Line in Older Reseda Homes with Poor Wall Insulation"
+    description: |
+      A notable percentage of Reseda's 1960s ranches have the refrigerator positioned
+      against the exterior north or west kitchen wall — minimally insulated sheathing
+      between the appliance and outside air. On the 15–20 nights per year when
+      Valley temps drop below 40°F, the quarter-inch plastic water supply line
+      running through the wall cavity can freeze solid. The fix requires more than
+      just thawing. The line needs rerouting away from the exterior wall cavity, or
+      upgrading to a braided stainless supply line with better thermal resistance.
+      On Kenmore and Whirlpool French-door models, the water line also routes
+      through the door hinge cavity — that section freezes independently and is
+      frequently missed. Reroute materials run $25–60. Labor is 1.5–2 hours.
+      Standard ice maker supply line work doesn't require a city permit under LADBS
+      rules, but a corroded shutoff valve found during the job would — our license
+      #1136541 covers both scopes cleanly.
+
+  - title: "Hollow or Misshapen Ice Cubes — Low Water Pressure and Fill Timing"
+    description: |
+      Small, hollow, or crescent-shaped ice is one of the most misdiagnosed ice
+      maker complaints in Reseda. Homeowners assume the assembly is broken; usually
+      it's a water pressure and fill duration issue. The inlet valve solenoid on
+      most Whirlpool and GE platforms opens for 7–9 seconds per fill cycle. If
+      household water pressure is running below 20 PSI — common in 91335 during
+      peak afternoon demand, especially on blocks with older mains — the mold
+      doesn't fill completely. The result is undersized cubes with voids in the
+      center. The diagnostic process involves checking inlet pressure with a gauge
+      at the refrigerator supply line, cleaning the valve screen, and sometimes
+      realigning the fill cup. Parts usually run under $30; labor adds $85–110.
+      Total repair cost: $100–140. If pressure is chronically low, adding an inline
+      booster or a dedicated refrigerator water filter helps prevent recurrence.
+
+  - title: "Stuck Shut-Off Arm or Optical Sensor Malfunction Halting Ice Production"
+    description: |
+      Two different failure modes, same symptom: the ice maker stops producing even
+      though the freezer temperature and water supply are fine. Older Kenmore and
+      Amana units use a mechanical wire shut-off arm that physically rises when the
+      bin is full. It gets bent or jammed — usually by someone reaching into the
+      freezer past it — and the unit reads "bin full" permanently. Straightening or
+      reseating it takes five minutes. Newer Samsung and LG French-door models use
+      an infrared optical sensor instead. Frost accumulation and mineral dust on the
+      sensor lens triggers the same false "bin full" reading. Samsung issued a
+      technical service bulletin covering this exact fault on the RF28 series — it's
+      a documented widespread issue. Cleaning the lens resolves it about 60% of the
+      time. Full sensor module replacement runs $70–120 in parts plus $85–100 in
+      labor. If the unit is within the manufacturer's five-year parts warranty
+      window, we document the repair for a reimbursement claim.
+
+faq:
+  - q: "How fast can you get to Reseda for ice maker repair?"
+    a: |
+      Two technicians cover the western San Fernando Valley daily, and Reseda falls
+      squarely in the middle of that route. From the 101/405 corridor, most 91335
+      addresses are 20–30 minutes away under normal traffic. Same-day appointments
+      are available for calls booked before noon — evening weekday slots work well
+      for tenants or anyone who can't take a morning off. If the ice maker is
+      completely down and you're heading into a weekend, let the dispatcher know
+      when you call: (660) 999-9960. We prioritize complete outages over
+      maintenance visits and can usually get someone out the same day or first
+      thing the following morning.
+
+  - q: "What does ice maker repair cost in Reseda?"
+    a: |
+      Most ice maker repairs in Reseda fall between $110 and $250 all in. A
+      clogged water inlet valve or a jammed shut-off arm lands at the low end —
+      parts under $50, under an hour of labor. Replacing a full ice maker assembly
+      on a GE Profile or Samsung French-door unit runs $180–280 including parts
+      and labor. Hard-water damage to multiple components simultaneously — valve,
+      water line, and mold thermostat all needing attention — pushes into 2-plus
+      hours of labor and can reach $300. The estimate is free and done on-site
+      before any work starts. Call (660) 999-9960 or schedule online to lock in
+      a time.
+
+  - q: "Does ice maker repair in Reseda require a city permit?"
+    a: |
+      Standard ice maker repairs — inlet valve swap, assembly replacement, sensor
+      cleaning, thermostat replacement — don't require a permit from the City of
+      Los Angeles. LADBS only gets involved when work modifies the water supply
+      configuration, such as adding a new shutoff stub-out or relocating the supply
+      line feed point. If the existing shutoff valve behind the refrigerator is
+      corroded or leaking and needs replacement, that crosses into permitted
+      plumbing territory. Contractor license #1136541 covers both appliance repair
+      and the minor plumbing tie-ins that sometimes come up mid-job. You'll know
+      before work starts whether a permit is needed — nothing gets permitted without
+      a conversation first.
+
+  - q: "Can you repair ice makers in built-in refrigerators or commercial units in Reseda?"
+    a: |
+      Built-in units are handled regularly — Sub-Zero 700-series columns and
+      Thermador Freedom refrigerators show up in the remodeled kitchens throughout
+      Reseda's nicer blocks, and the repair procedure is similar in principle but
+      requires different tooling and additional disassembly time. Panel removal
+      alone on a flush-inset built-in can take 30 minutes before the ice maker is
+      even accessible. Commercial cubers — freestanding Manitowoc or Hoshizaki
+      units used in restaurants along Sherman Way or Reseda's commercial strip —
+      are a different diagnostic world entirely. They have water filtration heads,
+      harvest assist systems, and water level probes that residential machines
+      don't. Call ahead for commercial jobs so we bring the right gear.
+
+  - q: "How long does an ice maker repair last, and when should I replace instead of repair?"
+    a: |
+      A properly repaired ice maker — inlet valve replaced, water line flushed,
+      sensor cleaned — typically runs another 5–8 years in a Reseda kitchen,
+      provided you add a 1/4-inch inline water filter to cut the mineral load
+      going forward. Those filters run about $15 at Home Depot and extend valve
+      life significantly. Replacement makes more sense when the ice maker module
+      itself is cracked or corroded at the mold, or when the refrigerator is 15-plus
+      years old and the repair cost exceeds half the appliance's current value. A
+      12-year-old Kenmore top-freezer with a $250 ice maker assembly job is a tough
+      call. A 6-year-old Samsung French-door in the same situation almost always
+      makes sense to fix. You'll get a straight answer on which direction to go —
+      no upsell either way.
+
+  - q: "Do you cover neighborhoods near Reseda, or just 91335 addresses?"
+    a: |
+      Reseda gets regular service, but coverage runs the full western Valley
+      corridor. Northridge (91324, 91325), Tarzana (91356), Canoga Park (91303),
+      and West Hills are all on the regular route. Heading east, Van Nuys and
+      Panorama City are covered too — typically within 30–40 minutes of booking.
+      Same-day ice maker calls have the best availability when you call in the
+      morning. Afternoon calls usually land on next-morning first slots. Ring
+      (660) 999-9960 to check what's open today — if the schedule is tight, we'll
+      give you a real window, not a 4-hour range.

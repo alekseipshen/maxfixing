@@ -1,0 +1,181 @@
+title: "Tarzana Double Oven Repair — When One Cavity Goes Dark in the Valley"
+
+intro: |
+  Ranch homes along Tarzana's Mecca Avenue and Vanalden Avenue were built in
+  the 1960s with oversized kitchens — the kind meant for families who actually
+  cooked. A lot of them have double wall ovens, usually GE or Kenmore units
+  from the 80s and 90s, tucked into cabinetry that hasn't moved since Reagan
+  was president. The lower cavity is almost always the one that quits first.
+  That's because the lower bake element runs longer cycles, sees more grease
+  splatter, and takes the brunt of roasting pans dropped onto the oven floor.
+  MaxFixing sends a technician to Tarzana — from the Ventura Boulevard corridor
+  down through the Wilbur Avenue neighborhood — usually within the same
+  business day. Call (660) 999-9960 and we can typically confirm a two-hour
+  arrival window on the spot.
+
+localContext: |
+  Tarzana sits in zip codes 91356 and 91357, and the housing stock in both
+  tells the same story: single-family homes built between 1955 and 1980,
+  mostly with gas appliances. That means gas double wall ovens are common —
+  Kenmore and GE dominated the market during those decades, and a fair number
+  of those original units are still running. Homes near Reseda Boulevard and
+  the streets feeding into Braemar Country Club tend to have had kitchen
+  remodels in the early 2000s, so you'll find Whirlpool and Frigidaire double
+  ovens swapped in during that period — now 15 to 20 years old and hitting the
+  age where control boards start glitching and door hinges lose their spring
+  tension. The San Fernando Valley heat doesn't help either. Ambient kitchen
+  temps in July and August push 85–90°F in homes without central AC, which
+  means the oven's cooling fan runs nearly constant and wears out faster than
+  the manufacturer's rated spec assumes.
+
+commonProblems:
+  - title: "Lower Oven Stops Heating While Upper Still Works Fine"
+    description: |
+      This is the single most common call we get out of Tarzana. The lower bake
+      element burns out, the upper oven still fires, and the homeowner assumes
+      they need a whole new unit. Usually they don't. On GE double wall ovens —
+      the PTD9000SNSS and similar models common in the 91356 zip — the lower
+      bake element is a separate circuit from the upper. A failed element reads
+      as an open circuit on a multimeter: infinite resistance, no continuity.
+      Replacing the bake element on these GE models runs $150–$220 parts and
+      labor, and we carry the most common sizes on the van. The job takes about
+      45 minutes. If the element checks out fine, the next culprits are the
+      lower oven's temperature sensor or the relay on the control board — both
+      diagnosable in the same visit.
+
+  - title: "Temperature Mismatch — Upper Runs Scorching, Lower Runs Lukewarm"
+    description: |
+      A Whirlpool WOD77EC0HS owner near Avenida Oriente called us last summer:
+      the upper oven was scorching everything at 350°F while the lower ran
+      60 degrees cold. Two separate cavities, two separate problems. The upper
+      sensor had drifted high — it was reporting 290°F when the cavity was
+      actually at 350°F, so the control board kept firing the broil element
+      trying to compensate. Lower sensor was fine, but the lower cavity's
+      thermal fuse had blown from a previous overheat event. Both sensors were
+      replaced and the fuse swapped in one visit. Temperature sensors on
+      Whirlpool double ovens run $30–$60 for the part; thermal fuses are under
+      $20. Labor for a two-component repair in the same visit typically lands
+      around $180–$240 total. Don't assume a temperature problem means a new
+      oven — it rarely does.
+
+  - title: "Control Board Failure — Random Error Codes or a Dead Display"
+    description: |
+      Frigidaire and Samsung double ovens are prone to control board failures
+      after 8–12 years, and Tarzana's summer heat accelerates that timeline.
+      The F10 error code on a Frigidaire (runaway temperature) usually points
+      to a shorted RTD sensor or a failing relay on the board itself. Samsung
+      double ovens — the NV51K7770DG is common in newer Tarzana construction
+      near Oxnard Street — throw SE or C-d0 errors when the control board's
+      membrane switch layer separates under sustained heat exposure. Replacement
+      boards for Frigidaire double ovens run $200–$350 depending on the model;
+      Samsung boards can hit $400. We check the sensor first because it's a
+      $45 part versus a $300 board. About 40% of the time, it's the sensor,
+      not the board. If the board is genuinely fried, MaxFixing sources OEM
+      replacements — not aftermarket knock-offs that fail again in 18 months.
+
+  - title: "Broken Door Hinge or a Door That Won't Seal Flat Against the Frame"
+    description: |
+      A double oven door that sags open a quarter-inch is costing you heat.
+      Hinge failures on older GE and Kenmore double wall ovens happen because
+      the hinge spring loses tension after thousands of open/close cycles. The
+      hinge arm itself can crack at the pivot point, especially on cast-iron
+      hinges in pre-2000 models. Replacing a pair of door hinges on a GE double
+      oven runs $90–$160 parts and about an hour of labor. While the door is
+      off, we also inspect the door gasket — a hardened or torn gasket causes
+      the same heat-loss problem as a bad hinge and is easy to miss unless
+      you're looking for it. Gasket replacement adds $40–$80 to the ticket.
+      Homes in the Tarzana Hills area near Avenida De Las Arboles frequently
+      have older Kenmore wall ovens with both issues simultaneously; a combined
+      hinge-and-gasket repair usually runs $260–$340 all in.
+
+  - title: "Oven That Takes 45 Minutes to Preheat — or Never Quite Gets There"
+    description: |
+      Slow preheat on a double oven almost always traces back to one of three
+      things: a partially failed bake element drawing low current instead of
+      none, a weak igniter on gas models, or a temperature sensor reading high
+      so the board stops firing early because it thinks the oven is already hot.
+      On Amana and Maytag gas double ovens — both still common in Tarzana's
+      older rental stock off Reseda Boulevard — the igniter is the usual
+      suspect. A gas oven igniter that glows orange but takes 3–4 minutes to
+      open the gas valve is too weak and needs replacement. Igniters run
+      $40–$90; the job takes 30–45 minutes. For electric models, a partially
+      shorted bake element can pass a quick visual inspection and still
+      underperform — a resistance test catches it every time. We bring a clamp
+      meter on every call specifically to check draw on heating elements
+      in-circuit, which cuts diagnostic time in half.
+
+faq:
+  - q: "How fast can you get to Tarzana for a double oven repair?"
+    a: |
+      Tarzana is a straightforward run from our usual coverage area — the 101
+      Freeway puts us on Ventura Boulevard in under 30 minutes from most
+      starting points, and we know the side streets well enough to avoid the
+      afternoon backup near Topanga Canyon Boulevard. For morning calls before
+      10 a.m., we can usually have a technician at your door within two hours.
+      Afternoon slots fill faster, but evening availability through 7 p.m. is
+      kept open specifically for households that can't do midday. Call
+      (660) 999-9960 and we'll tell you exactly what today's schedule looks
+      like — no vague "between noon and 5" windows.
+
+  - q: "What does double oven repair cost in Tarzana?"
+    a: |
+      The diagnostic visit is $85, which applies toward the repair if you move
+      forward. Most single-component repairs — a bake element, a temperature
+      sensor, a door hinge pair — land between $150 and $280 parts and labor.
+      Control board replacements sit at the expensive end: $300–$500 depending
+      on brand, with GE and Frigidaire on the lower end and Samsung trending
+      higher. We quote the full number before touching anything. Tarzana homes
+      with older GE or Kenmore double ovens occasionally hit the point where
+      repair cost approaches half the price of a new unit — we'll say so
+      honestly rather than push a repair that buys you 18 months.
+
+  - q: "Do I need a permit to repair or replace a double oven in Tarzana?"
+    a: |
+      Tarzana falls under City of Los Angeles jurisdiction — LA Department of
+      Building and Safety handles permits here. For like-for-like appliance
+      repair (swapping a bake element, replacing a control board, fixing a
+      hinge), no permit is required. Installing a new double oven into an
+      existing cabinet cutout also typically doesn't require a permit as long
+      as the electrical or gas connection isn't being modified. Adding a new
+      240V circuit for an electric oven or relocating a gas line does require
+      a permit and a licensed contractor. Our technicians hold California state
+      contractor license #1136541 for gas appliance work, and we handle the LA
+      BSA filing and inspection scheduling when a permit is required.
+
+  - q: "Can you repair a double oven where only the convection fan stopped working?"
+    a: |
+      Yes — and it's a frequent repair on Whirlpool and Frigidaire double ovens
+      in the 7–12 year range. The convection fan motor burns out or the fan
+      blade cracks and starts vibrating; you'll hear grinding, or the fan just
+      stops and the oven bakes unevenly front-to-back. The motor is usually a
+      clean replacement: $60–$120 for the part, about an hour of labor. On some
+      models the fan blade is sold separately for under $30. We check both the
+      motor and the blade because a cracked blade can destroy a new motor fast.
+      Samsung double convection ovens require slightly more disassembly to reach
+      the rear fan housing, which adds about 20 minutes — still a same-day
+      repair on most calls.
+
+  - q: "How long will a repaired double oven last, and what's your warranty?"
+    a: |
+      Parts we install carry a 90-day warranty on the component, and our labor
+      is warrantied for 90 days as well — if the same problem returns within
+      that window, we come back at no charge. On a well-maintained GE or
+      Whirlpool double wall oven, a repair done at the 10–15 year mark can
+      realistically buy another 7–10 years of service. Failure modes that
+      actually shorten oven life — corroded wiring harnesses, cracked cavity
+      liners, warped door frames — get flagged during the repair visit so
+      you're not caught off guard later. We source OEM parts directly rather
+      than gray-market replacements, which matters most on control boards and
+      temperature sensors where counterfeits fail quickly.
+
+  - q: "What nearby areas do you cover, and how do I get on the schedule?"
+    a: |
+      MaxFixing covers the full western San Fernando Valley from Tarzana north
+      through Reseda, Winnetka, and Canoga Park, and south toward Calabasas and
+      Woodland Hills. Regular routes also run east to Sherman Oaks and Van Nuys,
+      and west into Thousand Oaks and Simi Valley. Scheduling is by phone —
+      call (660) 999-9960 — and we aim to offer a same-day or next-morning
+      slot for most Tarzana addresses in 91356 and 91357. Evening slots
+      Tuesday through Friday run until 7 p.m. If you're unsure whether we
+      reach your street, just call and ask; the coverage area stretches further
+      than most people expect for a two-technician operation.

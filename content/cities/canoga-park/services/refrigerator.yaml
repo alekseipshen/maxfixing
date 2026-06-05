@@ -1,0 +1,181 @@
+title: "Canoga Park Refrigerator Repair — Valley Heat Breaks Fridges Fast"
+
+intro: |
+  Roscoe Boulevard through the 91303 zip code runs through some of the
+  Valley's densest apartment corridors — buildings from 1961 to 1975, most
+  with kitchens sized for a 30-inch top-freezer, not the french-door units
+  families are trying to swap in now. Those old GE and Kenmore refrigerators
+  have been cycling through San Fernando Valley summers for decades. Hard water
+  does a number on them. The municipal supply in Canoga Park regularly measures
+  above 320 mg/L hardness, which silently destroys ice maker assemblies and
+  water inlet valves long before the compressor ever raises an alarm. Add July
+  heat — west-facing kitchens near Topanga Canyon Boulevard can climb past
+  85°F inside — and the condenser fan and defrost timer start failing in ways
+  that just don't happen near the coast. We run calls across both 91303 and
+  91304, and the most common complaint we hear is a fridge that stopped cooling
+  overnight, usually tied to either compressor strain or a blocked defrost drain
+  the owner didn't know existed.
+
+localContext: |
+  Most of the residential streets in 91303 — the blocks off Owensmouth Avenue
+  and De Soto — were developed between 1955 and 1970, back when kitchen layouts
+  assumed 24 to 30 inches of appliance depth and nothing more. Newer stainless
+  Samsung or LG units barely fit these footprints, which creates problems: the
+  refrigerator gets pushed flush against the wall, blocking condenser airflow and
+  accelerating compressor wear. Over in 91304 near Chatsworth Street, the housing
+  stock skews slightly newer, but you still find plenty of 1970s ranch-style homes
+  where the fridge sits four feet from a south-facing window with zero shade.
+  Warner Center condos to the south run modern Frigidaire and Bosch units with
+  digital control boards — those fail differently than a basic mechanical
+  thermostat. Because Canoga Park sits deep in the interior Valley with no marine
+  layer buffering the nighttime temperature, refrigerators here log significantly
+  more runtime hours per year than identical models in Santa Monica or Torrance.
+  That extra runtime compounds every other failure mode.
+
+commonProblems:
+  - title: "Refrigerator Stops Cooling in Summer — Condenser Fan and Compressor Overload"
+    description: |
+      July in Canoga Park regularly hits 105°F on the asphalt, and refrigerators
+      in poorly ventilated kitchen corners pay for it. The condenser fan motor is
+      the first component to quit under that kind of ambient heat load — it stops
+      spinning, the condenser coils overheat, and within 24 to 36 hours the fridge
+      is holding 55°F instead of 37°F. We see this constantly on Whirlpool
+      french-door units in the 91303 zip code, usually the WRF535SWHZ and similar
+      models from 2017 to 2021. Replacing a condenser fan motor typically runs $180
+      to $260 in parts and labor. If the compressor has been running hot long enough
+      to trigger the overload protector, that diagnosis takes longer and the repair
+      cost jumps considerably — usually $350 to $500 depending on the refrigerant
+      type. Catching a condenser fan failure early is the difference between a
+      quick fix and a week without refrigeration.
+
+  - title: "Ice Buildup on Evaporator Coil — Defrost Timer and Heater Failures"
+    description: |
+      A thick frost layer building inside the freezer compartment is almost always
+      a defrost system problem, not a sealed-system problem. The defrost timer — or
+      on newer electronic models, the control board handling the defrost cycle —
+      stops triggering the heater coil, and ice accumulates on the evaporator coil
+      until airflow to the fresh food section is completely blocked. Canoga Park's
+      hard water makes this worse: the ice that forms is minerally dense and
+      insulates even more aggressively than clean ice would. GE Profile refrigerators
+      from the 2015 to 2020 era are notorious for this; we get calls from homeowners
+      near Sherman Way dealing with a freezer that's frozen solid while the fridge
+      section sits at 50°F. Defrost timer replacement is usually a $120 to $180
+      repair. Evaporator heater coil replacement adds another $80 to $130. Getting
+      both done at the same time saves a second service visit.
+
+  - title: "Ice Maker Failure from Mineral Scale — Water Inlet Valve Blockage"
+    description: |
+      Canoga Park's water hardness is not a rumor — it's measurable. The LADWP water
+      quality report for this service area has shown hardness levels between 280 and
+      380 mg/L for several years running, and every one of those milligrams is working
+      on the solenoid inside your ice maker's water inlet valve. The valve orifice
+      gets progressively narrowed by calcium deposits until either no water enters the
+      ice maker mold or the flow is so restricted that you get tiny, hollow cubes
+      instead of full ones. Samsung and LG french-door models are especially prone to
+      this because their dual-inlet valves have smaller orifices than older designs.
+      A water inlet valve replacement runs $140 to $220, and we carry OEM-spec parts
+      for most Samsung, Whirlpool, and Kenmore ice maker assemblies on the truck.
+      Adding an inline water filter rated for 50 microns or finer is the best way to
+      slow the recurrence down.
+
+  - title: "Water Leaking Under the Refrigerator — Clogged Defrost Drain and Door Gasket Failure"
+    description: |
+      Puddles under a refrigerator usually come from one of two places: a clogged
+      defrost drain tube or a torn door gasket letting warm, humid air into the
+      cabinet. The defrost drain runs from the evaporator coil pan down through a
+      tube to the drip pan underneath — in Canoga Park kitchens, dust and debris
+      from older vinyl flooring back up this drain faster than most people expect.
+      A hot-water flush and a thin flexible brush clear it in under an hour. Door
+      gaskets on Frigidaire side-by-sides and Amana top-freezers fail on the hinge
+      side first: the magnetic seal softens with age, gaps open, and the compressor
+      runs almost continuously trying to compensate. A replacement gasket runs $75
+      to $140 depending on the model. Left alone, that constant compressor cycling
+      will shorten the sealed system's life by two to four years.
+
+  - title: "Compressor Noise and Thermostat Drift — When Diagnosis Matters More Than Parts"
+    description: |
+      A refrigerator running loud isn't automatically a compressor problem, even
+      though that's the first thing people assume. In 91304, we regularly find the
+      culprit is a loose drip pan rattling against the cabinet, or a condenser fan
+      blade that's clipped a dust mat and gone off-balance — both fixes under $100.
+      Actual compressor bearing wear sounds different: a rhythmic, low-pitched knock
+      that pulses with the compression cycle. Kenmore and GE units from the late
+      2010s using variable-speed compressors sometimes throw error codes — a flashing
+      temperature display or a specific LED blink pattern — before the compressor
+      fully quits. A thermostat or thermistor drift issue shows up differently: the
+      fridge holds 42°F when it should hold 37°F, and food spoils faster than it
+      should. Thermistor replacement is typically a $95 to $160 repair. Compressor
+      replacement on a mid-range unit runs $400 to $650 and only makes sense on a
+      refrigerator under 8 years old.
+
+faq:
+  - q: "How fast can you get to Canoga Park for refrigerator repair?"
+    a: |
+      Same-day appointments are usually available. From our Valley base, Canoga Park
+      is a straightforward run — about 20 to 35 minutes depending on the 101/405
+      interchange and peak hour on Topanga Canyon Boulevard. We carry parts for
+      Whirlpool, GE, Samsung, Kenmore, Frigidaire, and LG on the truck, so most
+      repairs don't require a return visit. Evening slots are available for renters
+      who can't take time off work. Call us at (323) 870-4790 and we'll get you on
+      the schedule the same day in most cases — refrigerator calls get prioritized
+      because a broken fridge isn't something you can wait a week on.
+
+  - q: "What does refrigerator repair in Canoga Park typically cost?"
+    a: |
+      The diagnostic visit is $85, credited toward the repair if you approve the
+      work. Most common repairs — condenser fan motor, water inlet valve, defrost
+      thermostat, door gasket — fall in the $150 to $300 range all-in. Ice maker
+      assembly replacement runs $220 to $380 depending on the brand and whether the
+      housing is damaged. Compressor replacement is significantly more, usually $400
+      to $650, and we'll tell you upfront if the unit's age makes that a bad
+      investment. Pricing is exact and confirmed before anything gets touched — no
+      surprise labor charges after the fact. Call (323) 870-4790 to schedule.
+
+  - q: "My landlord is responsible for the fridge — can you still come out to Canoga Park?"
+    a: |
+      Yes. A lot of the calls we get in 91303 are from renters whose landlords have
+      authorized the repair but aren't on-site. We coordinate directly with property
+      managers and send written estimates by email so the owner can approve before
+      we proceed. California Civil Code §1941 requires landlords to maintain working
+      refrigerators when one was provided as part of the lease — so if your landlord
+      is dragging their feet, a written repair estimate in hand usually speeds things
+      up considerably. We work with rental management companies throughout Canoga
+      Park and the wider Valley regularly. Call (323) 870-4790 to explain the
+      situation and we'll find the fastest path forward.
+
+  - q: "Do you handle refrigerant recharges and sealed system repairs in Canoga Park?"
+    a: |
+      Yes, but a low-refrigerant condition in a residential refrigerator is almost
+      never just a matter of topping it off. The sealed system — compressor,
+      evaporator coil, condenser, and the refrigerant lines connecting them — is a
+      closed loop from the factory. Low refrigerant means there's a leak, and adding
+      refrigerant without finding and fixing it just delays the failure. Our
+      technicians are EPA 608 certified for refrigerant handling, which is a legal
+      requirement for this work. Most residential units use R-134a or R-600a. We
+      pressure-test the sealed system, locate the leak point, and give you an honest
+      assessment of whether repair makes sense versus replacement. On Whirlpool and
+      GE units under 10 years old, it usually does.
+
+  - q: "How long should a repaired refrigerator last in Canoga Park's climate?"
+    a: |
+      A properly repaired refrigerator should give you several more years of reliable
+      service — as long as the root cause was fixed, not just the symptom. Replacing
+      a condenser fan motor without checking why it overloaded in the first place
+      (usually inadequate clearance or filthy coils) means the next one fails in a
+      year. We do a basic coil cleaning and airflow check on every job. For hard
+      water damage to ice makers and inlet valves, we recommend an inline filter to
+      extend the life of replacement parts. Parts we install carry a 90-day
+      parts-and-labor warranty. For Whirlpool, GE, and Samsung OEM components
+      specifically, manufacturer warranty typically extends 12 months from the date
+      of installation.
+
+  - q: "Do you cover other cities near Canoga Park for refrigerator repair?"
+    a: |
+      Canoga Park sits centrally for our Valley coverage, so nearby calls are no
+      problem. Service runs regularly to West Hills, Chatsworth, Woodland Hills,
+      Reseda, Northridge, and Winnetka — all within 15 minutes on a normal day.
+      Heading south toward Calabasas or Thousand Oaks adds 20 minutes but stays
+      well within range. Coverage also extends down to Irvine and up to Santa
+      Clarita when needed. Not sure if you're in our area? Call (323) 870-4790.
+      Scheduling is same-day or next-morning for most Canoga Park zip codes, with
+      evening availability for working residents who can't do daytime appointments.
