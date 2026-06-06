@@ -1,0 +1,198 @@
+title: "Granada Hills Washer Repair — Built for Valley Homes & Hard Water"
+
+intro: |
+  Zelzah Avenue and Petit Avenue wind through some of the most established
+  residential blocks in the 91344 zip — single-family ranch homes built in
+  the 1960s and early 70s with actual dedicated laundry rooms, not the
+  stackable closet setups crammed into Reseda apartments. Those homes are
+  aging well, but the appliances inside them aren't always keeping pace.
+  LADWP water in Granada Hills tests consistently hard — in the 300-400 ppm
+  range — and that mineral load destroys water inlet valves and drum seals
+  faster than most repair guides account for. The Whirlpool and Kenmore
+  top-loaders installed during kitchen-and-laundry remodels in the 2000s are
+  hitting the 15-year mark now. That's right around when the drain pump
+  starts groaning, the spin cycle gets loud, or the machine stops mid-load
+  and throws an error code. O'Melveny Park draws hikers every weekend, but
+  the repair calls hitting our schedule come from the neighborhoods just south
+  of it — homeowners dealing with washers that worked fine last Tuesday and
+  are sitting full of standing water today.
+
+localContext: |
+  Granada Hills is almost entirely single-family residential, which matters
+  for washer repair because these homes have real laundry rooms with standard
+  hookups — not the compact 110V closet setups found in apartment buildings.
+  Most of the housing stock in the 91344 zip was built between 1955 and 1978,
+  which means many homes still have original drain stack plumbing that slows
+  discharge and triggers false "not draining" errors even when the washer's
+  drain pump is working fine. The western edge near Chatsworth and the 118
+  Freeway corridor has newer construction from the late 1980s and 90s, where
+  Samsung and LG front-loaders are more common. Those machines have their own
+  failure patterns: door boot seals that crack in the Valley heat, drum
+  bearings that rumble when the spin hits 1000 RPM, and control boards that
+  throw F-codes without an obvious cause. The 91343 zip covers the North Hills
+  transition zone along Sepulveda Boulevard, where older Frigidaire and GE
+  units in homes that haven't had an appliance update in two decades are still
+  running — until they aren't.
+
+commonProblems:
+  - title: "Standing Water After Every Cycle — Drain Pump Failure in Hard-Water Homes"
+    description: |
+      This is the most common call from Granada Hills. Hard water deposits
+      accumulate inside the drain pump filter and impeller over months of use,
+      slowing the pump until it can't clear the drum at all. On Whirlpool
+      top-load models, a clogged or failed pump shows up as an F21 or F9 E1
+      error code — the machine fills and agitates normally, then just sits
+      there. GE front-loaders have a filter access door at the bottom front
+      panel that most homeowners don't know exists until the machine stops
+      draining entirely. A drain pump replacement runs $180–$240 parts and
+      labor on most platforms; a thorough filter cleanout is cheaper if you
+      caught it early. We carry replacement pumps for both Whirlpool and GE
+      platforms on the van, so same-day repair is almost always doable. If
+      the drain stack itself is partially blocked, that's a plumbing issue —
+      and we'll tell you that on the spot before you pay for an appliance
+      repair you don't need.
+
+  - title: "Loud Rumbling During Spin — Drum Bearings and Shock Absorbers"
+    description: |
+      Drum bearings wear out. It's mechanically predictable, and Samsung HE
+      front-loaders in Granada Hills homes hit this failure earlier than the
+      service manual suggests — the combination of heavy loads, high spin
+      speeds (up to 1200 RPM), and mineral-laden water degrading the rear
+      bearing seal is a real accelerant. The sound starts as a low rumble at
+      the beginning of the spin cycle and turns into a grinding roar at full
+      speed. Shock absorbers fail differently — if the machine is walking
+      across the floor or banging the wall on every cycle, worn shock
+      absorbers are usually the culprit rather than bearings. Bearing
+      replacement on a Samsung front-loader runs $280–$380 depending on drum
+      access configuration; shock absorbers are cheaper, typically $140–$200.
+      Both repairs are labor-intensive enough that a misdiagnosis wastes real
+      money. We'll confirm which component is actually failing before quoting
+      anything.
+
+  - title: "Washer Fills but Won't Spin — Lid Switch and Drive Belt Failure"
+    description: |
+      On older Kenmore and Whirlpool top-loaders, a failed lid switch is
+      almost always the cause when the machine fills and agitates but refuses
+      to spin. The lid switch tells the control board the lid is closed — if
+      it fails open, the board cuts spin entirely as a safety measure, even if
+      nothing else is wrong. Lid switch replacement is one of the simpler
+      repairs: typically $95–$130 on a standard top-loader, done in under an
+      hour. Drive belt failure is the other common cause on belt-driven
+      machines — you'll hear the motor running but the spin basket stays still.
+      Amana top-loaders use a belt-and-drive setup that's straightforward to
+      access on most model years. On direct-drive Maytag top-loaders, the
+      motor coupling fails instead of a belt — parts cost $15–$40, labor
+      brings the total to $120–$180. Most of these are one-visit repairs with
+      parts already on the van.
+
+  - title: "Door Lock Error Codes — Front-Load Latch Assembly Failures"
+    description: |
+      The door latch assembly on front-loaders fails two ways: the physical
+      latch wears and the door won't click shut, or the electronic lock
+      actuator burns out and the machine throws an error code — F8 E4 on
+      Whirlpool and Maytag platforms, dL on older LG models. Either way, the
+      machine won't start a cycle, and there's no workaround. LG front-loaders
+      in Granada Hills see this fairly often, especially units that are 7–10
+      years old with heavy household use behind them. A replacement door latch
+      assembly runs $90–$160 depending on the model; labor on most front-loaders
+      is under an hour since the latch mounts at the door frame opening. If the
+      control board is throwing secondary errors after the latch fails, that's
+      a separate diagnosis — control board replacement runs $200–$350 on its
+      own, and some boards on older machines aren't worth the cost. We'll tell
+      you where the line is before the repair bill surprises you.
+
+  - title: "Water Leaking from the Washer — Tracing It to the Right Source"
+    description: |
+      Leaks appear in three main spots: the door boot seal, the water inlet
+      valve, and the drain hose connection at the back. On Samsung and LG
+      front-loaders, the door boot seal — the rubber gasket ringing the door
+      opening — cracks and tears over time, especially in laundry rooms with
+      poor airflow and Valley summer heat pushing ambient temperatures up.
+      The seal itself costs $40–$80; labor to swap it runs $100–$160 on most
+      models. Water inlet valve leaks look different — water appears at the
+      back of the machine or underneath it, typically only during the fill
+      cycle. A failing inlet valve can also cause overfilling or no-fill
+      conditions separately from the leak. Drain hose connection leaks are
+      usually the cheapest fix — a loose clamp or cracked hose end. Tracing
+      the leak source accurately before quoting a repair is non-negotiable.
+      A misdiagnosed boot seal replacement won't fix an inlet valve problem,
+      and that kind of mistake is avoidable with a proper diagnostic first.
+
+faq:
+  - q: "How fast can you get to Granada Hills for washer repair?"
+    a: |
+      Granada Hills sits right off the 118 Freeway, which makes routing
+      straightforward from most of our service coverage area. Coming from the
+      North Hills side, we're typically 20–35 minutes out; from Van Nuys or
+      Northridge, closer to 15–25 minutes depending on Balboa Boulevard
+      traffic. Same-day appointments are available most days, and morning
+      slots usually get us there within 2 hours of your call. Evening
+      appointments are open Tuesday through Saturday for homeowners who can't
+      be home during the day. Call us at (660) 999-9960 to check current
+      availability — if there's a cancellation slot, we'll get you in the
+      same afternoon.
+
+  - q: "What does washer repair in Granada Hills typically cost?"
+    a: |
+      Most repairs in Granada Hills fall between $120 and $380, depending on
+      the part and the machine. Lid switch or drain pump replacements on a
+      Whirlpool or Kenmore top-loader are on the lower end — $120–$200
+      complete. Front-load repairs like drum bearing jobs or control board
+      replacements run higher, $280–$400, because of the labor involved in
+      accessing those components. A $75 diagnostic fee applies toward the
+      repair if you move forward. No repair gets authorized without an exact
+      written quote first — call (660) 999-9960 or book online and we'll give
+      you a firm number before touching anything.
+
+  - q: "Do Granada Hills HOA communities have rules about washer replacement or repair?"
+    a: |
+      Most single-family HOAs in Granada Hills don't restrict appliance brands
+      or installation methods, but some planned developments near the 118 and
+      Rinaldi Street corridor have CC&Rs requiring licensed contractors for
+      any plumbing-connected appliance work. City of LA permit requirements
+      for a standard washer repair are essentially nonexistent — you'd only
+      need a permit for a new dedicated electrical circuit or a gas line
+      modification, not for appliance repair or a like-for-like washer swap.
+      If your HOA has specific documentation requirements, we carry business
+      licensing paperwork and can provide written repair summaries. Call
+      (660) 999-9960 if you're not sure what your community requires — we
+      can help you sort that out on the initial call.
+
+  - q: "Can you fix Samsung front-load error codes like 5E, ND, or UE in Granada Hills?"
+    a: |
+      Yes — those specific codes come up constantly in this part of the
+      Valley. The 5E and ND codes on Samsung front-loaders almost always
+      point to a failed drain pump or a clogged pump filter, and Granada Hills
+      hard water is a direct contributor to that buildup. The UE code is an
+      unbalanced load error, but if it's throwing UE on every cycle regardless
+      of load size, a worn shock absorber or degraded drum bearing is usually
+      the actual problem — not the laundry itself. Samsung OEM drain pumps and
+      shock absorber sets ride on the van for exactly this reason. Call
+      (660) 999-9960 and describe the error code you're seeing — we can
+      usually narrow down the likely cause before we even arrive.
+
+  - q: "What warranty do you offer on washer repairs in Granada Hills?"
+    a: |
+      Parts carry a 90-day manufacturer warranty and labor is guaranteed for
+      30 days from the repair date. Same issue comes back inside that window,
+      we return and fix it at no charge. For major component replacements —
+      drum bearings, control boards, drain pumps — we use OEM or
+      OEM-equivalent parts sourced from authorized distributors, not
+      aftermarket knockoffs. That distinction matters for longevity,
+      particularly on Samsung and LG front-loaders where cheap third-party
+      parts often fail within months of installation. If a repair cost
+      doesn't make economic sense for the machine's age and condition, we'll
+      tell you that upfront rather than push a $350 fix on a washer that's
+      heading toward retirement anyway.
+
+  - q: "Do you cover Northridge, Porter Ranch, and other cities near Granada Hills?"
+    a: |
+      Northridge, Porter Ranch, Chatsworth, and North Hills are all within
+      our regular service rotation — those are short runs from Granada Hills,
+      typically 10–20 minutes. The 91344 zip is a primary coverage zone,
+      which means same-day availability here is more consistent than in
+      farther areas like Santa Clarita or the Westside. Evening slots run
+      Tuesday through Saturday for homeowners who work during the day. Call
+      (660) 999-9960 or schedule online — we'll find a window that fits your
+      schedule without making you wait three days for a machine full of wet
+      laundry.

@@ -1,0 +1,168 @@
+title: "Studio City Ice Maker — Fix It Before the Valley Heat Hits"
+
+intro: |
+  Fryman Canyon Park sits at the top of Fryman Road, and the houses climbing that
+  hillside above 91604 are running some of the hottest kitchens in the San Fernando
+  Valley by mid-July. A GE Profile side-by-side in a 1960s ranch on a Fryman Estates
+  Drive lot can have the ice maker assembly working overtime just to keep up with ambient
+  temps pushing past 90°F against a garage-adjacent utility wall. That thermal stress
+  usually shows up first as small, hollow cubes — then the bin stops filling entirely.
+  The fill valve gets blamed, but half the time the real culprit is a failed ice mold
+  thermostat that can't detect harvest completion accurately. Hard water from the LA
+  Municipal supply averages around 275 parts per million in this part of the Valley,
+  and that mineral load clogs inlet screens and slows water delivery to the ice tray
+  long before any electrical component gives out. The Colfax Meadows area shows this
+  same pattern constantly — refrigerators that haven't been serviced since the original
+  kitchen build are especially vulnerable.
+
+localContext: |
+  Studio City's housing stock is a genuine mix — 1940s bungalows off Ventura Boulevard,
+  1960s California ranch homes in the flats between Laurel Canyon and Coldwater Canyon,
+  and some newer construction pushing toward the ridgelines. The 91604 zip covers most
+  of the residential core; streets bordering Valley Village (91602) add a layer of
+  smaller kitchens in original-build apartments where the refrigerator is wedged tight
+  against cabinetry. That cabinetry clearance problem blocks condenser airflow and
+  accelerates ice maker failures — the condenser fan can't pull enough air to stabilize
+  internal freezer temps, which throws off the harvest cycle timing. Pre-1980 homes
+  often have undersized water supply lines feeding the ice maker inlet valve, meaning
+  pressure drops are common; the valve opens on signal but doesn't deliver enough
+  volume to fill the ice mold properly, producing hollow or partial cubes even when
+  nothing is actually broken. Parking service vans near the denser stretches of Ventura
+  Boulevard takes some coordination, but we've worked out efficient routing from our
+  Valley base that keeps arrival windows tight.
+
+commonProblems:
+  - title: "Fill Valve Failure — The Most Common Reason Your Ice Maker Goes Silent"
+    description: |
+      The water inlet valve is the first component to check when a Whirlpool or Kenmore
+      refrigerator stops making ice entirely. This solenoid-controlled valve opens on a
+      timed signal from the control board and closes after delivering roughly 4–7 ounces
+      of water to the ice mold. In 91604's hard-water conditions, mineral deposits coat the
+      inlet screen inside the valve over two to three years, restricting flow until the
+      valve can't fill the tray at all. Replacement inlet valves for most Whirlpool-platform
+      refrigerators run $35–65 for the part; labor and same-day service in Studio City
+      typically brings the total repair to $120–160. We carry common inlet valves for
+      Whirlpool, GE, and Frigidaire on the van — most fill valve jobs close in a single
+      visit without a return trip for parts.
+
+  - title: "Hollow or Misshapen Cubes — Mineral Scale Inside the Ice Mold"
+    description: |
+      Small, hollow crescents coming out of a Samsung french-door usually point to mineral
+      scale coating the interior of the ice mold, an inlet volume problem, or a failing
+      ice mold thermostat. LA Municipal water in Studio City averages 275–300 ppm of
+      dissolved calcium and magnesium, and that buildup changes how water freezes against
+      the mold walls and how the ejector arm releases finished cubes. A degraded ice mold
+      thermostat can't accurately detect when the harvest cycle is complete, so the heater
+      strip activates at the wrong time — cubes come out fused, misshapen, or too small to
+      use. Descaling the mold and replacing the thermostat typically runs $95–140 all-in
+      and solves the issue permanently when combined with a basic inline water filter on
+      the supply line.
+
+  - title: "Frozen Fill Tube — Dead Ice Maker That Isn't Actually Broken"
+    description: |
+      This one catches homeowners off guard: the ice maker assembly itself is functioning
+      correctly, but the fill tube between the door-mounted inlet valve and the ice tray has
+      frozen solid. It happens most in Studio City homes where the refrigerator sits near an
+      exterior wall — ambient cold from the wall, combined with a slightly miscalibrated
+      freezer thermostat, drops the fill tube temp below freezing during the refill cycle.
+      GE and Frigidaire side-by-side models from the 2010–2016 production years are
+      especially prone to this due to fill tube placement geometry. Thawing the line takes
+      about 20 minutes on-site; adding a fill tube heater kit (roughly $45–80 installed)
+      and recalibrating the freezer thermostat prevents the freeze from recurring through
+      the following Valley summer.
+
+  - title: "Sensor Malfunction — Ice Maker Thinks the Bin Is Full When It's Empty"
+    description: |
+      The shut-off arm sensor — or on newer electronic models, the optical emitter and
+      receiver pair — signals the ice maker control board to stop production when the bin
+      reaches capacity. A Kenmore or Amana unit that stops producing ice with a clearly
+      empty bin usually has either a stuck mechanical arm or a fogged optical sensor lens.
+      A single rogue cube jammed under the arm, a misaligned bin, or freezer humidity
+      coating the optical lens can all trigger a false "full" reading. On electronic sensor
+      models common on Samsung and LG units from 2018–2023, cleaning or replacing the
+      optical sensor costs $20–40 for the part. Before ordering anything, we run a manual
+      test cycle on-site to confirm whether it's the sensor or the control board sending
+      the bad signal — that distinction affects cost significantly.
+
+  - title: "Repair vs. Replace — Honest Assessment for Studio City Homeowners"
+    description: |
+      Any ice maker under eight years old with a single failed part — inlet valve,
+      thermostat, ejector motor — is almost always worth repairing. Parts and labor
+      land between $100 and $220 depending on the brand and what failed. Refrigerators
+      past the 12-year mark with corroded control boards or compressor issues are a
+      different calculation; repairing ice maker components on a machine that's already
+      marginal is spending money on the wrong problem. GE and Whirlpool both maintain
+      parts availability stretching 15+ years on their major platforms, so even an older
+      machine can often be fixed affordably. On every Studio City call, we give a straight
+      on-site breakdown — part cost, labor, and an honest opinion on whether the overall
+      refrigerator justifies the repair — before touching anything.
+
+faq:
+  - q: "How fast can you get to Studio City for an ice maker repair?"
+    a: |
+      Studio City sits right off the 101 freeway, and from our Valley base we're typically
+      pulling up within 90 minutes of a morning call. Traffic near Laurel Canyon on the 101
+      can stretch afternoon runs, so we prefer booking Studio City appointments before noon
+      or in evening slots after 6 PM — both are usually available. Same-day service runs
+      most weekdays; call us at (323) 870-4790 and we'll lock in a two-hour arrival window.
+      For a frozen fill tube or a jammed shut-off arm, diagnosis and repair almost always
+      close in a single visit. Parking on the residential streets off Ventura Boulevard is
+      generally straightforward for a service van.
+
+  - q: "What does ice maker repair cost in Studio City?"
+    a: |
+      Most ice maker repairs in Studio City run between $95 and $220 depending on what
+      failed. A water inlet valve swap on a Whirlpool or Frigidaire typically comes to
+      $120–160 all-in. An ice mold thermostat replacement with a descaling service runs
+      $100–145. Control board failures — less common but they happen — push toward
+      $180–250 for parts and labor combined. The diagnostic fee isn't billed separately;
+      the service call covers the diagnosis, and if you approve the repair, that call fee
+      rolls into the total. Schedule a same-day appointment and you'll have an exact number
+      before any work starts.
+
+  - q: "Do I need a permit for ice maker repair or a new water line in Studio City?"
+    a: |
+      Standard appliance repair — replacing an inlet valve, thermostat, sensor, or the
+      full ice maker assembly inside an existing refrigerator — doesn't require a permit
+      anywhere in the City of Los Angeles, which governs Studio City. Adding a brand-new
+      water supply line to a standalone undercounter unit that previously had no water
+      connection is a different situation; a plumbing permit through LADBS (LA Department
+      of Building and Safety) may apply depending on scope. Our technician (contractor
+      license #1136541) walks through what applies before any new line work begins. For
+      the vast majority of repair calls in 91604, there's no permit, no waiting period —
+      just a same-day fix.
+
+  - q: "Can you repair undercounter or standalone ice makers, not just refrigerator trays?"
+    a: |
+      Standalone undercounter ice makers — common in Studio City home bars, outdoor
+      kitchens, and entertainment rooms — are a regular part of the service workload.
+      These machines use a separate compressor, recirculating water pump, and harvest
+      sensor system that requires different diagnostics than a refrigerator-mounted tray.
+      Frigidaire Gallery and GE Monogram undercounter models are the most frequent calls
+      we see in this area. The water pump and harvest sensor fail most often on these
+      machines, and both are field-replaceable on-site. Call (323) 870-4790 and describe
+      your unit — we'll confirm parts availability before scheduling so the first visit
+      is also the last.
+
+  - q: "How long should an ice maker last in Studio City's climate?"
+    a: |
+      A refrigerator-mounted ice maker assembly typically lasts 4–8 years under normal
+      conditions. Two factors cut that range shorter in Studio City: hard municipal water,
+      which scales the inlet valve and ice mold faster than most homeowners expect, and
+      Valley summer heat, which increases cycle frequency and stresses the harvest
+      components. Installing a refrigerator water filter rated for mineral reduction —
+      Whirlpool, GE, and Samsung all make proprietary filter cartridges for their own
+      models — extends ice maker life noticeably. A $15 filter swap every six months costs
+      less than a $160 valve replacement every three years. Standalone undercounter machines
+      run 8–12 years with annual descaling. All repair work we do carries a 90-day
+      parts-and-labor warranty.
+
+  - q: "Do you cover areas near Studio City, or just the 91604 zip?"
+    a: |
+      Studio City is central to our Valley coverage — Sherman Oaks, Toluca Lake, Burbank,
+      and North Hollywood all run on the same daily route. Customers just over the hill in
+      Los Feliz or Silver Lake are covered too; the 101 makes that run fast. From Studio
+      City we also reach Calabasas and Woodland Hills for morning appointments without
+      adding meaningful drive time. Evening slots are available Tuesday through Saturday
+      for anyone who can't take a daytime window. Call (323) 870-4790 or schedule online
+      — confirm your address and we'll tell you exactly when we can be there.

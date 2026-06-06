@@ -1,0 +1,177 @@
+title: "Granada Hills Freezer — Valley Heat Grinds Compressors Down"
+
+intro: |
+  O'Melveny Park sits at the northern edge of Granada Hills — 672 acres backed against
+  the Santa Susana foothills — and the ranchers below it on Woodley and Hayvenhurst
+  mostly date from 1957 through 1969. Palmer & Krisel-era builds, single-story, garages
+  facing west or south with zero insulation in the walls. That is where the chest freezer
+  ends up. A GE chest freezer rated to operate in ambient temps up to 90°F is working
+  completely outside its design envelope by 1 p.m. on a July afternoon when that garage
+  hits 107°F. The compressor's thermal overload protector starts tripping before the
+  cabinet can hold 0°F, and within a few weeks of summer you're losing food. Down
+  along Rinaldi Street toward Petit Park, it's kitchen uprights — Frigidaire and Kenmore
+  models from the mid-2000s — running nonstop trying to compensate for heat infiltrating
+  through aging door gaskets. Granada Hills freezer calls spike every June and don't
+  slow down until October. We're in the neighborhood regularly and know exactly what
+  these homes do to appliances.
+
+localContext: |
+  Zip code 91344 covers essentially all of residential Granada Hills — the Marlborough
+  Palms tract near Zelzah and Devonshire, the streets clustered around Knollwood Country
+  Club, and the denser blocks south of Rinaldi. Almost everything was built between 1957
+  and 1972, which means original construction garages that were never intended to house
+  appliances but have been doing exactly that for 50+ years. Porter Ranch to the north
+  (91326) has newer builds from the '80s and '90s with slightly better insulated garages,
+  but the heat problem doesn't disappear — Valley summers are Valley summers regardless
+  of build year. LADWP water hardness readings in this part of the San Fernando Valley
+  run between 150 and 220 mg/L depending on the source blend that month — moderate to
+  hard. That mineral load accumulates inside ice maker assemblies slowly and steadily:
+  scaling the water inlet valve solenoid, clogging fill tubes, and coating the mold
+  heater until ice production stops entirely. Whirlpool and Samsung side-by-side and
+  French-door models are the most common units we see for this specific failure in 91344.
+
+commonProblems:
+  - title: "Compressor Thermal Overload Trips from Extreme Garage Heat"
+    description: |
+      Most consumer freezers — GE, Frigidaire, Amana — spec a maximum ambient operating
+      temperature between 90°F and 100°F. Granada Hills garages in July blow past that
+      before noon. When ambient temps exceed the compressor's design range, the thermal
+      overload protector — a small bimetal clip seated directly against the compressor
+      housing — trips repeatedly to protect the motor from overheating. Each trip cuts
+      the cooling cycle short. The cabinet temperature creeps from 0°F toward 15°F or
+      higher, and food in the lower sections starts to soften before anything looks wrong
+      from the outside. Diagnosing this correctly means checking the overload protector
+      with a multimeter and testing compressor start winding resistance — not just
+      assuming the compressor itself has failed. Overload protector replacement is
+      inexpensive, typically $95–$145 parts and labor. If the compressor windings have
+      shorted from repeated thermal stress, that's a different conversation — often
+      $320–$420 — and on a unit past 12 years, replacement may pencil out better.
+
+  - title: "Frost-Locked Evaporator Coil — Defrost Heater Assembly Burnout"
+    description: |
+      Upright freezers run a defrost cycle every 8–12 hours using a resistance heater
+      wrapped around or clipped to the evaporator coil. When that defrost heater element
+      burns out — a glass-tube or calrod type depending on the model — frost accumulates
+      on the coil unchecked. Within a week or two, the coil is completely encased in
+      ice, airflow through it stops, and cabinet temperature rises even though the
+      compressor is still running and cycling normally. Kenmore and Whirlpool uprights
+      from the early 2000s are repeat offenders for this; the original defrost heater
+      elements on those platforms have a finite lifespan that's shortened by units running
+      hard through summer. The defrost timer also warrants testing — a timer stuck in
+      defrost mode causes different symptoms but comes from the same system. Full defrost
+      heater assembly replacement, including manual defrost of the coil, typically runs
+      $130–$190. Catching it early saves food and prevents water damage under the unit
+      from ice melt.
+
+  - title: "Door Gasket Failure — Warm Air Infiltration and Spiking Electric Bills"
+    description: |
+      Freezer door gaskets are compressed vinyl or rubber magnetic seals that last
+      roughly 10–15 years in normal conditions. In a 110°F garage, that timeline
+      shortens — heat accelerates vinyl cracking and kills the magnetic strip's
+      flexibility. A failed gasket on a Frigidaire upright or a Samsung French-door
+      freezer section lets warm, humid air enter the cabinet constantly. The compressor
+      runs nonstop trying to compensate, electricity consumption goes up 15–25%, and
+      frost forms along the door frame where infiltrating air meets cold cabinet walls.
+      You can test it with a dollar bill — close the door on it and pull; if it slides
+      out without resistance at any point around the perimeter, the seal is gone.
+      Replacement gaskets have to match the exact model number or they won't seat
+      correctly. We stock OEM gaskets for common Frigidaire, GE, and Samsung models.
+      Labor and parts for a single-door gasket swap typically runs $75–$120;
+      French-door lower drawer gaskets are slightly more involved, usually $95–$140.
+
+  - title: "Intermittent Temperature Spikes — Condenser Fan Motor and Thermostat Drift"
+    description: |
+      A freezer that holds 0°F overnight but climbs to 18°F by mid-afternoon points
+      straight at the condenser fan motor. This fan pulls air across the condenser coil
+      to release heat from the refrigeration loop; when the motor bearings start to wear,
+      it runs intermittently and heat backs up in the system until the compressor trips
+      off on thermal protection. Amana and Kenmore side-by-side models have the condenser
+      fan mounted at the lower rear panel — the motor usually gives you a warning buzz or
+      a grinding hum before it fails completely. If the fan checks out, the cold-control
+      thermostat is next: it can drift out of calibration and report the cabinet as colder
+      than it actually is, telling the compressor to cut off too early. Condenser fan
+      motor replacement runs $110–$165 including parts and labor. Thermostat replacement
+      is typically $85–$130. Call us at (660) 999-9960 — same-day diagnosis appointments
+      are available most weekdays before noon in 91344.
+
+  - title: "Ice Maker Assembly Scaling from Hard Water — Slow Fill and No Ice"
+    description: |
+      The LADWP supply hitting Granada Hills routinely runs 150–220 mg/L in total
+      dissolved minerals. That doesn't sound like much until you consider an ice maker
+      cycling 10–15 times a day, every day, depositing a thin mineral film on the water
+      inlet valve, fill tube, and mold heater each time. Over 18–24 months, the inlet
+      valve solenoid restricts, fill cycles slow, and ice cubes come out small or hollow
+      before production stops entirely. Samsung and LG French-door models are the most
+      common call for this in the neighborhood — their ice maker assemblies are more
+      complex than older platform designs, with more plastic components that scale up
+      faster. Whirlpool side-by-sides are second. Descaling the fill tube and inlet
+      screen can extend life if caught early; a valve solenoid that's scaled internally
+      needs replacement — typically $110–$160 for the inlet valve alone. Full ice maker
+      assembly replacement runs $145–$230 depending on model complexity. Installing a
+      dedicated inline filter at the supply shutoff valve is worth the $35–$50 after the
+      repair — it dramatically slows recurrence.
+
+faq:
+  - q: "How fast can you get to Granada Hills for freezer repair?"
+    a: |
+      Granada Hills is straightforward for us — the 118 Freeway drops us right into the
+      neighborhood, and from our nearest coverage point we're typically 20–30 minutes
+      out. Morning calls before 10 a.m. almost always get same-day service; we can
+      usually be at the door within 2 hours of booking. Parking on Woodley, Zelzah,
+      Balboa — the residential streets aren't a problem. Evening slots are open most
+      weekdays after 5 p.m. for anyone who can't take time off work. Call us at
+      (660) 999-9960 to check what's available today.
+
+  - q: "What does freezer repair typically cost in Granada Hills?"
+    a: |
+      Common repairs — door gasket, defrost heater assembly, condenser fan motor,
+      thermostat — land between $75 and $195 parts and labor combined. Ice maker
+      assembly replacement sits higher, usually $145–$230 depending on the model.
+      Compressor replacement is a separate category: parts and labor together run
+      $320–$450, and on a unit older than 12 years that math often doesn't favor
+      repair over replacement. We give you the breakdown on-site before touching
+      anything, and the diagnostic fee applies toward the repair if you move forward.
+      No surprise charges. Call (660) 999-9960 to book a same-day estimate.
+
+  - q: "Does refrigerant handling require a certified technician — and are your techs certified?"
+    a: |
+      Yes on both counts. Any repair that touches the sealed refrigeration system —
+      compressor replacement, refrigerant recharge, leak detection and repair — legally
+      requires EPA Section 608 certification to handle refrigerants. Both of our
+      technicians hold that certification. The good news: most common freezer failures
+      (defrost heater, gasket, fan motor, thermostat, ice maker valve) don't require
+      opening the sealed system at all, so refrigerant handling isn't part of the job.
+      If your compressor has failed and the system needs recharging, we document the
+      refrigerant work properly on the invoice. No shortcuts and no illegal venting.
+
+  - q: "Can you repair a chest freezer stored in a garage, or only kitchen uprights?"
+    a: |
+      Both, regularly. Garage chest freezers are actually one of the more common service
+      calls we get in Granada Hills — GE and Frigidaire chest models that have been
+      running in un-insulated garages for a decade and are finally showing thermal stress.
+      The core components are the same as an upright: compressor, evaporator coil,
+      thermostat, lid gasket. The layout is different and lid gaskets have a different
+      replacement process than door gaskets, but we carry parts for both configurations.
+      Chest freezer compressor overload failures and lid seal deterioration from heat
+      are both straightforward repairs. Call (660) 999-9960 and describe what you're
+      seeing — we'll tell you whether same-day is realistic for your unit.
+
+  - q: "What warranty covers the repair work after you fix my freezer?"
+    a: |
+      Labor is warranted for 90 days from the repair date. If the same issue comes back
+      within that window, we return at no charge. Parts carry the manufacturer's warranty
+      — typically 90 days to 1 year for components like gaskets, fan motors, and defrost
+      heater assemblies from OEM suppliers. Aftermarket compressors often come with a
+      2-year part warranty, which we'll note on your invoice so you have it in writing.
+      We document the part numbers, model, and serial number on every invoice, so there's
+      no ambiguity if you need to reference the warranty six months later. Nothing verbal.
+
+  - q: "Do you cover Porter Ranch and nearby neighborhoods, or just Granada Hills?"
+    a: |
+      Granada Hills (91344) is one of our regular stops in the northwest Valley, and we
+      cover the surrounding areas without additional trip charges — Porter Ranch (91326),
+      Northridge, Chatsworth, Sylmar, and down into Reseda and Canoga Park. Santa
+      Clarita is about 20 minutes north on the 14 Freeway and falls within our range.
+      Scheduling runs Monday through Saturday with evening appointments available most
+      days after 5 p.m. Same-day service is available on most weekdays if you call
+      before noon. Reach us at (660) 999-9960 to find the next open slot.
