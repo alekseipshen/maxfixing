@@ -1,0 +1,144 @@
+title: "Pacoima Wine Cooler Repair — Keeping Bottles Cold in the 91331 Heat"
+
+intro: |
+  The Ronald Reagan Freeway corridor through Pacoima bakes in some of the harshest ambient temperatures in the entire San Fernando Valley — July afternoons in the 91331 zip routinely hit 106°F, and kitchen interiors in the stucco ranch homes near Ritchie Valens Park push past 95°F before 2 p.m. A Frigidaire 18-bottle countertop unit wasn't designed to cool wine in those conditions without some help, and when the ambient temperature climbs that high, the gap between "working fine" and "throwing a warm-bottle error" narrows fast. Calls from households along Van Nuys Boulevard spike every summer for exactly this reason — units that ran quietly all winter suddenly can't hold 55°F once June lands. Two technicians cover this part of the northeast Valley, and Pacoima is a regular stop on our weekly route. Same-day service is available most days; call (660) 999-9960 before noon and we can usually get there the same afternoon.
+
+localContext: |
+  Most of the residential blocks in Pacoima were built between 1948 and 1968 — compact ranch homes with galley kitchens that weren't designed with dedicated appliance clearance in mind. Wine coolers end up shoved into whatever space is available: under a peninsula counter, next to a gas range, wedged into a corner with maybe an inch of clearance behind the condenser coils. That airflow restriction is a slow death for compressor-based units. In the 91331 zip, near the Mural Mile stretch of Van Nuys Boulevard, we see this layout in probably 70% of the homes we visit. Older apartment buildings near San Fernando Road — closer to the 91340 boundary with the city of San Fernando — have the same problem in smaller footprints, running 6-to-12-bottle countertop models with zero breathing room around the back panel. These gas-stove kitchens also radiate ambient heat even after the burners are off, which compounds the cooling load on any wine cooler sitting within a few feet of the range.
+
+commonProblems:
+  - title: "Wine Cooler Not Cooling — Overworked Compressor in Pacoima Summer Heat"
+    description: |
+      The single most common repair call from Pacoima between June and September is a unit
+      that simply isn't cold. In most cases the compressor is operational but tripping its
+      thermal overload protection because the condenser coils are packed with dust and pet
+      hair, blocking the heat dissipation the unit relies on. GE and Frigidaire compressor
+      models are rated for ambient temperatures up to roughly 90°F — once the kitchen climbs
+      past that, restricted coils push the compressor into a protect-and-reset cycle. The fix
+      involves vacuuming and brushing the condenser coils, testing the condenser fan motor
+      for proper RPM, and checking the start relay on the compressor itself. Parts and labor
+      on a GE 24-bottle freestanding unit typically runs $120–$180. If the compressor has
+      mechanically seized, replacement cost runs $160–$240 — still cheaper than buying new
+      for most mid-size units.
+
+  - title: "Compressor Running Non-Stop — Thermistor Drift and Control Board Miscalibration"
+    description: |
+      A wine cooler whose compressor never cycles off is burning through energy and wearing
+      out components faster than normal. In Pacoima homes where the unit sits inside an
+      enclosed lower cabinet — typical in the 1950s and 1960s kitchens throughout the 91331
+      zip — the thermistor (internal temperature sensor) reads the cabinet air rather than
+      just the cooler interior. Once that thermistor drifts out of calibration, the control
+      board sees a falsely warm reading and keeps the compressor running continuously.
+      Samsung 18-bottle models and Whirlpool countertop units both use clip-mounted
+      thermistors that are straightforward to swap — the part runs $45–$80 depending on the
+      model. The repair itself takes about 45 minutes on-site. Left alone, a continuously
+      running compressor in Valley summer conditions will fail mechanically within 3–5 months.
+
+  - title: "Temperature Swings Throughout the Day — Door Gasket Failure Letting Warm Air In"
+    description: |
+      A unit that holds 55°F overnight but drifts to 64°F by mid-afternoon almost always
+      has a door gasket issue rather than a compressor or refrigerant problem. The rubber
+      door seal on Kenmore, GE, and most house-brand units sold through Home Depot compresses
+      and hardens in low-humidity desert-adjacent heat over time — Pacoima averages around
+      32% humidity in summer, which accelerates seal degradation. The dollar-bill test is
+      definitive: close the door on a bill and pull; if it slides out without resistance at
+      any point around the perimeter, the gasket is compromised. Replacement seals run
+      $25–$55 depending on the model, and the swap takes about 30 minutes. Fixing it early
+      matters because a leaking gasket causes the evaporator to ice over as it overcompensates
+      for the warm-air infiltration, turning a $40 fix into a $150 repair.
+
+  - title: "Vibration Noise and Buzzing — Failed Compressor Mounts and Loose Refrigerant Lines"
+    description: |
+      Compressor-based wine coolers always vibrate slightly — that's normal. A rattle or
+      buzz that gets progressively louder over weeks is something else. In Pacoima apartments
+      near Ritchie Valens Park where units sit on hard tile with no anti-vibration mat, this
+      failure mode shows up frequently. The rubber compressor mounts on budget units —
+      Frigidaire, Amana, GE — are pressed pads that compress and harden after 3–5 years of
+      use. Once they fail, the compressor body contacts the metal base frame directly, and
+      the vibration telegraphs through the entire cabinet. Replacing the mounts costs $30–$60
+      in parts. While the unit is open, we also check the evaporator fan blade for balance
+      and secure any refrigerant lines that have shifted against the cabinet wall — contact
+      between a copper line and sheet metal is a common secondary noise source that's free
+      to fix while we're already in there.
+
+  - title: "Peltier Module Wear on Thermoelectric Units — When the Kitchen Is the Real Problem"
+    description: |
+      Not every wine cooler in Pacoima runs on a compressor. The smaller 6–12-bottle units
+      common in apartments and condos — Frigidaire countertop models, plus most of the
+      Costco-sourced units — use a Peltier (thermoelectric) module. These are quieter but
+      have a hard physical limit: they can only cool about 20°F below the ambient room
+      temperature. In a Pacoima kitchen hitting 90°F in August, that math means the best
+      possible interior temperature is around 70°F — far short of the 55°F ideal for red
+      wine storage. When the Peltier module itself wears out, the cooling delta shrinks even
+      further. Replacement modules run $40–$80 depending on wattage. But if the kitchen
+      stays above 85°F regularly, an upgrade to a compressor-based unit is the more honest
+      long-term recommendation — we'll tell you that during the diagnostic rather than sell
+      you a repair that won't solve the underlying problem.
+
+faq:
+  - q: "How fast can you get to Pacoima for wine cooler repair?"
+    a: |
+      Pacoima is right off the 118 (Ronald Reagan Freeway) at Van Nuys Boulevard, which puts
+      it about 10–15 minutes from our San Fernando base depending on traffic. Calls that come
+      in before noon typically get same-day service — we'll give you a two-hour arrival window
+      so you're not waiting around all afternoon. Evening slots are available Tuesdays and
+      Thursdays for households in the 91331 zip that can't take time off work. Call (660)
+      999-9960 to check same-day availability; for non-urgent repairs, next-morning scheduling
+      usually isn't a problem either.
+
+  - q: "What does wine cooler repair in Pacoima cost?"
+    a: |
+      Most repairs land between $85 and $250 all-in. A door gasket replacement on a Kenmore
+      or GE unit is toward the lower end — typically $75–$110 parts and labor. A thermistor
+      or control board swap runs $120–$165. Compressor replacement is the ceiling, usually
+      $180–$250 depending on the model. Diagnostic visits are $65, which gets credited toward
+      any repair we do the same day. If the repair estimate exceeds roughly 70% of the unit's
+      replacement value, we'll tell you that directly before any work starts. Call (660)
+      999-9960 or book online for a same-day estimate at your Pacoima address — no surprise
+      charges added on-site.
+
+  - q: "Do I need permits or HOA approval for wine cooler work in my Pacoima home?"
+    a: |
+      For a standard repair — no permits, no HOA paperwork required anywhere in LA County.
+      Installing a built-in or under-counter wine cooler that requires cutting cabinetry or
+      adding a dedicated 20-amp circuit is a different situation. That kind of work falls under
+      the City of Los Angeles electrical permit process, and any HOA governing a Pacoima
+      property typically needs a written work scope submitted 2–4 weeks before the board will
+      approve it. Electrical installation work is handled under contractor license #1136541.
+      We prepare the permit documentation; you just submit it to your HOA management company.
+      Call (660) 999-9960 if you're not sure whether your specific project needs a permit.
+
+  - q: "Can you repair thermoelectric (Peltier) wine coolers, not just compressor models?"
+    a: |
+      Yes — and knowing which type you have matters before any diagnosis starts. Thermoelectric
+      units use a solid-state Peltier module that moves heat across a ceramic plate rather than
+      circulating refrigerant. When the module degrades, you'll notice the temperature climbing
+      gradually over several months — wines going from 55°F to 62°F before the unit stops
+      cooling meaningfully. We stock Peltier replacement modules for most Frigidaire countertop
+      models and other common brands. The replacement job runs about 45–60 minutes on-site,
+      faster than most compressor repairs. The caveat: we'll also assess whether your kitchen's
+      ambient temperature actually allows a thermoelectric unit to work at all — if it doesn't,
+      we'll say so before charging for a repair that won't hold up through summer.
+
+  - q: "What warranty covers wine cooler repairs done in Pacoima?"
+    a: |
+      Labor carries a 90-day warranty from the repair date — same issue returns at no charge
+      within that window. Parts follow the manufacturer's warranty, which runs 90 days to
+      one year depending on the component. New compressors installed in GE and Whirlpool units
+      carry a one-year parts warranty. A properly-repaired unit in a well-ventilated space
+      should run without major issues for another 4–6 years under normal use. Units that keep
+      failing because the kitchen environment is the actual problem — poor clearance, excessive
+      ambient heat — we'll flag that honestly rather than keep taking return calls. Long-term
+      fixes sometimes mean relocating the unit or adding ventilation, and we can advise on
+      that during the visit.
+
+  - q: "Do you cover Arleta, Sun Valley, and San Fernando in addition to Pacoima?"
+    a: |
+      All three are within our standard northeast Valley coverage zone. Arleta shares the
+      91331 zip with Pacoima, so scheduling there works exactly the same way — same-day if
+      you call before noon. Sun Valley (91352) and the city of San Fernando (91340) are both
+      10–15 minutes from our base and get the same scheduling priority. Further out, we also
+      cover Sylmar, Lakeview Terrace, Mission Hills, and up to Santa Clarita on designated
+      days. Call (660) 999-9960 to confirm same-day availability for your specific zip — we
+      can usually give you a morning or afternoon window the day you call rather than booking
+      days out.

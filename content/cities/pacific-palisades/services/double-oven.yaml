@@ -1,0 +1,191 @@
+title: "Pacific Palisades Double Oven — When Half the Oven Goes Cold"
+
+intro: |
+  Rebuilt homes on streets like Haverford and Albright — the ones that backed into the
+  slopes above Will Rogers State Historic Park — are going back up now with fresh
+  kitchens and brand-new appliances. A lot of homeowners chose GE Profile double wall
+  oven configurations during the rebuild, figuring they'd finally have the cooking
+  capacity the original house never had. Smart move. Except GE's upper cavity calibration
+  can drift as the unit settles into its first heating cycles, and if a technician
+  doesn't catch the temperature sensor reading 35 degrees off, you'll be serving
+  underdone chicken to people who've already been through enough.
+
+  Down in the flatter streets of Marquez Knolls, the story is different. Older Whirlpool
+  and Kenmore double ovens installed in the early 2000s are now hitting the point where
+  the bake element gives out in the lower cavity. The unit still powers on. The digital
+  display shows a temperature. But nothing's actually heating below. That's a bake
+  element failure, not a control board issue, and the fix is usually under $200 if
+  caught before the thermal fuse also blows.
+
+localContext: |
+  Pacific Palisades sits entirely within the 90272 zip code — a rare case where one zip
+  covers an entire LA community, from the PCH-adjacent streets of Castellammare up
+  through the Santa Monica Mountains foothills toward Palisades Highlands. Homes in the
+  lower sections, particularly near Sunset Boulevard west of Mandeville Canyon Road,
+  tend to be mid-century builds from the 1950s and 1960s. Kitchen footprints in those
+  homes can be tight, with 27-inch double wall ovens tucked into cabinetry that wasn't
+  designed for the wider 30-inch replacements now common on showroom floors.
+
+  Service from our Valley base puts us into Pacific Palisades in about 35 minutes via
+  the 405 to Sunset — traffic depending. Neighboring Brentwood (90049) is a regular
+  stop on the same westside run. For double oven work specifically, the marine layer
+  hitting this stretch of coast creates moisture cycles that degrade door gaskets faster
+  than inland homes see. Appliances near ocean-facing kitchen windows — common in these
+  open-plan 1960s builds — accumulate mineral deposits in the door glass channels,
+  eventually forcing the hinge assembly out of alignment and letting heat escape on
+  every cycle.
+
+commonProblems:
+  - title: "Lower Cavity Dead — Bake Element Failure in GE and Whirlpool Double Ovens"
+    description: |
+      The lower oven quits heating first in most GE and Whirlpool double wall
+      configurations — not the upper, which runs cooler and less often. The bake element,
+      that resistive coil at the floor of the cavity, develops a visible burn spot or
+      internal break and stops drawing current entirely. The display still reads a
+      setpoint temperature. The broil element may still fire fine. But nothing produces
+      heat below 350°F in that lower cavity.
+
+      Diagnosing it takes about 10 minutes — we check continuity across the element
+      terminals with a multimeter. No continuity means it's gone. Replacement GE bake
+      elements (WB44T10010) or the Whirlpool equivalent (WPW10779716) run $40–60 in
+      parts. Total repair cost in Pacific Palisades typically lands at $150–200 for the
+      visit. Don't wait it out — a failed element can trip the thermal fuse downstream,
+      turning a $175 fix into a $280 one.
+
+  - title: "Upper and Lower Cavity Temperatures Don't Match — Sensor Drift"
+    description: |
+      Both ovens appear to function. They heat up, hold temperature, show normal
+      displays. But top-rack cookies burn while the bottom-rack roast takes two extra
+      hours. In Samsung and Kenmore double oven configurations, the temperature sensor
+      probe — a thin metal rod mounted at the top rear of each cavity — can read 25 to
+      50 degrees off after several years of heavy cycling. The oven's control board
+      adjusts output based on what that sensor reports, so when the sensor lies, the
+      board compensates the wrong direction.
+
+      Confirm it with an oven thermometer placed in both cavities simultaneously. A
+      gap over 20 degrees between displayed and actual means the sensor needs replacing,
+      not just recalibrating. Sensor probes are inexpensive — $30–50 for Kenmore or
+      Samsung equivalents. The swap takes about an hour on-site. Call (323) 870-4790
+      and we can usually schedule same-day if you're in the 90272 area and the morning
+      slot is still open.
+
+  - title: "Control Board Failure — Error Codes, Blank Displays, and Erratic Preheating"
+    description: |
+      The electronic control board handles timing, temperature logic, and relay switching
+      in any modern double wall oven — Frigidaire, Amana, or otherwise. When it starts
+      failing, you'll typically see F3, F10, or F30 error codes flashing mid-cycle, or
+      one cavity stops responding entirely while the other functions normally. That
+      split behavior usually points to a secondary relay on the board going bad while
+      the primary relay stays intact.
+
+      Board replacements run $250–450 in parts depending on brand and model year.
+      Frigidaire double oven boards (part 316557205 and close variants) are still
+      available for models built after 2010. Contractor license #1136541 covers
+      appliance repair throughout LA County — we handle the diagnostic and sourcing
+      before any parts get ordered. Worth noting: F-codes sometimes indicate a failed
+      temperature sensor rather than the board itself, and a $45 sensor fix beats a
+      $375 board replacement every time. Diagnosis first, always.
+
+  - title: "Broken Door Hinge — The Repair Most Homeowners Delay Too Long"
+    description: |
+      A sagging oven door in a double wall configuration stresses both the hinge
+      assembly and the perimeter door gasket simultaneously. In older Whirlpool and GE
+      double ovens — models from roughly 2004 to 2016 — the hinge springs fatigue and
+      the door hangs an inch or more below flush. Heat escapes around the seal. Cook
+      times stretch by 10 to 15 minutes per cycle. The gasket, that silicone or rubber
+      seal around the door frame, gets compressed unevenly and accelerates its own
+      failure.
+
+      Hinge kits for common Whirlpool double ovens run $35–70 per pair, and both sides
+      need replacing at the same time or the door still won't hang straight. Total
+      repair with labor in Pacific Palisades runs $175–260. If the gasket's also shot,
+      add $50–80 for the seal. Ignoring it costs more over time — heat loss across six
+      months adds real money to a gas bill, and canyon-adjacent kitchens with tighter
+      ventilation feel that escaped heat immediately.
+
+  - title: "When to Stop Repairing — The 15-Year Double Oven Decision"
+    description: |
+      Most double wall ovens run cleanly for 15 to 20 years with basic maintenance.
+      At 12 to 15 years, the control board, door hinges, and heating elements are all
+      approaching the end of their service window at roughly the same time. A GE or
+      Frigidaire double oven from 2008 or 2009 is likely facing compounding repairs
+      rather than a single clean fix.
+
+      Honest rule of thumb: if the unit is under 12 years old and the repair is under
+      $400, fix it. Over 15 years and needing both a board replacement and hinge kit,
+      replacement starts making financial sense. New 27-inch double wall ovens start
+      around $1,200–$1,400 for Whirlpool's entry-level range. On maintenance — pull
+      and inspect the door gasket channel twice a year. Pacific Palisades's marine
+      layer pushes moisture into those channels steadily, and a gunked-up gasket forces
+      both cavities to work harder, burning more gas and heating less evenly.
+
+faq:
+  - q: "How fast can you get to Pacific Palisades for double oven repair?"
+    a: |
+      Pacific Palisades sits at the western end of our service run. From the Valley,
+      we're typically 35–45 minutes via the 405 south to Sunset Boulevard, avoiding
+      the afternoon backup near the 10 interchange. Parking the service van on
+      residential streets in the Alphabet Streets area or Marquez Knolls is generally
+      straightforward — easier than Santa Monica proper. Double oven calls get a
+      2-to-3-hour appointment window because the diagnostic and repair is more involved
+      than a single-appliance visit. Call (323) 870-4790 early to check same-day
+      availability — evening slots open up regularly, and if you're in 90272 we can
+      often confirm that afternoon.
+
+  - q: "What does double oven repair typically cost in Pacific Palisades?"
+    a: |
+      Depends entirely on what failed. A bake element swap runs $150–200 total, parts
+      and labor. Temperature sensor replacement lands at $130–180. Control board
+      replacement is the expensive end — $300–500 depending on the model and part
+      sourcing. Broken door hinge kits with installation run $175–260. Diagnostic visit
+      is $85 in Pacific Palisades, and that fee applies toward the repair if you book
+      it the same day. You get a written quote before we touch anything. Call
+      (323) 870-4790 or schedule online to lock in a same-day window in the
+      90272 area.
+
+  - q: "Do I need a permit to replace a double wall oven in Pacific Palisades?"
+    a: |
+      Swapping a like-for-like double wall oven into the same cabinet cutout — same
+      width, same electrical configuration — generally doesn't require a permit in the
+      City of Los Angeles, which governs Pacific Palisades. Changing from a 27-inch to
+      a 30-inch unit requiring cabinet modification, or switching from electric to gas,
+      does trigger a LADBS (LA Department of Building and Safety) permit requirement.
+      Our contractor license #1136541 covers this scope of work. LADBS online permits
+      for appliance replacement in this zip typically process in 2–3 business days —
+      faster than most South Bay or OC jurisdictions. We prepare and submit the
+      paperwork and schedule the inspection.
+
+  - q: "Can you fix a double oven where one cavity works but the other is completely dead?"
+    a: |
+      Yes — single-cavity failure is actually one of the more common double oven calls
+      we run in the Palisades area. Each cavity in a GE or Samsung double wall oven
+      has its own heating circuit, so they fail independently. When one side goes
+      completely dark — no heat, no response — the usual culprits are a burned bake
+      element, a blown thermal fuse on that cavity's circuit, or a relay failure on the
+      control board specific to that side. We start with the element and fuse check
+      before assuming it's the board, because those are $40 parts versus a $350 board.
+      Diagnosis takes about 30 minutes on-site, and most single-cavity failures
+      are resolved in one visit.
+
+  - q: "What warranty do you offer on double oven repairs in Pacific Palisades?"
+    a: |
+      Parts carry the manufacturer's warranty — typically 90 days to 1 year depending
+      on the component. Labor is warranted for 90 days. If the same fault recurs
+      within that window, we come back and fix it at no additional labor charge.
+      Heating elements and temperature sensors rarely fail again once replaced properly.
+      Control boards are different — if a replacement board fails quickly, that usually
+      signals a wiring fault or power irregularity rather than a defective part, and
+      we diagnose that on the return visit at no labor cost. Homes in Pacific Palisades
+      near the canyon corridors see occasional power fluctuations, so we'll discuss
+      surge protection on the oven circuit while we're on-site.
+
+  - q: "Do you cover Brentwood and Santa Monica in addition to Pacific Palisades?"
+    a: |
+      Yes — Pacific Palisades, Brentwood (90049), Santa Monica, and Malibu are all
+      on the same westside circuit. From a Palisades call we regularly continue up
+      PCH toward Malibu or loop back through Brentwood into West LA the same morning.
+      Scheduling a double oven appointment in 90272 typically means a 1-to-2-day wait
+      for a standard window, or same-day if a slot frees up. Call (323) 870-4790 by
+      9 AM for same-day availability — that's when we confirm the day's open slots.
+      Coverage runs from Irvine up to Santa Clarita, so the Pacific Palisades westside
+      run is a regular weekly stop, not an exception.

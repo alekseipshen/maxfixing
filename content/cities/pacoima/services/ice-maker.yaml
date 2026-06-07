@@ -1,0 +1,170 @@
+title: "Pacoima Ice Maker Repair — Hard Water Kills Ice Fast Here"
+
+intro: |
+  Hansen Dam sits less than two miles from the heart of 91331, and by July the
+  temps up against the San Gabriel foothills routinely push past 108°F. That's
+  exactly when the GE side-by-side in the kitchen starts running flat-out — and
+  exactly when the ice maker decides to quit. Hard water from the LA DWP supply
+  is the single biggest killer of ice maker components in this part of the
+  Valley. Total dissolved solids in Pacoima's tap regularly test above 400 ppm,
+  and that mineral load binds up the water inlet valve faster than almost
+  anywhere else in LA County. Over on Glenoaks Boulevard near the Ritchie
+  Valens Memorial Park corridor, we've pulled Samsung ice maker assemblies
+  clogged so solid the ejector arm couldn't complete a single rotation. The fix
+  is real, and it's usually cheaper than people assume — but you have to catch
+  it before the water line freezes solid behind the freezer wall or the control
+  module gives up entirely.
+
+localContext: |
+  Most residential housing in Pacoima went up between 1950 and 1975 — post-war
+  tract construction spreading south from Hansen Dam through the Haddon Avenue
+  blocks and east toward the Pacoima Wash. Those kitchens were built before
+  factory ice makers were standard, so the supply line routing is often
+  awkward: running through uninsulated cabinet floors or across an exterior
+  wall stud bay. In 91331, that exterior exposure becomes a serious problem in
+  January when Valley nights drop to 34°F and the quarter-inch supply tube to a
+  Whirlpool or Kenmore refrigerator freezes right at the stub-out. The 91340
+  border area along Maclay Avenue and into the older rental blocks on Van Nuys
+  Boulevard shows the same construction vintage and the same failure patterns.
+  Frigidaire units installed in the late 1990s — very common in the rental
+  stock throughout this neighborhood — are hitting the age window where the ice
+  mold thermostat drifts out of spec, errors start appearing on the display,
+  and landlords assume the whole refrigerator is shot. Usually it isn't.
+
+commonProblems:
+  - title: "Mineral Scale Blocking the Water Inlet Valve"
+    description: "Pacoima's tap water is genuinely hard — LA DWP data consistently shows
+      total dissolved solids above 400 ppm in this part of the Valley. That
+      mineral load coats the water inlet valve's solenoid screen within 18 to
+      24 months on a unit without a working inline filter, cutting water flow
+      to a trickle or stopping it completely. On GE Profile side-by-sides
+      (model series GSS and GFE), the dual-coil inlet valve sits behind the
+      lower back panel; once the screen plugs, the ice maker module gets no
+      water signal and stops cycling entirely. Replacing the valve runs
+      $85–$140 in parts plus about 45 minutes of labor. After the swap, we
+      flush the supply line and verify the water filter housing — a clogged
+      filter on a Kenmore Elite unit past the 6-month mark amplifies the
+      problem fast. Skipping that step just means the new valve chokes out
+      early too."
+
+  - title: "Frozen Water Supply Line Through an Exterior Wall"
+    description: "January nights in Pacoima drop into the low 30s, and the 1960s-era
+      homes along Osborne Street and similar blocks have almost no insulation
+      in the exterior wall cavities where the refrigerator sits. The supply
+      line — typically a quarter-inch copper or braided plastic tube — runs
+      right through that cold zone and freezes at the point it enters the
+      back of the freezer cabinet. The symptom is clear: the Whirlpool or
+      Samsung ice maker attempts a fill cycle, you hear the inlet valve click
+      open, but zero water drops into the ice mold. A hair dryer on the
+      stub-out thaws it temporarily, but the real fix means either rerouting
+      the line through a warmer interior path or installing a low-watt heat
+      cable rated for potable water. Parts run $20–$45; the larger cost is
+      correctly identifying which section of line is actually freezing before
+      pulling cabinets."
+
+  - title: "Ejector Arm Jam Caused by a Failing Ice Mold Thermostat"
+    description: "Ice that comes out undersized, misshapen, or fused into a solid block
+      usually points to a problem inside the ice maker assembly itself — not
+      the water supply. The ejector arm sweeps formed cubes out of the ice
+      mold, but if the mold thermostat is reading temperatures incorrectly,
+      cubes release too early while still partially liquid. The arm jams, the
+      motor stalls, and the whole assembly locks up. On Frigidaire Gallery
+      models — extremely common in Pacoima rental units — error code SY EF
+      appears on the display when this happens. The ice maker assembly on
+      those units is a modular swap, roughly $55–$90 for the OEM part, and
+      takes about 20 minutes once the freezer is cleared. Amana and older
+      Maytag units use a nearly identical modular design but with a separate
+      ice level sensor (the wire bail arm) that also fails with age; that
+      sensor is under $20 to replace on its own."
+
+  - title: "Ice Production Drops 50% During Valley Summer Heat"
+    description: "A fully functioning ice maker fighting 85°F kitchen temps in August is
+      fighting physics. Condenser coils on most freestanding refrigerators
+      mount on the bottom or rear panel, and once those coils are packed with
+      dust and pet hair — very common in 91331 tile-floor homes with older
+      HVAC — the refrigerant system can't shed heat efficiently. The freezer
+      compartment climbs to 15°F or warmer, and ice output drops by half even
+      though nothing is technically broken. Whirlpool and Kenmore side-by-sides
+      need the freezer compartment holding at 0°F to -5°F for rated ice
+      production. Coil cleaning runs about $60–$80 as a standalone service and
+      regularly restores full output without any parts replacement. If the
+      compressor is already running abnormally long cycles, a refrigerant
+      pressure check should happen the same visit — a low-charge system in
+      Valley summer heat degrades fast."
+
+  - title: "Fill Valve Stays Open Too Long and Overfills the Ice Mold"
+    description: "Oversized cubes, cubes that fuse together in the bin, or a sheet of
+      solid ice across the bottom of the mold — those symptoms usually mean
+      the fill valve is staying open longer than the cycle calls for. The
+      water inlet valve gets its close signal from the ice maker's control
+      module, and when that module's timing circuit drifts after 7–10 years
+      of service, it extends the open pulse. On Samsung French-door models,
+      this presents alongside a 41E or 40E error code. The mold overflows,
+      freezes into a solid block, and the ejector arm shears its plastic teeth
+      trying to push through it. Replacing the control module runs $70–$120
+      depending on the model series. Before ordering the module, though, it's
+      worth confirming the fill valve itself isn't mechanically stuck open — a
+      stuck valve is a $90 part swap, while a failed module is $120. Same
+      symptom, different fix."
+
+faq:
+  - q: "How fast can you get to Pacoima for ice maker repair?"
+    a: "From the base near the 5/118 interchange, Pacoima is typically a 20–35
+      minute drive depending on traffic along San Fernando Road or the 210.
+      Same-day slots are available most days — call (660) 999-9960 before noon
+      and a technician can usually be on-site by late afternoon. Parking on
+      residential blocks in 91331 is generally easy for a service van. The
+      truck stocks the most common fill valve and ice maker assembly components
+      for GE, Whirlpool, and Frigidaire, so a large share of repairs close on
+      the first visit without a parts-order delay."
+
+  - q: "What does ice maker repair cost in Pacoima?"
+    a: "Most ice maker repairs in Pacoima run between $95 and $250 all-in, parts
+      and labor included. A water inlet valve replacement on a GE or Kenmore
+      unit typically lands at $120–$160. Control module replacements on Samsung
+      models run closer to $180–$220. The diagnostic visit is $65, which
+      applies toward the repair if you proceed. A firm price gets confirmed
+      before any work starts — no estimates that expand mid-job. Call
+      (660) 999-9960 or book online and we'll tell you exactly where your unit
+      falls once we see the model and symptom."
+
+  - q: "Do ice maker repairs in Pacoima require a permit or landlord approval?"
+    a: "Standard ice maker repairs — valve swaps, assembly replacements, supply
+      line thaw-and-reroute — don't require a City of Los Angeles building
+      permit. Adding a new water supply tap or running line through a wall can
+      trigger a plumbing permit depending on scope, but that's uncommon on a
+      repair call. Landlords managing rental units along Glenoaks or Van Nuys
+      Boulevard who need documentation can get a detailed written invoice
+      covering part numbers, failure diagnosis, and labor performed. For any
+      permitted work, contractor license #1136541 is on file with the
+      California Contractors State License Board."
+
+  - q: "Can you repair an ice maker that's showing an error code on the display?"
+    a: "Error codes are actually useful — they narrow the diagnosis before we
+      arrive. Common ones in this area include Samsung's 41E and 40E (fill
+      timing and ice maker sensor faults), Frigidaire's SY EF (ice maker
+      assembly failure), and the generic temperature error codes on GE Profile
+      units that point to a failing freezer thermostat. Text or call
+      (660) 999-9960 with the model number and the code showing, and we can
+      usually tell you the most likely part before the visit. That way the
+      right component is on the truck rather than waiting on a parts order."
+
+  - q: "How long does an ice maker repair last in Pacoima's hard water conditions?"
+    a: "A water inlet valve replacement done with an OEM part and a supply line
+      flush typically lasts 3–5 years under normal use. Pacoima's hard water
+      shortens that window if there's no inline filter or if the refrigerator
+      filter cartridge isn't swapped every 6 months. Parts installed carry a
+      90-day component warranty; labor carries a 30-day guarantee — if the
+      same fault returns within 30 days, the return visit is at no charge.
+      Before leaving, the right filter spec for your specific Whirlpool,
+      Frigidaire, or Kenmore model gets noted on the invoice so the
+      maintenance schedule is easy to follow."
+
+  - q: "Do you cover Sylmar, Arleta, and nearby areas in addition to Pacoima?"
+    a: "Yes — Sylmar (91342), San Fernando (91340), Arleta, Panorama City, and
+      Sun Valley are all within the regular service area, and drive times from
+      Pacoima are minimal. Service also extends south to North Hollywood and
+      north toward Santa Clarita without a travel surcharge. Evening slots run
+      Tuesday through Saturday for customers who can't take time off work.
+      Call (660) 999-9960 to check same-day availability or lock in a
+      next-morning appointment — most bookings confirm in a few minutes."
