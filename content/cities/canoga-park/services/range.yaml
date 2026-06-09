@@ -1,0 +1,166 @@
+title: "Canoga Park Range Repair — Gas & Electric, Same-Day Fix"
+
+intro: |
+  A lot of the kitchens along Topanga Canyon Boulevard and the blocks running south toward
+  Sherman Way haven't been touched since the original owners moved in during the late 1960s.
+  Those GE and Frigidaire freestanding ranges are tough — genuinely — but the igniter spark
+  module doesn't last 50 years, and neither does the bake element on the oven side. Most of
+  the calls we get from the 91303 zip involve an oven that preheats just fine but runs 40 or
+  50 degrees cold, or a surface burner that clicks a dozen times before catching a weak,
+  lopsided flame. Canoga Park sits in the western Valley where the housing stock is older and
+  the kitchens tend to be tight — 30-inch freestanding slots, no real ventilation, gas lines
+  running through walls that haven't been touched since the Eisenhower era. That context
+  matters for how we diagnose and what parts we carry heading into this area.
+
+localContext: |
+  Canoga Park's housing breaks into two pretty distinct bands. The 91303 zip — especially
+  the streets east of De Soto Avenue and north of Sherman Way toward Roscoe Boulevard —
+  is mostly 1960s and early-70s single-family homes and two-story stucco apartment buildings.
+  Gas ranges are almost universal there, usually Kenmore or Whirlpool 30-inch freestanding
+  units, some original to the building. The 91304 zip, which bleeds into West Hills near
+  Owensmouth Avenue, has newer construction with electric slide-in ranges and glass-ceramic
+  cooktops more common. Both areas share the Valley's notorious hard water problem — not
+  something that destroys a range outright, but mineral deposits absolutely pack into burner
+  ports and around valve stems over time, restricting gas flow and causing uneven flame
+  patterns that are easy to misread as igniter failure. Tight kitchen access in the older
+  apartment buildings near the LA River corridor also affects service logistics — sometimes
+  pulling a range for a rear-panel repair means moving the refrigerator first.
+
+commonProblems:
+  - title: "Oven Runs Cold — Usually the Temperature Sensor, Not the Control Board"
+    description: |
+      An oven that preheats to 350°F but actually sits at 295°F is one of the most common
+      range calls we handle in Canoga Park. On GE and Frigidaire electric ranges — stacked
+      through the apartment buildings along Sherman Way — the culprit is almost always the
+      oven temperature sensor probe, a thin resistance sensor mounted at the back upper wall
+      of the oven cavity. When that probe drifts out of spec, the control board reads the
+      wrong temperature and shuts the bake element down early. Replacing the sensor on most
+      GE models takes about 45 minutes and runs $85–$130 in parts. Before quoting a board
+      replacement, we always bench-test the sensor with a multimeter — boards get blamed
+      constantly for sensor failures, and a board swap runs $200–$400 versus $100 for the
+      actual problem. Parts for common GE and Frigidaire models are stocked locally, so
+      most of these jobs close same-day.
+
+  - title: "Burner Won't Ignite — Clogged Flame Ports and Worn Igniter Modules"
+    description: |
+      A burner that clicks endlessly but never lights is almost always a clogged flame port,
+      a cracked burner cap, or a failed igniter spark module — usually in that order of
+      likelihood. In the older Canoga Park homes near Roscoe Boulevard and the residential
+      blocks around Canoga Park High School, Kenmore and Whirlpool gas ranges accumulate
+      years of grease and food debris in the small holes drilled around the burner base.
+      Those ports get fully packed and gas simply can't reach the spark. The fix is sometimes
+      just a thorough cleaning with a wire brush and a straightened paper clip — but if the
+      igniter module itself has cracked or shorted, the part runs $40–$75 and the swap takes
+      about an hour. We carry the most common Whirlpool and Kenmore igniter modules on the
+      truck, which means the majority of these calls don't need a return visit for parts.
+      Timeline: same-day resolution in most cases.
+
+  - title: "Gas Odor Near the Range — Valve Stem Seals and Why This Needs a Permit"
+    description: |
+      A persistent gas smell near the range — distinct from the brief puff when a burner
+      lights — usually means a cracked valve stem seal inside the surface burner valve
+      assembly. On older Amana and Frigidaire gas ranges, those seals dry out and split,
+      releasing a slow but steady bleed of unburned gas into the kitchen. This is not a
+      diagnosis-and-wait situation. Gas valve work in the City of Los Angeles falls under
+      permit requirements with LADBS, and the repair must be done by a licensed contractor.
+      MaxFixing operates under contractor license #1136541 and pulls the permit on your
+      behalf — standard gas valve permits in Canoga Park typically clear LADBS in 2–5
+      business days on an over-the-counter application. Valve assembly parts run $60–$120
+      for most models. Call us at (660) 999-9960 if you're noticing any gas odor; we treat
+      those as priority same-day calls.
+
+  - title: "Control Board Failure vs. Sensor Failure — Getting the Diagnosis Right First"
+    description: |
+      Control board replacement is where repair bills climb fast, and it's also where the
+      most misdiagnoses happen. A Samsung or GE slide-in range throwing an F3 or E1 error
+      code looks like a board problem on the surface, but those codes almost always trace
+      back to the temperature sensor or the wiring harness connector — not the board itself.
+      Sensors cost $80–$120; boards run $200–$400 in parts alone. We test the sensor
+      resistance and check the harness continuity before ever quoting a board. When a board
+      truly is dead — no display response, permanent lockout, burn marks on the circuit — the
+      total repair on Canoga Park-common models lands between $280 and $480 with labor.
+      Whether that pencils out depends on the range's age and what a replacement would cost.
+      A 10-year-old Samsung at $350 to repair against $700 to replace is worth fixing.
+      A 22-year-old Amana at the same repair cost almost certainly isn't — and we'll say
+      so directly.
+
+  - title: "Uneven Flame and Yellow Tips — Burner Cap Alignment and Venturi Tube Buildup"
+    description: |
+      Yellow or orange flame tips on a gas range burner — instead of a clean blue cone —
+      signal incomplete combustion caused by restricted airflow into the venturi tube.
+      Misaligned burner caps are the quick fix: the cap has to sit flat and centered on
+      the burner base, or gas flow skews to one side and the flame burns tall and uneven.
+      On Whirlpool and GE gas ranges in the older Canoga Park homes, this happens after
+      cleaning — people put the caps back slightly off and don't notice until the next
+      time they cook. The longer-term issue is mineral and grease buildup inside the
+      venturi tube itself, which needs a disassembly and soak to clear properly. Burner
+      caps that show warping or carbon pitting should just be replaced — they run $15–$30
+      each. Ignoring yellow flame long enough deposits carbon inside the range body and
+      can eventually affect the gas valve operation. A 20-minute check every six months
+      prevents most of this entirely.
+
+faq:
+  - q: "How fast can you get to Canoga Park for range repair?"
+    a: |
+      Getting out to Canoga Park is fast from our side — the 101 and 118 corridors put
+      this area right on our daily San Fernando Valley route. Most calls in the 91303 and
+      91304 zips get a same-day window, and we're typically on-site within 2 to 3 hours
+      of booking. Parking on the residential streets off Topanga Canyon Boulevard is
+      generally straightforward, and our vans carry parts for GE, Whirlpool, Kenmore,
+      and Frigidaire ranges as standard stock. Evening slots are open most weekdays.
+      Call (660) 999-9960 to check today's availability.
+
+  - q: "What does range repair typically cost in Canoga Park?"
+    a: |
+      The diagnostic visit runs $75–$95, which applies toward the repair if you move
+      forward. Most common fixes — a failed igniter module, a blown bake element, or a
+      drifting temperature sensor probe — land between $150 and $280 total, parts and
+      labor included. Control board replacements are the expensive end: $280–$480
+      depending on model. For the Kenmore, Frigidaire, and GE ranges most common in
+      this area, parts ship from a local supplier and don't require special ordering,
+      which keeps timelines short. You get an exact number before any work begins —
+      the diagnostic price is the only charge if you decide not to proceed.
+
+  - q: "Does range repair in Canoga Park need a permit, and can you handle gas line work?"
+    a: |
+      Standard range repair — swapping an igniter, replacing a bake element, fixing a
+      control board — doesn't require a permit. Anything involving the internal gas valve
+      assembly or the house supply line connection is a different category. The City of
+      Los Angeles requires a permit for that work through LADBS, and it must be performed
+      by a licensed contractor. MaxFixing holds contractor license #1136541 and handles
+      all permit paperwork directly. Over-the-counter approval in Canoga Park typically
+      takes 2–5 business days. We'll flag during the diagnostic whether your job crosses
+      into permitted territory — no surprises after the fact.
+
+  - q: "Can you convert my kitchen from electric to gas range in Canoga Park?"
+    a: |
+      Yes, and it's a job we do regularly in this area. Converting from electric to gas
+      requires running a new gas branch line to the range location, installing a code-
+      compliant shutoff valve, and pulling a City of LA permit — the gas rough-in alone
+      typically runs $400–$800 separate from the range itself. Many homes in the 91303
+      zip already have gas service for the furnace or water heater, which makes the
+      branch line extension more straightforward. Before quoting, we check the existing
+      supply line diameter — undersized supply creates chronic low-flame problems on the
+      new range. Call (660) 999-9960 to schedule a walkthrough estimate.
+
+  - q: "How long should a gas range last, and when does it make sense to repair vs. replace?"
+    a: |
+      A maintained gas range — Whirlpool, GE, even the budget Amana models — typically
+      runs 15 to 20 years before multiple components start failing in sequence. Replacing
+      an igniter module or a bake element once over that lifespan is normal wear, not a
+      warning sign. The math changes when the control board, oven valve, and temperature
+      sensor all fail within the same 12-month stretch on a 17-year-old unit. A rough
+      guide: if the repair estimate exceeds half the cost of a comparable new range, it
+      usually isn't worth it. Parts availability also matters — some older Kenmore and
+      Frigidaire models have discontinued components that make repair impractical
+      regardless of cost. We tell you that during the diagnostic.
+
+  - q: "Do you cover neighborhoods near Canoga Park for range repair?"
+    a: |
+      Canoga Park sits in the middle of our western Valley corridor. Regular coverage
+      includes West Hills, Chatsworth, Winnetka, Woodland Hills, Reseda, and Northridge —
+      all within about 10 to 15 minutes of the 91303 zip. Further east we run into
+      Van Nuys, Sherman Oaks, and Granada Hills without issue. Same-day and next-morning
+      slots are available across this whole corridor most days. Call (660) 999-9960 or
+      book online — Canoga Park windows tend to fill by mid-morning on weekdays, so
+      earlier in the day gets you more choices.

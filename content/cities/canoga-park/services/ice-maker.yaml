@@ -1,0 +1,199 @@
+title: "Canoga Park Ice Maker Repair — Same-Day, Western Valley"
+
+intro: |
+  The stretch of Sherman Way between Topanga Canyon Boulevard and DeSoto Avenue
+  cuts through some of Canoga Park's older residential blocks — post-war homes
+  and 1960s apartments where GE and Frigidaire refrigerators eventually got
+  swapped for Samsung french-door units, and the ice maker worked fine until
+  July when the temperature hit 103°F and suddenly the bin stayed empty. Canoga
+  Park sits in the hotter interior pocket of the western San Fernando Valley,
+  far enough from the coast that afternoon heat doesn't break until well after
+  dark. That sustained heat pushes ice makers into overdrive, cycling constantly
+  and accelerating wear on the water inlet valve, fill tube, and ice mold
+  thermostat. LA's municipal water supply tests at 300–350 ppm hardness out
+  here — hard enough that mineral deposits build up inside the ice maker
+  assembly within a year or two of skipping filter changes. Winnetka neighbors
+  to the east deal with the identical pattern, and so do folks off Owensmouth
+  Avenue closer to the old civic core of the neighborhood.
+
+localContext: |
+  Most of 91303 is residential stock from the 1940s through the mid-1960s —
+  single-family homes with kitchens that got new refrigerators in the late 1990s
+  or early 2000s. Those Whirlpool and Kenmore units are now pushing 20 years
+  old, and the ice maker modules in that generation of appliances fail in
+  consistent ways: corroded solenoid coils in the water inlet valve, worn ice
+  mold thermostat probes, and cracked fill tubes from years of thermal cycling.
+  Over in 91304, the mix shifts toward 1970s and 1980s construction plus
+  apartment complexes along the Roscoe Boulevard corridor, where compact
+  counter-depth refrigerators with integrated ice makers are standard. Access
+  in those apartments can be genuinely tight — fridge pulled out six inches,
+  gas line to the range on the adjacent wall, barely room for a toolbox. The
+  hard water problem is consistent across both zip codes: calcium and magnesium
+  scale accumulates inside the ice maker's water supply line and mold cavity at
+  rates that would surprise most homeowners who have never had a filter serviced.
+
+commonProblems:
+  - title: "Ice Maker Completely Dead — No Ice After 24 Hours in Peak Heat"
+    description: |
+      A dead ice maker in August in Canoga Park isn't subtle — you notice it
+      fast. Before assuming the worst, verify the shutoff arm is in the down
+      position and the freezer is holding below 15°F; a freezer running warm due
+      to a struggling compressor will shut down ice production entirely, and
+      that's a different repair conversation. If those check out and the bin
+      stays empty, the water inlet valve is the first component to test. On
+      Samsung french-door models common in this neighborhood, the inlet valve
+      sits behind the lower kick plate and chokes with mineral scale from Valley
+      tap water, restricting flow to near zero. Replacing the valve with an OEM
+      part runs $35–65 in materials; total repair including diagnosis and
+      installation typically lands in the $120–180 range. Call (660) 999-9960 —
+      same-day appointments are usually available, and most ice maker valve jobs
+      wrap in under an hour.
+
+  - title: "Hollow or Undersized Cubes — Hard Water Scale Coating the Ice Mold"
+    description: |
+      LA tap water in the 91303 area consistently tests above 300 ppm for
+      dissolved calcium and magnesium. That mineral load coats the inside of the
+      ice mold cavity and the ice mold thermostat probe within two to three years
+      if the inline filter isn't serviced regularly. A coated thermostat probe
+      misreads water temperature and ends the freeze cycle too early — the result
+      is cubes that come out hollow in the center, undersized, or with a chalky
+      white crust. Frigidaire and Kenmore units from the late 2000s are
+      especially prone to this because the mold geometry on those models traps
+      scale rather than shedding it during the harvest cycle. The fix involves
+      removing the ice maker module, soaking the mold tray in a citric acid
+      solution, replacing the thermostat probe if heavily coated, and flushing
+      the water supply line. Parts and labor typically run $90–150 total.
+
+  - title: "Frozen Fill Tube — Water Backs Up and Blocks the Entire Cycle"
+    description: |
+      This failure pattern shows up specifically in Canoga Park homes where the
+      refrigerator sits against an exterior-facing wall or inside a garage
+      conversion — both common in 91303. The fill tube, the small plastic tube
+      that carries water from the inlet valve into the ice maker tray, passes
+      through a space that can drop cold enough on winter nights to freeze solid,
+      even in Southern California. The symptom is the inlet valve humming
+      normally while no water reaches the tray. GE side-by-side models with the
+      ice maker mounted in the upper freezer section are particularly vulnerable:
+      the fill tube routing on those units creates a low point where residual
+      water pools and refreezes overnight. A hair dryer thaws it temporarily, but
+      the permanent fix is wrapping the fill tube in foam pipe insulation and
+      rechecking the freezer thermostat calibration. Parts cost under $20; labor
+      for the service call runs $85–110.
+
+  - title: "Water Inlet Valve Failure — When Flushing the Valve Is Not Enough"
+    description: |
+      A water inlet valve partially clogged with mineral deposits can sometimes
+      be flushed back to working condition, but a valve with a burned-out
+      solenoid coil is electrically dead and will not respond to cleaning. Testing
+      is straightforward with a multimeter: on Whirlpool and Amana units, check
+      for continuity across the solenoid terminals — no continuity means
+      replacement is the only path forward. OEM inlet valves for Whirlpool
+      french-door models typically run $45–75 depending on year and
+      configuration; the full repair including parts and labor falls in the
+      $130–200 range. One thing worth addressing at the same time: in Canoga
+      Park's hard-water environment, a new valve installed without an inline
+      sediment filter will calcify on roughly the same timeline as the old one,
+      usually 3–5 years. Inline filter kits are kept on the service truck and
+      can be installed during the same visit.
+
+  - title: "Ice Level Sensor Malfunction — Maker Cycles But Shuts Off Too Early"
+    description: |
+      The optical sensor that monitors ice level in the bin is a small component
+      that rarely gets discussed until it fails. Frost buildup or mineral haze
+      on the sensor lens causes the ice maker to read the bin as full and
+      terminate the cycle prematurely — you end up with a quarter-full bin that
+      never improves no matter how long the unit runs. Samsung and LG models
+      produced between 2015 and 2020 had a documented run where condensation
+      formed behind the sensor lens and triggered persistent false full-bin
+      readings. On Samsung units, error codes 40E or 41C point directly at the
+      ice maker sensor or the ice maker control board. Diagnosis involves
+      clearing the stored code, cleaning the sensor lens with isopropyl alcohol,
+      and testing the control board for secondary faults. If the board needs
+      replacement, parts run $80–120; labor adds another $90–130 depending on
+      model access.
+
+faq:
+  - q: "How fast can you get to Canoga Park for ice maker repair?"
+    a: |
+      Canoga Park sits right off the 101 Freeway, which keeps drive times from
+      our San Fernando Valley base in the 20–30 minute range on most days.
+      Parking on residential streets in 91303 and 91304 is generally
+      straightforward — the apartment complexes along Roscoe Boulevard can
+      occasionally require street parking and a short walk with tools, but
+      nothing out of the ordinary. Same-day appointments are available most
+      weekdays for ice maker calls, and evening slots are open Tuesday through
+      Friday for homeowners who cannot take time off during the day. Call
+      (660) 999-9960 and we will give you a confirmed two-hour arrival window.
+      Most ice maker diagnostics take 30–45 minutes, and if the part is on the
+      truck, the repair usually wraps the same visit.
+
+  - q: "What does ice maker repair typically cost in Canoga Park?"
+    a: |
+      Repair costs in 91303 and 91304 typically fall between $95 and $280
+      depending on the failure. A frozen fill tube thaw with foam insulation
+      wrap is the low end — usually $85–110 total. Replacing a water inlet valve
+      runs $130–200 parts and labor combined. Control board or full ice maker
+      module replacement lands at the higher end, hitting $200–280 on GE and
+      Samsung models where the module is integrated into the door assembly.
+      Everything starts with a flat-rate written estimate before any work
+      begins — no charges until you approve the scope. Schedule your free
+      on-site diagnosis by calling (660) 999-9960 or booking online; exact
+      pricing depends on model year and parts availability on the day.
+
+  - q: "Does ice maker repair in Canoga Park require a licensed plumber or any
+      city permits?"
+    a: |
+      For the vast majority of ice maker repairs — replacing a water inlet valve,
+      clearing a frozen fill tube, swapping an ice maker module or sensor board
+      — no plumbing license and no City of LA permit is required. The work falls
+      under appliance repair, and the water supply connection is a standard
+      1/4-inch compression fitting that appliance technicians handle routinely.
+      The situation changes only if the supply line behind the wall needs
+      rerouting or a brand-new water line is being added from scratch — that
+      crosses into licensed plumbing territory. MaxFixing holds contractor
+      license #1136541 covering appliance repair work throughout Los Angeles.
+      Edge cases get flagged upfront so there are no surprises mid-job.
+
+  - q: "Can you repair ice makers in built-in refrigerators, or only freestanding
+      units?"
+    a: |
+      Both. Built-in Sub-Zero and Thermador units appear in some of the
+      higher-end properties on the western edge of Canoga Park near Topanga
+      State Park, and those ice maker assemblies are more involved — the module
+      on a Sub-Zero 648PRO sits above the fresh food compartment and requires
+      removing interior panels to reach it. Standard freestanding Whirlpool, GE,
+      and Frigidaire units that make up most of the 91303 and 91304 housing
+      stock are more accessible. The diagnostic approach is identical across
+      types: test the inlet valve solenoid, read error codes from the control
+      board, inspect the fill tube and sensor lens. Built-in repairs take longer
+      due to access time, which affects labor cost, but component pricing is
+      comparable. Call (660) 999-9960 with your model number for a ballpark
+      estimate before the visit.
+
+  - q: "What warranty covers ice maker repair work in Canoga Park?"
+    a: |
+      Parts carry the manufacturer's warranty — typically 90 days on most OEM
+      water inlet valves and ice maker modules, up to one year on select
+      Whirlpool and GE components depending on the part number. Labor is
+      warranted for 90 days from the repair date: if the same failure recurs
+      within that window, we return at no additional labor charge. Repairs that
+      fail quickly almost always signal a missed upstream issue — low water
+      pressure, a clogged filter starving the new valve, or a refrigerant
+      problem affecting freezer temperature. Those secondary factors get checked
+      during every service call specifically to prevent callbacks. In Canoga
+      Park's hard-water environment, expect ice maker maintenance — primarily
+      filter changes and valve inspection — to be a recurring need every 3–5
+      years regardless of brand.
+
+  - q: "What other neighborhoods near Canoga Park do you cover for ice maker
+      service?"
+    a: |
+      The Canoga Park rotation covers the surrounding western Valley: West Hills,
+      Chatsworth, Reseda, Woodland Hills, and Winnetka are all on the regular
+      schedule. Heading south, service runs into Calabasas and Agoura Hills;
+      north goes up to the edges of Simi Valley. Standard scheduling is 1–2
+      business days, with same-day availability on most urgent calls — a
+      completely dead ice maker in July qualifies without question. Evening
+      appointments are available Tuesday through Friday. To get on the calendar,
+      call (660) 999-9960 or book online; a confirmation goes out immediately and
+      we send the technician's arrival window the morning of your service day.

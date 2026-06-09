@@ -1,0 +1,168 @@
+title: "Sherman Oaks Washer Repair — Hard Water & Valley Heat"
+
+intro: |
+  The flat residential grid between Kester Avenue and Sepulveda Boulevard is dense
+  with 1960s and 1970s construction — single-family homes and two-story rental
+  buildings that share one common trait: laundry rooms that were an afterthought.
+  Tight utility closets, stacked configurations, and original 1-inch drain standpipes
+  that barely handle today's high-efficiency machines. Add in LADWP supply water
+  that runs between 270 and 330 ppm dissolved calcium in much of the 91401 zip,
+  and a Samsung or Kenmore washer in Sherman Oaks is quietly fighting a harder
+  battle than the same model would in, say, Seattle. The Van Nuys-Sherman Oaks
+  Park neighborhood sees a lot of rental turnover, which means machines get used
+  hard with zero maintenance for years. A drain pump that might last seven years
+  with occasional cleaning lasts three here. Summer doesn't help either — Valley
+  ambient temps pushing 105°F in July make electronics in utility rooms run hotter
+  than they were rated for, and control board errors spike accordingly.
+
+localContext: |
+  South of Ventura Boulevard in the 91403 zip, you're mostly looking at mid-century
+  single-family homes — built 1955 to 1968, original cast-iron drain stacks in many
+  of them, and dedicated laundry rooms that at least give a tech room to work. North
+  into the 91401 zip near Van Nuys Boulevard, the picture shifts to 1970s apartment
+  buildings: stackable washer-dryer units in 22-inch closets with a folding door in
+  front. Getting the washer out of one of those installs sometimes means partially
+  disassembling the machine before you can access the drain pump — the clearance just
+  isn't there to pull it straight out. Both zips have the same hard water problem,
+  though the 91401 municipal supply tends to run slightly higher in mineral content
+  than the hillside blocks in 91403. Gas appliances are common throughout the Valley,
+  and most utility rooms have both a gas dryer and an electric washer sharing the same
+  tight space — which means working carefully around live gas connections on every
+  service call. The streets off Moorpark Street have decent curb access for a service
+  van; the denser blocks east of Kester Avenue near the 405 on-ramp are tighter and
+  sometimes require a street-parking scout before the call.
+
+commonProblems:
+  - title: "Drain Pump Failure Accelerated by Mineral Scale"
+    description: |
+      Sherman Oaks hard water deposits calcium flake inside the drain pump housing over
+      time. The pump impeller — a small spinning disc that pushes water through the drain
+      hose — gets progressively pitted and slowed by that buildup until it seizes or throws
+      a drain error. On Samsung front-loaders, that shows up as a 5E or SE code; Whirlpool
+      and Maytag machines typically display F9 E1. First sign is usually a slow drain:
+      the machine takes two or three minutes longer than it used to, or leaves an inch of
+      standing water in the drum. Replacement OEM drain pumps for Samsung and Whirlpool
+      run $65-$110 in parts; total repair lands between $150 and $225 with labor. Waiting
+      until the pump fully seizes can log the fault as a hard error on the main control
+      board, which adds diagnostic time and occasionally a secondary board reset to clear.
+
+  - title: "Excessive Vibration in Older Apartment Buildings"
+    description: |
+      Seventies-era construction along Kester Avenue and the blocks behind Ventura
+      Boulevard wasn't poured with 1,200 RPM spin cycles in mind. The concrete subfloor
+      flexes just enough that a worn set of shock absorbers turns a routine spin cycle
+      into something the neighbors notice. The shock absorbers on a front-loader are four
+      spring-and-damper assemblies that suspend the outer drum — once they lose tension,
+      the drum swings laterally and hammers the cabinet. On GE front-load models this
+      failure typically shows up between years five and seven. Left unchecked, the lateral
+      movement stresses the drum bearing and can crack the outer tub or tear the door boot
+      seal — both significantly more expensive than the original shock absorber fix. A
+      complete shock absorber set runs $40-$80 in parts; full repair including labor is
+      usually $130-$200. Also worth checking that all four leveling feet are locked down
+      tight — vibration on uneven floors compounds the problem fast.
+
+  - title: "Lid Switch and Door Latch Assembly Failures"
+    description: |
+      A machine that powers on but sits silently and does nothing is almost always a lid
+      switch or door latch issue. Kenmore top-loaders — still common in Sherman Oaks
+      rentals — use a small plastic actuator tab on the lid switch that snaps off after
+      years of use; the machine reads the lid as permanently open and locks out all
+      functions. Samsung front-loaders use a bi-metal door latch assembly that wears
+      internally and throws a dL error or simply stops engaging the lock circuit. Replacing
+      the lid switch on a Kenmore runs $80-$130 total — it's a 45-minute repair. The
+      Samsung door latch assembly is a bit more involved because the door boot seal has
+      to come off to access it cleanly, pushing the total to $140-$190. Same-day service
+      is available for both; call (323) 870-4790 and mention the symptom — we'll bring
+      the right part on the first visit rather than diagnosing blind.
+
+  - title: "Water Inlet Valve Screens Clogged by Mineral Deposits"
+    description: |
+      The water inlet valve has a mesh screen on each port — one for hot, one for cold —
+      and those screens are the first casualty of Sherman Oaks hard water. Calcium builds
+      up on the screen mesh until fill rate drops, triggering F8 E1 or LO FL error codes
+      on Whirlpool and Maytag machines, or just a maddeningly slow fill that never quite
+      throws an error but adds ten minutes to every cycle. Sometimes a screen cleaning
+      extends the valve's life another year; more often the solenoid has been running
+      under back-pressure long enough that the coil is weakened and the full valve needs
+      replacement. New inlet valves cost $35-$80 depending on brand — Frigidaire uses a
+      specific valve housing that requires a proprietary seat tool to reinstall correctly,
+      which is one reason a DIY attempt sometimes ends with a small leak at the connection.
+      Total repair including labor: $120-$185 for most residential models.
+
+  - title: "Drum Bearing Wear — Catching It Before the Shaft Gets Scored"
+    description: |
+      A faint rumble during spin that deepens into a grinding noise over a few months is
+      the classic drum bearing progression. The bearing seats at the back of the outer tub
+      where the drum shaft passes through; as it wears, lateral play develops and the spin
+      basket starts wobbling slightly, which accelerates wear on the drive belt and
+      eventually scores the shaft itself. On LG front-loaders, replacing the bearing
+      involves splitting the outer tub — a two-hour job that pushes total cost to
+      $200-$330 depending on shaft condition. Catch it while the noise is still faint
+      and the repair stays to just the bearing and rear seal: roughly $150-$220. A machine
+      making that grinding sound for six months usually has a scored shaft by the time it's
+      looked at, which either means a new drum assembly or a hard conversation about
+      whether the repair cost makes sense versus the machine's age. For LG and Samsung
+      front-loaders under ten years old, it almost always pencils out to repair.
+
+faq:
+  - q: "How fast can you get to Sherman Oaks for washer repair?"
+    a: |
+      Sherman Oaks sits right between our two main Valley access points — the 405 and
+      the 101 — so it's an easy run from wherever we're coming from. Morning calls before
+      10 AM almost always get a same-day appointment, usually within 2-3 hours. Evening
+      slots are available until 7 PM for anyone who can't be home mid-day. The 91401,
+      91403, and 91411 zips are all covered. Call (323) 870-4790 to check the current
+      day's schedule — if same-day isn't available, we'll give you the honest next-earliest
+      window rather than a vague "tomorrow sometime" answer.
+
+  - q: "What does washer repair in Sherman Oaks typically cost?"
+    a: |
+      Most repairs fall between $120 and $290 all-in. Drain pump replacement is usually
+      $150-$225; water inlet valve swaps run $120-$185; door latch assembly work on a
+      Samsung lands $140-$190. Drum bearing repairs are the most labor-intensive —
+      $200-$330 on LG front-loaders that require tub splitting. The diagnostic fee is $75
+      and applies toward the repair if you move forward. Parts for Whirlpool, GE, Samsung,
+      Kenmore, and LG are typically same-day from our Valley supplier, so there's rarely
+      a wait on common models. You get a firm written quote before we touch anything.
+
+  - q: "Do you work on both top-load and front-load washers in Sherman Oaks?"
+    a: |
+      Both configurations, all the common residential brands. Top-loaders have simpler
+      mechanicals — lid switch, agitator coupling, water inlet valve — and usually faster
+      repair times. Front-loaders involve door boot seals, latch assemblies, and drum
+      bearing work that takes more disassembly. Stackable units in tight closet installs —
+      very common in the apartment buildings along Ventura Boulevard — take longer because
+      access is limited, but the rate stays the same. We carry parts on the truck for
+      Whirlpool, GE, Samsung, LG, Kenmore, Frigidaire, and Maytag for the most common
+      failure points.
+
+  - q: "My Samsung washer is showing an error code — can you diagnose it the same day?"
+    a: |
+      Usually yes, and we can usually fix it the same visit too. Samsung's error codes are
+      specific enough that a quick read tells us what's likely failed before we arrive —
+      5E means drain, dL means door lock, LE means motor overload, UE means the shock
+      absorbers have let the drum go unbalanced. Tell us the code when you call (323)
+      870-4790 and we'll bring the likely replacement parts already on the truck. Control
+      board failures occasionally require ordering a specific board, which adds a day. But
+      mechanical failures — drain pump, inlet valve, door latch, shock absorbers — are
+      almost always resolved same visit.
+
+  - q: "What warranty do you provide on washer repairs in Sherman Oaks?"
+    a: |
+      Parts carry a 90-day manufacturer warranty; our labor is also warranted 90 days.
+      Same part fails in that window, we come back at no charge. OEM-spec drain pumps and
+      inlet valves for Whirlpool and Samsung don't typically fail within 90 days if the
+      root cause — usually mineral buildup or a clogged filter — was addressed at the
+      same time. We'll tell you straight if a machine isn't worth repairing: if the fix
+      is running above 60% of a comparable used unit's value, you'll hear that before we
+      start, not after.
+
+  - q: "Do you cover nearby cities around Sherman Oaks?"
+    a: |
+      Sherman Oaks is a central hub for our Valley coverage. Van Nuys, Studio City,
+      Encino, Tarzana, North Hollywood, and Burbank are all routine service areas — same
+      response time as Sherman Oaks itself. West LA, Culver City, and Santa Monica are
+      reachable same-day depending on scheduling. We run as far south as Irvine and as
+      far north as Santa Clarita. Call (323) 870-4790 or book online — give your address
+      and we'll tell you the realistic window for your specific location, not a generic
+      coverage radius that may or may not hold.

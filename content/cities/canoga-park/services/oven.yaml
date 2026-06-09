@@ -1,0 +1,160 @@
+title: "Canoga Park Oven Repair — Gas & Electric Fixes in 91303/91304"
+
+intro: |
+  Summer in Canoga Park means outdoor temperatures pushing 100°F by mid-afternoon on days
+  that would barely register as warm in Santa Monica. Running an oven that won't hold a set
+  temperature in that kind of ambient heat turns meal prep into pure guesswork. The 1960s and
+  early 1970s ranch homes along Vanowen Street and the denser apartment clusters near the
+  Sherman Way corridor are still running Frigidaire and Kenmore freestanding ranges that have
+  outlasted their original bake elements and control boards by a decade or more. Canoga Park's
+  91303 and 91304 zip codes are heavy gas appliance territory — SoCal Gas lines run to nearly
+  every block here — which means igniter failures and gas valve problems show up just as often
+  as electric element burnouts. Most oven calls in this area come in because the appliance threw
+  an error code, stopped reaching temperature, or locked itself shut after a self-clean cycle.
+  Same-day service is available: call (323) 870-4790 and we can usually be there within two hours.
+
+localContext: |
+  The housing in Canoga Park splits roughly into two zones. West of Topanga Canyon Boulevard
+  into 91304, you're mostly looking at detached single-family homes built between 1955 and 1975 —
+  three-bedroom stucco ranches with original or early-replacement gas ranges, many still running
+  Whirlpool or Amana freestanding units. East of that in 91303, the density picks up: apartments
+  and condos along Sherman Way and De Soto Avenue where GE and Samsung slide-in ranges are the
+  standard landlord install. The gas appliance rate in both zip codes is significantly higher than
+  coastal neighborhoods, which matters for oven repair because gas-specific components like igniters,
+  gas valves, and burner orifices need technicians who actually test gas pressure rather than just
+  swapping parts. Older kitchens in the 91303 corridor also run tight — 30-inch freestanding ranges
+  pushed against tile walls with minimal access clearance — but service van parking on streets like
+  Saticoy and Owensmouth is rarely a problem. Valley kitchens face west in a lot of these homes,
+  meaning the appliances absorb afternoon heat that shortens door gasket and thermal fuse lifespan
+  faster than equivalent units in cooler microclimates.
+
+commonProblems:
+  - title: "Bake Element Burnout in Frigidaire and Whirlpool Freestanding Ranges"
+    description: |
+      The symptom is usually obvious: food cooks unevenly, the bottom rack stays cold, or you
+      notice a visible scorch mark and a crack on the lower heating coil. Sometimes the element arcs
+      visibly when the oven first cycles on — that's the sign to stop using it immediately. Frigidaire
+      FFEF-series and Whirlpool WFE-series 30-inch electrics use a standard 3,000-watt bake element
+      that's prone to terminal cracking after years of expansion and contraction cycles in a hot
+      Valley kitchen. Before replacing the element, we also check the oven temperature sensor probe
+      mounted at the back wall — a drifting NTC sensor can cause the board to over-cycle the element,
+      burning it out prematurely. Replacement elements run $25–$55 in parts; total repair including
+      diagnosis and labor typically lands between $120 and $185. Most bake element jobs are done in
+      a single visit, same day.
+
+  - title: "Oven Not Reaching Temperature — Temperature Sensor Drift on GE Models"
+    description: |
+      An oven that runs 40–60°F cold isn't always a failed element. Frequently the culprit is a
+      drifting oven temperature sensor probe sending incorrect resistance readings to the control
+      board, which then terminates the heating cycle too early. On GE Profile and GE Appliances
+      slide-in ranges common in the apartment kitchens along De Soto Avenue in 91303, error codes
+      F3 or F4 point directly to the sensor circuit or its wiring harness. The sensor probe itself
+      is inexpensive — $15 to $30 — but diagnosing it properly means testing resistance with a
+      multimeter rather than assuming. If the board has failed rather than the sensor, costs jump
+      to $180–$300 in parts alone. Valley summer heat accelerates this failure mode on ovens in
+      west-facing kitchens that sustain ambient temperatures above 90°F for months at a stretch.
+      Diagnosis takes about 20 minutes; we give you an exact quote before anything gets ordered.
+
+  - title: "Self-Clean Door Lock Stuck — Latch Assembly Failure on Samsung Ranges"
+    description: |
+      The self-clean cycle finished hours ago, but the door still won't open. This is one of the
+      more frustrating oven failures because the appliance is technically functioning — it just
+      won't let you use it. The motor-driven door latch assembly on Samsung and LG slide-in ranges
+      can seize due to heat warping in the latch housing or a failed bi-metal switch inside the
+      lock mechanism. Forcing the door is a mistake: it bends the hinge arms, which adds $80–$150
+      to the repair cost. These Samsung units are common in the remodeled kitchens in the single-
+      family homes in 91304, bought at the Home Depot on Topanga Canyon Boulevard or the Best Buy
+      in Woodland Hills. We carry latch assemblies for the most common Samsung configurations in
+      the van, so this is usually a same-day fix. Latch repair runs $135–$225 parts and labor
+      depending on model. Call (323) 870-4790 — evening slots are available Tuesday through Saturday
+      for households that can't be home during the day.
+
+  - title: "Gas Broiler Won't Stay Lit — Igniter and Gas Valve Issues in Kenmore Ranges"
+    description: |
+      Gas broilers that glow orange but fail to sustain a flame almost always point to a degraded
+      oven igniter drawing insufficient current to hold the gas valve open reliably. The valve needs
+      a minimum current draw — typically 3.2 to 3.6 amps — and an igniter that's weakened to 2.5
+      amps will light the burner intermittently, then stop lighting altogether as it degrades further.
+      Kenmore gas ranges sold through Sears — many of which are Whirlpool-manufactured under the
+      Kenmore badge — use a flat-style igniter that wears out in exactly this pattern. Replacement
+      igniters run $40–$70 in parts; total repair lands between $155 and $240 for labor and parts.
+      If the gas valve itself is the fault, we test inlet pressure with a calibrated manometer before
+      condemning the valve — a step that prevents unnecessary part replacement. Electric ranges with
+      a failed broil element show a different symptom: cheese stays unmelted, casserole tops don't
+      brown. Broil elements on Amana and Frigidaire electrics run $30–$60. Either failure mode is
+      a one-visit repair.
+
+  - title: "Control Board Failures in Samsung and GE Profile Ranges — When to Repair vs. Replace"
+    description: |
+      Control board failures show up as error code F1 or E1, a flickering or dead display, burners
+      that don't respond to input, or an oven that runs at full heat with no ability to cycle off.
+      Moisture from steam and cooking grease corrodes the ribbon cable connectors on the board over
+      time, and it's a gradual failure that accelerates in kitchens without functional exhaust hoods.
+      In the 91304 zip, this failure mode appears most often on Samsung NE63T8751SS and GE Profile
+      ranges installed during kitchen remodels between 2015 and 2022. Control board replacement
+      runs $200–$420 in parts depending on model; if the unit is under eight years old and the OEM
+      part is available, repair almost always makes more financial sense than replacement. Boards on
+      discontinued models are a different calculation — we'll tell you the part availability situation
+      upfront rather than schedule a return visit with bad news. Labor for a board swap is typically
+      one hour.
+
+faq:
+  - q: "How fast can you get to Canoga Park for oven repair?"
+    a: |
+      Calls in the 91303 and 91304 zip codes get same-day service most days — if you reach us
+      before noon, we're usually at your door within two hours. From the eastern Valley, the 101
+      to De Soto Avenue gets us into Canoga Park quickly outside of the afternoon commute window,
+      and most residential streets in the area have accessible parking for the service van. Evening
+      appointments are available Tuesday through Saturday for households where no one is home before
+      5 PM. Call (323) 870-4790 to check same-day availability — we give a firm two-hour arrival
+      window, not a vague four-hour block.
+
+  - q: "What does oven repair typically cost in Canoga Park?"
+    a: |
+      Bake and broil element replacements run $120–$190 all-in for parts and labor. Temperature
+      sensor and igniter repairs are in the same range, typically $140–$220. Self-clean latch
+      repairs land between $135 and $225. Control board failures are the expensive end — expect
+      $280–$450 depending on the model and whether OEM parts are still available. Diagnosis is a
+      flat $75, credited toward any repair completed on the same visit. Exact pricing is confirmed
+      before we start the job — no surprise charges once the appliance is open.
+
+  - q: "Do I need a permit for oven repair in Canoga Park?"
+    a: |
+      Canoga Park falls under City of Los Angeles jurisdiction, administered through the LA
+      Department of Building and Safety (LADBS). Standard appliance repair — replacing elements,
+      control boards, door latches, igniters — does not require a permit. Permit requirements apply
+      when new gas line work or electrical circuit modifications are involved. Any gas valve or
+      gas line work on your range is handled under California appliance service regulations by our
+      licensed technicians (contractor license #1136541). Condo and apartment HOAs in the 91303
+      corridor generally don't govern interior appliance repair. We'll flag any permit-required
+      scope before starting work.
+
+  - q: "Do you repair gas ovens, or only electric?"
+    a: |
+      Gas ranges make up the majority of oven repair calls in Canoga Park — SoCal Gas serves
+      nearly every block in 91303 and 91304, and freestanding gas ranges from Whirlpool, Kenmore,
+      and GE are the dominant units in this neighborhood. Gas-specific repairs include igniter
+      replacement, gas valve testing with a calibrated manometer, thermocouple checks, and burner
+      orifice cleaning for low or uneven flame output. Both gas and electric repairs are handled
+      by the same technicians on the same visit. If you're not sure whether your range is gas or
+      electric, that's fine — just describe the symptom when you call (323) 870-4790.
+
+  - q: "What warranty do you provide on oven repairs in Canoga Park?"
+    a: |
+      Labor carries a 90-day warranty — if the same fault recurs from the same repair within that
+      window, we return at no additional labor charge. Parts carry the manufacturer's warranty,
+      which runs 90 days to one year depending on the component. We use OEM or verified OEM-
+      equivalent parts, not the gray-market aftermarket components that fail quickly on high-cycle
+      appliances like a daily-use range. If a control board fails again within 90 days under the
+      same error code, that's a covered callback. We'll also document the repair so you have a
+      paper trail if the appliance fails again outside the warranty window and a replacement
+      decision needs to be made.
+
+  - q: "Do you cover nearby neighborhoods outside Canoga Park?"
+    a: |
+      Canoga Park is a regular coverage area, and there's no additional travel charge for calls
+      in West Hills, Woodland Hills, Chatsworth, Reseda, or Tarzana. Going east, we cover Northridge
+      and Granada Hills on the same basis. The full service area runs from Irvine up through Santa
+      Clarita — Canoga Park sits near the center of that corridor, which keeps response times fast.
+      Schedule a same-day appointment by calling (323) 870-4790 or booking online; we confirm your
+      arrival window the same day you reach out.
