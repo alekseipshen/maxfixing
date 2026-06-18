@@ -10,7 +10,7 @@ import BrandsSection from '@/components/BrandsSection';
 import { cities, getCitiesByCounty } from '@/lib/data/cities';
 import { appliances } from '@/lib/data/appliances';
 import { generatePageMetadata } from '@/lib/seo/metadata';
-import { generateLocalBusinessSchema, generateServiceSchema, generateBreadcrumbSchema } from '@/lib/seo/schema';
+import { generateLocalBusinessSchema, generateServiceSchema, generateBreadcrumbSchema, generateFAQSchema } from '@/lib/seo/schema';
 
 interface PageProps {
   params: Promise<{
@@ -29,8 +29,9 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const city = cities.find(c => c.slug === citySlug);
   const appliance = appliances.find(a => a.slug === cleanApplianceSlug);
   if (!city || !appliance) return {};
-  
-  return generatePageMetadata({ city: citySlug, appliance: cleanApplianceSlug });
+
+  const pageContent = loadPageContent({ city: citySlug, service: cleanApplianceSlug });
+  return generatePageMetadata({ city: citySlug, appliance: cleanApplianceSlug, descriptionOverride: pageContent?.answer });
 }
 
 export default async function CityApplianceRepairPage({ params }: PageProps) {
@@ -45,10 +46,15 @@ export default async function CityApplianceRepairPage({ params }: PageProps) {
   }
   
   const nearbyCities = getCitiesByCounty(city.county).filter(c => c.slug !== city.slug).slice(0, 8);
-  
+
+  const pageContent = loadPageContent({ city: citySlug, service: cleanApplianceSlug });
+
   const localBusinessSchema = generateLocalBusinessSchema({ city: citySlug, appliance: cleanApplianceSlug, county: city.county });
   const serviceSchema = generateServiceSchema({ city: citySlug, appliance: cleanApplianceSlug });
   const breadcrumbSchema = generateBreadcrumbSchema({ city: citySlug, appliance: cleanApplianceSlug });
+  const faqSchema = pageContent?.faq && pageContent.faq.length > 0
+    ? generateFAQSchema(pageContent.faq.map((f) => ({ question: f.q, answer: f.a })))
+    : null;
   
   // All cities serve surrounding areas due to geolocation imprecision
   const cityDisplayName = `${city.name} & Surrounding Cities`;
@@ -67,8 +73,14 @@ export default async function CityApplianceRepairPage({ params }: PageProps) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
-      
-      <Hero 
+      {faqSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
+
+      <Hero
         title={`Same-Day ${appliance.name} Repair in ${cityDisplayName}`}
         subtitle="Certified technicians, all major brands, professional service"
         city={city.name}
@@ -78,6 +90,9 @@ export default async function CityApplianceRepairPage({ params }: PageProps) {
       
       {/* Review Photos Slider */}
       <ReviewPhotosSection appliance={cleanApplianceSlug} />
+
+      {/* AEO: unique answer-rich content surfaced high (answer-first + FAQ) */}
+      <SEOContent city={citySlug} appliance={cleanApplianceSlug} county={city.county} uniqueContent={pageContent} />
 
       <BrandsSection />
       
@@ -129,8 +144,6 @@ export default async function CityApplianceRepairPage({ params }: PageProps) {
       </section>
 
       <Reviews />
-
-      <SEOContent city={citySlug} appliance={cleanApplianceSlug} county={city.county} uniqueContent={loadPageContent({ city: citySlug, service: cleanApplianceSlug })} />
     </>
   );
 }

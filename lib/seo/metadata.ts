@@ -5,6 +5,7 @@ interface SEOParams {
   appliance?: string;
   brand?: string;
   county?: string;
+  descriptionOverride?: string;
 }
 
 const SITE_NAME = 'Max Fixing';
@@ -13,6 +14,7 @@ const PHONE = '(888) 608-6404';
 
 export function generatePageMetadata(params: SEOParams): Metadata {
   const { city, appliance, brand, county } = params;
+  const year = new Date().getFullYear();
 
   // Generate title
   let title = '';
@@ -32,7 +34,7 @@ export function generatePageMetadata(params: SEOParams): Metadata {
   } else if (city && appliance) {
     const cityName = formatCityName(city);
     const applianceName = formatApplianceName(appliance);
-    title = `${cityName} ${applianceName} Repair & Surrounding Cities | Same-Day Service | ${SITE_NAME}`;
+    title = `${cityName} ${applianceName} Repair & Surrounding Cities | Same-Day Service ${year} | ${SITE_NAME}`;
     description = `Expert ${applianceName} repair in ${cityName} and nearby areas. Same-day service, certified technicians, upfront pricing. Call ${PHONE} for professional ${applianceName} repair!`;
   } else if (brand && appliance) {
     const brandName = formatBrandName(brand);
@@ -41,7 +43,7 @@ export function generatePageMetadata(params: SEOParams): Metadata {
     description = `Professional ${brandName} ${applianceName} repair across Los Angeles and Orange County. Factory-trained technicians, same-day service, 20+ years experience. Call ${PHONE}!`;
   } else if (city) {
     const cityName = formatCityName(city);
-    title = `Appliance Repair in ${cityName} & Surrounding Cities | Same-Day Service | ${SITE_NAME}`;
+    title = `Appliance Repair in ${cityName} & Surrounding Cities | Same-Day Service ${year} | ${SITE_NAME}`;
     description = `Professional appliance repair in ${cityName} and nearby areas. Expert service for refrigerators, washers, dryers, ovens & more. Same-day service available. Call ${PHONE}!`;
   } else if (brand) {
     const brandName = formatBrandName(brand);
@@ -55,6 +57,10 @@ export function generatePageMetadata(params: SEOParams): Metadata {
     // Homepage
     title = `${SITE_NAME} | Expert Appliance Repair in Los Angeles & Orange County`;
     description = `Professional appliance repair across Los Angeles and Orange County. 20+ years experience, same-day service, certified technicians. Repair all major brands - refrigerators, washers, dryers & more. Call ${PHONE}!`;
+  }
+
+  if (params.descriptionOverride && params.descriptionOverride.trim()) {
+    description = params.descriptionOverride.trim();
   }
 
   const fullTitle = title.includes(SITE_NAME) ? title : `${title} | ${SITE_NAME}`;

@@ -185,6 +185,7 @@ export function generateFAQSchema(items: FAQItem[]) {
   return {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
+    dateModified: new Date().toISOString().slice(0, 10),
     mainEntity: items.map((item) => ({
       '@type': 'Question',
       name: item.question,

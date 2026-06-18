@@ -3,6 +3,7 @@ import path from 'path';
 import yaml from 'js-yaml';
 
 export interface PageContent {
+  answer?: string;
   intro?: string;
   localContext?: string;
   commonProblems?: Array<{

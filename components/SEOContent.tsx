@@ -31,10 +31,19 @@ export default function SEOContent({ city, appliance, brand, county, uniqueConte
 }
 
 function renderUniqueContent(content: PageContent, cityName: string | null, applianceName: string | null) {
+  const lastUpdated = new Date().toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
   return (
     <section className="bg-white py-12">
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto space-y-8">
+          {/* AEO: direct-answer lead (spoiler) + freshness signal */}
+          <div className={content.answer ? 'border-l-4 border-blue-600 bg-blue-50 rounded-r-lg p-4' : ''}>
+            {content.answer && (
+              <p className="text-base md:text-lg font-medium text-gray-900 leading-relaxed">{content.answer}</p>
+            )}
+            <p className={`text-xs text-gray-500 ${content.answer ? 'mt-2' : ''}`}>Last updated {lastUpdated}</p>
+          </div>
+
           {content.intro && (
             <div className="text-gray-700">
               <p className="text-base md:text-lg leading-relaxed">{content.intro}</p>
