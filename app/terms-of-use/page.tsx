@@ -5,6 +5,7 @@ export const metadata = {
   title: 'Terms of Use | Max Fixing',
   description: 'Terms and conditions for using Max Fixing website and services.',
   robots: 'noindex, nofollow',
+  alternates: { canonical: '/terms-of-use' },
 };
 
 export default function TermsOfUsePage() {

@@ -5,6 +5,7 @@ export const metadata = {
   title: 'Privacy Policy | Max Fixing',
   description: 'Privacy policy for Max Fixing. Learn how we collect, use, and protect your personal information.',
   robots: 'noindex, nofollow',
+  alternates: { canonical: '/privacy-policy' },
 };
 
 export default function PrivacyPolicyPage() {

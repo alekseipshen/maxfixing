@@ -62,12 +62,9 @@ export async function GET() {
       changeFrequency: 'weekly',
       priority: 0.95,
     },
-    {
-      url: `${baseUrl}/blog`,
-      lastModified: now,
-      changeFrequency: 'daily',
-      priority: 0.9,
-    },
+    // /blog is not listed: the blog was never launched here and the route
+    // permanently redirects to the homepage. A redirecting URL in a sitemap is
+    // what Search Console reports as "Page with redirect".
     {
       url: `${baseUrl}/commercial`,
       lastModified: now,
@@ -134,18 +131,6 @@ export async function GET() {
     // ═══════════════════════════════════════════
     // LEGAL PAGES
     // ═══════════════════════════════════════════
-    {
-      url: `${baseUrl}/privacy-policy`,
-      lastModified: now,
-      changeFrequency: 'yearly',
-      priority: 0.3,
-    },
-    {
-      url: `${baseUrl}/terms-of-use`,
-      lastModified: now,
-      changeFrequency: 'yearly',
-      priority: 0.3,
-    },
   ];
 
   // Generate XML

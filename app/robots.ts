@@ -1,6 +1,9 @@
 import { MetadataRoute } from 'next';
 
 export default function robots(): MetadataRoute.Robots {
+  // NOTE: /_next/ must stay crawlable. Every image is served through /_next/image
+  // and the CSS/JS Google needs to render pages lives under /_next/static.
+  // Blocking it kept images out of Google Images and degraded rendering.
   const baseUrl = 'https://maxfixing.com';
 
   return {
@@ -10,7 +13,6 @@ export default function robots(): MetadataRoute.Robots {
         allow: '/',
         disallow: [
           '/api/',
-          '/_next/',
           '/admin/',
         ],
         crawlDelay: 1,
@@ -20,7 +22,6 @@ export default function robots(): MetadataRoute.Robots {
         allow: '/',
         disallow: [
           '/api/',
-          '/_next/',
           '/admin/',
         ],
         crawlDelay: 0.5,
@@ -30,7 +31,6 @@ export default function robots(): MetadataRoute.Robots {
         allow: '/',
         disallow: [
           '/api/',
-          '/_next/',
           '/admin/',
         ],
         crawlDelay: 1,

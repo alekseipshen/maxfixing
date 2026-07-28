@@ -11,6 +11,7 @@ export const metadata: Metadata = {
   title: 'Commercial Appliance Repair Los Angeles & Orange County | Max Fixing',
   description: 'Professional commercial appliance repair services in Los Angeles & Orange County. Fast, reliable repairs for restaurants, hotels, and businesses. Same-day service available.',
   keywords: 'commercial appliance repair, commercial refrigeration, restaurant equipment repair, Los Angeles & Orange County',
+  alternates: { canonical: '/commercial' },
 };
 
 export default function CommercialPage() {

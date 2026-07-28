@@ -15,6 +15,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
+  // Required so per-page `alternates.canonical` values resolve to absolute URLs.
+  metadataBase: new URL('https://maxfixing.com'),
   title: 'Max Fixing | Professional Appliance Repair in Los Angeles & Orange County',
   description: 'Expert appliance repair services in Los Angeles and Orange County. Same-day service, certified technicians, 20+ years of experience. Call now to schedule service!',
   keywords: 'appliance repair, Los Angeles, Orange County, refrigerator repair, washer repair, dryer repair, same-day service',

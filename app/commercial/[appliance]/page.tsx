@@ -24,6 +24,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `${applianceData.title} in Los Angeles & Orange County | ${BUSINESS_NAME}`,
     description: `Expert ${applianceData.name.toLowerCase()} repair services in Los Angeles & Orange County. Same-day commercial service. Call now!`,
+    alternates: { canonical: `/commercial/${cleanSlug}-repair` },
   };
 }
 

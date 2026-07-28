@@ -6,6 +6,7 @@ import Link from 'next/link';
 export const metadata = {
   title: 'Service Areas | Appliance Repair in Los Angeles & Orange County - Max Fixing',
   description: `Max Fixing covers ${cities.length} cities across Los Angeles and Orange County. Same-day appliance repair in San Fernando Valley, West LA, San Gabriel Valley, South Bay, and Orange County.`,
+  alternates: { canonical: '/service-areas' },
 };
 
 export default function ServiceAreasPage() {
