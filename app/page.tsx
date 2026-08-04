@@ -5,10 +5,11 @@ import BrandsSection from '@/components/BrandsSection';
 import { appliances, featuredCommercialAppliances } from '@/lib/data/appliances';
 import { getBestImageForType } from '@/lib/data/applianceImages';
 import { cities } from '@/lib/data/cities';
+import { reviews } from '@/lib/data/reviews';
 import { CheckCircle, Clock, Users, Wrench, Building2 } from 'lucide-react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
-import { generateLocalBusinessSchema, generateOrganizationSchema, generateWebSiteSchema, generateFAQSchema } from '@/lib/seo/schema';
+import { generateLocalBusinessSchema, generateOrganizationSchema, generateWebSiteSchema, generateFAQSchema, generateBreadcrumbSchema, generateServiceSchema, generateReviewSchema } from '@/lib/seo/schema';
 
 export const metadata: Metadata = {
   alternates: {
@@ -44,6 +45,9 @@ export default function HomePage() {
   const organizationSchema = generateOrganizationSchema();
   const webSiteSchema = generateWebSiteSchema();
   const faqSchema = generateFAQSchema(HOMEPAGE_FAQS);
+  const breadcrumbSchema = generateBreadcrumbSchema({});
+  const serviceSchema = generateServiceSchema({});
+  const reviewSchema = generateReviewSchema(reviews);
 
   return (
     <>
@@ -52,6 +56,9 @@ export default function HomePage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webSiteSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(reviewSchema) }} />
 
       {/* Hero Section */}
       <Hero

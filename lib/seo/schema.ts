@@ -197,6 +197,41 @@ export function generateFAQSchema(items: FAQItem[]) {
   };
 }
 
+interface ReviewItem {
+  author: string;
+  text: string;
+  rating: number;
+}
+
+// Marks up the testimonials already rendered on-page by <Reviews />. Kept as a
+// @graph of individual Review nodes (not a nested AggregateRating) so each
+// review's author + text is an extractable trust signal for AI engines. No
+// self-serving AggregateRating is emitted here on purpose.
+export function generateReviewSchema(items: ReviewItem[]) {
+  return {
+    '@context': 'https://schema.org',
+    '@graph': items.map((item) => ({
+      '@type': 'Review',
+      itemReviewed: {
+        '@type': 'LocalBusiness',
+        '@id': `${SITE_URL}#business`,
+        name: BUSINESS_NAME,
+      },
+      author: {
+        '@type': 'Person',
+        name: item.author,
+      },
+      reviewRating: {
+        '@type': 'Rating',
+        ratingValue: item.rating,
+        bestRating: 5,
+        worstRating: 1,
+      },
+      reviewBody: item.text,
+    })),
+  };
+}
+
 // Helper functions
 
 function generateBusinessDescription(params: SchemaParams): string {
