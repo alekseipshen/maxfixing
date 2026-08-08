@@ -91,9 +91,6 @@ export default async function CityApplianceRepairPage({ params }: PageProps) {
       {/* Review Photos Slider */}
       <ReviewPhotosSection appliance={cleanApplianceSlug} />
 
-      {/* AEO: unique answer-rich content surfaced high (answer-first + FAQ) */}
-      <SEOContent city={citySlug} appliance={cleanApplianceSlug} county={city.county} uniqueContent={pageContent} />
-
       <BrandsSection />
       
       {nearbyCities.length > 0 && (
@@ -144,6 +141,9 @@ export default async function CityApplianceRepairPage({ params }: PageProps) {
       </section>
 
       <Reviews />
+
+      {/* AEO: unique answer-rich content — positioned low, for crawlers */}
+      <SEOContent city={citySlug} appliance={cleanApplianceSlug} county={city.county} uniqueContent={pageContent} />
     </>
   );
 }
